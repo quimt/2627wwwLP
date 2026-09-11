@@ -1,0 +1,1 @@
+Produce an invertible function from a non-invertible function by restricting the domain.

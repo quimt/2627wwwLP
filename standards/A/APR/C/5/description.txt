@@ -1,0 +1,1 @@
+Know and apply the Binomial Theorem for the expansion of (x + y)^(n )in powers of x and y for a positive integer n, where x and y are any numbers, with coefficients determined for example by Pascal’s Triangle. (The Binomial Theorem can be proved by mathematical induction or by a combinatorial argument.)

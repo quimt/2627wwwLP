@@ -1,0 +1,1 @@
+Find the components of a vector by subtracting the coordinates of an initial point from the coordinates of a terminal point.

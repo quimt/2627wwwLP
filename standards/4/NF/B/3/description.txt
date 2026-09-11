@@ -1,0 +1,2 @@
+Understand a fraction a/b with a > 1 as a sum of fractions 1/b.
+Grade 4 expectations in this domain are limited to fractions with denominators 2, 3, 4, 5, 6, 8, 10, 12, and 100.

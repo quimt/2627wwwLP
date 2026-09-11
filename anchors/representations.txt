@@ -1,0 +1,44 @@
+
+**1. Balance Scales**
+- *Description*: Drawn as a two-sided scale, one side for each side of an equation or inequality. When the sides are balanced, the equation is true; when one side is heavier/lighter, it prompts for “fixing.”
+- *Why use*: Makes the concept of maintaining equality tangible; programs can randomize terms and show animations.
+
+**2. Colored Groupings/Blocks**
+- *Description*: Variables and constants are shown as colored blocks/shapes. All $x$-terms in a group are blue, all numbers in green, etc.
+- *Why use*: Helps to see combining like terms; a program can color-code and rearrange blocks for practice.
+
+**3. Input-Output Machines**
+- *Description*: A box with arrows in and out, representing function rules; input numbers enter, output results emerge, internal “rule” is illustrated.
+- *Why use*: Conveys the essence of function and substitution; algorithmically simple for generating variations.
+
+**4. Parentheses Placeholders**
+- *Description*: Show an algebraic expression with variables replaced by empty parentheses, then filled in with given numbers.
+- *Why use*: Reinforces substitution; easy to program (randomize values, show stepwise substitution).
+
+**5. Number Line Symbols**
+- *Description*: For inequalities, a number line with open/closed circles, arrows indicating direction of the solution.
+- *Why use*: Visualizes solution sets, especially for $<$, $>$, $\leq$, $\geq$; programs can randomly generate and place circles/arrows.
+
+**8. “River” Down the Equals Sign**
+- *Description*: A bold vertical line down the equals sign, separating sides of the equation and guiding stepwise transformations.
+- *Why use*: Visually organizes solving steps; easy to automate for any equation.
+
+**9. Opposing Arrows (Variables Both Sides)**
+- *Description*: Arrows pointing toward the equals sign from either side, showing “movement” of terms to combine variables.
+- *Why use*: Great for visualizing rearrangement and cancellation, a program can place and move arrows interactively.
+
+**10. “Action” Arrows (Undo/Inverse Operations)**
+- *Description*: Arrows that show the undoing of operations ($+/-$, $\times/\div$), either circling terms or crossing them out.
+- *Why use*: Supports stepwise solving; programs can generate step arrows for any given equation.
+
+**12. Mean, Median, Mode Visuals**
+- *Description*: For mean, show equal groups being redistributed; for median, crossing off ends; for mode, highlight the most frequent shape.
+- *Why use*: Helps connect statistical terms with visuals; easy to draw and program, and highly modular.
+
+**14. Scatterplot Clouds with Best-Fit Line**
+- *Description*: Dots scattered on a grid, with a line showing trend (positive, negative, none).
+- *Why use*: Models correlation visually; algorithms can scatter points and draw lines based on random datasets.
+
+**15. Color-Coded Formula Boxes**
+- *Description*: Formula elements (variables, coefficients) highlighted in different colors to indicate their role.
+- *Why use*: Supports identifying structure in formulas; easy to program and visually accessible.

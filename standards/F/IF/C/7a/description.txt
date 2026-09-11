@@ -1,0 +1,1 @@
+Graph linear and quadratic functions and show intercepts, maxima, and minima.

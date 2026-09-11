@@ -1,0 +1,1 @@
+Find the expected payoff for a game of chance. For example, find the expected winnings from a state lottery ticket or a game at a fast food restaurant.

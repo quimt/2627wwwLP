@@ -1,0 +1,1 @@
+Interpret functions that arise in applications in terms of the context.

@@ -1,0 +1,1 @@
+Classify two-dimensional figures into categories based on their properties.

@@ -1,0 +1,1 @@
+A dilation takes a line not passing through the center of the dilation to a parallel line, and leaves a line passing through the center unchanged.

@@ -1,0 +1,1 @@
+Represent and analyze quantitative relationships between dependent and independent variables.

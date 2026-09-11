@@ -1,0 +1,1 @@
+Measure to determine how much longer one object is than another, expressing the length difference in terms of a standard length unit.

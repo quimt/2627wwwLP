@@ -1,0 +1,4 @@
+Verify experimentally the properties of rotations, reflections, and translations:
+- Lines are taken to lines, and line segments to line segments of the same length.
+- Angles are taken to angles of the same measure.
+- Parallel lines are taken to parallel lines.

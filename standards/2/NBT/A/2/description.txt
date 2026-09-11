@@ -1,0 +1,1 @@
+Count within 1000; skip-count by 5s, 10s, and 100s.

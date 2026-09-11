@@ -1,0 +1,1 @@
+Represent addition, subtraction, multiplication, and conjugation of complex numbers geometrically on the complex plane; use properties of this representation for computation. For example, (-1 + Ö3i)^(3) = 8 because (-1 + Ö3i) has modulus 2 and argument 120°.

@@ -1,0 +1,1 @@
+Apply the Pythagorean Theorem to find the distance between two points in a coordinate system.

@@ -1,0 +1,1 @@
+Analyze and solve pairs of simultaneous linear equations.

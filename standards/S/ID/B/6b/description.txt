@@ -1,0 +1,1 @@
+Informally assess the fit of a function by plotting and analyzing residuals.

@@ -1,0 +1,2 @@
+Express whole numbers as fractions, and recognize fractions that are equivalent to whole numbers. Examples: Express 3 in the form 3 = 3/1; recognize that 6/1 = 6; locate 4/4 and 1 at the same point of a number line diagram.
+Grade 3 expectations in this domain are limited to fractions with denominators 2, 3, 4, 6, and 8.

@@ -1,0 +1,1 @@
+Interpret the slope (rate of change) and the intercept (constant term) of a linear model in the context of the data.

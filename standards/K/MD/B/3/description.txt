@@ -1,0 +1,1 @@
+Classify objects into given categories; count the numbers of objects in each category and sort the categories by count. (Limit category counts to be less than or equal to 10.)

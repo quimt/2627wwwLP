@@ -1,0 +1,1 @@
+Use permutations and combinations to compute probabilities of compound events and solve problems.

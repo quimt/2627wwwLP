@@ -1,0 +1,134 @@
+import happyx
+import std / [math, sequtils, strutils, strformat, random, os, tables, algorithm]
+import nimja
+import iterrr
+import csv, hashes
+import hpxLP/layout
+import os
+randomize()
+import sugar
+
+proc linkPath(p: string): string =
+  result = p
+  result.removePrefix"/home/taq/web/wwwLP/"
+
+proc getMaterials(s: string): seq[string] =
+  for dir in walkdir(s):
+    #if dir.path.startsWith"lesson":
+    if true:
+      for subdir in walkdir(dir.path):
+        for file in walkdir(subdir.path):
+          if file.path.endsWith".html":
+            result.add: file.path
+
+const alessons = getMaterials("algebra1")
+const labLessons = getMaterials("mathLab")
+
+const labColor = "#f0f8ec"
+const algebra1Color = "#fbf8e7"
+
+proc routeButton(title,r: string, css: string = ""): TagRef = buildHtml:
+  tButton(style = css & "font-size: 4vw;"):
+    {title}
+    @click:
+      route(r)
+
+proc isClasswork(s: string): bool =
+  result = s.contains"lesson" or s.contains"menu"
+  result = result and not s.contains"Quiz"
+  result = result and not s.contains"Homework"
+  result = result and not s.contains"CFA"
+
+proc isHomework(s: string): bool =
+  result = s.contains"homework"
+
+proc isCFA(s: string): bool =
+  result = s.contains"CFA"
+  result = result or s.contains"cfa"
+
+proc isQuiz(s: string): bool =
+  result = s.contains"Quiz" or s.contains"quiz"
+
+proc isSlides(s: string): bool =
+  result = (s.contains"slides" or s.contains"slides") and s.contains"public"
+
+const numLinkCols = 2
+
+appRoutes("ROOT"):
+  "/":
+    tDiv(style = "display: flex; flex-direction: column; height: 100vh; width: 100vw; font-size: 4vw;"):
+      Grid(2,1):
+        routeButton("Algebra 1", "algebra1", fmt"background-color: {algebra1Color};")
+        routeButton("Math Lab", "lab", fmt"background-color: {labColor};")
+  "algebra1":
+    tDiv(style = "display: flex; flex-direction: column; height: 100vh; width: 100vw; font-size: 4vw;"):
+      Grid(2,1):
+        routeButton("Classwork","algebra1/Classwork",fmt"background-color: {algebra1Color};")
+        routeButton("Homework","algebra1/Homework",fmt"background-color: {algebra1Color};")
+        routeButton("Quizzes","algebra1/Quizzes",fmt"background-color: {algebra1Color};")
+        routeButton("Progress Checks","algebra1/CFAs",fmt"background-color: {algebra1Color};")
+  "lab":
+    tDiv(style = "display: flex; flex-direction: column; height: 100vh; width: 100vw; font-size: 4vw;"):
+      Grid(2,1):
+        routeButton("Classwork","lab/Classwork",fmt"background-color: {labColor};")
+        routeButton("Homework","lab/Homework",fmt"background-color: {labColor};")
+        routeButton("Quizzes","lab/Quizzes",fmt"background-color: {labColor};")
+        routeButton("Progress Checks","lab/CFAs",fmt"background-color: {labColor};")
+
+  "algebra1/Classwork":
+    tDiv(style = "display: flex; flex-direction: column; width: 100vw; font-size: 4vw; background-color: {algebra1Color};"):
+      Grid(numLinkCols,0):
+        for path in alessons.sorted().reversed().mapIt(linkPath(it)):
+          if path.splitPath.tail.isClasswork():
+            a(href = path): {path.splitPath.tail.dup(removeSuffix".html").dup(removePrefix"a1_")}
+
+  "lab/Classwork":
+    tDiv(style = "display: flex; flex-direction: column; width: 100vw; font-size: 4vw; background-color: {labColor}"):
+      Grid(numLinkCols,0):
+        for path in labLessons.sorted().reversed().mapIt(linkPath(it)):
+          if path.splitPath.tail.isClasswork():
+            a(href = path): {path.splitPath.tail.dup(removeSuffix".html").dup(removePrefix"lab_")}
+
+  "algebra1/Homework":
+    tDiv(style = "display: flex; flex-direction: column; width: 100vw; font-size: 4vw; background-color: {algebra1Color};"):
+      Grid(numLinkCols,0):
+        for path in alessons.sorted().reversed().mapIt(linkPath(it)):
+          if path.splitPath.tail.isHomework():
+            a(href = path): {path.splitPath.tail.dup(removeSuffix".html").dup(removePrefix"a1_")}
+
+  "lab/Homework":
+    tDiv(style = "display: flex; flex-direction: column; width: 100vw; font-size: 4vw; background-color: {labColor}"):
+      Grid(numLinkCols,0):
+        for path in labLessons.sorted().reversed().mapIt(linkPath(it)):
+          if path.splitPath.tail.isHomework():
+            a(href = path): {path.splitPath.tail.dup(removeSuffix".html").dup(removePrefix"lab_")}
+
+  "algebra1/Quizzes":
+    tDiv(style = "display: flex; flex-direction: column; width: 100vw; font-size: 4vw; background-color: {algebra1Color};"):
+      Grid(numLinkCols,0):
+        for path in alessons.sorted().reversed().mapIt(linkPath(it)):
+          if path.splitPath.tail.isQuiz():
+            a(href = path): {path.splitPath.tail.dup(removeSuffix".html").dup(removePrefix"a1_")}
+
+  "lab/Quizzes":
+    tDiv(style = "display: flex; flex-direction: column; width: 100vw; font-size: 4vw; background-color: {algebra1Color};"):
+      Grid(numLinkCols,0):
+        for path in labLessons.sorted().reversed().mapIt(linkPath(it)):
+          if path.splitPath.tail.isQuiz():
+            a(href = path): {path.splitPath.tail.dup(removeSuffix".html").dup(removePrefix"lab_")}
+
+
+  "algebra1/CFAs":
+    tDiv(style = "display: flex; flex-direction: column; width: 100vw; font-size: 4vw; background-color: {algebra1Color};"):
+      Grid(numLinkCols,0):
+        for path in alessons.sorted().reversed().mapIt(linkPath(it)):
+          if path.splitPath.tail.isCFA():
+            a(href = path): {path.splitPath.tail.dup(removeSuffix".html").dup(removePrefix"a1_")}
+
+  "lab/CFAs":
+    tDiv(style = "display: flex; flex-direction: column; width: 100vw; font-size: 4vw; background-color: {labColor}"):
+      Grid(numLinkCols,0):
+        for path in labLessons.sorted().reversed().mapIt(linkPath(it)):
+          if path.splitPath.tail.isCFA():
+            a(href = path): {path.splitPath.tail.dup(removeSuffix".html").dup(removePrefix"lab_")}
+

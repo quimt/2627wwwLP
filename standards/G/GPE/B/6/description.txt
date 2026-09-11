@@ -1,0 +1,1 @@
+Find the point on a directed line segment between two given points that partitions the segment in a given ratio.

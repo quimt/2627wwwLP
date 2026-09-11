@@ -1,0 +1,1 @@
+Solve quadratic equations by inspection (e.g., for x^(2) = 49), taking square roots, completing the square, the quadratic formula and factoring, as appropriate to the initial form of the equation. Recognize when the quadratic formula gives complex solutions and write them as a ± bi for real numbers a and b.

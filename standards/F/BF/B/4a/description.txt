@@ -1,0 +1,1 @@
+Solve an equation of the form f(x) = c for a simple function f that has an inverse and write an expression for the inverse. For example, f(x) =2 x^(3) or f(x) = (x+1)/(x–1) for x ≠1.

@@ -1,0 +1,1 @@
+Know the Fundamental Theorem of Algebra; show that it is true for quadratic polynomials.

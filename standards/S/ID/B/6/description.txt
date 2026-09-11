@@ -1,0 +1,1 @@
+Represent data on two quantitative variables on a scatter plot, and describe how the variables are related.

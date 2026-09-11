@@ -1,0 +1,1 @@
+Write a function that describes a relationship between two quantities.

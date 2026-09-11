@@ -1,0 +1,1 @@
+Multiply matrices by scalars to produce new matrices, e.g., as when all of the payoffs in a game are doubled.

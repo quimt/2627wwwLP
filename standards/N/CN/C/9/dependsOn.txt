@@ -1,0 +1,4 @@
+A-APR.B.2
+A-REI.B.4
+N-CN.C.7
+N-CN.C.8

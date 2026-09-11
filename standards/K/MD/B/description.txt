@@ -1,0 +1,1 @@
+Classify objects and count the number of objects in each category.

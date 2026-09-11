@@ -1,0 +1,1 @@
+Use coordinates to compute perimeters of polygons and areas of triangles and rectangles, e.g., using the distance formula.

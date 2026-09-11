@@ -1,0 +1,1 @@
+Weigh the possible outcomes of a decision by assigning probabilities to payoff values and finding expected values.

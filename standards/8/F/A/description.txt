@@ -1,0 +1,1 @@
+Define, evaluate, and compare functions.

@@ -1,0 +1,1 @@
+Use data from a sample survey to estimate a population mean or proportion; develop a margin of error through the use of simulation models for random sampling.

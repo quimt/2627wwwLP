@@ -1,0 +1,1 @@
+Multiply a vector by a scalar.

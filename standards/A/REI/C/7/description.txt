@@ -1,0 +1,1 @@
+Solve a simple system consisting of a linear equation and a quadratic equation in two variables algebraically and graphically. For example, find the points of intersection between the line y = –3x and the circle x^(2 )+ y^(2) = 3.

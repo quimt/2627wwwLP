@@ -1,0 +1,1 @@
+Fit a linear function for a scatter plot that suggests a linear association.

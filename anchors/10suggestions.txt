@@ -1,0 +1,141 @@
+**1. Getting Started with Algebra**
+- **TOPIC TITLE:** What is a Variable?
+- **THE TRIGGER:** 
+  - *Look for:* Patterns, unknowns, repeated situations.
+  - *Key words:* Variable, unknown, pattern.
+- **THE BLUEPRINT:** 
+  - [Visual model of variable: box with letter (e.g., x), arrows showing numbers can be substituted, number line.]
+- **THE PLAYBOOK:** 
+  - Step 1: Identify the variable.
+  - Step 2: Write a simple equation.
+  - Step 3: Substitute values to check.
+- **THE PITFALL:**
+  - ⚠️ DANGER ZONE: Don’t confuse a variable with a specific number or a unit!
+
+---
+
+**2. Equations and Problem Solving**
+- **TOPIC TITLE:** Solving Equations
+- **THE TRIGGER:** 
+  - *Look for:* The equal sign, missing value.
+  - *Key words:* Solve, equals, one-step, two-step.
+- **THE BLUEPRINT:** 
+  - [Balance symbol (scale), sample equation, arrows showing "what you do to one side, do to the other."]
+- **THE PLAYBOOK:** 
+  - Step 1: Read the equation.
+  - Step 2: Undo actions (inverse operations).
+  - Step 3: Isolate the variable, check your answer.
+- **THE PITFALL:**
+  - ⚠️ DANGER ZONE: Don’t forget to balance both sides! Watch for sign errors.
+
+---
+
+**3. Linear Equations and Representations**
+- **TOPIC TITLE:** Graphing Linear Equations
+- **THE TRIGGER:** 
+  - *Look for:* “Y = mx + b,” a straight line.
+  - *Key words:* Slope, intercept, line, graph.
+- **THE BLUEPRINT:** 
+  - [Graph with slope and y-intercept, color-coded slope triangles, formula box “y = mx + b”.]
+- **THE PLAYBOOK:** 
+  - Step 1: Identify slope (m) and intercept (b).
+  - Step 2: Plot b on y-axis.
+  - Step 3: Move with “rise/run” for slope, draw line.
+- **THE PITFALL:**
+  - ⚠️ DANGER ZONE: Don’t mix up slope and intercept. Read the axes!
+
+---
+
+**4. Systems of Equations**
+- **TOPIC TITLE:** Solving Systems (Graphically & Algebraically)
+- **THE TRIGGER:** 
+  - *Look for:* Two equations, two unknowns.
+  - *Key words:* System, intersection, simultaneous.
+- **THE BLUEPRINT:** 
+  - [Graph with two lines, intersection highlighted; side box for substitution/elimination steps.]
+- **THE PLAYBOOK:** 
+  - Step 1: Choose a method (graph, substitution, elimination).
+  - Step 2: Solve one equation for a variable.
+  - Step 3: Substitute & solve for other variable.
+- **THE PITFALL:**
+  - ⚠️ DANGER ZONE: Check you’re solving for BOTH variables, not just one!
+
+---
+
+**5. Function Families and Graphs**
+- **TOPIC TITLE:** Function Types: Linear, Exponential, Quadratic
+- **THE TRIGGER:** 
+  - *Look for:* “Constant rate,” “curve,” patterns.
+  - *Key words:* Linear, exponential, quadratic, growth, rate.
+- **THE BLUEPRINT:** 
+  - [Three color-coded curves/lines, sample equations for each, table of values.]
+- **THE PLAYBOOK:** 
+  - Step 1: Identify function type from graph/equation.
+  - Step 2: Compare features (rate of change, shape).
+  - Step 3: Convert between representations.
+- **THE PITFALL:**
+  - ⚠️ DANGER ZONE: Don’t confuse linear with exponential (lines vs curves). Quadratic has turning points!
+
+---
+
+**6. Exponents, Factors, and Polynomials**
+- **TOPIC TITLE:** Properties of Exponents
+- **THE TRIGGER:** 
+  - *Look for:* Powers, repeated multiplication, terms like “factor.”
+  - *Key words:* Exponent, base, power, factor, multiply.
+- **THE BLUEPRINT:** 
+  - [Exponent rules color-coded (product, quotient, power), sample problems, “expand” arrows.]
+- **THE PLAYBOOK:** 
+  - Step 1: Identify bases and exponents.
+  - Step 2: Apply the correct rule (product, quotient, power).
+  - Step 3: Simplify and factor if needed.
+- **THE PITFALL:**
+  - ⚠️ DANGER ZONE: Don’t mix up bases. Don’t add exponents when multiplying different bases!
+
+---
+
+**7. Quadratics: Vertex & Factored Forms**
+- **TOPIC TITLE:** Quadratic Forms
+- **THE TRIGGER:** 
+  - *Look for:* x² term, “vertex,” “factored.”
+  - *Key words:* Vertex, standard, factored, parabola.
+- **THE BLUEPRINT:** 
+  - [Graph of parabola (vertex shown), formulas for vertex, standard, factored form, color distinctions.]
+- **THE PLAYBOOK:** 
+  - Step 1: Choose correct form.
+  - Step 2: Convert between forms.
+  - Step 3: Use graph to find features.
+- **THE PITFALL:**
+  - ⚠️ DANGER ZONE: Don’t mislabel the vertex (x, y) vs factors (x-intercepts)!!!
+
+---
+
+**8. Functions in Context and Synthesis**
+- **TOPIC TITLE:** Real-World Functions
+- **THE TRIGGER:** 
+  - *Look for:* Word problems, tables, graphs.
+  - *Key words:* Context, model, interpret, predict.
+- **THE BLUEPRINT:** 
+  - [Sample real-world graph, equation, table; features annotated.]
+- **THE PLAYBOOK:** 
+  - Step 1: Extract the relevant info.
+  - Step 2: Choose the function model.
+  - Step 3: Justify reasoning and test prediction.
+- **THE PITFALL:**
+  - ⚠️ DANGER ZONE: Don’t ignore units! Stay in context.
+
+---
+
+**9. Assessment Review and Synthesis**
+- **TOPIC TITLE:** Cumulative Strategies
+- **THE TRIGGER:** 
+  - *Look for:* Mixed questions, review sessions.
+  - *Key words:* Strategy, review, synthesize.
+- **THE BLUEPRINT:** 
+  - [Checklist, sample test question, “review grid” for concepts.]
+- **THE PLAYBOOK:** 
+  - Step 1: Identify problem type.
+  - Step 2: Apply best method.
+  - Step 3: Check answer and re-read!
+- **THE PITFALL:**
+  - ⚠️ DANGER ZONE: Don’t rush! Use process and check work.

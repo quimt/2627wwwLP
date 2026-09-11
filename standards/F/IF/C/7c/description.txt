@@ -1,0 +1,1 @@
+Graph polynomial functions, identifying zeros when suitable factorizations are available, and showing end behavior.

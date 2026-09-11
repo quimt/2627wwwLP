@@ -1,0 +1,1 @@
+Use the properties of similarity transformations to establish the AA criterion for two triangles to be similar.

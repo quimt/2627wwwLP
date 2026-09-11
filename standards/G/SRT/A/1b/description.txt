@@ -1,0 +1,1 @@
+The dilation of a line segment is longer or shorter in the ratio given by the scale factor.

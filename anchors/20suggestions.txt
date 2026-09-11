@@ -1,0 +1,170 @@
+### Unit 1: Introduction to Algebra
+
+**Chart 1: Combining Like Terms**
+
+* **The Signal / La Señal:** A long expression with different variables (e.g., $3x + 4y - x + 2$).
+* **The Model / El Modelo:** Variables colored identically (e.g., all $x$'s in blue boxes, all numbers in green circles).
+* **The Action Plan / El Plan de Acción:** 1) Box the matching letters. 2) Circle the plain numbers. 3) Add the matching groups together.
+* **The Alert / La Alerta:** ⚠️ Include the $+$ or $-$ sign in front of the number when you box it!
+
+**Chart 2: Evaluating Expressions (Substitution)**
+
+* **The Signal / La Señal:** An expression and a given value (e.g., Find $4x - 5$ when $x = 3$).
+* **The Model / El Modelo:** An empty set of parentheses where the variable used to be: $4( \ \ ) - 5$.
+* **The Action Plan / El Plan de Acción:** 1) Erase the letter. 2) Put empty parentheses `( )` in its place. 3) Put the number inside. 4) Calculate.
+* **The Alert / La Alerta:** ⚠️ Always use parentheses. $4x$ means multiply, not $43$!
+
+---
+
+### Unit 2: Linear Equations and Inequalities
+
+**Chart 3: Solving Two-Step Equations**
+
+* **The Signal / La Señal:** An equation with an $=$ sign, a variable, and two numbers to move.
+* **The Model / El Modelo:** A visual balance scale or a "river" drawn down the `=` sign.
+* **The Action Plan / El Plan de Acción:** 1) Draw the line down the equals sign. 2) Undo $+$ or $-$ first. 3) Undo $\times$ or $\div$ second.
+* **The Alert / La Alerta:** ⚠️ What you do to one side, you MUST do to the other side!
+
+**Chart 4: Variables on Both Sides**
+
+* **The Signal / La Señal:** The same letter appears on the left and the right (e.g., $5x - 2 = 3x + 8$).
+* **The Model / El Modelo:** Two opposing forces (arrows pointing inwards toward the equals sign).
+* **The Action Plan / El Plan de Acción:** 1) Pick the smaller $x$. 2) Subtract it from both sides. 3) Solve the remaining two-step equation.
+* **The Alert / La Alerta:** ⚠️ Move the letters together BEFORE you move the plain numbers!
+
+**Chart 5: Solving Inequalities**
+
+* **The Signal / La Señal:** Symbols like $<, >, \le, \ge$ instead of an $=$.
+* **The Model / El Modelo:** A visual of open circle $\circ$ vs. closed circle $\bullet$ on a number line.
+* **The Action Plan / El Plan de Acción:** 1) Solve it exactly like a regular equation. 2) Graph the answer on the line.
+* **The Alert / La Alerta:** ⚠️ If you multiply or divide by a NEGATIVE number, flip the symbol! ($>$ becomes $<$)
+
+---
+
+### Unit 3: Functions and Graphs
+
+**Chart 6: Identifying a Function**
+
+* **The Signal / La Señal:** The word "Function" or a table/graph checking for rules.
+* **The Model / El Modelo:** An "input-output" machine (a box with an arrow in and an arrow out) and the Vertical Line Test.
+* **The Action Plan / El Plan de Acción:** 1) Look at the $x$-values (inputs). 2) Does an $x$-value repeat with a different $y$? 3) If no, it IS a function.
+* **The Alert / La Alerta:** ⚠️ The $y$-values can repeat all they want. Only watch the $x$'s!
+
+**Chart 7: Graphing Slope-Intercept Form**
+
+* **The Signal / La Señal:** $y = mx + b$
+* **The Model / El Modelo:** $y = \text{[blue slope]}x + \text{[red start-point]}$.
+* **The Action Plan / El Plan de Acción:** 1) Plot the red $b$ (start) on the $y$-axis. 2) Use the blue $m$ (rise/run) to find the next dot. 3) Connect the dots.
+* **The Alert / La Alerta:** ⚠️ "Rise" means UP/DOWN. "Run" means LEFT/RIGHT. Don't mix them up!
+
+**Chart 8: Finding Slope from a Graph**
+
+* **The Signal / La Señal:** A line on a graph and the question "Find the slope."
+* **The Model / El Modelo:** A right triangle drawn between two points on the line, highlighting $\frac{\text{Rise}}{\text{Run}}$.
+* **The Action Plan / El Plan de Acción:** 1) Find two perfect points on the grid corners. 2) Count spaces UP. 3) Count spaces RIGHT. 4) Write as a fraction.
+* **The Alert / La Alerta:** ⚠️ If the line goes down to the right, the slope must be a NEGATIVE number.
+
+---
+
+### Unit 4: Systems of Equations and Inequalities
+
+**Chart 9: Systems by Graphing**
+
+* **The Signal / La Señal:** Two equations grouped together, usually with a curly bracket $\{$.
+* **The Model / El Modelo:** A graph showing two lines crossing at one single point, circled heavily.
+* **The Action Plan / El Plan de Acción:** 1) Graph the first line. 2) Graph the second line. 3) Find the exact $(x, y)$ coordinate where they crash into each other.
+* **The Alert / La Alerta:** ⚠️ The answer isn't a number; it is a coordinate point $(x, y)$!
+
+**Chart 10: Systems by Elimination**
+
+* **The Signal / La Señal:** Two equations stacked perfectly on top of each other.
+* **The Model / El Modelo:** A giant addition sign $+$ next to stacked variables, where one column cancels to $0$.
+* **The Action Plan / El Plan de Acción:** 1) Stack the $x$'s, $y$'s, and numbers. 2) Add straight down to destroy one letter. 3) Solve for the survivor.
+* **The Alert / La Alerta:** ⚠️ If nothing cancels out right away, you might need to multiply a row first.
+
+---
+
+### Unit 5: Exponents and Polynomials
+
+**Chart 11: The Exponent Multiplication Rule**
+
+* **The Signal / La Señal:** Variables with small top numbers being multiplied: $(x^3)(x^4)$.
+* **The Model / El Modelo:** Expanded form: $(x \cdot x \cdot x) \times (x \cdot x \cdot x \cdot x) = x^7$.
+* **The Action Plan / El Plan de Acción:** 1) Check if the big base letters match. 2) Add the small exponent numbers together.
+* **The Alert / La Alerta:** ⚠️ Multiply the big numbers (coefficients), but ADD the small numbers (exponents).
+
+**Chart 12: Negative Exponents**
+
+* **The Signal / La Señal:** A small negative number in the sky (e.g., $x^{-3}$).
+* **The Model / El Modelo:** An elevator moving a number from the top floor of a fraction to the bottom floor.
+* **The Action Plan / El Plan de Acción:** 1) Draw a fraction line. 2) Move the letter with the negative exponent to the bottom. 3) Make the exponent positive.
+* **The Alert / La Alerta:** ⚠️ A negative exponent does NOT make the big number negative. It just flips it!
+
+**Chart 13: Multiplying Binomials (The Box Method)**
+
+* *(Note: The Box Method is vastly superior for students with learning gaps compared to FOIL because it organizes work visually).*
+* **The Signal / La Señal:** Two sets of parentheses touching: $(x + 3)(x - 4)$.
+* **The Model / El Modelo:** A $2 \times 2$ grid (Punnett square style) with the terms on the outside edges.
+* **The Action Plan / El Plan de Acción:** 1) Draw a $2 \times 2$ box. 2) Put one parenthesis on top, one on the left. 3) Multiply to fill inside boxes. 4) Add the diagonal boxes.
+* **The Alert / La Alerta:** ⚠️ Multiply to get INSIDE the box. Add to get OUT of the box.
+
+---
+
+### Unit 6: Quadratic Equations and Functions
+
+**Chart 14: Anatomy of a Parabola**
+
+* **The Signal / La Señal:** $y = ax^2$ or a U-shaped graph.
+* **The Model / El Modelo:** A large U-shape with three distinct colored dots: Vertex (Bottom/Top), Roots/Zeros ($x$-axis), $y$-intercept ($y$-axis).
+* **The Action Plan / El Plan de Acción:** 1) Identify the highest/lowest point (Vertex). 2) Find where it crosses the flat ground ($x$-axis roots).
+* **The Alert / La Alerta:** ⚠️ Roots, Zeros, Solutions, and $x$-intercepts are four different words for the EXACT same thing!
+
+**Chart 15: Factoring (Finding the Numbers)**
+
+* **The Signal / La Señal:** $x^2 + bx + c$
+* **The Model / El Modelo:** A large "X" diagram (Diamond problem) showing multiplication on top and addition on the bottom.
+* **The Action Plan / El Plan de Acción:** 1) Ask: "What multiplies to the last number?" 2) Ask: "What adds to the middle number?" 3) Put the two magic numbers in parentheses.
+* **The Alert / La Alerta:** ⚠️ Watch your signs! If they multiply to a negative, one number MUST be negative.
+
+**Chart 16: The Quadratic Formula**
+
+* **The Signal / La Señal:** When factoring is too hard or impossible.
+* **The Model / El Modelo:** The formula clearly color-coded for $a$ (red), $b$ (blue), and $c$ (green).
+* **The Action Plan / El Plan de Acción:** 1) Find $a$, $b$, and $c$. 2) Plug them into the empty slots. 3) Calculate the inside of the square root first. 4) Use the $\pm$ to get two answers.
+* **The Alert / La Alerta:** ⚠️ The equation MUST equal $0$ before you can find $a$, $b$, and $c$.
+
+---
+
+### Unit 7: Data Analysis and Probability
+
+**Chart 17: Mean, Median, Mode**
+
+* **The Signal / La Señal:** A scattered list of numbers.
+* **The Model / El Modelo:** * Mean = The Equalizer (sharing).
+* Median = The Middle (crossing off ends).
+* Mode = The Most Popular.
+
+
+* **The Action Plan / El Plan de Acción:** 1) **Always** put the numbers in order from smallest to biggest first. 2) Choose the correct math rule.
+* **The Alert / La Alerta:** ⚠️ If you don't order them smallest to biggest first, the Median will be a lie!
+
+**Chart 18: Box and Whisker Plots**
+
+* **The Signal / La Señal:** A number line with a box and two lines (whiskers) sticking out.
+* **The Model / El Modelo:** A diagram labeled with Min, Q1, Median, Q3, Max.
+* **The Action Plan / El Plan de Acción:** 1) Find the true middle (Median). 2) Find the middle of the lower half (Q1). 3) Find the middle of the upper half (Q3). 4) Draw the box.
+* **The Alert / La Alerta:** ⚠️ Each section of the box plot contains exactly 25% of the data, no matter how wide it looks.
+
+**Chart 19: Simple Probability**
+
+* **The Signal / La Señal:** "What are the chances...?" or "Find $P(\text{Event})$".
+* **The Model / El Modelo:** A fraction bar: $\frac{\text{What I WANT}}{\text{TOTAL available}}$.
+* **The Action Plan / El Plan de Acción:** 1) Count how many winners there are. Put that on top. 2) Count the grand total of everything. Put that on bottom. 3) Simplify the fraction.
+* **The Alert / La Alerta:** ⚠️ Probability can NEVER be less than 0 or greater than 1 (or 100%).
+
+**Chart 20: Reading a Scatter Plot (Correlation)**
+
+* **The Signal / La Señal:** A graph covered in floating dots without a line.
+* **The Model / El Modelo:** Three mini-graphs: Positive (going up), Negative (going down), No Correlation (a messy cloud).
+* **The Action Plan / El Plan de Acción:** 1) Draw a "Line of Best Fit" through the middle of the cloud. 2) Look at where the line is pointing.
+* **The Alert / La Alerta:** ⚠️ Just because two things go up together doesn't mean one caused the other!

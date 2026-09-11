@@ -1,0 +1,1 @@
+Understand that a set of data collected to answer a statistical question has a distribution which can be described by its center, spread, and overall shape.

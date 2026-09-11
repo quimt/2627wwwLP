@@ -1,0 +1,1 @@
+Recognize and draw shapes having specified attributes, such as a given number of angles or a given number of equal faces. (Sizes are compared directly or visually, not compared by measuring.) Identify triangles, quadrilaterals, pentagons, hexagons, and cubes.

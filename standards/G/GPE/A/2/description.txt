@@ -1,0 +1,1 @@
+Derive the equation of a parabola given a focus and directrix.

@@ -1,0 +1,1 @@
+Use the properties of exponents to transform expressions for exponential functions. For example the expression 1.15^(t) can be rewritten as (1.15^(1/12))^(12)^(t )≈1.012^(12t) to reveal the approximate equivalent monthly interest rate if the annual rate is 15%.

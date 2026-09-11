@@ -1,0 +1,1 @@
+Represent data with plots on the real number line (dot plots, histograms, and box plots).

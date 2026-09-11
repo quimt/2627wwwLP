@@ -1,0 +1,1 @@
+Write arithmetic and geometric sequences both recursively and with an explicit formula, use them to model situations, and translate between the two forms.

@@ -1,0 +1,1 @@
+Extend polynomial identities to the complex numbers. For example, rewrite x^(2) + 4 as (x + 2i)(x – 2i).

@@ -1,0 +1,119 @@
+Here is the complete text file structure for the 16 refined anchor charts. The content is organized into the four quadrants—Signs and Clues, Visual Model, Get It Right, and Mistake Alert!—so you can easily copy this directly into your drafting documents.
+
+```text
+================================================================================
+ALGEBRA 1 - REGULAR: ANCHOR CHART SEQUENCE (16 CHARTS)
+================================================================================
+
+Anchor Chart 1: The Function Map
+Signs and Clues: You are given a scenario and need to represent the relationship in different ways.
+Visual Model: A 4-way graphic with arrows connecting: 1. Context (Word Problem), 2. Table (Numerical), 3. Graph (Visual), 4. Equation (Symbolic).
+Get It Right: Identify the starting amount and the rate of change in the story. Map these to your table's zero-point, your graph's y-intercept, and your equation's constants. 
+Mistake Alert!: Swapping the input (x) and output (y) when translating from words to a table or graph!
+
+--------------------------------------------------------------------------------
+Anchor Chart 2: Combining Like Terms
+Signs and Clues: An expression has multiple terms with the same variable, or constants that need to be simplified before solving.
+Visual Model: Identical colored shapes grouping matching variables (e.g., green squares around x-terms, red circles around constants). 
+Get It Right: Identify terms with the exact same variables and exponents. Combine their coefficients and keep the variable the same.
+Mistake Alert!: Forgetting to include the negative or minus sign in front of a term when combining!
+
+--------------------------------------------------------------------------------
+Anchor Chart 3: Solving Multi-Step Equations
+Signs and Clues: You have variables on both sides of the equals sign or need to isolate a variable to solve for x.
+Visual Model: A balance scale with a "River" drawn vertically down through the equals sign. 
+Get It Right: 1. Distribute. 2. Combine like terms. 3. Move variables to one side. 4. Isolate the variable using inverse operations. Whatever you do to one side, do to the other.
+Mistake Alert!: Breaking the balance! Adding a value to the left side but subtracting it from the right.
+
+--------------------------------------------------------------------------------
+Anchor Chart 4: Solving Inequalities
+Signs and Clues: The problem uses <, >, $\leq$, or $\geq$ instead of an equals sign, and asks for a range of solutions.
+Visual Model: Open circles (for <, >) and closed circles (for $\leq$, $\geq$) plotted on a number line with a directional shading arrow.
+Get It Right: Solve exactly like a normal equation using the "River" method, then graph your solution on a number line to show all possible answers.
+Mistake Alert!: Forgetting to FLIP the inequality symbol when multiplying or dividing by a negative number!
+
+--------------------------------------------------------------------------------
+Anchor Chart 5: Finding Slope (Rate of Change)
+Signs and Clues: You need to find the steepness of a line from a graph, table, or two points.
+Visual Model: A right triangle drawn between two points on a graph labeled with "Rise" (vertical change) over "Run" (horizontal change).
+Get It Right: Use the formula $m = \frac{y_2 - y_1}{x_2 - x_1}$. Always calculate the change in y divided by the change in x.
+Mistake Alert!: Putting the x-values on top of the fraction instead of the y-values (Run over Rise).
+
+--------------------------------------------------------------------------------
+Anchor Chart 6: Graphing $y = mx + b$
+Signs and Clues: You need to graph a line from a slope-intercept equation.
+Visual Model: Color-coded equation $y = mx + b$ where $m$ is pink (Slope/Move) and $b$ is blue (Y-intercept/Begin).
+Get It Right: 1. Begin at $b$ (plot the y-intercept on the y-axis). 2. Move with $m$ (use rise over run to plot the next points). 3. Draw the line.
+Mistake Alert!: Starting your first point on the x-axis instead of the y-axis!
+
+--------------------------------------------------------------------------------
+Anchor Chart 7: Systems by Elimination
+Signs and Clues: You have two linear equations in standard form ($Ax + By = C$) and need to find where they intersect.
+Visual Model: Two stacked equations with a giant addition sign next to them, showing one variable column canceling out to zero.
+Get It Right: 1. Line up variables. 2. Multiply one or both equations if needed to create opposite coefficients. 3. Add straight down to eliminate. 4. Solve and plug back in.
+Mistake Alert!: Adding the equations when the coefficients are exactly the same instead of opposites (e.g., $3x$ and $3x$ instead of $3x$ and $-3x$).
+
+--------------------------------------------------------------------------------
+Anchor Chart 8: Systems of Inequalities
+Signs and Clues: You are graphing multiple inequalities and need to find the overlapping solution region.
+Visual Model: Two intersecting lines (one dashed, one solid) with overlapping shaded half-planes creating a darker "solution zone."
+Get It Right: Graph each line (solid for $\leq$, $\geq$; dashed for <, >). Test a point (like 0,0) for each line to determine which side to shade.
+Mistake Alert!: Picking a point in just ONE shaded region as the solution, rather than a point in the OVERLAPPING shaded region!
+
+--------------------------------------------------------------------------------
+Anchor Chart 9: Is it a Function?
+Signs and Clues: You are asked to determine if a graph, table, or mapping diagram represents a true function.
+Visual Model: An Input/Output machine and a graph demonstrating the Vertical Line Test with a ruler overlay.
+Get It Right: Every input (x) must have exactly ONE output (y). Sweep a vertical line across the graph—it can only touch the graph once at any time.
+Mistake Alert!: Thinking that two different x-values can't have the same y-value. (Outputs can repeat, inputs cannot!)
+
+--------------------------------------------------------------------------------
+Anchor Chart 10: The Function Families
+Signs and Clues: You need to identify the type of function from a graph or equation.
+Visual Model: Three distinct graphs side-by-side: a straight line ($y = x$), a U-shape ($y = x^2$), and a swooping curve ($y = 2^x$).
+Get It Right: Linear = constant addition (straight line). Quadratic = single turning point (parabola). Exponential = constant multiplication (rapid growth/decay curve).
+Mistake Alert!: Confusing half of a parabola for an exponential curve because you didn't check the negative x-values!
+
+--------------------------------------------------------------------------------
+Anchor Chart 11: Properties of Exponents
+Signs and Clues: You are multiplying or dividing terms with exponents, or dealing with negative exponents.
+Visual Model: Expanded form visual showing $x^3 \cdot x^2 = (x \cdot x \cdot x) \cdot (x \cdot x) = x^5$.
+Get It Right: Multiplying matching bases = add exponents. Dividing matching bases = subtract exponents. Negative exponent = move across the fraction bar.
+Mistake Alert!: Multiplying the exponents together (e.g., $x^3 \cdot x^2 = x^6$) instead of adding them!
+
+--------------------------------------------------------------------------------
+Anchor Chart 12: The Box Method for Polynomials
+Signs and Clues: You need to multiply two binomials together (e.g., $(x + 3)(x - 4)$).
+Visual Model: A 2x2 grid (Punnett square style) with terms aligned on the top and left, and multiplied products filling the inner boxes.
+Get It Right: Write one binomial on top and the other on the side. Multiply to fill each box. Add the terms inside the boxes, combining the diagonal like terms.
+Mistake Alert!: Adding the outside terms to fill the boxes instead of multiplying them!
+
+--------------------------------------------------------------------------------
+Anchor Chart 13: Anatomy of a Parabola
+Signs and Clues: You are analyzing a quadratic function and need to identify its key features.
+Visual Model: A large U-shape graph with distinct labels and arrows pointing to the Vertex, Roots (x-intercepts/zeros), y-intercept, and Axis of Symmetry.
+Get It Right: The vertex is the turning point (max/min). The roots are where the graph crosses the x-axis. The y-intercept is where x = 0.
+Mistake Alert!: Mixing up the vocabulary: roots, zeros, x-intercepts, and solutions all refer to the exact same spots on the x-axis!
+
+--------------------------------------------------------------------------------
+Anchor Chart 14: Factoring (The X-Method)
+Signs and Clues: You need to factor a quadratic trinomial ($ax^2 + bx + c$) to find its roots.
+Visual Model: A large "X" or diamond problem graphic with "a * c" at the top, "b" at the bottom, and the two puzzle-piece factors on the left and right.
+Get It Right: Find two numbers that multiply to get the top number and add to get the bottom number. 
+Mistake Alert!: Dropping negative signs when figuring out your two puzzle-piece numbers!
+
+--------------------------------------------------------------------------------
+Anchor Chart 15: The Quadratic Formula
+Signs and Clues: You need to find the roots of a quadratic equation, but it cannot be easily factored.
+Visual Model: The formula $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$ written large, with the $a$, $b$, and $c$ color-coded to match the standard form $ax^2 + bx + c = 0$.
+Get It Right: Identify a, b, and c. Plug them into the formula using parentheses. Simplify the discriminant (inside the square root) first.
+Mistake Alert!: Forgetting that $-b$ means "the opposite of b." If b is already negative, it becomes positive in the formula!
+
+--------------------------------------------------------------------------------
+Anchor Chart 16: Reading a Scatter Plot
+Signs and Clues: You are given paired real-world data and need to find the relationship or trend.
+Visual Model: Three small scatter plots showing a Positive Correlation (points trending up), Negative Correlation (trending down), and No Correlation (random scatter).
+Get It Right: Read the graph from left to right like a book. Draw a line of best fit through the center of the data cloud to see the direction.
+Mistake Alert!: Assuming that because two variables have a strong correlation, one directly causes the other (Correlation does not equal causation)!
+
+```

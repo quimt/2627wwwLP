@@ -1,0 +1,1 @@
+Represent a system of linear equations as a single matrix equation in a vector variable.

@@ -1,0 +1,1 @@
+Verify by composition that one function is the inverse of another.

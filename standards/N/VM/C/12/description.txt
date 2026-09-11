@@ -1,0 +1,1 @@
+Work with 2 × 2 matrices as a transformations of the plane, and interpret the absolute value of the determinant in terms of area.

@@ -1,0 +1,1 @@
+A solid figure which can be packed without gaps or overlaps using n unit cubes is said to have a volume of n cubic units.

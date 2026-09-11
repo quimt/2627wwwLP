@@ -1,0 +1,1 @@
+Use data from a randomized experiment to compare two treatments; use simulations to decide if differences between parameters are significant.

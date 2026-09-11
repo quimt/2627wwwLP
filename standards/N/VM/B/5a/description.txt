@@ -1,0 +1,1 @@
+Represent scalar multiplication graphically by scaling vectors and possibly reversing their direction; perform scalar multiplication component-wise, e.g., as c(v_(x), v_(y)) = (cv_(x), cv_(y)).

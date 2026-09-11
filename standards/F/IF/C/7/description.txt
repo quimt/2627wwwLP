@@ -1,0 +1,1 @@
+Graph functions expressed symbolically and show key features of the graph, by hand in simple cases and using technology for more complicated cases.

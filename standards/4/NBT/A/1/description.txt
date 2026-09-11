@@ -1,0 +1,2 @@
+Recognize that in a multi-digit whole number, a digit in one place represents ten times what it represents in the place to its right. For example, recognize that 700 ÷ 70 = 10 by applying concepts of place value and division.
+Grade 4 expectations in this domain are limited to whole numbers less than or equal to 1,000,000.

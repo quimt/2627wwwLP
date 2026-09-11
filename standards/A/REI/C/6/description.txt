@@ -1,0 +1,1 @@
+Solve systems of linear equations exactly and approximately (e.g., with graphs), focusing on pairs of linear equations in two variables.

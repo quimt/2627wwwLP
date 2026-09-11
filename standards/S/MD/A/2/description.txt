@@ -1,0 +1,1 @@
+Calculate the expected value of a random variable; interpret it as the mean of the probability distribution.

@@ -1,0 +1,1 @@
+Factor a quadratic expression to reveal the zeros of the function it defines.

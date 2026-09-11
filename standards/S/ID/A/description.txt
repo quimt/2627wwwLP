@@ -1,0 +1,1 @@
+Summarize, represent, and interpret data on a single count or measurement variable.

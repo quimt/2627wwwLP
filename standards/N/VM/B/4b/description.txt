@@ -1,0 +1,1 @@
+Given two vectors in magnitude and direction form, determine the magnitude and direction of their sum.

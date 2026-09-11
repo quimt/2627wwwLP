@@ -1,0 +1,1 @@
+Model periodic phenomena with trigonometric functions.

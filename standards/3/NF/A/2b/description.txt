@@ -1,0 +1,2 @@
+Represent a fraction a/b on a number line diagram by marking off a lengths 1/b from 0. Recognize that the resulting interval has size a/b and that its endpoint locates the number a/b on the number line.
+Grade 3 expectations in this domain are limited to fractions with denominators 2, 3, 4, 6, and 8.

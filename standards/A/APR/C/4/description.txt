@@ -1,0 +1,1 @@
+Prove polynomial identities and use them to describe numerical relationships. For example, the polynomial identity (x^(2) + y^(2))^(2) = (x^(2 )– y^(2))^(2) + (2xy)^(2 )can be used to generate Pythagorean triples.

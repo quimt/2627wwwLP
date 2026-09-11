@@ -1,0 +1,1 @@
+Use the rules of probability to compute probabilities of compound events in a uniform probability model.

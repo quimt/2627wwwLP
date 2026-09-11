@@ -1,0 +1,1 @@
+Represent constraints by equations or inequalities, and by systems of equations and/or inequalities, and interpret solutions as viable or nonviable options in a modeling context. For example, represent inequalities describing nutritional and cost constraints on combinations of different foods.

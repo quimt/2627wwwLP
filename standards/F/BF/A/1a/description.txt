@@ -1,0 +1,1 @@
+Determine an explicit expression, a recursive process, or steps for calculation from a context.

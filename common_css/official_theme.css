@@ -1,19 +1,24 @@
-
 @media screen {
     * {
-        /* Enhanced contrast theme: Emphasize #280ee8 (deep blue-violet) and white
-           Vary related hues and saturations for visual hierarchy and harmony */
-        --ts-color-heading: #280ee8;           /* Main heading: high-contrast vivid blue-violet */
-        --ts-color-body: #4736ed;              /* Medium-depth blue-violet for readable body text */
-        --ts-color-background: #ffffff;         /* Clean, pure white background for highest contrast */
-        --ts-color-link: #6846f2;              /* Lighter blue-violet for links (stands out, readable) */
-        --ts-color-subtle: #e9e8fc;            /* Very pale blue-violet for subtle UI elements */
-        --ts-color-border: #c0bef7;            /* Muted pastel border: soft blue-violet */
-        --ts-color-muted: #817ae1;             /* Muted blue-violet for less prominent text */
-        --ts-color-standout: #18089b;          /* Standout accent: deeper, darker blue-violet */
+        /* Theme Inputs */
+        --ts-color-background: #eeeeff;     /* Primary canvas surface color */
+        --ts-bg-shift: -72deg;              /* OKLCH hue rotation to generate alt background */
+        --ts-color-heading: #280ee8;        /* Highest emphasis typographic text */
+        --ts-color-body: #4736ed;           /* Main reading text balancing readability against canvas */
+        --ts-color-border: #c0bef7;         /* Structural division lines and container boundaries */
+
+        /* Derived Palette */
+        --ts-color-background-alt: oklch(from var(--ts-color-background) l c calc(h + var(--ts-bg-shift))); /* Contextual alternate canvas */
+        --ts-bg-midpoint: color-mix(in oklch, var(--ts-color-background) 50%, var(--ts-color-background-alt)); /* Mean canvas anchor */
+        --ts-color-subtle: oklch(from var(--ts-bg-midpoint) 0.92 calc(c * 1.5) h); /* Low-contrast fill for code blocks and tables */
+        --ts-color-muted: oklch(from var(--ts-bg-midpoint) 0.55 calc(c * 3.5) h); /* Secondary text and captions; darkened base hue on mean bg */
+        --ts-color-link: oklch(from var(--ts-bg-midpoint) 0.53 0.15 calc(h + sign(var(--ts-bg-shift)) * 120deg)); /* Interactive links and buttons; triadic offset mirroring shift direction */
+        --ts-color-standout: oklch(from var(--ts-bg-midpoint) 0.88 0.12 calc(h + 180deg)); /* Stand out from background and text; sharper opposite of mean-bg */
+
+        /* Typography & Engine Settings */
         --ts-font-weight-regular: 500;
         --ts-font-weight-bold: 900;
-        data-typesettings: "sans-serif";
+        data-typesettings: "golden sans-serif";
     }
 }
 
@@ -22,6 +27,7 @@
         --ts-color-heading: black;
         --ts-color-body: black;
         --ts-color-background: white;
+        --ts-color-background-alt: white;
         --ts-color-link: #333333;
         --ts-color-subtle #eeeeee;
         --ts-color-border: #cdcdcd;

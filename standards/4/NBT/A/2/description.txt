@@ -1,0 +1,2 @@
+Read and write multi-digit whole numbers using base-ten numerals, number names, and expanded form. Compare two multi-digit numbers based on meanings of the digits in each place, using >, =, and < symbols to record the results of comparisons.
+Grade 4 expectations in this domain are limited to whole numbers less than or equal to 1,000,000.

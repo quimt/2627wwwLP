@@ -1,0 +1,1 @@
+Display numerical data in plots on a number line, including dot plots, histograms, and box plots.

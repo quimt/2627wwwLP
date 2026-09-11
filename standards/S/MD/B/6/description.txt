@@ -1,0 +1,1 @@
+Use probabilities to make fair decisions (e.g., drawing by lots, using a random number generator).

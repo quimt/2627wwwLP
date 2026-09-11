@@ -1,0 +1,1 @@
+Interpret complicated expressions by viewing one or more of their parts as a single entity. For example, interpret P(1+r)^(n )as the product of P and a factor not depending on P.

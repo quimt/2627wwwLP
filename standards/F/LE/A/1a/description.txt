@@ -1,0 +1,1 @@
+Prove that linear functions grow by equal differences over equal intervals, and that exponential functions grow by equal factors over equal intervals.

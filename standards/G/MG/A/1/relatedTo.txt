@@ -1,0 +1,5 @@
+G-MG.A.2
+G-GMD.A.3
+N-Q.A.1
+N-Q.A.2
+N-Q.A.3

@@ -1,0 +1,1 @@
+Use the method of completing the square to transform any quadratic equation in x into an equation of the form (x – p)^(2) = q that has the same solutions. Derive the quadratic formula from this form.

@@ -1,0 +1,1 @@
+Add, subtract, and multiply matrices of appropriate dimensions.

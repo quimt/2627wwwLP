@@ -1,0 +1,1 @@
+Understand independence and conditional probability and use them to interpret data.

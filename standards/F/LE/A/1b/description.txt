@@ -1,0 +1,1 @@
+Recognize situations in which one quantity changes at a constant rate per unit interval relative to another.
