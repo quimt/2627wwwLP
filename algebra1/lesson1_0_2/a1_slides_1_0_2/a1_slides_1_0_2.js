@@ -57,27 +57,27 @@ var NTI4060086815 = {size: 0, kind: 18, base: null, node: null, finalizer: null}
 var NTI4060086785 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
 var NTI4060087163 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
 var NTI4060087133 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
-var NTI4026543442 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
-var NTI4026543174 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
-var NTI4026542906 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
-var NTI4026542638 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
-var NTI4026541263 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
-var NTI4026540995 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
-var NTI4026540727 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
-var NTI4026540459 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
-var NTI4026538556 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
-var NTI4026538288 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
-var NTI4026538020 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
-var NTI4026537752 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
-var NTI4026535847 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
-var NTI4026535579 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
-var NTI4026535311 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
-var NTI4026534750 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI4026543440 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI4026543172 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI4026542904 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI4026542636 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI4026541261 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI4026540993 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI4026540725 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI4026540457 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI4026538554 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI4026538286 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI4026538018 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI4026537750 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI4026535845 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI4026535577 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI4026535309 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI4026534748 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
 var NTI3841983002 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
 var NTI3841982702 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
 var NTI838900933 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
 var NTI3841983302 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
-var NTI4026531886 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
+var NTI4026531884 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
 var NTI3841982476 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
 var NTI838900931 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
 var NTI3976201022 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
@@ -204,6 +204,7 @@ var NTI3841983301 = {size: 0, kind: 17, base: null, node: null, finalizer: null}
 var NTI3271557423 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
 var NTI3271557585 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
 var NTI3271557582 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI2969567907 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
 var NTI3271557163 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
 var NTI3271557162 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
 var NTI3271557161 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
@@ -503,7 +504,7 @@ var NTI838871054 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
 var NTI3288335453 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
 var NTI3288335454 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
 var NTI838900040 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
-var NTI4026531885 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
+var NTI4026531883 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
 var NTI838864205 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
 var NTI3674266626 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
 var NTI3674266388 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
@@ -563,8 +564,8 @@ var NTI838899952 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
 var NTI4076863491 = {size: 0, kind: 14, base: null, node: null, finalizer: null};
 var NTI4076863506 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
 var NTI4076863503 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
-var NTI4026545105 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
-var NTI4026545102 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI4026545103 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI4026545100 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
 var NTI3774873960 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
 var NTI3137339451 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
 var NTI4026531843 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
@@ -1598,11 +1599,11 @@ NTI4026531864.base = NTI33554449;
 NTI4026531843.base = NTI33554449;
 NTI3137339451.base = NTI33554449;
 NTI3774873960.base = NTI33554449;
-var NNI4026545105 = {kind: 2, len: 3, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI1207959555, name: "Field0", sons: null}, 
+var NNI4026545103 = {kind: 2, len: 3, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI1207959555, name: "Field0", sons: null}, 
 {kind: 1, offset: "Field1", len: 0, typ: NTI33554449, name: "Field1", sons: null}, 
 {kind: 1, offset: "Field2", len: 0, typ: NTI3170906590, name: "Field2", sons: null}]};
-NTI4026545105.node = NNI4026545105;
-NTI4026545102.base = NTI4026545105;
+NTI4026545103.node = NNI4026545103;
+NTI4026545100.base = NTI4026545103;
 var NNI4076863491 = {kind: 2, offset: 0, typ: null, name: null, len: 4, sons: {"0": {kind: 1, offset: 0, typ: NTI4076863491, name: "Leader", len: 0, sons: null}, 
 "1": {kind: 1, offset: 1, typ: NTI4076863491, name: "Materials", len: 0, sons: null}, 
 "2": {kind: 1, offset: 2, typ: NTI4076863491, name: "Writer", len: 0, sons: null}, 
@@ -1818,7 +1819,7 @@ NTI3170894321.base = NTI3170894320;
 var NNI838899993 = {kind: 2, len: 4, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "class0", len: 0, typ: NTI3674258220, name: "class0", sons: null}, 
 {kind: 1, offset: "palette1", len: 0, typ: NTI3674258071, name: "palette1", sons: null}, 
 {kind: 1, offset: "groupCount2", len: 0, typ: NTI3674258222, name: "groupCount2", sons: null}, 
-{kind: 1, offset: "comp5413", len: 0, typ: NTI3170894321, name: "comp5413", sons: null}]};
+{kind: 1, offset: "comp5463", len: 0, typ: NTI3170894321, name: "comp5463", sons: null}]};
 NTI838899993.node = NNI838899993;
 NTI838899993.base = NTI33555179;
 var NNI3674258859 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
@@ -1892,26 +1893,26 @@ NTI3674266626.node = NNI3674266626;
 var NNI838864205 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
 {kind: 1, offset: "Field1", len: 0, typ: NTI33554449, name: "Field1", sons: null}]};
 NTI838864205.node = NNI838864205;
-var NNI4026531885 = {kind: 2, len: 0, offset: 0, typ: null, name: null, sons: []};
-NTI4026531885.node = NNI4026531885;
-NTI4026531885.base = NTI1744830474;
+var NNI4026531883 = {kind: 2, len: 0, offset: 0, typ: null, name: null, sons: []};
+NTI4026531883.node = NNI4026531883;
+NTI4026531883.base = NTI1744830474;
 var NNI3288335453 = {kind: 1, offset: "css", len: 0, typ: NTI2248148048, name: "css", sons: null};
 NTI3288335453.node = NNI3288335453;
 NTI3288335453.base = NTI1744830474;
 NTI3288335454.base = NTI3288335453;
-var NNI838900040 = {kind: 2, len: 4, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "comp7630", len: 0, typ: NTI3288335454, name: "comp7630", sons: null}, 
-{kind: 1, offset: "comp7741", len: 0, typ: NTI3288335454, name: "comp7741", sons: null}, 
-{kind: 1, offset: "comp7852", len: 0, typ: NTI3288335454, name: "comp7852", sons: null}, 
-{kind: 1, offset: "comp7963", len: 0, typ: NTI3288335454, name: "comp7963", sons: null}]};
+var NNI838900040 = {kind: 2, len: 4, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "comp7680", len: 0, typ: NTI3288335454, name: "comp7680", sons: null}, 
+{kind: 1, offset: "comp7791", len: 0, typ: NTI3288335454, name: "comp7791", sons: null}, 
+{kind: 1, offset: "comp7902", len: 0, typ: NTI3288335454, name: "comp7902", sons: null}, 
+{kind: 1, offset: "comp8013", len: 0, typ: NTI3288335454, name: "comp8013", sons: null}]};
 NTI838900040.node = NNI838900040;
 NTI838900040.base = NTI33555179;
 var NNI838871054 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
 {kind: 1, offset: "Field1", len: 0, typ: NTI33554449, name: "Field1", sons: null}]};
 NTI838871054.node = NNI838871054;
-var NNI838900060 = {kind: 2, len: 4, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "comp8100", len: 0, typ: NTI3288335454, name: "comp8100", sons: null}, 
-{kind: 1, offset: "comp8131", len: 0, typ: NTI3288335454, name: "comp8131", sons: null}, 
-{kind: 1, offset: "comp8162", len: 0, typ: NTI3288335454, name: "comp8162", sons: null}, 
-{kind: 1, offset: "comp8193", len: 0, typ: NTI3288335454, name: "comp8193", sons: null}]};
+var NNI838900060 = {kind: 2, len: 4, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "comp8150", len: 0, typ: NTI3288335454, name: "comp8150", sons: null}, 
+{kind: 1, offset: "comp8181", len: 0, typ: NTI3288335454, name: "comp8181", sons: null}, 
+{kind: 1, offset: "comp8212", len: 0, typ: NTI3288335454, name: "comp8212", sons: null}, 
+{kind: 1, offset: "comp8243", len: 0, typ: NTI3288335454, name: "comp8243", sons: null}]};
 NTI838900060.node = NNI838900060;
 NTI838900060.base = NTI33555179;
 var NNI838872161 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
@@ -1929,10 +1930,10 @@ NTI838874882.node = NNI838874882;
 var NNI838875398 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
 {kind: 1, offset: "Field1", len: 0, typ: NTI33554449, name: "Field1", sons: null}]};
 NTI838875398.node = NNI838875398;
-var NNI838900080 = {kind: 2, len: 4, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "comp8270", len: 0, typ: NTI3288335454, name: "comp8270", sons: null}, 
-{kind: 1, offset: "comp8301", len: 0, typ: NTI3288335454, name: "comp8301", sons: null}, 
-{kind: 1, offset: "comp8332", len: 0, typ: NTI3288335454, name: "comp8332", sons: null}, 
-{kind: 1, offset: "comp8363", len: 0, typ: NTI3288335454, name: "comp8363", sons: null}]};
+var NNI838900080 = {kind: 2, len: 4, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "comp8320", len: 0, typ: NTI3288335454, name: "comp8320", sons: null}, 
+{kind: 1, offset: "comp8351", len: 0, typ: NTI3288335454, name: "comp8351", sons: null}, 
+{kind: 1, offset: "comp8382", len: 0, typ: NTI3288335454, name: "comp8382", sons: null}, 
+{kind: 1, offset: "comp8413", len: 0, typ: NTI3288335454, name: "comp8413", sons: null}]};
 NTI838900080.node = NNI838900080;
 NTI838900080.base = NTI33555179;
 var NNI838876505 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
@@ -1991,10 +1992,10 @@ NTI838887047.node = NNI838887047;
 var NNI838887715 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
 {kind: 1, offset: "Field1", len: 0, typ: NTI33554449, name: "Field1", sons: null}]};
 NTI838887715.node = NNI838887715;
-var NNI838900100 = {kind: 2, len: 4, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "comp8830", len: 0, typ: NTI3288335454, name: "comp8830", sons: null}, 
-{kind: 1, offset: "comp8871", len: 0, typ: NTI3288335454, name: "comp8871", sons: null}, 
-{kind: 1, offset: "comp8912", len: 0, typ: NTI3288335454, name: "comp8912", sons: null}, 
-{kind: 1, offset: "comp8953", len: 0, typ: NTI3288335454, name: "comp8953", sons: null}]};
+var NNI838900100 = {kind: 2, len: 4, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "comp8880", len: 0, typ: NTI3288335454, name: "comp8880", sons: null}, 
+{kind: 1, offset: "comp8921", len: 0, typ: NTI3288335454, name: "comp8921", sons: null}, 
+{kind: 1, offset: "comp8962", len: 0, typ: NTI3288335454, name: "comp8962", sons: null}, 
+{kind: 1, offset: "comp9003", len: 0, typ: NTI3288335454, name: "comp9003", sons: null}]};
 NTI838900100.node = NNI838900100;
 NTI838900100.base = NTI33555179;
 var NNI838888822 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
@@ -2812,7 +2813,8 @@ NTI3271557157.base = NTI3271557158;
 NTI3271557159.base = NTI3271557160;
 NTI3271557161.base = NTI3271557152;
 NTI3271557163.base = NTI33554449;
-var NNI3271557153 = {kind: 2, len: 13, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "counted", len: 0, typ: NTI33554466, name: "counted", sons: null}, 
+NTI2969567907.base = NTI33554435;
+var NNI3271557153 = {kind: 2, len: 14, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "counted", len: 0, typ: NTI33554466, name: "counted", sons: null}, 
 {kind: 1, offset: "kind", len: 0, typ: NTI3271557150, name: "kind", sons: null}, 
 {kind: 1, offset: "prompt", len: 0, typ: NTI3271557154, name: "prompt", sons: null}, 
 {kind: 1, offset: "content", len: 0, typ: NTI3271557155, name: "content", sons: null}, 
@@ -2824,7 +2826,8 @@ var NNI3271557153 = {kind: 2, len: 13, offset: 0, typ: null, name: null, sons: [
 {kind: 1, offset: "nlevel", len: 0, typ: NTI33554435, name: "nlevel", sons: null}, 
 {kind: 1, offset: "explained", len: 0, typ: NTI33554466, name: "explained", sons: null}, 
 {kind: 1, offset: "mark", len: 0, typ: NTI3271557162, name: "mark", sons: null}, 
-{kind: 1, offset: "standards", len: 0, typ: NTI3271557163, name: "standards", sons: null}]};
+{kind: 1, offset: "standards", len: 0, typ: NTI3271557163, name: "standards", sons: null}, 
+{kind: 1, offset: "perm", len: 0, typ: NTI2969567907, name: "perm", sons: null}]};
 NTI3271557153.node = NNI3271557153;
 NTI3271557153.base = NTI33555179;
 NTI3271557152.base = NTI3271557153;
@@ -2849,7 +2852,7 @@ var NNI3841983001 = {kind: 2, len: 0, offset: 0, typ: null, name: null, sons: []
 NTI3841983001.node = NNI3841983001;
 NTI3841983001.base = NTI1744830474;
 NTI3154116617.base = NTI3154116616;
-var NNI838900629 = {kind: 1, offset: "comp5840", len: 0, typ: NTI3154116617, name: "comp5840", sons: null};
+var NNI838900629 = {kind: 1, offset: "comp5890", len: 0, typ: NTI3154116617, name: "comp5890", sons: null};
 NTI838900629.node = NNI838900629;
 NTI838900629.base = NTI33555179;
 var NNI3841983146 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
@@ -2861,7 +2864,7 @@ NTI3841983176.node = NNI3841983176;
 var NNI3841982701 = {kind: 2, len: 0, offset: 0, typ: null, name: null, sons: []};
 NTI3841982701.node = NNI3841982701;
 NTI3841982701.base = NTI1744830474;
-var NNI838900649 = {kind: 1, offset: "comp5800", len: 0, typ: NTI3154116617, name: "comp5800", sons: null};
+var NNI838900649 = {kind: 1, offset: "comp5850", len: 0, typ: NTI3154116617, name: "comp5850", sons: null};
 NTI838900649.node = NNI838900649;
 NTI838900649.base = NTI33555179;
 var NNI3841982846 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
@@ -2918,7 +2921,7 @@ var NNI838900669 = {kind: 2, len: 6, offset: 0, typ: null, name: null, sons: [{k
 {kind: 1, offset: "peep1Wrong2", len: 0, typ: NTI3992978120, name: "peep1Wrong2", sons: null}, 
 {kind: 1, offset: "peep2Right3", len: 0, typ: NTI3992978120, name: "peep2Right3", sons: null}, 
 {kind: 1, offset: "peep2Wrong4", len: 0, typ: NTI3992978120, name: "peep2Wrong4", sons: null}, 
-{kind: 1, offset: "comp6195", len: 0, typ: NTI3170894321, name: "comp6195", sons: null}]};
+{kind: 1, offset: "comp6245", len: 0, typ: NTI3170894321, name: "comp6245", sons: null}]};
 NTI838900669.node = NNI838900669;
 NTI838900669.base = NTI33555179;
 var NNI3976200500 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554435, name: "Field0", sons: null}, 
@@ -3029,10 +3032,10 @@ var NNI3674228546 = {kind: 1, offset: "css", len: 0, typ: NTI2248148048, name: "
 NTI3674228546.node = NNI3674228546;
 NTI3674228546.base = NTI1744830474;
 NTI3238003975.base = NTI3238003974;
-var NNI838900671 = {kind: 2, len: 4, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "comp6200", len: 0, typ: NTI3238003975, name: "comp6200", sons: null}, 
-{kind: 1, offset: "comp6371", len: 0, typ: NTI3238003975, name: "comp6371", sons: null}, 
-{kind: 1, offset: "comp6542", len: 0, typ: NTI3238003975, name: "comp6542", sons: null}, 
-{kind: 1, offset: "comp6713", len: 0, typ: NTI3238003975, name: "comp6713", sons: null}]};
+var NNI838900671 = {kind: 2, len: 4, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "comp6250", len: 0, typ: NTI3238003975, name: "comp6250", sons: null}, 
+{kind: 1, offset: "comp6421", len: 0, typ: NTI3238003975, name: "comp6421", sons: null}, 
+{kind: 1, offset: "comp6592", len: 0, typ: NTI3238003975, name: "comp6592", sons: null}, 
+{kind: 1, offset: "comp6763", len: 0, typ: NTI3238003975, name: "comp6763", sons: null}]};
 NTI838900671.node = NNI838900671;
 NTI838900671.base = NTI33555179;
 NTI3992978124.base = NTI33554449;
@@ -3209,73 +3212,73 @@ var NNI3976201022 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{
 {kind: 1, offset: "Field1", len: 0, typ: NTI33554449, name: "Field1", sons: null}]};
 NTI3976201022.node = NNI3976201022;
 NTI3841982476.base = NTI3841982475;
-NTI4026531886.base = NTI4026531885;
+NTI4026531884.base = NTI4026531883;
 NTI3841983302.base = NTI3841983301;
-var NNI838900931 = {kind: 2, len: 3, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "comp6920", len: 0, typ: NTI3841982476, name: "comp6920", sons: null}, 
-{kind: 1, offset: "self1", len: 0, typ: NTI4026531886, name: "self1", sons: null}, 
-{kind: 1, offset: "comp6942", len: 0, typ: NTI3841983302, name: "comp6942", sons: null}]};
+var NNI838900931 = {kind: 2, len: 3, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "comp6970", len: 0, typ: NTI3841982476, name: "comp6970", sons: null}, 
+{kind: 1, offset: "self1", len: 0, typ: NTI4026531884, name: "self1", sons: null}, 
+{kind: 1, offset: "comp6992", len: 0, typ: NTI3841983302, name: "comp6992", sons: null}]};
 NTI838900931.node = NNI838900931;
 NTI838900931.base = NTI33555179;
 NTI3841982702.base = NTI3841982701;
 NTI3841983002.base = NTI3841983001;
-var NNI838900933 = {kind: 2, len: 8, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "comp6950", len: 0, typ: NTI3841982702, name: "comp6950", sons: null}, 
-{kind: 1, offset: "comp6981", len: 0, typ: NTI3841983002, name: "comp6981", sons: null}, 
-{kind: 1, offset: "comp7092", len: 0, typ: NTI3841982702, name: "comp7092", sons: null}, 
-{kind: 1, offset: "comp7123", len: 0, typ: NTI3841983002, name: "comp7123", sons: null}, 
-{kind: 1, offset: "comp7214", len: 0, typ: NTI3841982702, name: "comp7214", sons: null}, 
-{kind: 1, offset: "comp7245", len: 0, typ: NTI3841983002, name: "comp7245", sons: null}, 
-{kind: 1, offset: "comp7336", len: 0, typ: NTI3841982702, name: "comp7336", sons: null}, 
-{kind: 1, offset: "comp7367", len: 0, typ: NTI3841983002, name: "comp7367", sons: null}]};
+var NNI838900933 = {kind: 2, len: 8, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "comp7000", len: 0, typ: NTI3841982702, name: "comp7000", sons: null}, 
+{kind: 1, offset: "comp7031", len: 0, typ: NTI3841983002, name: "comp7031", sons: null}, 
+{kind: 1, offset: "comp7142", len: 0, typ: NTI3841982702, name: "comp7142", sons: null}, 
+{kind: 1, offset: "comp7173", len: 0, typ: NTI3841983002, name: "comp7173", sons: null}, 
+{kind: 1, offset: "comp7264", len: 0, typ: NTI3841982702, name: "comp7264", sons: null}, 
+{kind: 1, offset: "comp7295", len: 0, typ: NTI3841983002, name: "comp7295", sons: null}, 
+{kind: 1, offset: "comp7386", len: 0, typ: NTI3841982702, name: "comp7386", sons: null}, 
+{kind: 1, offset: "comp7417", len: 0, typ: NTI3841983002, name: "comp7417", sons: null}]};
 NTI838900933.node = NNI838900933;
 NTI838900933.base = NTI33555179;
-var NNI4026534750 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
+var NNI4026534748 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
 {kind: 1, offset: "Field1", len: 0, typ: NTI33554449, name: "Field1", sons: null}]};
-NTI4026534750.node = NNI4026534750;
-var NNI4026535311 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
+NTI4026534748.node = NNI4026534748;
+var NNI4026535309 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
 {kind: 1, offset: "Field1", len: 0, typ: NTI33554449, name: "Field1", sons: null}]};
-NTI4026535311.node = NNI4026535311;
-var NNI4026535579 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
+NTI4026535309.node = NNI4026535309;
+var NNI4026535577 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
 {kind: 1, offset: "Field1", len: 0, typ: NTI33554449, name: "Field1", sons: null}]};
-NTI4026535579.node = NNI4026535579;
-var NNI4026535847 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
+NTI4026535577.node = NNI4026535577;
+var NNI4026535845 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
 {kind: 1, offset: "Field1", len: 0, typ: NTI33554449, name: "Field1", sons: null}]};
-NTI4026535847.node = NNI4026535847;
-var NNI4026537752 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
+NTI4026535845.node = NNI4026535845;
+var NNI4026537750 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
 {kind: 1, offset: "Field1", len: 0, typ: NTI33554449, name: "Field1", sons: null}]};
-NTI4026537752.node = NNI4026537752;
-var NNI4026538020 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
+NTI4026537750.node = NNI4026537750;
+var NNI4026538018 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
 {kind: 1, offset: "Field1", len: 0, typ: NTI33554449, name: "Field1", sons: null}]};
-NTI4026538020.node = NNI4026538020;
-var NNI4026538288 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
+NTI4026538018.node = NNI4026538018;
+var NNI4026538286 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
 {kind: 1, offset: "Field1", len: 0, typ: NTI33554449, name: "Field1", sons: null}]};
-NTI4026538288.node = NNI4026538288;
-var NNI4026538556 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
+NTI4026538286.node = NNI4026538286;
+var NNI4026538554 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
 {kind: 1, offset: "Field1", len: 0, typ: NTI33554449, name: "Field1", sons: null}]};
-NTI4026538556.node = NNI4026538556;
-var NNI4026540459 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
+NTI4026538554.node = NNI4026538554;
+var NNI4026540457 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
 {kind: 1, offset: "Field1", len: 0, typ: NTI33554449, name: "Field1", sons: null}]};
-NTI4026540459.node = NNI4026540459;
-var NNI4026540727 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
+NTI4026540457.node = NNI4026540457;
+var NNI4026540725 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
 {kind: 1, offset: "Field1", len: 0, typ: NTI33554449, name: "Field1", sons: null}]};
-NTI4026540727.node = NNI4026540727;
-var NNI4026540995 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
+NTI4026540725.node = NNI4026540725;
+var NNI4026540993 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
 {kind: 1, offset: "Field1", len: 0, typ: NTI33554449, name: "Field1", sons: null}]};
-NTI4026540995.node = NNI4026540995;
-var NNI4026541263 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
+NTI4026540993.node = NNI4026540993;
+var NNI4026541261 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
 {kind: 1, offset: "Field1", len: 0, typ: NTI33554449, name: "Field1", sons: null}]};
-NTI4026541263.node = NNI4026541263;
-var NNI4026542638 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
+NTI4026541261.node = NNI4026541261;
+var NNI4026542636 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
 {kind: 1, offset: "Field1", len: 0, typ: NTI33554449, name: "Field1", sons: null}]};
-NTI4026542638.node = NNI4026542638;
-var NNI4026542906 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
+NTI4026542636.node = NNI4026542636;
+var NNI4026542904 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
 {kind: 1, offset: "Field1", len: 0, typ: NTI33554449, name: "Field1", sons: null}]};
-NTI4026542906.node = NNI4026542906;
-var NNI4026543174 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
+NTI4026542904.node = NNI4026542904;
+var NNI4026543172 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
 {kind: 1, offset: "Field1", len: 0, typ: NTI33554449, name: "Field1", sons: null}]};
-NTI4026543174.node = NNI4026543174;
-var NNI4026543442 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
+NTI4026543172.node = NNI4026543172;
+var NNI4026543440 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
 {kind: 1, offset: "Field1", len: 0, typ: NTI33554449, name: "Field1", sons: null}]};
-NTI4026543442.node = NNI4026543442;
+NTI4026543440.node = NNI4026543440;
 var NNI4060087133 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
 {kind: 1, offset: "Field1", len: 0, typ: NTI33554449, name: "Field1", sons: null}]};
 NTI4060087133.node = NNI4060087133;
@@ -3296,18 +3299,18 @@ var NNI4060086472 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{
 NTI4060086472.node = NNI4060086472;
 NTI3674231079.base = NTI3674231078;
 var NNI838900971 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "self0", len: 0, typ: NTI3674231079, name: "self0", sons: null}, 
-{kind: 1, offset: "comp3861", len: 0, typ: NTI3170894658, name: "comp3861", sons: null}]};
+{kind: 1, offset: "comp3911", len: 0, typ: NTI3170894658, name: "comp3911", sons: null}]};
 NTI838900971.node = NNI838900971;
 NTI838900971.base = NTI33555179;
 NTI3238002716.base = NTI3238002715;
 var NNI838900973 = {kind: 2, len: 8, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "step0", len: 0, typ: NTI3674231083, name: "step0", sons: null}, 
-{kind: 1, offset: "comp3941", len: 0, typ: NTI3238002716, name: "comp3941", sons: null}, 
+{kind: 1, offset: "comp3991", len: 0, typ: NTI3238002716, name: "comp3991", sons: null}, 
 {kind: 1, offset: "step2", len: 0, typ: NTI3674231083, name: "step2", sons: null}, 
-{kind: 1, offset: "comp4063", len: 0, typ: NTI3238002716, name: "comp4063", sons: null}, 
+{kind: 1, offset: "comp4113", len: 0, typ: NTI3238002716, name: "comp4113", sons: null}, 
 {kind: 1, offset: "step4", len: 0, typ: NTI3674231083, name: "step4", sons: null}, 
-{kind: 1, offset: "comp4185", len: 0, typ: NTI3238002716, name: "comp4185", sons: null}, 
+{kind: 1, offset: "comp4235", len: 0, typ: NTI3238002716, name: "comp4235", sons: null}, 
 {kind: 1, offset: "step6", len: 0, typ: NTI3674231083, name: "step6", sons: null}, 
-{kind: 1, offset: "comp4307", len: 0, typ: NTI3238002716, name: "comp4307", sons: null}]};
+{kind: 1, offset: "comp4357", len: 0, typ: NTI3238002716, name: "comp4357", sons: null}]};
 NTI838900973.node = NNI838900973;
 NTI838900973.base = NTI33555179;
 var NNI3674232861 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
@@ -3396,7 +3399,7 @@ var NNI3674214611 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{
 NTI3674214611.node = NNI3674214611;
 NTI3674219293.base = NTI3674219292;
 var NNI838901011 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "self0", len: 0, typ: NTI3674219293, name: "self0", sons: null}, 
-{kind: 1, offset: "comp3491", len: 0, typ: NTI3170894658, name: "comp3491", sons: null}]};
+{kind: 1, offset: "comp3541", len: 0, typ: NTI3170894658, name: "comp3541", sons: null}]};
 NTI838901011.node = NNI838901011;
 NTI838901011.base = NTI33555179;
 var NNI3674218092 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
@@ -3412,7 +3415,7 @@ var NNI3674218766 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{
 {kind: 1, offset: "Field1", len: 0, typ: NTI33554449, name: "Field1", sons: null}]};
 NTI3674218766.node = NNI3674218766;
 NTI3674221915.base = NTI3674221914;
-var NNI838901043 = {kind: 1, offset: "comp3610", len: 0, typ: NTI3674221915, name: "comp3610", sons: null};
+var NNI838901043 = {kind: 1, offset: "comp3660", len: 0, typ: NTI3674221915, name: "comp3660", sons: null};
 NTI838901043.node = NNI838901043;
 NTI838901043.base = NTI33555179;
 var NNI3674222918 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
@@ -3424,7 +3427,7 @@ NTI3674227932.node = NNI3674227932;
 var NNI3674228026 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
 {kind: 1, offset: "Field1", len: 0, typ: NTI33554449, name: "Field1", sons: null}]};
 NTI3674228026.node = NNI3674228026;
-var NNI838901063 = {kind: 1, offset: "comp3620", len: 0, typ: NTI3170895564, name: "comp3620", sons: null};
+var NNI838901063 = {kind: 1, offset: "comp3670", len: 0, typ: NTI3170895564, name: "comp3670", sons: null};
 NTI838901063.node = NNI838901063;
 NTI838901063.base = NTI33555179;
 var NNI3674226386 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
@@ -3867,7 +3870,7 @@ function nimCharToStr(x_p0) {
   return result_33556478;
 
 }
-  var roster_3690987653 = [[[78,97,109,101], [71,114,97,100,101], [73,100], [67,111,117,114,115,101], [71,101,110,100,101,114], [80,104,111,110,101], [66,105,114,116,104,100,97,121], [68,97,121,32,77,101,116], [65,103,101], [32,71,114,111,117,112,105,110,103], [82,111,108,101], [82,101,103,114,111,117,112,105,110,103], [78,111,116,101,115], [78,105,99,107,110,97,109,101], [83,83,73,68], [68,67,73,68]], [[77,65,76,68,79,78,65,68,79,44,32,74,65,89,77,65,82,89], [57], [49,50,53,48,54,53], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [52,55,53,45,51,55,55,45,49,57,54,54], [49,48,47,49,51,47,49,50], [65], [49,52], [51], [98,111,111,107,107,101,101,112,101,114], [51,32,114,101,115,116,114,105,99,116], [], [], [52,54,57,53,48,48,48,51,52,55], [52,55,49,53,55,56]], [[90,73,78,75,44,32,78,73,75,79,76,65,83], [57], [49,50,50,52,51,56], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,56,48,50,45,48,51,54,55], [48,53,47,48,49,47,49,50], [65], [49,52], [51], [], [51,32,114,101,115,116,114,105,99,116], [], [], [49,57,49,53,56,57,53,57,56,51], [52,55,49,52,52,52]], [[82,79,83,65,82,73,79,44,32,65,66,73,71,65,73,76], [57], [49,52,56,54,55,49], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [52,55,53,45,51,51,55,45,57,57,49,51], [51,47,55,47,49,50], [65], [49,53], [54], [99,111,108,108,101,99,116,101,114], [54,32,114,101,115,116,114,105,99,116], [], [], [52,52,54,54,55,54,49,49,54,49], [54,51,54,55,54,50]], [[78,73,69,86,69,83,44,32,74,65,89,68,69,78], [57], [49,50,49,50,48,48], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,57,56,50,45,53,49,53,52], [48,56,47,51,48,47,49,50], [65], [49,52], [54], [], [54,32,114,101,115,116,114,105,99,116], [], [], [56,49,50,53,53,57,57,51,57,57], [52,55,50,53,50,57]], [[83,65,78,84,79,83,44,32,77,65,75,65,89,76,65], [57], [49,50,53,51,56,55], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,53,57,48,45,49,53,48,53], [48,57,47,48,51,47,49,50], [65], [49,52], [54], [], [54,32,114,101,115,116,114,105,99,116], [], [], [53,55,57,51,54,56,55,55,48,56], [53,54,53,50,49,51]], [[82,79,68,82,73,71,85,69,90,44,32,70,82,65,78,67,73,83,67,79], [57], [49,50,52,54,54,49], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,56,53,48,45,51,51,51,54], [48,56,47,51,49,47,49,50], [65], [49,52], [56], [99,111,108,108,101,99,116,101,114], [56,32,114,101,115,116,114,105,99,116], [], [], [57,56,50,56,48,54,54,50,56,49], [52,55,50,56,55,55]], [[77,67,67,65,76,76,65,44,32,75,65,89,76,73,69], [57], [49,52,53,57,55,55], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,53,50,56,45,56,55,54,54], [48,57,47,49,57,47,49,50], [65], [49,52], [56], [100,105,115,116,114,105,98,117,116,111,114], [56,32,114,101,115,116,114,105,99,116], [], [], [52,49,49,54,53,55,57,52,56,49], [54,50,53,55,50,55]], [[87,65,82,68,45,82,79,68,82,73,71,85,69,90,44,32,77,69,75,72,73], [57], [49,50,52,54,53,50], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,56,51,51,45,57,57,57,48], [48,57,47,51,48,47,49,50], [65], [49,52], [55], [], [55,32,114,101,115,116,114,105,99,116], [], [], [54,49,53,52,49,57,54,52,49,55], [52,55,49,55,56,53]], [[86,65,76,69,82,65,44,32,89,69,83,77,69,76,73], [57], [49,50,48,52,54,52], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [51,53,50,45,50,49,54,45,53,52,48,57], [48,56,47,49,51,47,49,50], [65], [49,52], [55], [], [55,32,114,101,115,116,114,105,99,116], [], [], [53,51,53,54,49,55,48,50,48,51], [52,54,53,56,55,49]], [[87,65,84,83,79,78,44,32,74,65,68,69,78], [57], [49,50,49,53,52,57], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,56,48,53,45,51,54,54,53], [49,49,47,49,49,47,49,49], [65], [49,53], [55], [], [55,32,114,101,115,116,114,105,99,116], [], [], [53,49,57,54,48,57,56,54,55,49], [52,55,50,57,53,49]], [[82,73,86,69,82,65,44,32,65,73,68,69,78], [57], [49,52,49,55,56,49], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,54,57,48,45,54,57,53,53], [48,52,47,49,52,47,49,50], [65], [49,52], [55], [], [55,32,114,101,115,116,114,105,99,116], [], [], [52,54,48,54,51,52,57,53,52,51], [52,55,50,51,48,49]], [[87,65,76,83,72,44,32,74,65,89,68,69,78], [57], [49,53,51,49,56,55], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,56,48,56,45,55,55,53,51], [48,51,47,48,56,47,49,50], [65], [49,53], [55], [], [55,32,114,101,115,116,114,105,99,116], [], [], [49,49,50,51,53,48,51,52,55,52], [54,52,55,52,57,56]], [[86,65,90,81,85,69,90,44,32,73,83,65,73,65,72], [57], [49,50,52,55,55,49], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,53,57,50,45,57,48,49,49], [52,47,50,53,47,49,50], [65], [49,52], [49], [], [49,32,114,101,115,116,114,105,99,116], [], [], [52,56,53,51,52,54,51,48,51,54], [52,55,50,49,52,53]], [[82,65,77,79,83,44,32,70,82,65,78,67,73,83,67,79], [57], [49,50,52,51,50,51], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [51,52,55,45,56,55,50,45,50,51,51,53], [48,54,47,50,49,47,49,50], [65], [49,52], [49], [], [49,32,114,101,115,116,114,105,99,116], [], [], [53,52,51,49,51,52,54,57,48,49], [52,55,49,57,55,50]], [[82,79,83,65,82,73,79,44,32,78,73,67,72,79,76,65,83], [57], [49,50,53,54,53,50], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [57,50,57,45,50,53,51,45,52,53,48,52], [49,48,47,50,54,47,49,50], [65], [49,52], [49], [], [49,32,114,101,115,116,114,105,99,116], [], [], [56,49,55,52,49,51,52,50,51,49], [53,54,53,53,48,54]], [[80,73,78,84,79,44,32,67,72,82,73,83,84,73,65,78], [57], [49,50,49,49,49,48], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,53,48,55,45,48,48,55,53], [48,50,47,48,54,47,49,50], [65], [49,53], [50], [], [50,32,114,101,115,116,114,105,99,116], [], [], [51,48,51,54,48,57,50,56,48,57], [52,55,50,53,52,57]], [[77,65,82,84,69,78,83,83,79,78,45,67,65,83,84,73,76,76,79,44,32,84,72,73,65,78,65], [57], [49,50,52,57,48,54], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [52,55,53,45,55,51,49,45,48,55,55,54], [48,56,47,50,50,47,49,50], [65], [49,52], [50], [], [50,32,114,101,115,116,114,105,99,116], [], [], [52,54,56,57,56,50,50,49,50,50], [52,55,49,54,52,55]], [[86,65,83,81,85,69,90,44,32,71,69,78,69,83,73,83], [57], [49,50,52,51,51,48], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [56,54,48,45,50,56,52,45,56,50,56,48], [49,50,47,48,51,47,49,50], [65], [49,52], [50], [], [50,32,114,101,115,116,114,105,99,116], [], [], [56,53,52,57,57,52,53,53,49,54], [52,55,49,57,54,53]], [[87,65,76,75,69,82,44,32,74,65,66,65,82,73,69], [57], [49,51,56,50,54,48], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [51,49,48,45,54,51,52,45,57,48,55,49], [49,49,47,50,53,47,49,49], [65], [49,53], [53], [], [53,32,114,101,115,116,114,105,99,116], [], [], [49,55,48,54,50,50,56,52,56,56], [53,57,52,52,50,55]], [[82,73,86,69,82,65,44,32,74,79,83,69,80,72], [56], [49,51,50,57,54,52], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,53,49,57,45,53,55,52,56], [49,50,47,49,54,47,50,48,48,57], [65], [49,55], [53], [], [53,32,114,101,115,116,114,105,99,116], [], [], [51,52,56,55,56,56,50,56,56,54], [53,54,53,48,53,56]], [[84,82,69,78,73,69,82,44,32,65,76,73,78], [57], [49,51,56,56,55,48], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,53,49,56,45,51,54,56,54], [48,57,47,48,50,47,49,49], [65], [49,53], [53], [], [53,32,114,101,115,116,114,105,99,116], [], [], [57,53,56,54,50,51,56,49,53,51], [53,57,53,52,56,48]], [[82,79,83,83,44,32,65,77,66,69,82], [57], [49,50,52,50,56,54], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,53,49,48,45,55,53,54,56], [49,48,47,48,53,47,49,50], [65], [49,52], [53], [], [53,32,114,101,115,116,114,105,99,116], [], [], [53,50,53,51,54,51,49,48,50,55], [52,55,50,48,48,54]], [[82,73,86,69,82,65,44,32,74,65,68,73,69,76], [57], [49,50,50,50,57,50], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,56,48,56,45,49,57,51,57], [48,53,47,50,49,47,49,50], [65], [49,52], [53], [], [53,32,114,101,115,116,114,105,99,116], [], [], [50,52,55,51,48,54,55,56,57,56], [53,55,52,52,55,48]], [[84,79,82,82,69,71,82,79,83,65,44,32,75,69,76,77,65,82,73,69], [57], [49,50,48,49,52,53], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [52,55,53,45,51,49,53,45,49,53,54,49], [48,55,47,50,52,47,49,49], [65], [49,53], [53], [], [53,32,114,101,115,116,114,105,99,116], [], [], [49,56,49,51,50,48,53,52,50,48], [52,54,52,48,53,54]], [[82,79,68,82,73,71,85,69,90,45,69,83,67,82,73,66,65,78,79,44,32,90,79,69,76,73,65,78,89,83], [57], [49,50,51,48,55,54], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,55,48,54,45,57,56,56,48], [48,57,47,50,53,47,49,50], [65], [49,52], [57], [], [57,32,114,101,115,116,114,105,99,116], [], [], [55,54,50,49,52,57,55,53,52,53], [52,55,49,55,55,54]], [[67,79,76,76,65,68,79,45,86,65,82,71,65,83,44,32,89,79,69,78,68,89], [57], [49,50,52,51,48,52], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,53,50,56,45,49,57,56,56], [49,49,47,51,48,47,49,50], [65], [49,52], [57], [], [57,32,114,101,115,116,114,105,99,116], [], [], [54,50,55,54,48,49,50,49,54,53], [52,55,49,57,56,56]], [[77,65,68,72,79,79,44,32,65,85,83,84,73,78], [57], [49,50,52,54,55,52], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,56,48,53,45,51,56,55,57], [48,57,47,50,55,47,49,50], [65], [49,52], [57], [], [57,32,114,101,115,116,114,105,99,116], [], [], [57,54,51,57,50,49,51,48,55,48], [52,55,49,55,54,53]], [[82,73,86,69,82,65,45,71,65,82,67,73,65,44,32,68,69,83,84,73,78,89], [57], [49,50,53,55,52,54], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,50,49,55,45,54,56,51,49], [48,50,47,50,52,47,49,50], [66], [49,53], [51], [], [51,32,114,101,115,116,114,105,99,116], [], [], [54,56,56,53,56,57,49,49,48,52], [54,48,56,50,54,56]], [[86,69,76,69,90,44,32,77,89,65], [57], [49,49,56,54,55,55], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,56,48,53,45,50,50,49,48], [48,51,47,50,57,47,49,50], [66], [49,52], [51], [116,117,116,111,114], [51,32,114,101,115,116,114,105,99,116], [], [], [52,56,56,49,55,54,56,57,55,56], [52,55,50,49,54,51]], [[83,65,78,84,73,65,71,79,44,32,74,65,82,73,88,73,69,76,89], [57], [49,50,50,51,48,56], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,52,52,48,45,56,56,56,51], [48,50,47,49,51,47,49,50], [66], [49,53], [51], [], [51,32,114,101,115,116,114,105,99,116], [], [], [57,54,57,57,48,56,52,56,49,50], [52,55,50,50,57,57]], [[84,79,82,82,69,83,44,32,65,78,73,88,65], [57], [49,50,49,48,48,49], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,56,52,49,45,56,48,53,55], [48,57,47,51,48,47,49,49], [66], [49,53], [51], [100,105,115,116,114,105,98,117,116,111,114], [51,32,114,101,115,116,114,105,99,116], [], [], [54,53,52,54,52,52,52,56,53,52], [52,55,50,53,54,48]], [[80,85,76,76,73,65,77,44,32,77,73,65], [57], [49,50,52,54,52,57], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [52,55,48,45,52,51,57,45,55,48,56,54], [48,57,47,50,49,47,49,50], [66], [49,52], [54], [], [54,32,114,101,115,116,114,105,99,116], [], [], [57,56,55,53,57,52,49,54,55,52], [52,55,49,55,56,56]], [[76,65,73,82,69,83,44,32,65,73,68,69,78], [57], [49,53,51,52,56,52], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,55,48,53,45,55,52,54,57], [48,54,47,50,50,47,49,49], [66], [49,53], [54], [], [54,32,114,101,115,116,114,105,99,116], [], [], [54,51,55,48,52,54,52,48,57,49], [54,52,56,51,49,48]], [[84,82,69,78,84,44,32,77,65,72,75,65,73,82,65,72], [57], [49,52,51,51,49,55], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,53,49,48,45,52,53,49,53], [49,50,47,50,49,47,49,50], [66], [49,52], [54], [], [54,32,114,101,115,116,114,105,99,116], [], [], [56,57,55,53,51,50,53,51,57,55], [54,49,53,50,52,57]], [[77,65,82,84,89,44,32,82,65,70,65,69,76], [57], [49,50,53,55,48,55], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,57,48,49,45,54,51,50,49], [48,55,47,51,49,47,49,50], [66], [49,52], [56], [], [56,32,114,101,115,116,114,105,99,116], [], [], [55,56,55,54,54,54,55,54,52,49], [53,54,53,53,54,53]], [[79,82,84,73,90,44,32,74,72,79,78,69,76,76], [57], [49,50,53,49,55,52], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [52,55,53,45,50,57,54,45,48,53,51,48], [49,50,47,48,53,47,49,50], [66], [49,52], [56], [], [56,32,114,101,115,116,114,105,99,116], [], [], [57,57,53,54,56,50,50,54,57,52], [53,55,48,53,52,56]], [[86,69,76,69,90,44,32,82,73,65,77,65,76,89,83], [57], [49,50,51,50,49,52], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,55,48,54,45,54,56,57,56], [48,51,47,50,57,47,49,50], [66], [49,52], [56], [99,111,108,108,101,99,116,101,114], [56,32,114,101,115,116,114,105,99,116], [], [], [49,52,48,52,51,50,56,50,55,49], [53,55,48,52,53,55]], [[83,65,78,84,65,44,32,82,89,65,78], [57], [49,50,49,55,52,57], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,52,52,55,45,57,55,52,55], [48,50,47,48,56,47,49,49], [66], [49,54], [56], [], [56,32,114,101,115,116,114,105,99,116], [], [], [57,52,51,51,57,49,55,56,57,57], [52,55,50,52,52,48]], [[84,72,79,77,80,83,79,78,44,32,72,65,82,77,79,78,89], [57], [49,50,50,53,54,57], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,51,54,48,45,53,49,49,54], [48,55,47,49,56,47,49,50], [66], [49,52], [55], [], [55,32,114,101,115,116,114,105,99,116], [], [], [57,51,48,53,55,48,56,52,52,56], [52,55,50,50,54,50]], [[80,79,77,65,81,85,73,90,65,44,32,74,69,78,78,69], [57], [49,50,52,53,53,56], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [52,55,53,45,50,54,51,45,50,55,54,57], [48,49,47,49,54,47,50,48,49,50], [66], [49,53], [55], [100,105,115,116,114,105,98,117,116,111,114], [55,32,114,101,115,116,114,105,99,116], [], [], [52,56,53,51,52,57,53,53,52,51], [52,55,52,55,54,49]], [[66,76,65,78,67,72,65,82,68,44,32,70,69,76,73,88], [57], [49,50,52,52,56,52], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,57,56,50,45,50,54,55,51], [54,47,50,55,47,50,48,49,50], [66], [49,52], [49], [], [49,32,114,101,115,116,114,105,99,116], [], [], [56,52,51,56,51,53,48,50,54,49], [52,55,52,55,49,48]], [[77,69,68,73,78,65,44,32,77,73,65], [57], [49,50,53,57,51,57], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [52,55,53,45,50,51,51,45,56,50,48,54], [48,53,47,48,56,47,49,50], [66], [49,52], [49], [98,111,111,107,107,101,101,112,101,114], [49,32,114,101,115,116,114,105,99,116], [], [], [54,54,57,56,48,51,48,55,51,48], [53,54,53,56,48,53]], [[83,69,71,65,82,82,65,44,32,65,68,65,77,65,82,89,83], [57], [49,50,49,49,49,53], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,53,57,50,45,51,51,55,54], [48,55,47,48,56,47,49,50], [66], [49,52], [49], [], [49,32,114,101,115,116,114,105,99,116], [], [], [53,54,53,48,53,53,56,51,49,56], [52,55,50,53,52,53]], [[83,79,79,75,65,73,44,32,74,79,82,68,73,78], [57], [49,49,56,57,48,53], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,53,57,50,45,50,48,51,57], [49,49,47,48,55,47,49,49], [66], [49,53], [50], [], [50,32,114,101,115,116,114,105,99,116], [], [], [56,49,53,56,57,54,57,49,49,52], [52,54,48,53,52,54]], [[70,69,76,73,67,73,65,78,79,44,32,76,89,65,72,78,73,83], [49,48], [49,49,56,56,51,56], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,53,49,48,45,50,52,52,55], [48,57,47,48,49,47,49,49], [66], [49,53], [50], [], [50,32,114,101,115,116,114,105,99,116], [], [], [51,48,50,48,49,54,51,56,53,56], [52,49,50,56,54,52]], [[77,65,82,82,69,82,79,44,32,78,65,84,72,65,78], [57], [49,52,56,57,49,53], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [51,52,55,45,51,55,54,45,49,48,49,51], [48,54,47,49,53,47,49,50], [66], [49,52], [50], [], [50,32,114,101,115,116,114,105,99,116], [], [], [50,55,52,57,57,55,52,52,50,50], [54,51,55,50,56,55]], [[68,79,90,73,69,82,44,32,74,65,72,77,73,82], [57], [49,50,53,51,50,49], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [54,52,54,45,53,52,52,45,50,57,53,51], [48,56,47,49,56,47,49,50], [66], [49,52], [50], [], [50,32,114,101,115,116,114,105,99,116], [], [], [57,51,52,48,53,52,50,53,54,50], [53,54,53,49,49,52]], [[65,77,80,65,82,79,45,66,69,65,84,79,44,32,76,73,65,77], [57], [49,51,56,50,51,54], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [52,55,53,45,51,49,51,45,52,50,53,57], [48,56,47,49,57,47,49,50], [66], [49,52], [53], [], [53,32,114,101,115,116,114,105,99,116], [], [], [54,48,53,49,50,53,50,55,49,51], [53,57,52,51,56,48]], [[86,69,76,69,90,44,32,77,73,65], [57], [49,50,52,51,55,50], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,56,49,57,45,50,55,49,52], [48,52,47,49,51,47,49,50], [66], [49,52], [53], [], [53,32,114,101,115,116,114,105,99,116], [], [], [56,49,51,56,50,55,51,50,50,52], [52,54,55,51,50,49]], [[83,69,77,69,82,65,82,79,44,32,78,73,75,79,76,73], [57], [49,52,52,48,55,53], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,51,49,55,45,51,54,49,55], [48,51,47,50,56,47,49,49], [66], [49,53], [53], [], [53,32,114,101,115,116,114,105,99,116], [], [], [49,52,54,53,48,57,50,51,56,52], [54,49,57,55,49,51]], [[83,72,65,78,68,44,32,80,82,69,67,73,79,85,83], [57], [49,50,53,57,52,53], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,50,51,50,45,52,56,57,53], [48,51,47,48,55,47,49,50], [66], [49,53], [53], [], [53,32,114,101,115,116,114,105,99,116], [], [], [54,48,50,49,52,56,52,55,53,49], [53,54,53,56,49,49]], [[82,69,68,68,44,32,68,69,78,73,83,69], [57], [49,49,55,50,48,54], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,53,54,53,45,54,51,57,48], [48,50,47,50,56,47,49,49], [66], [49,54], [57], [], [57,32,114,101,115,116,114,105,99,116], [], [], [56,53,50,55,53,55,48,55,49,54], [52,52,57,48,51,51]], [[80,73,77,69,78,84,69,76,44,32,67,72,82,73,83], [57], [49,50,51,51,52,50], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,53,54,48,45,55,51,53,49], [48,49,47,49,54,47,49,50], [66], [49,53], [57], [99,111,108,108,101,99,116,101,114], [57,32,114,101,115,116,114,105,99,116], [], [], [53,56,57,52,49,52,56,50,51,56], [52,55,50,49,51,49]], [[83,65,78,68,79,86,65,76,44,32,66,69,78,73,67,73,79], [57], [49,50,52,53,55,52], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,55,54,56,45,53,49,53,49], [48,53,47,48,53,47,49,50], [66], [49,52], [52], [], [52,32,114,101,115,116,114,105,99,116], [], [], [53,52,49,55,51,48,52,52,53,49], [52,55,49,56,54,49]], [[82,73,86,69,82,65,44,32,75,65,89,76,69,69], [57], [49,50,53,50,54,53], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,53,49,48,45,49,54,56,50], [48,51,47,50,57,47,49,50], [66], [49,52], [52], [], [52,32,114,101,115,116,114,105,99,116], [], [], [54,57,48,49,55,51,53,56,55,56], [53,54,53,54,48,53]], [[83,65,78,84,65,78,65,44,32,74,65,78,65,83,73,65], [57], [49,50,53,51,50,57], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,54,57,53,45,57,48,49,57], [48,53,47,49,52,47,49,50], [66], [49,52], [52], [], [52,32,114,101,115,116,114,105,99,116], [], [], [49,50,55,48,56,50,53,55,49,57], [53,54,53,49,53,50]], [[65,82,73,65,83,44,32,74,65,67,75], [57], [49,50,53,57,55,55], [50,40,65,41,32,65,76,71,69,66,82,65,32,49,32,72,79,78,79,82,83], [77], [50,48,51,45,52,54,48,45,50,48,48,48], [49,48,47,49,57,47,49,50], [65], [49,52], [51], [], [51,32,114,101,115,116,114,105,99,116], [], [], [49,52,50,49,52,54,53,55,52,56], [53,54,53,56,52,54]], [[67,79,76,76,73,69,82,44,32,65,73,68,69,78], [57], [49,50,50,57,54,56], [50,40,65,41,32,65,76,71,69,66,82,65,32,49,32,72,79,78,79,82,83], [77], [56,54,48,45,56,55,57,45,52,53,57,53], [55,47,53,47,49,50], [65], [49,52], [54], [], [54,32,114,101,115,116,114,105,99,116], [], [], [52,56,55,49,55,54,55,48,57,57], [52,55,50,50,51,48]], [[67,85,78,72,65,45,74,85,78,81,85,69,73,82,65,44,32,76,85,73,90,65], [57], [49,51,57,50,51,49], [50,40,65,41,32,65,76,71,69,66,82,65,32,49,32,72,79,78,79,82,83], [70], [52,55,53,45,52,52,57,45,50,56,53,52], [55,47,55,47,49,50], [65], [49,52], [55], [], [55,32,114,101,115,116,114,105,99,116], [], [], [49,57,53,55,55,57,48,48,53,49], [53,57,54,49,48,51]], [[71,65,82,67,73,65,44,32,65,78,78,65,66,69,76,76], [57], [49,50,53,57,50,50], [50,40,65,41,32,65,76,71,69,66,82,65,32,49,32,72,79,78,79,82,83], [70], [50,48,51,45,53,54,53,45,49,51,50,57], [48,49,47,51,48,47,49,50], [65], [49,53], [55], [], [55,32,114,101,115,116,114,105,99,116], [], [], [52,52,51,52,50,49,51,50,48,57], [53,54,53,55,56,54]], [[80,69,84,69,44,32,65,92,39,77,65,82,65,72,76,69,69], [57], [49,50,52,56,54,51], [50,40,65,41,32,65,76,71,69,66,82,65,32,49,32,72,79,78,79,82,83], [70], [50,48,51,45,53,48,50,45,57,57,50,48], [49,48,47,49,55,47,50,48,49,50], [65], [49,52], [55], [99,111,108,108,101,99,116,101,114], [55,32,114,101,115,116,114,105,99,116], [], [], [54,53,56,56,48,54,54,54,49,48], [52,55,49,54,54,53]], [[86,69,76,69,90,45,71,65,82,67,73,65,44,32,74,79,83,72,85,65], [57], [49,50,57,55,54,55], [50,40,65,41,32,65,76,71,69,66,82,65,32,49,32,72,79,78,79,82,83], [77], [51,52,55,45,57,57,48,45,48,49,51,48], [49,47,54,47,49,50], [65], [49,53], [55], [], [55,32,114,101,115,116,114,105,99,116], [], [], [54,49,57,56,54,52,50,56,55,51], [52,55,49,57,50,54]], [[76,79,80,69,83,44,32,65,82,84,72,85,82], [57], [49,50,51,51,56,53], [50,40,65,41,32,65,76,71,69,66,82,65,32,49,32,72,79,78,79,82,83], [77], [50,48,51,45,52,54,53,45,51,49,49,50], [48,55,47,51,48,47,49,50], [65], [49,52], [55], [], [55,32,114,101,115,116,114,105,99,116], [], [], [51,54,51,56,50,57,57,54,56,54], [52,55,50,49,50,50]], [[71,65,85,84,72,73,69,82,44,32,68,65,78,32,71,85,69,83,76,89], [57], [49,52,51,50,57,56], [50,40,65,41,32,65,76,71,69,66,82,65,32,49,32,72,79,78,79,82,83], [77], [52,55,53,45,51,50,54,45,48,48,56,56], [49,50,47,50,49,47,49,50], [65], [49,52], [55], [], [55,32,114,101,115,116,114,105,99,116], [], [], [54,48,50,53,48,51,53,52,54,49], [54,49,53,48,53,53]], [[83,65,78,84,73,65,71,79,44,32,74,79,83,69], [57], [49,50,48,57,50,57], [50,40,65,41,32,65,76,71,69,66,82,65,32,49,32,72,79,78,79,82,83], [77], [50,48,51,45,56,48,53,45,51,51,55,53], [48,50,47,48,55,47,49,50], [65], [49,53], [55], [], [55,32,114,101,115,116,114,105,99,116], [], [], [52,49,51,52,49,52,54,48,50,57], [52,55,50,53,55,50]], [[81,85,73,90,72,80,73,45,83,65,69,84,69,82,79,83,44,32,82,79,78,65,76,68], [57], [49,52,53,48,57,56], [50,40,65,41,32,65,76,71,69,66,82,65,32,49,32,72,79,78,79,82,83], [77], [51,52,55,45,55,55,56,45,57,54,53,56], [48,50,47,48,52,47,49,50], [65], [49,53], [55], [], [55,32,114,101,115,116,114,105,99,116], [], [], [49,51,48,55,49,49,54,48,55,56], [54,50,50,57,49,55]], [[70,69,82,82,69,73,82,65,44,32,71,65,66,82,73,69,76], [57], [49,51,57,52,54,50], [50,40,65,41,32,65,76,71,69,66,82,65,32,49,32,72,79,78,79,82,83], [77], [55,55,52,45,50,50,50,45,49,48,49,55], [50,47,50,47,49,50], [65], [49,53], [55], [100,105,115,116,114,105,98,117,116,111,114], [55,32,114,101,115,116,114,105,99,116], [], [], [53,51,48,53,53,51,57,50,54,48], [53,57,54,54,53,53]], [[66,69,82,78,65,82,68,44,32,67,72,82,73,83,84,79,80,72,69,82], [57], [49,50,50,53,55,54], [50,40,65,41,32,65,76,71,69,66,82,65,32,49,32,72,79,78,79,82,83], [77], [50,48,51,45,53,55,49,45,57,56,51,49], [48,57,47,50,48,47,49,50], [65], [49,52], [55], [], [55,32,114,101,115,116,114,105,99,116], [], [], [51,55,52,55,56,57,55,57,52,50], [52,55,50,50,53,54]], [[68,69,86,73,84,79,44,32,68,65,78,73,69,76], [57], [49,53,51,53,52,56], [50,40,65,41,32,65,76,71,69,66,82,65,32,49,32,72,79,78,79,82,83], [77], [56,54,48,45,53,49,56,45,52,54,50,53], [48,56,47,48,51,47,49,49], [65], [49,53], [50], [], [50,32,114,101,115,116,114,105,99,116], [], [], [56,54,52,49,51,51,55,55,51,52], [54,52,56,52,54,48]], [[67,82,85,90,45,82,79,68,82,73,71,85,69,90,44,32,65,66,73,77,69,76,69,67], [57], [49,50,52,53,53,54], [50,40,65,41,32,65,76,71,69,66,82,65,32,49,32,72,79,78,79,82,83], [77], [57,48,52,45,57,57,51,45,49,50,51,50], [49,49,47,48,56,47,49,50], [65], [49,52], [50], [], [50,32,114,101,115,116,114,105,99,116], [], [], [52,49,53,54,50,51,48,51,53,51], [53,54,52,57,56,50]], [[65,82,90,85,44,32,65,68,82,73,89,69,78], [57], [49,50,50,50,50,55], [50,40,65,41,32,65,76,71,69,66,82,65,32,49,32,72,79,78,79,82,83], [77], [55,49,56,45,55,48,56,45,57,54,52,57], [48,57,47,49,56,47,49,50], [65], [49,52], [53], [], [53,32,114,101,115,116,114,105,99,116], [], [], [56,56,55,51,55,49,57,50,55,48], [53,54,53,48,50,56]], [[82,79,66,69,82,84,83,79,78,44,32,75,73,77,65,78,73], [49,48], [49,53,49,57,51,54], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [57,53,57,45,50,53,54,45,57,50,51,56], [49,50,47,51,48,47,49,49], [65], [49,53], [51], [], [], [], [], [], [], [], []], [[80,76,65,78,65,83,44,32,83,89,69,73,82,65], [57], [49,49,57,50,57,50], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [52,55,53,45,51,49,51,45,53,56,49,49], [49,48,47,51,49,47,49,50], [65], [49,52], [51], [], [51,32,114,101,115,116,114,105,99,116], [], [], [51,52,51,51,50,51,48,51,54,55], [52,52,54,53,56,51]], [[77,73,84,67,72,69,76,76,44,32,82,65,72,77,89,65], [57], [49,50,53,49,56,53], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,56,48,56,45,50,55,55,48], [48,57,47,49,55,47,49,50], [65], [49,52], [51], [], [51,32,114,101,115,116,114,105,99,116], [], [], [52,50,56,52,53,56,56,49,55,51], [52,55,49,53,52,48]], [[78,85,78,69,90,44,32,77,65,84,84,72,69,87], [57], [49,51,50,57,49,51], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [57,49,55,45,56,56,57,45,53,48,57,55], [52,47,49,54,47,49,50], [65], [49,52], [54], [], [54,32,114,101,115,116,114,105,99,116], [], [], [55,52,54,55,57,57,55,55,53,49], [53,55,52,51,55,49]], [[82,79,87,83,79,78,44,32,65,77,65,82,73], [57], [49,50,52,51,50,52], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,57,49,48,45,54,50,51,52], [48,55,47,48,54,47,49,50], [65], [49,52], [56], [], [56,32,114,101,115,116,114,105,99,116], [], [], [57,48,55,48,50,57,57,55,53,52], [52,55,49,57,55,49]], [[77,69,78,68,79,90,65,44,32,65,84,72,69,78,65], [57], [49,49,56,55,50,48], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,52,49,57,45,54,48,49,54], [49,49,47,49,50,47,49,50], [65], [49,52], [56], [], [56,32,114,101,115,116,114,105,99,116], [], [], [50,55,49,56,51,52,51,52,51,49], [52,51,54,48,49,56]], [[71,85,84,73,69,82,82,69,90,44,32,74,79,78,65,84,72,65,78], [57], [49,52,50,57,50,57], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [55,49,56,45,54,57,48,45,56,48,51,52], [49,48,47,50,53,47,49,49], [65], [49,53], [55], [], [55,32,114,101,115,116,114,105,99,116], [], [], [52,55,54,56,50,55,55,50,51,50], [54,49,50,50,48,51]], [[65,80,79,78,84,69,45,83,65,78,84,73,65,71,79,44,32,75,69,89,76,73,65,78,73,83], [57], [49,50,50,50,54,51], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [52,55,53,45,51,48,53,45,57,57,57,51], [49,48,47,50,52,47,49,50], [65], [49,52], [55], [], [55,32,114,101,115,116,114,105,99,116], [], [], [57,52,53,52,48,56,57,52,54,57], [52,55,50,51,49,53]], [[77,69,82,69,74,79,44,32,67,65,77,73,76,65], [57], [49,49,56,55,50,50], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,53,49,57,45,52,55,57,49], [48,57,47,50,54,47,49,50], [65], [49,52], [55], [], [55,32,114,101,115,116,114,105,99,116], [], [], [49,56,48,52,52,48,54,54,57,48], [52,51,54,50,55,51]], [[83,80,65,82,75,77,65,78,44,32,69,77,73,76,76,73,65,78,65], [57], [49,50,50,50,49,52], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,56,48,50,45,50,50,55,55], [55,47,49,47,49,49], [65], [49,53], [49], [], [49,32,114,101,115,116,114,105,99,116], [], [], [55,51,56,54,50,49,48,56,56,53], [52,55,50,51,50,56]], [[82,79,68,82,73,71,85,69,90,44,32,75,65,68,73,65,78], [49,48], [49,50,49,56,49,52], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [56,54,48,45,52,54,49,45,50,56,48,56], [48,52,47,50,56,47,49,49], [65], [49,53], [49], [], [49,32,114,101,115,116,114,105,99,116], [], [], [54,56,56,55,52,53,52,49,50,53], [53,54,55,49,50,54]], [[65,71,85,65,73,90,65,45,81,85,73,90,72,80,73,44,32,74,69,70,70,69,82,83,79,78], [57], [49,51,50,52,55,57], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,57,50,56,45,55,49,55,48], [48,51,47,48,55,47,49,50], [65], [49,53], [49], [], [49,32,114,101,115,116,114,105,99,116], [], [], [54,53,48,49,50,49,52,51,49,49], [53,55,51,57,48,49]], [[82,79,68,82,73,71,85,69,90,44,32,78,65,82,73,69,76,89,90], [57], [49,50,55,48,48,57], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [56,54,48,45,56,54,51,45,56,52,52,51], [49,48,47,50,47,49,50], [65], [49,52], [49], [], [49,32,114,101,115,116,114,105,99,116], [], [], [55,48,49,52,51,49,52,54,49,49], [52,55,50,50,48,50]], [[77,65,78,78,73,78,71,44,32,80,69,89,84,79,78], [57], [49,50,51,48,55,51], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [52,55,53,45,51,54,54,45,54,55,53,56], [49,48,47,50,50,47,49,50], [65], [49,52], [50], [], [50,32,114,101,115,116,114,105,99,116], [], [], [52,53,55,57,50,50,49,50,53,55], [52,55,50,50,48,52]], [[68,69,90,73,69,76,44,32,65,66,73,71,65,69,76], [57], [49,50,52,51,51,57], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [52,55,53,45,50,54,51,45,55,50,53,53], [49,49,47,50,52,47,49,50], [65], [49,52], [50], [], [50,32,114,101,115,116,114,105,99,116], [], [], [53,52,50,48,53,55,48,56,51,54], [52,55,49,57,53,57]], [[66,85,82,82,85,83,83,44,32,77,73,92,39,67,72,65,69,76,65], [57], [49,53,50,48,54,50], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,57,49,52,45,56,48,56,53], [48,57,47,50,57,47,49,50], [65], [49,52], [50], [], [50,32,114,101,115,116,114,105,99,116], [], [], [55,54,52,55,53,54,52,51,48,52], [54,52,51,57,51,54]], [[74,79,78,69,83,44,32,74,65,89,76,73,65,78,65], [57], [49,50,54,54,57,51], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,50,53,56,45,51,56,52,50], [49,50,47,49,51,47,49,50], [65], [49,52], [50], [], [50,32,114,101,115,116,114,105,99,116], [], [], [52,51,56,56,52,50,52,56,48,51], [53,54,54,55,55,49]], [[87,73,76,76,73,65,77,83,44,32,74,69,82,77,65,73,78,69], [57], [49,50,53,55,52,56], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [57,53,57,45,50,48,48,45,50,55,50,55], [48,52,47,48,50,47,49,50], [65], [49,52], [50], [], [50,32,114,101,115,116,114,105,99,116], [], [], [57,52,51,49,56,51,57,55,48,52], [53,54,53,54,48,55]], [[67,65,77,80,66,69,76,76,44,32,68,65,89,83,83,65,78], [57], [49,50,50,57,55,48], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [57,50,57,45,51,52,56,45,55,50,50,48], [48,56,47,48,50,47,49,50], [65], [49,52], [50], [], [50,32,114,101,115,116,114,105,99,116], [], [], [52,48,48,49,52,56,54,51,55,55], [52,55,50,50,50,56]], [[65,71,85,73,76,65,82,44,32,78,69,82,89,65,76,73,90], [57], [49,50,51,54,49,57], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,56,52,49,45,56,48,53,55], [48,54,47,48,49,47,50,48,49,49], [65], [49,53], [50], [], [50,32,114,101,115,116,114,105,99,116], [], [], [51,57,53,48,51,53,52,49,50,56], [52,55,50,54,52,49]], [[71,65,76,86,65,78,45,80,69,82,69,90,44,32,69,76,73,83,65], [57], [49,50,57,54,57,53], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [52,55,53,45,51,49,51,45,54,57,49,53], [48,54,47,48,56,47,49,50], [65], [49,52], [53], [], [53,32,114,101,115,116,114,105,99,116], [], [], [57,48,57,51,50,52,57,54,49,53], [53,55,48,51,56,50]], [[83,77,73,84,72,44,32,74,69,78,78,73,81,85,69], [57], [49,51,53,51,55,49], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,53,49,48,45,53,52,51,55], [49,48,47,49,55,47,49,49], [65], [49,53], [53], [], [53,32,114,101,115,116,114,105,99,116], [], [], [53,56,56,54,48,53,51,53,48,52], [53,56,49,56,55,56]], [[65,66,82,69,85,44,32,69,77,73,76,73,65], [57], [49,52,57,53,56,53], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,56,56,53,45,56,49,52,50], [48,54,47,49,57,47,49,50], [65], [49,52], [53], [], [53,32,114,101,115,116,114,105,99,116], [], [], [54,53,49,56,48,57,52,54,50,57], [54,51,56,57,49,54]], [[76,79,80,69,90,44,32,74,65,90,77,73,78,69], [57], [49,50,52,51,52,50], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [52,55,53,45,51,49,54,45,49,57,49,56], [48,55,47,51,48,47,49,50], [65], [49,52], [53], [], [53,32,114,101,115,116,114,105,99,116], [], [], [53,50,56,50,55,54,55,56,51,48], [52,55,49,57,53,54]], [[86,65,90,81,85,69,90,44,32,68,69,76,76,89,77,65,82], [57], [49,50,52,53,49,55], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [52,55,53,45,51,49,53,45,49,48,56,57], [49,50,47,48,53,47,49,50], [65], [49,52], [57], [], [57,32,114,101,115,116,114,105,99,116], [], [], [52,50,56,50,48,50,48,52,48,56], [52,55,50,52,57,54]], [[86,65,90,81,85,69,90,44,32,75,69,86,73,78], [57], [49,50,49,52,52,55], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [52,55,53,45,51,49,53,45,49,48,56,57], [56,47,49,56,47,49,49], [65], [49,53], [52], [], [52,32,114,101,115,116,114,105,99,116], [], [], [53,57,54,54,49,52,57,49,51,52], [54,52,52,48,50,52]], [[68,73,65,90,44,32,84,65,78,73,85,83,72,75,65], [57], [49,50,50,56,52,49], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [57,51,57,45,50,49,55,45,48,49,51,48], [48,51,47,49,54,47,49,49], [65], [49,53], [52], [], [52,32,114,101,115,116,114,105,99,116], [], [], [53,51,50,50,51,52,56,48,55,54], [52,55,50,55,50,57]], [[77,69,74,73,65,44,32,73,90,65,69,76], [57], [49,50,52,49,54,51], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,56,52,49,45,54,51,50,57], [49,49,47,48,54,47,49,48], [66], [49,54], [51], [], [51,32,114,101,115,116,114,105,99,116], [], [], [56,56,55,52,50,52,57,56,51,51], [52,55,50,48,50,55]], [[84,85,82,82,69,76,76,44,32,77,73,67,72,65,69,76], [57], [49,50,52,53,57,51], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,55,54,56,45,52,54,56,48], [48,52,47,49,55,47,49,50], [66], [49,52], [51], [], [51,32,114,101,115,116,114,105,99,116], [32], [], [56,49,51,56,57,55,55,55,55,55], [52,55,49,56,52,52]], [[83,65,78,84,73,65,71,79,44,32,74,69,83,85,83], [57], [49,50,54,55,56,48], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [57,49,52,45,56,57,51,45,49,50,52,53], [48,55,47,48,49,47,49,49], [66], [49,53], [54], [], [54,32,114,101,115,116,114,105,99,116], [], [], [50,54,52,48,55,49,56,57,56,53], [53,54,54,56,56,52]], [[77,79,72,65,77,69,68,44,32,83,65,74,73,68], [57], [49,51,56,56,54,56], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [57,50,57,45,51,54,57,45,51,56,49,55], [48,53,47,48,50,47,49,50], [66], [49,52], [54], [100,105,115,116,114,105,98,117,116,111,114], [54,32,114,101,115,116,114,105,99,116], [], [], [57,53,50,57,55,57,50,54,50,55], [53,57,53,52,55,56]], [[79,82,84,73,90,45,84,69,78,69,90,65,67,65,44,32,65,76,69,88,65], [57], [49,50,57,56,53,55], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,51,54,49,45,49,50,50,57], [48,53,47,49,50,47,49,50], [66], [49,52], [54], [], [54,32,114,101,115,116,114,105,99,116], [], [], [54,49,49,49,55,54,51,51,50,48], [52,55,49,53,52,50]], [[82,79,66,73,78,83,79,78,44,32,83,73,72,65,89,65], [57], [49,53,48,51,52,57], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,55,52,55,45,50,48,55,48], [48,52,47,49,56,47,49,50], [66], [49,52], [54], [], [54,32,114,101,115,116,114,105,99,116], [], [], [50,54,54,57,53,49,54,49,53,49], [54,52,48,51,54,53]], [[68,69,32,76,65,32,67,82,85,90,45,66,82,69,78,83,44,32,67,65,82,79,76], [57], [49,53,51,53,53,55], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,52,54,53,45,57,52,50,57], [52,47,53,47,49,50], [66], [49,52], [56], [], [56,32,114,101,115,116,114,105,99,116], [], [], [49,55,54,53,49,54,50,51,55,52], [54,52,56,52,54,57]], [[84,72,79,77,80,83,79,78,44,32,82,65,74,65,89], [57], [49,52,53,55,49,53], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [57,49,52,45,53,51,48,45,52,54,57,54], [49,48,47,48,56,47,49,50], [66], [49,52], [56], [], [56,32,114,101,115,116,114,105,99,116], [], [], [55,49,50,51,51,56,56,57,49,54], [54,50,52,54,55,56]], [[83,73,76,86,65,44,32,65,76,69,88,83,65,78,68,82,65], [57], [49,50,53,51,51,55], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [52,55,53,45,51,55,55,45,49,53,48,49], [48,54,47,50,57,47,49,49], [66], [49,53], [56], [], [56,32,114,101,115,116,114,105,99,116], [], [], [56,49,51,55,49,49,55,57,49,48], [53,54,53,49,54,48]], [[82,85,73,90,44,32,76,73,65,78,78,89,83], [57], [49,50,51,48,54,50], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,51,49,55,45,56,54,50,48], [48,49,47,49,57,47,49,50], [66], [49,53], [56], [], [56,32,114,101,115,116,114,105,99,116], [], [], [51,52,50,52,49,53,50,49,48,48], [52,55,50,50,48,56]], [[83,67,79,84,84,44,32,74,65,89,76,65], [56], [49,49,55,56,50,53], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,53,50,55,45,56,53,56,53], [49,48,47,49,48,47,49,48], [66], [49,54], [55], [], [55,32,114,101,115,116,114,105,99,116], [], [], [51,53,49,57,50,52,50,56,55,51], [52,53,55,57,51,53]], [[86,65,90,81,85,69,90,45,69,67,72,69,86,65,82,82,73,65,44,32,76,85,90,32,74,65,67,75,89,69,82,65], [57], [49,50,51,50,53,54], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,55,52,55,45,49,54,54,50], [48,49,47,49,57,47,49,50], [66], [49,53], [55], [], [55,32,114,101,115,116,114,105,99,116], [], [], [51,50,56,50,49,50,49,56,52,55], [52,55,52,55,51,50]], [[86,65,90,81,85,69,90,45,74,73,77,69,78,69,90,44,32,65,73,76,89,78], [57], [49,53,50,49,48,51], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [51,52,55,45,54,54,50,45,48,50,49,54], [48,49,47,48,57,47,49,50], [66], [49,53], [49], [], [49,32,114,101,115,116,114,105,99,116], [], [], [52,49,57,57,57,48,54,55,51,50], [52,55,49,55,50,51]], [[72,69,82,78,65,78,68,69,90,45,72,69,82,67,85,76,69,83,44,32,74,69,78,78,73,70,69,82], [57], [49,50,55,50,51,54], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,50,49,50,45,50,48,54,50], [48,55,47,49,55,47,49,49], [66], [49,53], [49], [99,111,108,108,101,99,116,101,114], [49,32,114,101,115,116,114,105,99,116], [], [], [50,49,49,55,57,51,48,53,48,52], [53,54,55,52,51,50]], [[78,65,90,65,82,73,79,44,32,72,65,82,79,76,68], [57], [49,49,56,55,48,53], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [57,53,57,45,52,54,53,45,53,51,50,54], [55,47,51,49,47,49,50], [66], [49,52], [50], [], [50,32,114,101,115,116,114,105,99,116], [], [], [54,48,57,52,50,49,48,49,52,49], [52,51,57,56,56,57]], [[82,85,68,69,76,44,32,80,69,89,84,69,78], [57], [49,50,52,53,49,54], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,53,48,48,45,56,49,52,57], [56,47,50,54,47,49,50], [66], [49,52], [50], [100,105,115,116,114,105,98,117,116,111,114], [50,32,114,101,115,116,114,105,99,116], [], [], [50,57,54,53,55,49,49,48,56,57], [52,55,52,55,51,49]], [[82,69,89,69,83,44,32,89,69,78,73,67,69], [57], [49,50,51,50,48,50], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,57,56,50,45,56,49,52,48], [49,50,47,50,55,47,49,50], [66], [49,52], [50], [], [50,32,114,101,115,116,114,105,99,116], [], [], [57,48,53,51,53,56,49,49,52,54], [52,55,50,49,55,49]], [[82,65,77,83,65,72,79,89,69,44,32,65,75,65,83,72], [57], [49,53,48,48,57,57], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [52,55,53,45,54,53,53,45,52,50,50,53], [48,57,47,48,55,47,49,50], [66], [49,52], [50], [], [50,32,114,101,115,116,114,105,99,116], [], [], [51,55,53,48,51,53,54,48,52,55], [54,51,57,54,53,55]], [[83,85,83,65,78,65,44,32,66,82,65,68,76,69,89], [57], [49,50,53,57,52,54], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [54,52,54,45,52,54,57,45,54,49,52,52], [49,48,47,48,55,47,49,50], [66], [49,52], [53], [], [53,32,114,101,115,116,114,105,99,116], [], [], [55,48,54,50,51,57,48,57,50,54], [53,54,53,56,49,50]], [[89,79,85,78,71,44,32,84,69,78,65,89,65], [57], [49,50,53,51,50,50], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,55,48,55,45,54,52,56,49], [48,52,47,48,55,47,49,50], [66], [49,52], [53], [], [53,32,114,101,115,116,114,105,99,116], [], [], [55,53,56,49,56,49,49,53,48,54], [53,54,53,49,49,53]], [[87,73,76,76,73,65,77,83,44,32,65,73,89,65,78,65], [57], [49,51,56,54,52,49], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,57,57,54,45,53,53,49,50], [48,56,47,50,51,47,49,50], [66], [49,52], [53], [], [53,32,114,101,115,116,114,105,99,116], [], [], [53,53,48,56,56,49,51,52,54,54], [53,57,53,49,56,51]], [[77,85,78,79,90,44,32,89,65,78,69,84,90,65,76,89], [57], [49,50,50,52,52,52], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [52,55,53,45,54,56,57,45,55,55,56,54], [49,49,47,49,55,47,49,50], [66], [49,52], [53], [116,117,116,111,114], [53,32,114,101,115,116,114,105,99,116], [], [], [54,48,53,56,53,50,54,52,56,54], [52,55,50,50,56,53]], [[90,65,80,65,84,65,44,32,69,77,65,78,85,69,76], [57], [49,50,48,54,50,52], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [56,54,48,45,56,57,48,45,48,57,56,52], [49,49,47,49,51,47,49,49], [66], [49,53], [57], [], [57,32,114,101,115,116,114,105,99,116], [], [], [57,54,52,56,57,54,55,54,55,54], [52,55,48,57,57,53]], [[83,73,77,80,75,73,78,83,44,32,67,65,76,69,66], [57], [49,52,51,52,50,50], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [56,54,48,45,56,48,56,45,57,54,52,51], [49,49,47,49,51,47,49,49], [66], [49,53], [57], [], [57,32,114,101,115,116,114,105,99,116], [], [], [53,56,54,53,53,54,48,54,49,56], [54,49,54,48,53,50]], [[84,79,82,82,69,83,44,32,74,65,78,68,73,69,76], [57], [49,50,52,55,56,48], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [57,53,57,45,52,52,52,45,55,49,57,53], [48,50,47,48,56,47,49,50], [66], [49,53], [52], [], [52,32,114,101,115,116,114,105,99,116], [], [], [52,52,53,49,54,53,48,53,52,52], [52,55,49,55,49,56]], [[86,65,83,67,79,78,69,90,45,67,72,85,81,85,73,71,85,65,78,71,65,44,32,83,69,65,78], [57], [49,51,53,53,51,54], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [57,49,55,45,57,51,55,45,56,49,49,49], [48,50,47,50,51,47,49,50], [66], [49,53], [52], [99,111,108,108,101,99,116,101,114], [52,32,114,101,115,116,114,105,99,116], [], [], [53,56,57,54,49,50,53,48,50,52], [53,56,50,50,56,49]], [[83,65,78,84,79,83,44,32,77,65,75,89,76,65], [57], [49,50,53,51,56,56], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,53,57,48,45,49,53,48,53], [48,57,47,48,51,47,49,50], [66], [49,52], [52], [], [52,32,114,101,115,116,114,105,99,116], [], [], [55,56,53,49,50,49,56,55,56,57], [53,54,53,50,49,52]]];
+  var roster_3690987653 = [[[78,97,109,101], [71,114,97,100,101], [73,100], [67,111,117,114,115,101], [71,101,110,100,101,114], [80,104,111,110,101], [66,105,114,116,104,100,97,121], [68,97,121,32,77,101,116], [65,103,101], [32,71,114,111,117,112,105,110,103], [82,111,108,101], [82,101,103,114,111,117,112,105,110,103], [78,111,116,101,115], [78,105,99,107,110,97,109,101], [83,83,73,68], [68,67,73,68]], [[90,73,78,75,44,32,78,73,75,79,76,65,83], [57], [49,50,50,52,51,56], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,56,48,50,45,48,51,54,55], [48,53,47,48,49,47,49,50], [65], [49,52], [51], [], [51,32,114,101,115,116,114,105,99,116], [], [], [49,57,49,53,56,57,53,57,56,51], [52,55,49,52,52,52]], [[77,65,76,68,79,78,65,68,79,44,32,74,65,89,77,65,82,89], [57], [49,50,53,48,54,53], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [52,55,53,45,51,55,55,45,49,57,54,54], [49,48,47,49,51,47,49,50], [65], [49,52], [51], [98,111,111,107,107,101,101,112,101,114], [51,32,114,101,115,116,114,105,99,116], [], [], [52,54,57,53,48,48,48,51,52,55], [52,55,49,53,55,56]], [[78,73,69,86,69,83,44,32,74,65,89,68,69,78], [57], [49,50,49,50,48,48], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,57,56,50,45,53,49,53,52], [48,56,47,51,48,47,49,50], [65], [49,52], [54], [], [54,32,114,101,115,116,114,105,99,116], [], [], [56,49,50,53,53,57,57,51,57,57], [52,55,50,53,50,57]], [[82,79,83,65,82,73,79,44,32,65,66,73,71,65,73,76], [57], [49,52,56,54,55,49], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [52,55,53,45,51,51,55,45,57,57,49,51], [48,51,47,48,55,47,49,50], [65], [49,53], [54], [99,111,108,108,101,99,116,101,114], [54,32,114,101,115,116,114,105,99,116], [], [], [52,52,54,54,55,54,49,49,54,49], [54,51,54,55,54,50]], [[83,65,78,84,79,83,44,32,77,65,75,65,89,76,65], [57], [49,50,53,51,56,55], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,53,57,48,45,49,53,48,53], [48,57,47,48,51,47,49,50], [65], [49,52], [54], [], [54,32,114,101,115,116,114,105,99,116], [], [], [53,55,57,51,54,56,55,55,48,56], [53,54,53,50,49,51]], [[82,79,68,82,73,71,85,69,90,44,32,70,82,65,78,67,73,83,67,79], [57], [49,50,52,54,54,49], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,56,53,48,45,51,51,51,54], [48,56,47,51,49,47,49,50], [65], [49,52], [56], [99,111,108,108,101,99,116,101,114], [56,32,114,101,115,116,114,105,99,116], [], [], [57,56,50,56,48,54,54,50,56,49], [52,55,50,56,55,55]], [[77,67,67,65,76,76,65,44,32,75,65,89,76,73,69], [57], [49,52,53,57,55,55], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,53,50,56,45,56,55,54,54], [48,57,47,49,57,47,49,50], [65], [49,52], [56], [100,105,115,116,114,105,98,117,116,111,114], [56,32,114,101,115,116,114,105,99,116], [], [], [52,49,49,54,53,55,57,52,56,49], [54,50,53,55,50,55]], [[87,65,84,83,79,78,44,32,74,65,68,69,78], [57], [49,50,49,53,52,57], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,56,48,53,45,51,54,54,53], [49,49,47,49,49,47,49,49], [65], [49,53], [55], [], [55,32,114,101,115,116,114,105,99,116], [], [], [53,49,57,54,48,57,56,54,55,49], [52,55,50,57,53,49]], [[87,65,76,83,72,44,32,74,65,89,68,69,78], [57], [49,53,51,49,56,55], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,56,48,56,45,55,55,53,51], [48,51,47,48,56,47,49,50], [65], [49,53], [55], [], [55,32,114,101,115,116,114,105,99,116], [], [], [49,49,50,51,53,48,51,52,55,52], [54,52,55,52,57,56]], [[82,73,86,69,82,65,44,32,65,73,68,69,78], [57], [49,52,49,55,56,49], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,54,57,48,45,54,57,53,53], [48,52,47,49,52,47,49,50], [65], [49,52], [55], [], [55,32,114,101,115,116,114,105,99,116], [], [], [52,54,48,54,51,52,57,53,52,51], [52,55,50,51,48,49]], [[86,65,76,69,82,65,44,32,89,69,83,77,69,76,73], [57], [49,50,48,52,54,52], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [51,53,50,45,50,49,54,45,53,52,48,57], [48,56,47,49,51,47,49,50], [65], [49,52], [55], [], [55,32,114,101,115,116,114,105,99,116], [], [], [53,51,53,54,49,55,48,50,48,51], [52,54,53,56,55,49]], [[87,65,82,68,45,82,79,68,82,73,71,85,69,90,44,32,77,69,75,72,73], [57], [49,50,52,54,53,50], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,56,51,51,45,57,57,57,48], [48,57,47,51,48,47,49,50], [65], [49,52], [55], [], [55,32,114,101,115,116,114,105,99,116], [], [], [54,49,53,52,49,57,54,52,49,55], [52,55,49,55,56,53]], [[86,65,90,81,85,69,90,44,32,73,83,65,73,65,72], [57], [49,50,52,55,55,49], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,53,57,50,45,57,48,49,49], [48,52,47,50,53,47,49,50], [65], [49,52], [49], [], [49,32,114,101,115,116,114,105,99,116], [], [], [52,56,53,51,52,54,51,48,51,54], [52,55,50,49,52,53]], [[82,65,77,79,83,44,32,70,82,65,78,67,73,83,67,79], [57], [49,50,52,51,50,51], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [51,52,55,45,56,55,50,45,50,51,51,53], [48,54,47,50,49,47,49,50], [65], [49,52], [49], [], [49,32,114,101,115,116,114,105,99,116], [], [], [53,52,51,49,51,52,54,57,48,49], [52,55,49,57,55,50]], [[82,79,83,65,82,73,79,44,32,78,73,67,72,79,76,65,83], [57], [49,50,53,54,53,50], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [57,50,57,45,50,53,51,45,52,53,48,52], [49,48,47,50,54,47,49,50], [65], [49,52], [49], [], [49,32,114,101,115,116,114,105,99,116], [], [], [56,49,55,52,49,51,52,50,51,49], [53,54,53,53,48,54]], [[80,73,78,84,79,44,32,67,72,82,73,83,84,73,65,78], [57], [49,50,49,49,49,48], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,53,48,55,45,48,48,55,53], [48,50,47,48,54,47,49,50], [65], [49,53], [50], [], [50,32,114,101,115,116,114,105,99,116], [], [], [51,48,51,54,48,57,50,56,48,57], [52,55,50,53,52,57]], [[77,65,82,84,69,78,83,83,79,78,45,67,65,83,84,73,76,76,79,44,32,84,72,73,65,78,65], [57], [49,50,52,57,48,54], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [52,55,53,45,55,51,49,45,48,55,55,54], [48,56,47,50,50,47,49,50], [65], [49,52], [50], [], [50,32,114,101,115,116,114,105,99,116], [], [], [52,54,56,57,56,50,50,49,50,50], [52,55,49,54,52,55]], [[86,65,83,81,85,69,90,44,32,71,69,78,69,83,73,83], [57], [49,50,52,51,51,48], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [56,54,48,45,50,56,52,45,56,50,56,48], [49,50,47,48,51,47,49,50], [65], [49,52], [50], [], [50,32,114,101,115,116,114,105,99,116], [], [], [56,53,52,57,57,52,53,53,49,54], [52,55,49,57,54,53]], [[84,79,82,82,69,71,82,79,83,65,44,32,75,69,76,77,65,82,73,69], [57], [49,50,48,49,52,53], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [52,55,53,45,51,49,53,45,49,53,54,49], [48,55,47,50,52,47,49,49], [65], [49,53], [53], [], [53,32,114,101,115,116,114,105,99,116], [], [], [49,56,49,51,50,48,53,52,50,48], [52,54,52,48,53,54]], [[82,79,83,83,44,32,65,77,66,69,82], [57], [49,50,52,50,56,54], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,53,49,48,45,55,53,54,56], [49,48,47,48,53,47,49,50], [65], [49,52], [53], [], [53,32,114,101,115,116,114,105,99,116], [], [], [53,50,53,51,54,51,49,48,50,55], [52,55,50,48,48,54]], [[82,73,86,69,82,65,44,32,74,65,68,73,69,76], [57], [49,50,50,50,57,50], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,56,48,56,45,49,57,51,57], [48,53,47,50,49,47,49,50], [65], [49,52], [53], [], [53,32,114,101,115,116,114,105,99,116], [], [], [50,52,55,51,48,54,55,56,57,56], [53,55,52,52,55,48]], [[84,82,69,78,73,69,82,44,32,65,76,73,78], [57], [49,51,56,56,55,48], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,53,49,56,45,51,54,56,54], [48,57,47,48,50,47,49,49], [65], [49,53], [53], [], [53,32,114,101,115,116,114,105,99,116], [], [], [57,53,56,54,50,51,56,49,53,51], [53,57,53,52,56,48]], [[87,65,76,75,69,82,44,32,74,65,66,65,82,73,69], [57], [49,51,56,50,54,48], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [51,49,48,45,54,51,52,45,57,48,55,49], [49,49,47,50,53,47,49,49], [65], [49,53], [53], [], [53,32,114,101,115,116,114,105,99,116], [], [], [49,55,48,54,50,50,56,52,56,56], [53,57,52,52,50,55]], [[82,73,86,69,82,65,44,32,74,79,83,69,80,72], [56], [49,51,50,57,54,52], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,53,49,57,45,53,55,52,56], [49,50,47,49,54,47,50,48,48,57], [65], [49,55], [53], [], [53,32,114,101,115,116,114,105,99,116], [], [], [51,52,56,55,56,56,50,56,56,54], [53,54,53,48,53,56]], [[82,79,68,82,73,71,85,69,90,45,69,83,67,82,73,66,65,78,79,44,32,90,79,69,76,73,65,78,89,83], [57], [49,50,51,48,55,54], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,55,48,54,45,57,56,56,48], [57,47,50,53,47,49,50], [65], [49,52], [57], [], [57,32,114,101,115,116,114,105,99,116], [], [], [55,54,50,49,52,57,55,53,52,53], [52,55,49,55,55,54]], [[67,79,76,76,65,68,79,45,86,65,82,71,65,83,44,32,89,79,69,78,68,89], [57], [49,50,52,51,48,52], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,53,50,56,45,49,57,56,56], [49,49,47,51,48,47,49,50], [65], [49,52], [57], [], [57,32,114,101,115,116,114,105,99,116], [], [], [54,50,55,54,48,49,50,49,54,53], [52,55,49,57,56,56]], [[77,65,68,72,79,79,44,32,65,85,83,84,73,78], [57], [49,50,52,54,55,52], [49,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,56,48,53,45,51,56,55,57], [48,57,47,50,55,47,49,50], [65], [49,52], [57], [], [57,32,114,101,115,116,114,105,99,116], [], [], [57,54,51,57,50,49,51,48,55,48], [52,55,49,55,54,53]], [[83,65,78,84,73,65,71,79,44,32,74,65,82,73,88,73,69,76,89], [57], [49,50,50,51,48,56], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,52,52,48,45,56,56,56,51], [48,50,47,49,51,47,49,50], [66], [49,53], [51], [], [51,32,114,101,115,116,114,105,99,116], [], [], [57,54,57,57,48,56,52,56,49,50], [52,55,50,50,57,57]], [[84,79,82,82,69,83,44,32,65,78,73,88,65], [57], [49,50,49,48,48,49], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,56,52,49,45,56,48,53,55], [48,57,47,51,48,47,49,49], [66], [49,53], [51], [100,105,115,116,114,105,98,117,116,111,114], [51,32,114,101,115,116,114,105,99,116], [], [], [54,53,52,54,52,52,52,56,53,52], [52,55,50,53,54,48]], [[86,69,76,69,90,44,32,77,89,65], [57], [49,49,56,54,55,55], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,56,48,53,45,50,50,49,48], [48,51,47,50,57,47,49,50], [66], [49,52], [51], [116,117,116,111,114], [51,32,114,101,115,116,114,105,99,116], [], [], [52,56,56,49,55,54,56,57,55,56], [52,55,50,49,54,51]], [[82,73,86,69,82,65,45,71,65,82,67,73,65,44,32,68,69,83,84,73,78,89], [57], [49,50,53,55,52,54], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,50,49,55,45,54,56,51,49], [48,50,47,50,52,47,49,50], [66], [49,53], [51], [], [51,32,114,101,115,116,114,105,99,116], [], [], [54,56,56,53,56,57,49,49,48,52], [54,48,56,50,54,56]], [[84,82,69,78,84,44,32,77,65,72,75,65,73,82,65,72], [57], [49,52,51,51,49,55], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,53,49,48,45,52,53,49,53], [49,50,47,50,49,47,49,50], [66], [49,52], [54], [], [54,32,114,101,115,116,114,105,99,116], [], [], [56,57,55,53,51,50,53,51,57,55], [54,49,53,50,52,57]], [[76,65,73,82,69,83,44,32,65,73,68,69,78], [57], [49,53,51,52,56,52], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,55,48,53,45,55,52,54,57], [48,54,47,50,50,47,49,49], [66], [49,53], [54], [], [54,32,114,101,115,116,114,105,99,116], [], [], [54,51,55,48,52,54,52,48,57,49], [54,52,56,51,49,48]], [[80,85,76,76,73,65,77,44,32,77,73,65], [57], [49,50,52,54,52,57], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [52,55,48,45,52,51,57,45,55,48,56,54], [48,57,47,50,49,47,49,50], [66], [49,52], [54], [], [54,32,114,101,115,116,114,105,99,116], [], [], [57,56,55,53,57,52,49,54,55,52], [52,55,49,55,56,56]], [[79,82,84,73,90,44,32,74,72,79,78,69,76,76], [57], [49,50,53,49,55,52], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [52,55,53,45,50,57,54,45,48,53,51,48], [49,50,47,48,53,47,49,50], [66], [49,52], [56], [], [56,32,114,101,115,116,114,105,99,116], [], [], [57,57,53,54,56,50,50,54,57,52], [53,55,48,53,52,56]], [[83,65,78,84,65,44,32,82,89,65,78], [57], [49,50,49,55,52,57], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,52,52,55,45,57,55,52,55], [48,50,47,48,56,47,49,49], [66], [49,54], [56], [], [56,32,114,101,115,116,114,105,99,116], [], [], [57,52,51,51,57,49,55,56,57,57], [52,55,50,52,52,48]], [[86,69,76,69,90,44,32,82,73,65,77,65,76,89,83], [57], [49,50,51,50,49,52], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,55,48,54,45,54,56,57,56], [48,51,47,50,57,47,49,50], [66], [49,52], [56], [99,111,108,108,101,99,116,101,114], [56,32,114,101,115,116,114,105,99,116], [], [], [49,52,48,52,51,50,56,50,55,49], [53,55,48,52,53,55]], [[77,65,82,84,89,44,32,82,65,70,65,69,76], [57], [49,50,53,55,48,55], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,57,48,49,45,54,51,50,49], [48,55,47,51,49,47,49,50], [66], [49,52], [56], [], [56,32,114,101,115,116,114,105,99,116], [], [], [55,56,55,54,54,54,55,54,52,49], [53,54,53,53,54,53]], [[84,72,79,77,80,83,79,78,44,32,72,65,82,77,79,78,89], [57], [49,50,50,53,54,57], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,51,54,48,45,53,49,49,54], [48,55,47,49,56,47,49,50], [66], [49,52], [55], [], [55,32,114,101,115,116,114,105,99,116], [], [], [57,51,48,53,55,48,56,52,52,56], [52,55,50,50,54,50]], [[80,79,77,65,81,85,73,90,65,44,32,74,69,78,78,69], [57], [49,50,52,53,53,56], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [52,55,53,45,50,54,51,45,50,55,54,57], [48,49,47,49,54,47,49,50], [66], [49,53], [55], [100,105,115,116,114,105,98,117,116,111,114], [55,32,114,101,115,116,114,105,99,116], [], [], [52,56,53,51,52,57,53,53,52,51], [52,55,52,55,54,49]], [[66,76,65,78,67,72,65,82,68,44,32,70,69,76,73,88], [57], [49,50,52,52,56,52], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,57,56,50,45,50,54,55,51], [54,47,50,55,47,50,48,49,50], [66], [49,52], [49], [], [49,32,114,101,115,116,114,105,99,116], [], [], [56,52,51,56,51,53,48,50,54,49], [52,55,52,55,49,48]], [[77,69,68,73,78,65,44,32,77,73,65], [57], [49,50,53,57,51,57], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [52,55,53,45,50,51,51,45,56,50,48,54], [48,53,47,48,56,47,49,50], [66], [49,52], [49], [98,111,111,107,107,101,101,112,101,114], [49,32,114,101,115,116,114,105,99,116], [], [], [54,54,57,56,48,51,48,55,51,48], [53,54,53,56,48,53]], [[83,69,71,65,82,82,65,44,32,65,68,65,77,65,82,89,83], [57], [49,50,49,49,49,53], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,53,57,50,45,51,51,55,54], [48,55,47,48,56,47,49,50], [66], [49,52], [49], [], [49,32,114,101,115,116,114,105,99,116], [], [], [53,54,53,48,53,53,56,51,49,56], [52,55,50,53,52,53]], [[68,79,90,73,69,82,44,32,74,65,72,77,73,82], [57], [49,50,53,51,50,49], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [54,52,54,45,53,52,52,45,50,57,53,51], [48,56,47,49,56,47,49,50], [66], [49,52], [50], [], [50,32,114,101,115,116,114,105,99,116], [], [], [57,51,52,48,53,52,50,53,54,50], [53,54,53,49,49,52]], [[70,69,76,73,67,73,65,78,79,44,32,76,89,65,72,78,73,83], [49,48], [49,49,56,56,51,56], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,53,49,48,45,50,52,52,55], [48,57,47,48,49,47,49,49], [66], [49,53], [50], [], [50,32,114,101,115,116,114,105,99,116], [], [], [51,48,50,48,49,54,51,56,53,56], [52,49,50,56,54,52]], [[77,65,82,82,69,82,79,44,32,78,65,84,72,65,78], [57], [49,52,56,57,49,53], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [51,52,55,45,51,55,54,45,49,48,49,51], [48,54,47,49,53,47,49,50], [66], [49,52], [50], [], [50,32,114,101,115,116,114,105,99,116], [], [], [50,55,52,57,57,55,52,52,50,50], [54,51,55,50,56,55]], [[83,79,79,75,65,73,44,32,74,79,82,68,73,78], [57], [49,49,56,57,48,53], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,53,57,50,45,50,48,51,57], [49,49,47,55,47,49,49], [66], [49,53], [50], [], [50,32,114,101,115,116,114,105,99,116], [], [], [56,49,53,56,57,54,57,49,49,52], [52,54,48,53,52,54]], [[65,77,80,65,82,79,45,66,69,65,84,79,44,32,76,73,65,77], [57], [49,51,56,50,51,54], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [52,55,53,45,51,49,51,45,52,50,53,57], [48,56,47,49,57,47,49,50], [66], [49,52], [53], [], [53,32,114,101,115,116,114,105,99,116], [], [], [54,48,53,49,50,53,50,55,49,51], [53,57,52,51,56,48]], [[83,69,77,69,82,65,82,79,44,32,78,73,75,79,76,73], [57], [49,52,52,48,55,53], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,51,49,55,45,51,54,49,55], [48,51,47,50,56,47,49,49], [66], [49,53], [53], [], [53,32,114,101,115,116,114,105,99,116], [], [], [49,52,54,53,48,57,50,51,56,52], [54,49,57,55,49,51]], [[86,69,76,69,90,44,32,77,73,65], [57], [49,50,52,51,55,50], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,56,49,57,45,50,55,49,52], [48,52,47,49,51,47,49,50], [66], [49,52], [53], [], [53,32,114,101,115,116,114,105,99,116], [], [], [56,49,51,56,50,55,51,50,50,52], [52,54,55,51,50,49]], [[83,72,65,78,68,44,32,80,82,69,67,73,79,85,83], [57], [49,50,53,57,52,53], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,50,51,50,45,52,56,57,53], [48,51,47,48,55,47,49,50], [66], [49,53], [53], [], [53,32,114,101,115,116,114,105,99,116], [], [], [54,48,50,49,52,56,52,55,53,49], [53,54,53,56,49,49]], [[80,73,77,69,78,84,69,76,44,32,67,72,82,73,83], [57], [49,50,51,51,52,50], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,53,54,48,45,55,51,53,49], [48,49,47,49,54,47,49,50], [66], [49,53], [57], [99,111,108,108,101,99,116,101,114], [57,32,114,101,115,116,114,105,99,116], [], [], [53,56,57,52,49,52,56,50,51,56], [52,55,50,49,51,49]], [[82,69,68,68,44,32,68,69,78,73,83,69], [57], [49,49,55,50,48,54], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,53,54,53,45,54,51,57,48], [50,47,50,56,47,49,49], [66], [49,54], [57], [], [57,32,114,101,115,116,114,105,99,116], [], [], [56,53,50,55,53,55,48,55,49,54], [52,52,57,48,51,51]], [[83,65,78,68,79,86,65,76,44,32,66,69,78,73,67,73,79], [57], [49,50,52,53,55,52], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,55,54,56,45,53,49,53,49], [48,53,47,48,53,47,49,50], [66], [49,52], [52], [], [52,32,114,101,115,116,114,105,99,116], [], [], [53,52,49,55,51,48,52,52,53,49], [52,55,49,56,54,49]], [[83,65,78,84,65,78,65,44,32,74,65,78,65,83,73,65], [57], [49,50,53,51,50,57], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,54,57,53,45,57,48,49,57], [48,53,47,49,52,47,49,50], [66], [49,52], [52], [], [52,32,114,101,115,116,114,105,99,116], [], [], [49,50,55,48,56,50,53,55,49,57], [53,54,53,49,53,50]], [[82,73,86,69,82,65,44,32,75,65,89,76,69,69], [57], [49,50,53,50,54,53], [49,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,53,49,48,45,49,54,56,50], [48,51,47,50,57,47,49,50], [66], [49,52], [52], [], [52,32,114,101,115,116,114,105,99,116], [], [], [54,57,48,49,55,51,53,56,55,56], [53,54,53,54,48,53]], [[70,69,82,82,69,73,82,65,44,32,71,65,66,82,73,69,76], [57], [49,51,57,52,54,50], [50,40,65,41,32,65,76,71,69,66,82,65,32,49,32,72,79,78,79,82,83], [77], [55,55,52,45,50,50,50,45,49,48,49,55], [50,47,50,47,49,50], [65], [49,53], [51], [100,105,115,116,114,105,98,117,116,111,114], [51,32,114,101,115,116,114,105,99,116], [], [], [53,51,48,53,53,51,57,50,54,48], [53,57,54,54,53,53]], [[76,79,80,69,83,44,32,65,82,84,72,85,82], [57], [49,50,51,51,56,53], [50,40,65,41,32,65,76,71,69,66,82,65,32,49,32,72,79,78,79,82,83], [77], [50,48,51,45,52,54,53,45,51,49,49,50], [48,55,47,51,48,47,49,50], [65], [49,52], [51], [], [51,32,114,101,115,116,114,105,99,116], [], [], [51,54,51,56,50,57,57,54,56,54], [52,55,50,49,50,50]], [[65,82,73,65,83,44,32,74,65,67,75], [57], [49,50,53,57,55,55], [50,40,65,41,32,65,76,71,69,66,82,65,32,49,32,72,79,78,79,82,83], [77], [50,48,51,45,52,54,48,45,50,48,48,48], [49,48,47,49,57,47,49,50], [65], [49,52], [54], [], [54,32,114,101,115,116,114,105,99,116], [], [], [49,52,50,49,52,54,53,55,52,56], [53,54,53,56,52,54]], [[67,79,76,76,73,69,82,44,32,65,73,68,69,78], [57], [49,50,50,57,54,56], [50,40,65,41,32,65,76,71,69,66,82,65,32,49,32,72,79,78,79,82,83], [77], [56,54,48,45,56,55,57,45,52,53,57,53], [55,47,53,47,49,50], [65], [49,52], [54], [], [54,32,114,101,115,116,114,105,99,116], [], [], [52,56,55,49,55,54,55,48,57,57], [52,55,50,50,51,48]], [[66,69,82,78,65,82,68,44,32,67,72,82,73,83,84,79,80,72,69,82], [57], [49,50,50,53,55,54], [50,40,65,41,32,65,76,71,69,66,82,65,32,49,32,72,79,78,79,82,83], [77], [50,48,51,45,53,55,49,45,57,56,51,49], [48,57,47,50,48,47,49,50], [65], [49,52], [54], [], [54,32,114,101,115,116,114,105,99,116], [], [], [51,55,52,55,56,57,55,57,52,50], [52,55,50,50,53,54]], [[83,65,78,84,73,65,71,79,44,32,74,79,83,69], [57], [49,50,48,57,50,57], [50,40,65,41,32,65,76,71,69,66,82,65,32,49,32,72,79,78,79,82,83], [77], [50,48,51,45,56,48,53,45,51,51,55,53], [48,50,47,48,55,47,49,50], [65], [49,53], [54], [], [54,32,114,101,115,116,114,105,99,116], [], [], [52,49,51,52,49,52,54,48,50,57], [52,55,50,53,55,50]], [[67,82,85,90,45,82,79,68,82,73,71,85,69,90,44,32,65,66,73,77,69,76,69,67], [57], [49,50,52,53,53,54], [50,40,65,41,32,65,76,71,69,66,82,65,32,49,32,72,79,78,79,82,83], [77], [57,48,52,45,57,57,51,45,49,50,51,50], [49,49,47,48,56,47,49,50], [65], [49,52], [49], [], [49,32,114,101,115,116,114,105,99,116], [], [], [52,49,53,54,50,51,48,51,53,51], [53,54,52,57,56,50]], [[68,69,86,73,84,79,44,32,68,65,78,73,69,76], [57], [49,53,51,53,52,56], [50,40,65,41,32,65,76,71,69,66,82,65,32,49,32,72,79,78,79,82,83], [77], [56,54,48,45,53,49,56,45,52,54,50,53], [48,56,47,48,51,47,49,49], [65], [49,53], [49], [], [49,32,114,101,115,116,114,105,99,116], [], [], [56,54,52,49,51,51,55,55,51,52], [54,52,56,52,54,48]], [[71,65,82,67,73,65,44,32,65,78,78,65,66,69,76,76], [57], [49,50,53,57,50,50], [50,40,65,41,32,65,76,71,69,66,82,65,32,49,32,72,79,78,79,82,83], [70], [50,48,51,45,53,54,53,45,49,51,50,57], [48,49,47,51,48,47,49,50], [65], [49,53], [50], [], [50,32,114,101,115,116,114,105,99,116], [], [], [52,52,51,52,50,49,51,50,48,57], [53,54,53,55,56,54]], [[67,85,78,72,65,45,74,85,78,81,85,69,73,82,65,44,32,76,85,73,90,65], [57], [49,51,57,50,51,49], [50,40,65,41,32,65,76,71,69,66,82,65,32,49,32,72,79,78,79,82,83], [70], [52,55,53,45,52,52,57,45,50,56,53,52], [55,47,55,47,49,50], [65], [49,52], [50], [], [50,32,114,101,115,116,114,105,99,116], [], [], [49,57,53,55,55,57,48,48,53,49], [53,57,54,49,48,51]], [[80,69,84,69,44,32,65,92,39,77,65,82,65,72,76,69,69], [57], [49,50,52,56,54,51], [50,40,65,41,32,65,76,71,69,66,82,65,32,49,32,72,79,78,79,82,83], [70], [50,48,51,45,53,48,50,45,57,57,50,48], [49,48,47,49,55,47,49,50], [65], [49,52], [53], [99,111,108,108,101,99,116,101,114], [53,32,114,101,115,116,114,105,99,116], [], [], [54,53,56,56,48,54,54,54,49,48], [52,55,49,54,54,53]], [[65,82,90,85,44,32,65,68,82,73,89,69,78], [57], [49,50,50,50,50,55], [50,40,65,41,32,65,76,71,69,66,82,65,32,49,32,72,79,78,79,82,83], [77], [55,49,56,45,55,48,56,45,57,54,52,57], [48,57,47,49,56,47,49,50], [65], [49,52], [53], [], [53,32,114,101,115,116,114,105,99,116], [], [], [56,56,55,51,55,49,57,50,55,48], [53,54,53,48,50,56]], [[71,65,85,84,72,73,69,82,44,32,68,65,78,32,71,85,69,83,76,89], [57], [49,52,51,50,57,56], [50,40,65,41,32,65,76,71,69,66,82,65,32,49,32,72,79,78,79,82,83], [77], [52,55,53,45,51,50,54,45,48,48,56,56], [49,50,47,50,49,47,49,50], [65], [49,52], [53], [], [53,32,114,101,115,116,114,105,99,116], [], [], [54,48,50,53,48,51,53,52,54,49], [54,49,53,48,53,53]], [[81,85,73,90,72,80,73,45,83,65,69,84,69,82,79,83,44,32,82,79,78,65,76,68], [57], [49,52,53,48,57,56], [50,40,65,41,32,65,76,71,69,66,82,65,32,49,32,72,79,78,79,82,83], [77], [51,52,55,45,55,55,56,45,57,54,53,56], [48,50,47,48,52,47,49,50], [65], [49,53], [52], [], [52,32,114,101,115,116,114,105,99,116], [], [], [49,51,48,55,49,49,54,48,55,56], [54,50,50,57,49,55]], [[86,69,76,69,90,45,71,65,82,67,73,65,44,32,74,79,83,72,85,65], [57], [49,50,57,55,54,55], [50,40,65,41,32,65,76,71,69,66,82,65,32,49,32,72,79,78,79,82,83], [77], [51,52,55,45,57,57,48,45,48,49,51,48], [49,47,54,47,49,50], [65], [49,53], [52], [], [52,32,114,101,115,116,114,105,99,116], [], [], [54,49,57,56,54,52,50,56,55,51], [52,55,49,57,50,54]], [[68,69,90,73,69,76,44,32,65,66,73,71,65,69,76], [57], [49,50,52,51,51,57], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [52,55,53,45,50,54,51,45,55,50,53,53], [49,49,47,50,52,47,49,50], [65], [49,52], [51], [], [51,32,114,101,115,116,114,105,99,116], [], [], [53,52,50,48,53,55,48,56,51,54], [52,55,49,57,53,57]], [[67,65,77,80,66,69,76,76,44,32,68,65,89,83,83,65,78], [57], [49,50,50,57,55,48], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [57,50,57,45,51,52,56,45,55,50,50,48], [48,56,47,48,50,47,49,50], [65], [49,52], [51], [], [51,32,114,101,115,116,114,105,99,116], [], [], [52,48,48,49,52,56,54,51,55,55], [52,55,50,50,50,56]], [[77,65,78,78,73,78,71,44,32,80,69,89,84,79,78], [57], [49,50,51,48,55,51], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [52,55,53,45,51,54,54,45,54,55,53,56], [49,48,47,50,50,47,49,50], [65], [49,52], [51], [100,105,115,116,114,105,98,117,116,111,114], [51,32,114,101,115,116,114,105,99,116], [], [], [52,53,55,57,50,50,49,50,53,55], [52,55,50,50,48,52]], [[76,79,80,69,90,44,32,74,65,90,77,73,78,69], [57], [49,50,52,51,52,50], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [52,55,53,45,51,49,54,45,49,57,49,56], [48,55,47,51,48,47,49,50], [65], [49,52], [54], [], [54,32,114,101,115,116,114,105,99,116], [], [], [53,50,56,50,55,54,55,56,51,48], [52,55,49,57,53,54]], [[82,79,87,83,79,78,44,32,65,77,65,82,73], [57], [49,50,52,51,50,52], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,57,49,48,45,54,50,51,52], [55,47,54,47,49,50], [65], [49,52], [54], [], [54,32,114,101,115,116,114,105,99,116], [], [], [57,48,55,48,50,57,57,55,53,52], [52,55,49,57,55,49]], [[86,65,90,81,85,69,90,44,32,68,69,76,76,89,77,65,82], [57], [49,50,52,53,49,55], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [52,55,53,45,51,49,53,45,49,48,56,57], [49,50,47,48,53,47,49,50], [65], [49,52], [54], [], [54,32,114,101,115,116,114,105,99,116], [], [], [52,50,56,50,48,50,48,52,48,56], [52,55,50,52,57,54]], [[83,77,73,84,72,44,32,74,69,78,78,73,81,85,69], [57], [49,51,53,51,55,49], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,53,49,48,45,53,52,51,55], [49,48,47,49,55,47,49,49], [65], [49,53], [56], [], [56,32,114,101,115,116,114,105,99,116], [], [], [53,56,56,54,48,53,51,53,48,52], [53,56,49,56,55,56]], [[65,80,79,78,84,69,45,83,65,78,84,73,65,71,79,44,32,75,69,89,76,73,65,78,73,83], [57], [49,50,50,50,54,51], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [52,55,53,45,51,48,53,45,57,57,57,51], [49,48,47,50,52,47,49,50], [65], [49,52], [56], [], [56,32,114,101,115,116,114,105,99,116], [], [], [57,52,53,52,48,56,57,52,54,57], [52,55,50,51,49,53]], [[86,65,90,81,85,69,90,44,32,75,69,86,73,78], [57], [49,50,49,52,52,55], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [52,55,53,45,51,49,53,45,49,48,56,57], [56,47,49,56,47,49,49], [65], [49,53], [55], [], [55,32,114,101,115,116,114,105,99,116], [], [], [53,57,54,54,49,52,57,49,51,52], [54,52,52,48,50,52]], [[80,76,65,78,65,83,44,32,83,89,69,73,82,65], [57], [49,49,57,50,57,50], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [52,55,53,45,51,49,51,45,53,56,49,49], [49,48,47,51,49,47,50,48,49,50], [65], [49,52], [55], [], [55,32,114,101,115,116,114,105,99,116], [], [], [51,52,51,51,50,51,48,51,54,55], [52,52,54,53,56,51]], [[65,71,85,65,73,90,65,45,81,85,73,90,72,80,73,44,32,74,69,70,70,69,82,83,79,78], [57], [49,51,50,52,55,57], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,57,50,56,45,55,49,55,48], [48,51,47,48,55,47,49,50], [65], [49,53], [55], [], [55,32,114,101,115,116,114,105,99,116], [], [], [54,53,48,49,50,49,52,51,49,49], [53,55,51,57,48,49]], [[80,65,89,84,79,78,44,32,78,79,69,76,76,69], [57], [49,52,54,51,57,54], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,57,57,55,45,56,55,54,48], [48,50,47,50,57,47,50,48,49,50], [65], [49,53], [49], [], [49,32,114,101,115,116,114,105,99,116], [], [], [], [], [], []], [[74,79,78,69,83,44,32,74,65,89,76,73,65,78,65], [57], [49,50,54,54,57,51], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,50,53,56,45,51,56,52,50], [49,50,47,49,51,47,49,50], [65], [49,52], [49], [99,111,108,108,101,99,116,101,114], [49,32,114,101,115,116,114,105,99,116], [], [], [52,51,56,56,52,50,52,56,48,51], [53,54,54,55,55,49]], [[82,79,68,82,73,71,85,69,90,44,32,78,65,82,73,69,76,89,90], [57], [49,50,55,48,48,57], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [56,54,48,45,56,54,51,45,56,52,52,51], [49,48,47,50,47,49,50], [65], [49,52], [49], [], [49,32,114,101,115,116,114,105,99,116], [], [], [55,48,49,52,51,49,52,54,49,49], [52,55,50,50,48,50]], [[77,69,82,69,74,79,44,32,67,65,77,73,76,65], [57], [49,49,56,55,50,50], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,53,49,57,45,52,55,57,49], [57,47,50,54,47,49,50], [65], [49,52], [50], [], [50,32,114,101,115,116,114,105,99,116], [], [], [49,56,48,52,52,48,54,54,57,48], [52,51,54,50,55,51]], [[65,66,82,69,85,44,32,69,77,73,76,73,65], [57], [49,52,57,53,56,53], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,56,56,53,45,56,49,52,50], [48,54,47,49,57,47,49,50], [65], [49,52], [50], [], [50,32,114,101,115,116,114,105,99,116], [], [], [54,53,49,56,48,57,52,54,50,57], [54,51,56,57,49,54]], [[65,71,85,73,76,65,82,44,32,78,69,82,89,65,76,73,90], [57], [49,50,51,54,49,57], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,56,52,49,45,56,48,53,55], [48,54,47,48,49,47,50,48,49,49], [65], [49,53], [50], [], [50,32,114,101,115,116,114,105,99,116], [], [], [51,57,53,48,51,53,52,49,50,56], [52,55,50,54,52,49]], [[71,85,84,73,69,82,82,69,90,44,32,74,79,78,65,84,72,65,78], [57], [49,52,50,57,50,57], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [55,49,56,45,54,57,48,45,56,48,51,52], [49,48,47,50,53,47,49,49], [65], [49,53], [50], [], [50,32,114,101,115,116,114,105,99,116], [], [], [52,55,54,56,50,55,55,50,51,50], [54,49,50,50,48,51]], [[77,73,84,67,72,69,76,76,44,32,82,65,72,77,89,65], [57], [49,50,53,49,56,53], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,56,48,56,45,50,55,55,48], [48,57,47,49,55,47,49,50], [65], [49,52], [53], [], [53,32,114,101,115,116,114,105,99,116], [], [], [52,50,56,52,53,56,56,49,55,51], [52,55,49,53,52,48]], [[77,69,78,68,79,90,65,44,32,65,84,72,69,78,65], [57], [49,49,56,55,50,48], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,52,49,57,45,54,48,49,54], [49,49,47,49,50,47,49,50], [65], [49,52], [53], [], [53,32,114,101,115,116,114,105,99,116], [], [], [50,55,49,56,51,52,51,52,51,49], [52,51,54,48,49,56]], [[82,79,66,69,82,84,83,79,78,44,32,75,73,77,65,78,73], [49,48], [49,53,49,57,51,54], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [57,53,57,45,50,53,54,45,57,50,51,56], [49,50,47,51,48,47,49,49], [65], [49,53], [53], [], [53,32,114,101,115,116,114,105,99,116], [], [], [], [], [], []], [[68,73,65,90,44,32,84,65,78,73,85,83,72,75,65], [57], [49,50,50,56,52,49], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [57,51,57,45,50,49,55,45,48,49,51,48], [48,51,47,49,54,47,49,49], [65], [49,54], [57], [], [57,32,114,101,115,116,114,105,99,116], [], [], [53,51,50,50,51,52,56,48,55,54], [52,55,50,55,50,57]], [[82,79,68,82,73,71,85,69,90,44,32,75,65,68,73,65,78], [49,48], [49,50,49,56,49,52], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [56,54,48,45,52,54,49,45,50,56,48,56], [48,52,47,50,56,47,49,49], [65], [49,53], [57], [], [57,32,114,101,115,116,114,105,99,116], [], [], [54,56,56,55,52,53,52,49,50,53], [53,54,55,49,50,54]], [[83,80,65,82,75,77,65,78,44,32,69,77,73,76,76,73,65,78,65], [57], [49,50,50,50,49,52], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,56,48,50,45,50,50,55,55], [48,55,47,48,49,47,49,49], [65], [49,53], [52], [], [52,32,114,101,115,116,114,105,99,116], [], [], [55,51,56,54,50,49,48,56,56,53], [52,55,50,51,50,56]], [[78,85,78,69,90,44,32,77,65,84,84,72,69,87], [57], [49,51,50,57,49,51], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [57,49,55,45,56,56,57,45,53,48,57,55], [48,52,47,49,54,47,49,50], [65], [49,52], [52], [], [52,32,114,101,115,116,114,105,99,116], [], [], [55,52,54,55,57,57,55,55,53,49], [53,55,52,51,55,49]], [[87,73,76,76,73,65,77,83,44,32,74,69,82,77,65,73,78,69], [57], [49,50,53,55,52,56], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [77], [57,53,57,45,50,48,48,45,50,55,50,55], [48,52,47,48,50,47,49,50], [65], [49,52], [52], [], [52,32,114,101,115,116,114,105,99,116], [], [], [57,52,51,49,56,51,57,55,48,52], [53,54,53,54,48,55]], [[66,85,82,82,85,83,83,44,32,77,73,92,39,67,72,65,69,76,65], [57], [49,53,50,48,54,50], [51,40,65,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,51,57,57,50,54,52,49], [48,57,47,50,57,47,49,50], [65], [49,52], [52], [], [52,32,114,101,115,116,114,105,99,116], [], [], [55,54,52,55,53,54,52,51,48,52], [54,52,51,57,51,54]], [[84,85,82,82,69,76,76,44,32,77,73,67,72,65,69,76], [57], [49,50,52,53,57,51], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,55,54,56,45,52,54,56,48], [48,52,47,49,55,47,49,50], [66], [49,52], [51], [], [51,32,114,101,115,116,114,105,99,116], [32], [], [56,49,51,56,57,55,55,55,55,55], [52,55,49,56,52,52]], [[83,65,78,84,73,65,71,79,44,32,74,69,83,85,83], [57], [49,50,54,55,56,48], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [57,49,52,45,56,57,51,45,49,50,52,53], [48,55,47,48,49,47,49,49], [66], [49,53], [51], [], [51,32,114,101,115,116,114,105,99,116], [], [], [50,54,52,48,55,49,56,57,56,53], [53,54,54,56,56,52]], [[77,79,72,65,77,69,68,44,32,83,65,74,73,68], [57], [49,51,56,56,54,56], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [57,50,57,45,51,54,57,45,51,56,49,55], [48,53,47,48,50,47,49,50], [66], [49,52], [54], [100,105,115,116,114,105,98,117,116,111,114], [54,32,114,101,115,116,114,105,99,116], [], [], [57,53,50,57,55,57,50,54,50,55], [53,57,53,52,55,56]], [[77,69,74,73,65,44,32,73,90,65,69,76], [57], [49,50,52,49,54,51], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [50,48,51,45,56,52,49,45,54,51,50,57], [49,49,47,48,54,47,49,48], [66], [49,54], [54], [], [54,32,114,101,115,116,114,105,99,116], [], [], [56,56,55,52,50,52,57,56,51,51], [52,55,50,48,50,55]], [[82,79,66,73,78,83,79,78,44,32,83,73,72,65,89,65], [57], [49,53,48,51,52,57], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,55,52,55,45,50,48,55,48], [48,52,47,49,56,47,49,50], [66], [49,52], [54], [], [54,32,114,101,115,116,114,105,99,116], [], [], [50,54,54,57,53,49,54,49,53,49], [54,52,48,51,54,53]], [[79,82,84,73,90,45,84,69,78,69,90,65,67,65,44,32,65,76,69,88,65], [57], [49,50,57,56,53,55], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,51,54,49,45,49,50,50,57], [48,53,47,49,50,47,49,50], [66], [49,52], [54], [], [54,32,114,101,115,116,114,105,99,116], [], [], [54,49,49,49,55,54,51,51,50,48], [52,55,49,53,52,50]], [[68,69,32,76,65,32,67,82,85,90,45,66,82,69,78,83,44,32,67,65,82,79,76], [57], [49,53,51,53,53,55], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,52,54,53,45,57,52,50,57], [52,47,53,47,49,50], [66], [49,52], [56], [], [56,32,114,101,115,116,114,105,99,116], [], [], [49,55,54,53,49,54,50,51,55,52], [54,52,56,52,54,57]], [[82,85,73,90,44,32,76,73,65,78,78,89,83], [57], [49,50,51,48,54,50], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,51,49,55,45,56,54,50,48], [48,49,47,49,57,47,49,50], [66], [49,53], [56], [], [56,32,114,101,115,116,114,105,99,116], [], [], [51,52,50,52,49,53,50,49,48,48], [52,55,50,50,48,56]], [[84,72,79,77,80,83,79,78,44,32,82,65,74,65,89], [57], [49,52,53,55,49,53], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [57,49,52,45,53,51,48,45,52,54,57,54], [49,48,47,48,56,47,49,50], [66], [49,52], [56], [], [56,32,114,101,115,116,114,105,99,116], [], [], [55,49,50,51,51,56,56,57,49,54], [54,50,52,54,55,56]], [[83,73,76,86,65,44,32,65,76,69,88,83,65,78,68,82,65], [57], [49,50,53,51,51,55], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [52,55,53,45,51,55,55,45,49,53,48,49], [48,54,47,50,57,47,49,49], [66], [49,53], [56], [], [56,32,114,101,115,116,114,105,99,116], [], [], [56,49,51,55,49,49,55,57,49,48], [53,54,53,49,54,48]], [[83,67,79,84,84,44,32,74,65,89,76,65], [56], [49,49,55,56,50,53], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,53,50,55,45,56,53,56,53], [49,48,47,49,48,47,49,48], [66], [49,54], [55], [], [55,32,114,101,115,116,114,105,99,116], [], [], [51,53,49,57,50,52,50,56,55,51], [52,53,55,57,51,53]], [[86,65,90,81,85,69,90,45,69,67,72,69,86,65,82,82,73,65,44,32,76,85,90,32,74,65,67,75,89,69,82,65], [57], [49,50,51,50,53,54], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,55,52,55,45,49,54,54,50], [49,47,49,57,47,49,50], [66], [49,53], [55], [], [55,32,114,101,115,116,114,105,99,116], [], [], [51,50,56,50,49,50,49,56,52,55], [52,55,52,55,51,50]], [[72,69,82,78,65,78,68,69,90,45,72,69,82,67,85,76,69,83,44,32,74,69,78,78,73,70,69,82], [57], [49,50,55,50,51,54], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,50,49,50,45,50,48,54,50], [48,55,47,49,55,47,49,49], [66], [49,53], [49], [99,111,108,108,101,99,116,101,114], [49,32,114,101,115,116,114,105,99,116], [], [], [50,49,49,55,57,51,48,53,48,52], [53,54,55,52,51,50]], [[87,73,76,76,73,65,77,83,44,32,65,73,89,65,78,65], [57], [49,51,56,54,52,49], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,57,57,54,45,53,53,49,50], [48,56,47,50,51,47,49,50], [66], [49,52], [49], [98,111,111,107,107,101,101,112,101,114], [49,32,114,101,115,116,114,105,99,116], [], [], [53,53,48,56,56,49,51,52,54,54], [53,57,53,49,56,51]], [[89,79,85,78,71,44,32,84,69,78,65,89,65], [57], [49,50,53,51,50,50], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,55,48,55,45,54,52,56,49], [48,52,47,48,55,47,49,50], [66], [49,52], [49], [], [49,32,114,101,115,116,114,105,99,116], [], [], [55,53,56,49,56,49,49,53,48,54], [53,54,53,49,49,53]], [[80,65,76,84,73,78,44,32,87,72,73,84,78,69,89], [57], [49,53,50,56,53,50], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,50,55,56,45,57,56,54,48], [51,47,49,50,47,49,50], [66], [49,53], [50], [], [50,32,114,101,115,116,114,105,99,116], [], [], [], [], []], [[82,85,68,69,76,44,32,80,69,89,84,69,78], [57], [49,50,52,53,49,54], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,53,48,48,45,56,49,52,57], [48,56,47,50,54,47,49,50], [66], [49,52], [50], [100,105,115,116,114,105,98,117,116,111,114], [50,32,114,101,115,116,114,105,99,116], [], [], [50,57,54,53,55,49,49,48,56,57], [52,55,52,55,51,49]], [[78,65,90,65,82,73,79,44,32,72,65,82,79,76,68], [57], [49,49,56,55,48,53], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [57,53,57,45,52,54,53,45,53,51,50,54], [55,47,51,49,47,49,50], [66], [49,52], [50], [], [50,32,114,101,115,116,114,105,99,116], [], [], [54,48,57,52,50,49,48,49,52,49], [52,51,57,56,56,57]], [[83,85,83,65,78,65,44,32,66,82,65,68,76,69,89], [57], [49,50,53,57,52,54], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [54,52,54,45,52,54,57,45,54,49,52,52], [49,48,47,48,55,47,49,50], [66], [49,52], [50], [], [50,32,114,101,115,116,114,105,99,116], [], [], [55,48,54,50,51,57,48,57,50,54], [53,54,53,56,49,50]], [[77,85,78,79,90,44,32,89,65,78,69,84,90,65,76,89], [57], [49,50,50,52,52,52], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [52,55,53,45,54,56,57,45,55,55,56,54], [49,49,47,49,55,47,49,50], [66], [49,52], [53], [116,117,116,111,114], [53,32,114,101,115,116,114,105,99,116], [], [], [54,48,53,56,53,50,54,52,56,54], [52,55,50,50,56,53]], [[86,65,90,81,85,69,90,45,74,73,77,69,78,69,90,44,32,65,73,76,89,78], [57], [49,53,50,49,48,51], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [51,52,55,45,54,54,50,45,48,50,49,54], [49,47,57,47,49,50], [66], [49,53], [53], [], [53,32,114,101,115,116,114,105,99,116], [], [], [52,49,57,57,57,48,54,55,51,50], [52,55,49,55,50,51]], [[82,65,77,83,65,72,79,89,69,44,32,65,75,65,83,72], [57], [49,53,48,48,57,57], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [52,55,53,45,54,53,53,45,52,50,50,53], [48,57,47,48,55,47,49,50], [66], [49,52], [53], [], [53,32,114,101,115,116,114,105,99,116], [], [], [51,55,53,48,51,53,54,48,52,55], [54,51,57,54,53,55]], [[82,69,89,69,83,44,32,89,69,78,73,67,69], [57], [49,50,51,50,48,50], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,57,56,50,45,56,49,52,48], [49,50,47,50,55,47,49,50], [66], [49,52], [53], [], [53,32,114,101,115,116,114,105,99,116], [], [], [57,48,53,51,53,56,49,49,52,54], [52,55,50,49,55,49]], [[83,73,77,80,75,73,78,83,44,32,67,65,76,69,66], [57], [49,52,51,52,50,50], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [56,54,48,45,56,48,56,45,57,54,52,51], [49,49,47,49,51,47,49,49], [66], [49,53], [57], [], [57,32,114,101,115,116,114,105,99,116], [], [], [53,56,54,53,53,54,48,54,49,56], [54,49,54,48,53,50]], [[90,65,80,65,84,65,44,32,69,77,65,78,85,69,76], [57], [49,50,48,54,50,52], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [56,54,48,45,56,57,48,45,48,57,56,52], [49,49,47,49,51,47,49,49], [66], [49,53], [57], [], [57,32,114,101,115,116,114,105,99,116], [], [], [57,54,52,56,57,54,55,54,55,54], [52,55,48,57,57,53]], [[83,65,78,84,79,83,44,32,77,65,75,89,76,65], [57], [49,50,53,51,56,56], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [70], [50,48,51,45,53,57,48,45,49,53,48,53], [48,57,47,48,51,47,49,50], [66], [49,52], [52], [], [52,32,114,101,115,116,114,105,99,116], [], [], [55,56,53,49,50,49,56,55,56,57], [53,54,53,50,49,52]], [[86,65,83,67,79,78,69,90,45,67,72,85,81,85,73,71,85,65,78,71,65,44,32,83,69,65,78], [57], [49,51,53,53,51,54], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [57,49,55,45,57,51,55,45,56,49,49,49], [48,50,47,50,51,47,49,50], [66], [49,53], [52], [99,111,108,108,101,99,116,101,114], [52,32,114,101,115,116,114,105,99,116], [], [], [53,56,57,54,49,50,53,48,50,52], [53,56,50,50,56,49]], [[84,79,82,82,69,83,44,32,74,65,78,68,73,69,76], [57], [49,50,52,55,56,48], [52,40,66,41,32,65,76,71,69,66,82,65,32,49], [77], [57,53,57,45,52,52,52,45,55,49,57,53], [48,50,47,48,56,47,49,50], [66], [49,53], [52], [], [52,32,114,101,115,116,114,105,99,116], [], [], [52,52,53,49,54,53,48,53,52,52], [52,55,49,55,49,56]]];
 
 function addChar(x_p0, c_p1) {
     x_p0.push(c_p1);
@@ -3899,8 +3902,8 @@ var ConstSet6 = setConstr(32, 9, 11, 13, 10, 12);
 var ConstSet7 = setConstr(32, 9, 11, 13, 10, 12);
                       var helper_2768240687 = new BigUint64Array([13739361407582206667n, 15594563132006766882n]);
 var basicRules_4043309149 = [[83,116,97,121,32,105,110,32,121,111,117,114,32,97,115,115,105,103,110,101,100,32,115,101,97,116,46], [75,101,101,112,32,121,111,117,114,32,100,101,115,107,32,99,108,101,97,114,32,102,111,114,32,108,101,97,114,110,105,110,103,46], [68,111,110,39,116,32,115,119,101,97,114,46]];
-var lessonAgenda_4026531920 = [[68,111,32,78,111,119,32,40,126,53,32,109,105,110,41], [76,101,115,115,111,110,32,68,111,32,84,111,103,101,116,104,101,114,32,40,126,50,48,32,109,105,110,41], [76,101,115,115,111,110,32,84,114,121,32,73,116,32,80,114,111,98,108,101,109,115], [77,97,116,104,32,84,97,108,107,32,65,99,116,105,118,105,99,116,121], [80,114,97,99,116,105,99,101,32,80,97,112,101,114]];
-var lessonCriteria_4026531895 = [[73,32,99,97,110,32,114,101,99,111,103,110,105,122,101,32,97,32,102,117,110,99,116,105,111,110], [73,32,99,97,110,32,115,111,108,118,101,32,49,45,115,116,101,112,32,101,113,117,97,116,105,111,110,115], [73,32,99,97,110,32,119,114,105,116,101,32,109,97,112,115,32,102,114,111,109,32,119,114,105,116,116,101,110,32,109,97,116,104]];
+var lessonAgenda_4026531916 = [[68,111,32,78,111,119,32,40,126,53,32,109,105,110,41], [76,101,115,115,111,110,32,68,111,32,84,111,103,101,116,104,101,114,32,40,126,50,48,32,109,105,110,41], [77,97,116,104,32,84,97,108,107,32,65,99,116,105,118,105,99,116,121], [76,101,115,115,111,110,32,84,114,121,32,73,116,32,80,114,111,98,108,101,109,115]];
+var lessonCriteria_4026531895 = [[73,32,99,97,110,32,115,111,108,118,101,32,49,45,115,116,101,112,32,101,113,117,97,116,105,111,110,115,32,119,105,116,104,32,97,100,100,105,116,105,111,110], [73,32,99,97,110,32,115,111,108,118,101,32,49,45,115,116,101,112,32,101,113,117,97,116,105,111,110,115,32,119,105,116,104,32,115,117,98,116,114,97,99,116,105,111,110], [73,32,99,97,110,32,115,111,108,118,101,32,49,45,115,116,101,112,32,101,113,117,97,116,105,111,110,115,32,119,105,116,104,32,109,117,108,116,105,112,108,105,99,97,116,105,111,110], [73,32,99,97,110,32,115,111,108,118,101,32,49,45,115,116,101,112,32,101,113,117,97,116,105,111,110,115,32,119,105,116,104,32,100,105,118,105,115,105,111,110]];
 var ddStore_4043309162 = [[83,105,116,32,119,104,101,114,101,32,121,111,117,32,119,97,110,116,32,102,111,114,32,49,32,81,117,97,114,116,101,114], [83,105,116,32,119,105,116,104,32,119,104,111,32,121,111,117,32,119,97,110,116,32,102,111,114,32,49,32,81,117,97,114,116,101,114], [83,110,97,99,107,32,40,117,115,117,97,108,108,121,32,99,97,110,100,121,41], [53,32,112,114,105,111,114,105,116,121,32,108,97,118,32,116,105,99,107,101,116,115,32,40,109,121,32,99,108,97,115,115,101,115,32,111,110,108,121,41], [43,49,48,37,32,111,110,32,97,32,113,117,105,122], [117,112,32,116,111,32,53,48,37,32,116,111,32,121,111,117,114,32,68,105,115,112,111,115,105,116,105,111,110,32,103,114,97,100,101]];
 var environmentRules_4043309175 = [[73,102,32,121,111,117,32,116,97,107,101,32,105,116,32,111,117,116,44,32,112,117,116,32,105,116,32,97,119,97,121,46], [68,111,110,39,116,32,115,104,111,117,116,46], [73,102,32,105,116,32,102,97,108,108,115,44,32,112,105,99,107,32,105,116,32,117,112,46], [79,110,108,121,32,119,114,105,116,101,32,111,110,32,112,97,112,101,114,32,97,110,100,32,119,104,105,116,101,98,111,97,114,100,115,46], [70,111,108,108,111,119,32,116,104,101,32,97,103,101,110,100,97,46]];
 
@@ -8922,55 +8925,55 @@ framePtr = F.prev;
 var F = {procname: "module thunks", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/algExt-0.1.0-ee6e157bba03447b3b43476aa961afb00502f073/algExt/thunks.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module fmtl", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/fmtl.nim", line: 0};
+var F = {procname: "module fmtl", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/fmtl.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module fmtl", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/fmtl.nim", line: 0};
+var F = {procname: "module fmtl", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/fmtl.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module privacy", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/privacy.nim", line: 0};
+var F = {procname: "module privacy", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/privacy.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module privacy", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/privacy.nim", line: 0};
+var F = {procname: "module privacy", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/privacy.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module htmlFile", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/htmlFile.nim", line: 0};
+var F = {procname: "module htmlFile", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/htmlFile.nim", line: 0};
 framePtr = F;
 F.line = 1;
 F.filename = "htmlFile.nim";
 framePtr = F.prev;
-var F = {procname: "module htmlFile", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/htmlFile.nim", line: 0};
+var F = {procname: "module htmlFile", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/htmlFile.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module projectPaths", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/projectPaths.nim", line: 0};
+var F = {procname: "module projectPaths", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/projectPaths.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module projectPaths", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/projectPaths.nim", line: 0};
+var F = {procname: "module projectPaths", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/projectPaths.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module tagRefable", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/tagRefable.nim", line: 0};
+var F = {procname: "module tagRefable", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/tagRefable.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module tagRefable", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/tagRefable.nim", line: 0};
+var F = {procname: "module tagRefable", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/tagRefable.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module fonts", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/fonts.nim", line: 0};
+var F = {procname: "module fonts", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/fonts.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module fonts", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/fonts.nim", line: 0};
+var F = {procname: "module fonts", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/fonts.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module images", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/images.nim", line: 0};
+var F = {procname: "module images", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/images.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module images", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/images.nim", line: 0};
+var F = {procname: "module images", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/images.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 
 function newProbCounter__pkgZhpx7680Znumbering_u52() {
   var result_3187671093 = null;
 
-  var F = {procname: "numbering.newProbCounter", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/numbering.nim", line: 0};
+  var F = {procname: "numbering.newProbCounter", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/numbering.nim", line: 0};
   framePtr = F;
     F.line = 50;
     F.filename = "numbering.nim";
@@ -8980,7 +8983,7 @@ function newProbCounter__pkgZhpx7680Znumbering_u52() {
   return result_3187671093;
 
 }
-var F = {procname: "module numbering", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/numbering.nim", line: 0};
+var F = {procname: "module numbering", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/numbering.nim", line: 0};
 framePtr = F;
 F.line = 4;
 F.filename = "numbering.nim";
@@ -9038,7 +9041,7 @@ var eCount_3187671130 = [newProbCounter__pkgZhpx7680Znumbering_u52()];
 F.line = 54;
 var sCount_3187671131 = [newProbCounter__pkgZhpx7680Znumbering_u52()];
 framePtr = F.prev;
-var F = {procname: "module numbering", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/numbering.nim", line: 0};
+var F = {procname: "module numbering", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/numbering.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 var F = {procname: "module latex", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/algebraic-0.1.0-914bcc66e6d4fd95b88586d7efd26ce7f239a790/algebraic/latex.nim", line: 0};
@@ -9047,7 +9050,7 @@ framePtr = F.prev;
 var F = {procname: "module latex", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/algebraic-0.1.0-914bcc66e6d4fd95b88586d7efd26ce7f239a790/algebraic/latex.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module eMathjax", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/eMathjax.nim", line: 0};
+var F = {procname: "module eMathjax", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/eMathjax.nim", line: 0};
 framePtr = F;
 F.line = 46;
 F.filename = "eMathjax.nim";
@@ -9091,7 +9094,7 @@ F.filename = "eMathjax.nim";
   })();
 ;
 framePtr = F.prev;
-var F = {procname: "module eMathjax", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/eMathjax.nim", line: 0};
+var F = {procname: "module eMathjax", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/eMathjax.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 
@@ -9169,7 +9172,7 @@ function set__pkgZhpx7680Zlayout_u43(self_p0, value_p1) {
 var Temporary6;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u37(ev_p0) {
-  var F = {procname: "layout.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "layout.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 18;
     F.filename = "layout.nim";
@@ -9181,7 +9184,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u37(ev_p0) {
 var Temporary7;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u121(ev_p0) {
-  var F = {procname: "layout.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "layout.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 19;
     F.filename = "layout.nim";
@@ -9190,7 +9193,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u121(ev_p0) {
 
   
 }
-var F = {procname: "module layout", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+var F = {procname: "module layout", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
 framePtr = F;
 F.line = 14;
 F.filename = "layout.nim";
@@ -9204,25 +9207,25 @@ F.line = 19;
 Temporary7 = HEX3Aanonymous__pkgZhpx7680Zlayout_u121.bind(null); Temporary7.ClP_0 = HEX3Aanonymous__pkgZhpx7680Zlayout_u121; Temporary7.ClE_0 = null;
 window.addEventListener("afterprint", Temporary7, false);
 framePtr = F.prev;
-var F = {procname: "module layout", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+var F = {procname: "module layout", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module paper", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/paper.nim", line: 0};
+var F = {procname: "module paper", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/paper.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module paper", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/paper.nim", line: 0};
+var F = {procname: "module paper", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/paper.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module markup", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/markup.nim", line: 0};
+var F = {procname: "module markup", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/markup.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module markup", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/markup.nim", line: 0};
+var F = {procname: "module markup", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/markup.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module videos", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/videos.nim", line: 0};
+var F = {procname: "module videos", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/videos.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module videos", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/videos.nim", line: 0};
+var F = {procname: "module videos", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/videos.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 var F = {procname: "module underscored_calls", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/std/private/underscored_calls.nim", line: 0};
@@ -9237,22 +9240,22 @@ framePtr = F.prev;
 var F = {procname: "module sugar", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/pure/sugar.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module mTables", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/mTables.nim", line: 0};
+var F = {procname: "module mTables", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/mTables.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module mTables", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/mTables.nim", line: 0};
+var F = {procname: "module mTables", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/mTables.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module mBlocks", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/mBlocks.nim", line: 0};
+var F = {procname: "module mBlocks", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/mBlocks.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module mBlocks", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/mBlocks.nim", line: 0};
+var F = {procname: "module mBlocks", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/mBlocks.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module mGrid", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/mGrid.nim", line: 0};
+var F = {procname: "module mGrid", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/mGrid.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module mGrid", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/mGrid.nim", line: 0};
+var F = {procname: "module mGrid", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/mGrid.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 
@@ -9268,7 +9271,7 @@ function formatValue__pkgZhappyxZprivateZmacro95utils_u258(result_p0, result_p0_
 }
 
 function runSlideListeners__pkgZhpx7680Zslides_u77(x_p0) {
-  var F = {procname: "slides.runSlideListeners", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/slides.nim", line: 0};
+  var F = {procname: "slides.runSlideListeners", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/slides.nim", line: 0};
   framePtr = F;
     Label1: {
       F.line = 19;
@@ -9310,7 +9313,7 @@ function runSlideListeners__pkgZhpx7680Zslides_u77(x_p0) {
 }
 
 function slideControls__pkgZhpx7680Zslides_u297(e_p0) {
-  var F = {procname: "slides.slideControls", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/slides.nim", line: 0};
+  var F = {procname: "slides.slideControls", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/slides.nim", line: 0};
   framePtr = F;
     F.line = 23;
     F.filename = "slides.nim";
@@ -9450,7 +9453,7 @@ function slideControls__pkgZhpx7680Zslides_u297(e_p0) {
   
 }
 var Temporary6;
-var F = {procname: "module slides", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/slides.nim", line: 0};
+var F = {procname: "module slides", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/slides.nim", line: 0};
 framePtr = F;
 F.line = 7;
 F.filename = "slides.nim";
@@ -9471,7 +9474,7 @@ window.addEventListener("keydown", Temporary6, false);
 F.line = 99;
 var lastRoute_3288338064 = ["/"];
 framePtr = F.prev;
-var F = {procname: "module slides", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/slides.nim", line: 0};
+var F = {procname: "module slides", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/slides.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 var F = {procname: "module commonTypes", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/ccssmHub-0.1.0-da39a3ee5e6b4b0d3255bfef95601890afd80709/ccssmHub/core/commonTypes.nim", line: 0};
@@ -9546,13 +9549,13 @@ framePtr = F.prev;
 var F = {procname: "module cascade", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/cascade-1.0.0-61f8daedcd988d899252397ac042e188cb96b9fd/cascade.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module problemType", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/problemType.nim", line: 0};
+var F = {procname: "module problemType", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/problemType.nim", line: 0};
 framePtr = F;
-F.line = 16;
+F.line = 17;
 F.filename = "problemType.nim";
-var defaultMark_3271557145 = tg2([100,105,118], [tg4([], true, [], false)], true);
+var defaultMark_3271557146 = tg2([100,105,118], [tg4([], true, [], false)], true);
 framePtr = F.prev;
-var F = {procname: "module problemType", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/problemType.nim", line: 0};
+var F = {procname: "module problemType", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/problemType.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 var F = {procname: "module parsecsv", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/pure/parsecsv.nim", line: 0};
@@ -14403,7 +14406,7 @@ framePtr = F.prev;
 var F = {procname: "module numbers", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/inEnglish-0.1.0-444d01f7a7d1ccacc0fc1e1a2cc818f5ecc52d2d/inEnglish/numbers.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module jsxGraph", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/jsxGraph.nim", line: 0};
+var F = {procname: "module jsxGraph", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/jsxGraph.nim", line: 0};
 framePtr = F;
 F.line = 40;
 F.filename = "jsxGraph.nim";
@@ -14411,13 +14414,13 @@ var boards_3976200221 = [[]];
 F.line = 41;
 var boardCount_3976200222 = [0];
 framePtr = F.prev;
-var F = {procname: "module jsxGraph", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/jsxGraph.nim", line: 0};
+var F = {procname: "module jsxGraph", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/jsxGraph.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module diceBear", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/diceBear.nim", line: 0};
+var F = {procname: "module diceBear", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/diceBear.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module diceBear", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/diceBear.nim", line: 0};
+var F = {procname: "module diceBear", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/diceBear.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 
@@ -14562,13 +14565,13 @@ function randomize__pureZrandom_u264(seed_p0) {
 
   
 }
-var F = {procname: "module Tasks", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson0_1_1/Tasks/Tasks.nim", line: 0};
+var F = {procname: "module Tasks", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson1_0_2/Tasks/Tasks.nim", line: 0};
 framePtr = F;
 F.line = 43;
 F.filename = "Tasks.nim";
-randomize__pureZrandom_u264(1543122254n);
+randomize__pureZrandom_u264(1513773471n);
 framePtr = F.prev;
-var F = {procname: "module Tasks", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson0_1_1/Tasks/Tasks.nim", line: 0};
+var F = {procname: "module Tasks", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson1_0_2/Tasks/Tasks.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 var F = {procname: "module expectations", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/lists/expectations.nim", line: 0};
@@ -14581,8 +14584,8 @@ var F = {procname: "module expectations", prev: framePtr, filename: "/home/taq/b
 framePtr = F;
 framePtr = F.prev;
 
-function rawGet__OOZlesson84arget_u10707(t_p0, key_p1, hc_p2, hc_p2_Idx) {
-  var result_4026542553 = 0;
+function rawGet__OOZlesson84arget_u10703(t_p0, key_p1, hc_p2, hc_p2_Idx) {
+  var result_4026542549 = 0;
 
   var F = {procname: "rawGet.rawGet", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/pure/collections/hashcommon.nim", line: 0};
   framePtr = F;
@@ -14597,37 +14600,37 @@ function rawGet__OOZlesson84arget_u10707(t_p0, key_p1, hc_p2, hc_p2_Idx) {
     
     if (((t_p0.data).length == 0)) {
     F.line = 43;
-    result_4026542553 = (-1);
+    result_4026542549 = (-1);
     break BeforeRet;
     }
     
     F.line = 44;
-    var h_4026542779 = (hc_p2[hc_p2_Idx] & (t_p0.data).length - 1);
+    var h_4026542775 = (hc_p2[hc_p2_Idx] & (t_p0.data).length - 1);
     Label1: {
       F.line = 45;
         Label2: while (true) {
-        if (!isFilled__pureZcollectionsZtables_u31(t_p0.data[chckIndx(h_4026542779, 0, (t_p0.data).length - 1)].Field0)) break Label2;
-          if (((t_p0.data[chckIndx(h_4026542779, 0, (t_p0.data).length - 1)].Field0 == hc_p2[hc_p2_Idx]) && eqStrings(t_p0.data[chckIndx(h_4026542779, 0, (t_p0.data).length - 1)].Field1, key_p1))) {
+        if (!isFilled__pureZcollectionsZtables_u31(t_p0.data[chckIndx(h_4026542775, 0, (t_p0.data).length - 1)].Field0)) break Label2;
+          if (((t_p0.data[chckIndx(h_4026542775, 0, (t_p0.data).length - 1)].Field0 == hc_p2[hc_p2_Idx]) && eqStrings(t_p0.data[chckIndx(h_4026542775, 0, (t_p0.data).length - 1)].Field1, key_p1))) {
           F.line = 51;
-          result_4026542553 = h_4026542779;
+          result_4026542549 = h_4026542775;
           break BeforeRet;
           }
           
           F.line = 52;
-          h_4026542779 = nextTry__pureZcollectionsZtables_u34(h_4026542779, (t_p0.data).length - 1);
+          h_4026542775 = nextTry__pureZcollectionsZtables_u34(h_4026542775, (t_p0.data).length - 1);
         }
     };
     F.line = 53;
-    result_4026542553 = subInt((-1), h_4026542779);
+    result_4026542549 = subInt((-1), h_4026542775);
   };
   framePtr = F.prev;
 
-  return result_4026542553;
+  return result_4026542549;
 
 }
 
-function mustRehash__OOZlesson84arget_u12085(t_p0) {
-  var result_4026543928 = false;
+function mustRehash__OOZlesson84arget_u12081(t_p0) {
+  var result_4026543924 = false;
 
   var F = {procname: "mustRehash.mustRehash", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/pure/collections/hashcommon.nim", line: 0};
   framePtr = F;
@@ -14638,14 +14641,14 @@ function mustRehash__OOZlesson84arget_u12085(t_p0) {
     }
     
     F.line = 35;
-    result_4026543928 = (((t_p0.data).length < addInt(t_p0.counter, divInt(t_p0.counter, 2))) || (subInt((t_p0.data).length, t_p0.counter) < 4));
+    result_4026543924 = (((t_p0.data).length < addInt(t_p0.counter, divInt(t_p0.counter, 2))) || (subInt((t_p0.data).length, t_p0.counter) < 4));
   framePtr = F.prev;
 
-  return result_4026543928;
+  return result_4026543924;
 
 }
 
-function rawInsert__OOZlesson84arget_u13454(t_p0, data_p1, data_p1_Idx, key_p2, val_p3, hc_p4, h_p5) {
+function rawInsert__OOZlesson84arget_u13450(t_p0, data_p1, data_p1_Idx, key_p2, val_p3, hc_p4, h_p5) {
   var F = {procname: "rawInsert.rawInsert", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/pure/collections/tableimpl.nim", line: 0};
   framePtr = F;
     F.line = 25;
@@ -14660,59 +14663,59 @@ function rawInsert__OOZlesson84arget_u13454(t_p0, data_p1, data_p1_Idx, key_p2, 
   
 }
 
-function enlarge__OOZlesson84arget_u12448(t_p0) {
+function enlarge__OOZlesson84arget_u12444(t_p0) {
   var F = {procname: "enlarge.enlarge", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/pure/collections/tables.nim", line: 0};
   framePtr = F;
     F.line = 247;
     F.filename = "tables.nim";
-    var n_4026544294 = [];
+    var n_4026544290 = [];
     F.line = 248;
-    n_4026544294 = new Array(chckRange(mulInt((t_p0.data).length, 2), 0, 2147483647)); for (var i = 0 ; i < chckRange(mulInt((t_p0.data).length, 2), 0, 2147483647) ; ++i) { n_4026544294[i] = {Field0: 0, Field1: [], Field2: ({title: [], longTitle: [], list: [], alert: false})}; }    F.line = 249;
+    n_4026544290 = new Array(chckRange(mulInt((t_p0.data).length, 2), 0, 2147483647)); for (var i = 0 ; i < chckRange(mulInt((t_p0.data).length, 2), 0, 2147483647) ; ++i) { n_4026544290[i] = {Field0: 0, Field1: [], Field2: ({title: [], longTitle: [], list: [], alert: false})}; }    F.line = 249;
     F.line = 249;
-    var HEX3Atmp_4026546900 = nimCopy(null, t_p0.data, NTI4026545102);
+    var HEX3Atmp_4026546896 = nimCopy(null, t_p0.data, NTI4026545100);
     F.line = 249;
-    t_p0.data = n_4026544294;
+    t_p0.data = n_4026544290;
     F.line = 249;
-    n_4026544294 = HEX3Atmp_4026546900;
+    n_4026544290 = HEX3Atmp_4026546896;
     Label1: {
       F.line = 250;
-      var i_4026544418 = 0;
+      var i_4026544414 = 0;
       F.line = 46;
       F.filename = "iterators_1.nim";
-      var colontmp__4026546897 = 0;
+      var colontmp__4026546893 = 0;
       F.line = 250;
       F.filename = "tables.nim";
-      colontmp__4026546897 = (n_4026544294).length - 1;
+      colontmp__4026546893 = (n_4026544290).length - 1;
       F.line = 68;
       F.filename = "iterators_1.nim";
-      var res_4026546898 = 0;
+      var res_4026546894 = 0;
       Label2: {
         F.line = 69;
           Label3: while (true) {
-          if (!(res_4026546898 <= colontmp__4026546897)) break Label3;
+          if (!(res_4026546894 <= colontmp__4026546893)) break Label3;
             F.line = 250;
             F.filename = "tables.nim";
-            i_4026544418 = res_4026546898;
+            i_4026544414 = res_4026546894;
             F.line = 251;
-            var eh_4026544631 = n_4026544294[chckIndx(i_4026544418, 0, (n_4026544294).length - 1)].Field0;
-            if (isFilled__pureZcollectionsZtables_u31(eh_4026544631)) {
+            var eh_4026544627 = n_4026544290[chckIndx(i_4026544414, 0, (n_4026544290).length - 1)].Field0;
+            if (isFilled__pureZcollectionsZtables_u31(eh_4026544627)) {
             F.line = 253;
-            var j_4026544643 = (eh_4026544631 & (t_p0.data).length - 1);
+            var j_4026544639 = (eh_4026544627 & (t_p0.data).length - 1);
             Label4: {
               F.line = 254;
                 Label5: while (true) {
-                if (!isFilled__pureZcollectionsZtables_u31(t_p0.data[chckIndx(j_4026544643, 0, (t_p0.data).length - 1)].Field0)) break Label5;
+                if (!isFilled__pureZcollectionsZtables_u31(t_p0.data[chckIndx(j_4026544639, 0, (t_p0.data).length - 1)].Field0)) break Label5;
                   F.line = 255;
-                  j_4026544643 = nextTry__pureZcollectionsZtables_u34(j_4026544643, (t_p0.data).length - 1);
+                  j_4026544639 = nextTry__pureZcollectionsZtables_u34(j_4026544639, (t_p0.data).length - 1);
                 }
             };
             F.line = 257;
-            rawInsert__OOZlesson84arget_u13454(t_p0, t_p0, "data", n_4026544294[chckIndx(i_4026544418, 0, (n_4026544294).length - 1)].Field1, n_4026544294[chckIndx(i_4026544418, 0, (n_4026544294).length - 1)].Field2, eh_4026544631, j_4026544643);
+            rawInsert__OOZlesson84arget_u13450(t_p0, t_p0, "data", n_4026544290[chckIndx(i_4026544414, 0, (n_4026544290).length - 1)].Field1, n_4026544290[chckIndx(i_4026544414, 0, (n_4026544290).length - 1)].Field2, eh_4026544627, j_4026544639);
             }
             
             F.line = 74;
             F.filename = "iterators_1.nim";
-            res_4026546898 = addInt(res_4026546898, 1);
+            res_4026546894 = addInt(res_4026546894, 1);
           }
       };
     };
@@ -14721,8 +14724,8 @@ function enlarge__OOZlesson84arget_u12448(t_p0) {
   
 }
 
-function rawGetKnownHC__OOZlesson84arget_u14100(t_p0, key_p1, hc_p2) {
-  var result_4026545946 = 0;
+function rawGetKnownHC__OOZlesson84arget_u14096(t_p0, key_p1, hc_p2) {
+  var result_4026545942 = 0;
 
   var F = {procname: "rawGetKnownHC.rawGetKnownHC", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/pure/collections/hashcommon.nim", line: 0};
   framePtr = F;
@@ -14730,75 +14733,75 @@ function rawGetKnownHC__OOZlesson84arget_u14100(t_p0, key_p1, hc_p2) {
     if (((t_p0.data).length == 0)) {
     F.line = 43;
     F.filename = "hashcommon.nim";
-    result_4026545946 = (-1);
+    result_4026545942 = (-1);
     break BeforeRet;
     }
     
     F.line = 44;
-    var h_4026546096 = (hc_p2 & (t_p0.data).length - 1);
+    var h_4026546092 = (hc_p2 & (t_p0.data).length - 1);
     Label1: {
       F.line = 45;
         Label2: while (true) {
-        if (!isFilled__pureZcollectionsZtables_u31(t_p0.data[chckIndx(h_4026546096, 0, (t_p0.data).length - 1)].Field0)) break Label2;
-          if (((t_p0.data[chckIndx(h_4026546096, 0, (t_p0.data).length - 1)].Field0 == hc_p2) && eqStrings(t_p0.data[chckIndx(h_4026546096, 0, (t_p0.data).length - 1)].Field1, key_p1))) {
+        if (!isFilled__pureZcollectionsZtables_u31(t_p0.data[chckIndx(h_4026546092, 0, (t_p0.data).length - 1)].Field0)) break Label2;
+          if (((t_p0.data[chckIndx(h_4026546092, 0, (t_p0.data).length - 1)].Field0 == hc_p2) && eqStrings(t_p0.data[chckIndx(h_4026546092, 0, (t_p0.data).length - 1)].Field1, key_p1))) {
           F.line = 51;
-          result_4026545946 = h_4026546096;
+          result_4026545942 = h_4026546092;
           break BeforeRet;
           }
           
           F.line = 52;
-          h_4026546096 = nextTry__pureZcollectionsZtables_u34(h_4026546096, (t_p0.data).length - 1);
+          h_4026546092 = nextTry__pureZcollectionsZtables_u34(h_4026546092, (t_p0.data).length - 1);
         }
     };
     F.line = 53;
-    result_4026545946 = subInt((-1), h_4026546096);
+    result_4026545942 = subInt((-1), h_4026546092);
   };
   framePtr = F.prev;
 
-  return result_4026545946;
+  return result_4026545942;
 
 }
 
-function HEX5BHEX5DHEX3D__OOZlesson84arget_u10547(t_p0, key_p1, val_p2) {
+function HEX5BHEX5DHEX3D__OOZlesson84arget_u10543(t_p0, key_p1, val_p2) {
   var F = {procname: "[]=.[]=", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/pure/collections/tables.nim", line: 0};
   framePtr = F;
     if (((t_p0.data).length == 0)) {
     F.line = 182;
     F.filename = "tableimpl.nim";
-    var correctSizeHEX60gensym3_4026542537 = slotsNeeded__pureZcollectionsZtables_u42(32);
+    var correctSizeHEX60gensym3_4026542533 = slotsNeeded__pureZcollectionsZtables_u42(32);
     F.line = 186;
     t_p0.counter = 0;
     F.line = 187;
-    t_p0.data = new Array(chckRange(correctSizeHEX60gensym3_4026542537, 0, 2147483647)); for (var i = 0 ; i < chckRange(correctSizeHEX60gensym3_4026542537, 0, 2147483647) ; ++i) { t_p0.data[i] = {Field0: 0, Field1: [], Field2: ({title: [], longTitle: [], list: [], alert: false})}; }    }
+    t_p0.data = new Array(chckRange(correctSizeHEX60gensym3_4026542533, 0, 2147483647)); for (var i = 0 ; i < chckRange(correctSizeHEX60gensym3_4026542533, 0, 2147483647) ; ++i) { t_p0.data[i] = {Field0: 0, Field1: [], Field2: ({title: [], longTitle: [], list: [], alert: false})}; }    }
     
     F.line = 59;
-    var hc_4026542546 = [0];
+    var hc_4026542542 = [0];
     F.line = 60;
-    var index_4026543560 = rawGet__OOZlesson84arget_u10707(t_p0, key_p1, hc_4026542546, 0);
-    if ((0 <= index_4026543560)) {
+    var index_4026543556 = rawGet__OOZlesson84arget_u10703(t_p0, key_p1, hc_4026542542, 0);
+    if ((0 <= index_4026543556)) {
     F.line = 61;
-    t_p0.data[chckIndx(index_4026543560, 0, (t_p0.data).length - 1)].Field2 = nimCopy(t_p0.data[chckIndx(index_4026543560, 0, (t_p0.data).length - 1)].Field2, val_p2, NTI3170906590);
+    t_p0.data[chckIndx(index_4026543556, 0, (t_p0.data).length - 1)].Field2 = nimCopy(t_p0.data[chckIndx(index_4026543556, 0, (t_p0.data).length - 1)].Field2, val_p2, NTI3170906590);
     }
     else {
       if (((t_p0.data).length == 0)) {
       F.line = 182;
-      var correctSizeHEX60gensym8_4026543920 = slotsNeeded__pureZcollectionsZtables_u42(32);
+      var correctSizeHEX60gensym8_4026543916 = slotsNeeded__pureZcollectionsZtables_u42(32);
       F.line = 186;
       t_p0.counter = 0;
       F.line = 187;
-      t_p0.data = new Array(chckRange(correctSizeHEX60gensym8_4026543920, 0, 2147483647)); for (var i = 0 ; i < chckRange(correctSizeHEX60gensym8_4026543920, 0, 2147483647) ; ++i) { t_p0.data[i] = {Field0: 0, Field1: [], Field2: ({title: [], longTitle: [], list: [], alert: false})}; }      }
+      t_p0.data = new Array(chckRange(correctSizeHEX60gensym8_4026543916, 0, 2147483647)); for (var i = 0 ; i < chckRange(correctSizeHEX60gensym8_4026543916, 0, 2147483647) ; ++i) { t_p0.data[i] = {Field0: 0, Field1: [], Field2: ({title: [], longTitle: [], list: [], alert: false})}; }      }
       
-      if (mustRehash__OOZlesson84arget_u12085(t_p0)) {
+      if (mustRehash__OOZlesson84arget_u12081(t_p0)) {
       F.line = 51;
-      enlarge__OOZlesson84arget_u12448(t_p0);
+      enlarge__OOZlesson84arget_u12444(t_p0);
       F.line = 52;
-      index_4026543560 = rawGetKnownHC__OOZlesson84arget_u14100(t_p0, key_p1, hc_4026542546[0]);
+      index_4026543556 = rawGetKnownHC__OOZlesson84arget_u14096(t_p0, key_p1, hc_4026542542[0]);
       }
       
       F.line = 53;
-      index_4026543560 = subInt((-1), index_4026543560);
+      index_4026543556 = subInt((-1), index_4026543556);
       F.line = 54;
-      rawInsert__OOZlesson84arget_u13454(t_p0, t_p0, "data", key_p1, val_p2, hc_4026542546[0], index_4026543560);
+      rawInsert__OOZlesson84arget_u13450(t_p0, t_p0, "data", key_p1, val_p2, hc_4026542542[0], index_4026543556);
       F.line = 62;
       t_p0.counter = addInt(t_p0.counter, 1);
     }
@@ -14807,49 +14810,49 @@ function HEX5BHEX5DHEX3D__OOZlesson84arget_u10547(t_p0, key_p1, val_p2) {
 
   
 }
-var F = {procname: "module lessonTarget", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson0_1_1/lessonTarget.nim", line: 0};
+var F = {procname: "module lessonTarget", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson1_0_2/lessonTarget.nim", line: 0};
 framePtr = F;
 F.line = 39;
 F.filename = "lessonTarget.nim";
-var references_4026542025 = [[]];
+var references_4026542021 = [[]];
 F.line = 40;
 var Temporary8 = nimCopy(null, {title: [69,120,112,101,99,116,97,116,105,111,110,115], list: nimCopy(null, basicRules_4043309149, NTI3019899235), longTitle: [], alert: true}, NTI3170906590);
-references_4026542025[0].push(Temporary8);;
+references_4026542021[0].push(Temporary8);;
 F.line = 41;
-var Temporary9 = nimCopy(null, {title: [65,103,101,110,100,97], list: nimCopy(null, lessonAgenda_4026531920, NTI4026531864), alert: false, longTitle: []}, NTI3170906590);
-references_4026542025[0].push(Temporary9);;
+var Temporary9 = nimCopy(null, {title: [65,103,101,110,100,97], list: nimCopy(null, lessonAgenda_4026531916, NTI4026531864), alert: false, longTitle: []}, NTI3170906590);
+references_4026542021[0].push(Temporary9);;
 F.line = 42;
 var Temporary10 = nimCopy(null, {title: [84,97,114,103,101,116,115], list: nimCopy(null, lessonCriteria_4026531895, NTI4026531843), alert: false, longTitle: []}, NTI3170906590);
-references_4026542025[0].push(Temporary10);;
+references_4026542021[0].push(Temporary10);;
 F.line = 43;
 var Temporary11 = nimCopy(null, {title: [83,116,111,114,101], list: nimCopy(null, ddStore_4043309162, NTI3137339451), alert: false, longTitle: []}, NTI3170906590);
-references_4026542025[0].push(Temporary11);;
+references_4026542021[0].push(Temporary11);;
 F.line = 44;
 var Temporary12 = nimCopy(null, {title: [69,110,118,105,114,111,110,109,101,110,116], list: nimCopy(null, environmentRules_4043309175, NTI3774873960), longTitle: [], alert: true}, NTI3170906590);
-references_4026542025[0].push(Temporary12);;
+references_4026542021[0].push(Temporary12);;
 F.line = 46;
-var referenceTable_4026542187 = [({data: [], counter: 0})];
+var referenceTable_4026542183 = [({data: [], counter: 0})];
 Label13: {
   F.line = 47;
-  var reference_4026542191 = [({title: [], longTitle: [], list: [], alert: false})];
+  var reference_4026542187 = [({title: [], longTitle: [], list: [], alert: false})];
   F.line = 249;
   F.filename = "iterators.nim";
-  var i_4026546891 = 0;
+  var i_4026546887 = 0;
   F.line = 250;
-  var L_4026546892 = (references_4026542025[0]).length;
+  var L_4026546888 = (references_4026542021[0]).length;
   Label14: {
     F.line = 251;
       Label15: while (true) {
-      if (!(i_4026546891 < L_4026546892)) break Label15;
+      if (!(i_4026546887 < L_4026546888)) break Label15;
         F.line = 47;
         F.filename = "lessonTarget.nim";
-        reference_4026542191[0] = nimCopy(reference_4026542191[0], references_4026542025[0][chckIndx(i_4026546891, 0, (references_4026542025[0]).length - 1)], NTI3170906590);
+        reference_4026542187[0] = nimCopy(reference_4026542187[0], references_4026542021[0][chckIndx(i_4026546887, 0, (references_4026542021[0]).length - 1)], NTI3170906590);
         F.line = 48;
-        HEX5BHEX5DHEX3D__OOZlesson84arget_u10547(referenceTable_4026542187[0], reference_4026542191[0].title, reference_4026542191[0]);
+        HEX5BHEX5DHEX3D__OOZlesson84arget_u10543(referenceTable_4026542183[0], reference_4026542187[0].title, reference_4026542187[0]);
         F.line = 13;
         F.filename = "iterators.nim";
-        i_4026546891 += 1;
-        if (!(((references_4026542025[0]).length == L_4026546892))) {
+        i_4026546887 += 1;
+        if (!(((references_4026542021[0]).length == L_4026546888))) {
         F.line = 254;
         failedAssertImpl__stdZassertions_u86(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.2.10/lib/system/iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
         }
@@ -14858,13 +14861,13 @@ Label13: {
   };
 };
 framePtr = F.prev;
-var F = {procname: "module lessonTarget", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson0_1_1/lessonTarget.nim", line: 0};
+var F = {procname: "module lessonTarget", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson1_0_2/lessonTarget.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module streamingAudio", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/streamingAudio.nim", line: 0};
+var F = {procname: "module streamingAudio", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/streamingAudio.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module streamingAudio", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/streamingAudio.nim", line: 0};
+var F = {procname: "module streamingAudio", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/streamingAudio.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 
@@ -15252,7 +15255,7 @@ function randomize__pureZrandom_u283() {
 }
 
 function HEX3Aanonymous__pkgZhpx7680Ze77athjax_u22(e_p0) {
-  var F = {procname: "mathJaxTypesetter.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/eMathjax.nim", line: 0};
+  var F = {procname: "mathJaxTypesetter.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/eMathjax.nim", line: 0};
   framePtr = F;
     F.line = 79;
     F.filename = "eMathjax.nim";
@@ -15266,7 +15269,7 @@ function HEX3Aanonymous__pkgZhpx7680Ze77athjax_u22(e_p0) {
 }
 
 function HEX3Aanonymous__pkgZhpx7680Ze77athjax_u24(e_p0) {
-  var F = {procname: "mathJaxTypesetter.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/eMathjax.nim", line: 0};
+  var F = {procname: "mathJaxTypesetter.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/eMathjax.nim", line: 0};
   framePtr = F;
     F.line = 81;
     F.filename = "eMathjax.nim";
@@ -15283,7 +15286,7 @@ function mathJaxTypesetter__pkgZhpx7680Ze77athjax_u17(delay_p0) {
 
   var result_3204448277 = null;
 
-  var F = {procname: "eMathjax.mathJaxTypesetter", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/eMathjax.nim", line: 0};
+  var F = {procname: "eMathjax.mathJaxTypesetter", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/eMathjax.nim", line: 0};
   framePtr = F;
     F.line = 78;
     F.filename = "eMathjax.nim";
@@ -15315,7 +15318,7 @@ function useMathJax__pkgZhpx7680Ze77athjax_u59() {
     var Temporary1;
 
 function HEX3Aanonymous__pkgZhpx7680Ze77athjax_u60() {
-  var F = {procname: "useMathJax.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/eMathjax.nim", line: 0};
+  var F = {procname: "useMathJax.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/eMathjax.nim", line: 0};
   framePtr = F;
     F.line = 87;
     F.filename = "eMathjax.nim";
@@ -15331,7 +15334,7 @@ function HEX3Aanonymous__pkgZhpx7680Ze77athjax_u60() {
   
 }
 
-  var F = {procname: "eMathjax.useMathJax", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/eMathjax.nim", line: 0};
+  var F = {procname: "eMathjax.useMathJax", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/eMathjax.nim", line: 0};
   framePtr = F;
     F.line = 86;
     F.filename = "eMathjax.nim";
@@ -15495,7 +15498,7 @@ function newSeq__pkgZhpx7680Zm71rid_u330(len_p0) {
 
 }
 
-function choose__a195slides950951951_u505(s_p0, n_p1, r_p2) {
+function choose__a195slides951950952_u505(s_p0, n_p1, r_p2) {
   var result_838861310 = [];
 
   var F = {procname: "choose.choose", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/algExt-0.1.0-ee6e157bba03447b3b43476aa961afb00502f073/algExt/sampling.nim", line: 0};
@@ -15600,7 +15603,7 @@ function rand__pkgZalg69xtZsampling_u895(r_p0, x_p1) {
 
 }
 
-function rand__a195slides950951951_u2025(x_p0) {
+function rand__a195slides951950952_u2025(x_p0) {
   var result_838862828 = 0;
 
   var F = {procname: "rand.rand", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/pure/random.nim", line: 0};
@@ -15614,21 +15617,21 @@ function rand__a195slides950951951_u2025(x_p0) {
 
 }
 
-function sample__a195slides950951951_u1998(a_p0) {
+function sample__a195slides951950952_u1998(a_p0) {
   var result_838862801 = [];
 
   var F = {procname: "sample.sample", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/pure/random.nim", line: 0};
   framePtr = F;
     F.line = 496;
     F.filename = "random.nim";
-    result_838862801 = a_p0[chckIndx(rand__a195slides950951951_u2025(HEX2EHEX2E__stdZstrbasics_u50(0, (a_p0).length - 1)), 0, (a_p0).length - 1)];
+    result_838862801 = a_p0[chckIndx(rand__a195slides951950952_u2025(HEX2EHEX2E__stdZstrbasics_u50(0, (a_p0).length - 1)), 0, (a_p0).length - 1)];
   framePtr = F.prev;
 
   return result_838862801;
 
 }
 
-function concat__a195slides950951951_u2275(seqs_p0) {
+function concat__a195slides951950952_u2275(seqs_p0) {
   var result_838863078 = [];
 
   var F = {procname: "concat.concat", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/pure/collections/sequtils.nim", line: 0};
@@ -15715,7 +15718,7 @@ function concat__a195slides950951951_u2275(seqs_p0) {
 
 }
 
-function HEX5BHEX5D__a195slides950951951_u2650(s_p0, i_p1) {
+function HEX5BHEX5D__a195slides951950952_u2650(s_p0, i_p1) {
   var result_838863454 = null;
   var result_838863454_Idx = 0;
 
@@ -15730,7 +15733,7 @@ function HEX5BHEX5D__a195slides950951951_u2650(s_p0, i_p1) {
 
 }
 
-function HEX5BHEX5D__a195slides950951951_u2901(s_p0, i_p1) {
+function HEX5BHEX5D__a195slides951950952_u2901(s_p0, i_p1) {
   var result_838863705 = null;
   var result_838863705_Idx = 0;
 
@@ -15987,7 +15990,7 @@ function initGrid__pkgZhpx7680Zlayout_u720(uniqCompId_p0, n_p1, stretch_p2, css_
     var Temporary1;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u736(self_p0, ev_p1) {
-  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -15996,7 +15999,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u736(self_p0, ev_p1) {
     var Temporary2;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u739(self_p0, ev_p1) {
-  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -16005,7 +16008,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u739(self_p0, ev_p1) {
     var Temporary3;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u742(self_p0, ev_p1) {
-  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -16014,7 +16017,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u742(self_p0, ev_p1) {
     var Temporary4;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u745(self_p0, ev_p1) {
-  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -16023,7 +16026,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u745(self_p0, ev_p1) {
     var Temporary5;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u748(self_p0, ev_p1) {
-  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -16032,7 +16035,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u748(self_p0, ev_p1) {
     var Temporary6;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u751(self_p0, ev_p1) {
-  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -16041,7 +16044,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u751(self_p0, ev_p1) {
     var Temporary7;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u754(self_p0, ev_p1) {
-  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -16050,7 +16053,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u754(self_p0, ev_p1) {
     var Temporary8;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u757(self_p0, ev_p1) {
-  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -16496,7 +16499,7 @@ function formatValue__pkgZhpx7680Zpaper_u712(result_p0, result_p0_Idx, value_p1)
 function shineStyle__pkgZhpx7680Zmarkup_u14(c1_p0, c2_p1, t_p2) {
   var result_3238002706 = [];
 
-  var F = {procname: "markup.shineStyle", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/markup.nim", line: 0};
+  var F = {procname: "markup.shineStyle", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/markup.nim", line: 0};
   framePtr = F;
     F.line = 16;
     F.filename = "markup.nim";
@@ -17176,7 +17179,7 @@ function studentInfo__OOZOOZOOZinfrastructureZtrackersZ84asks_u49549(student_p0)
       F.filename = "iterators.nim";
       var i_838895252 = 0;
       F.line = 250;
-      var L_838895253 = 126;
+      var L_838895253 = 127;
       Label2: {
         F.line = 251;
           Label3: while (true) {
@@ -17193,7 +17196,7 @@ function studentInfo__OOZOOZOOZinfrastructureZtrackersZ84asks_u49549(student_p0)
             F.line = 13;
             F.filename = "iterators.nim";
             i_838895252 += 1;
-            if (!((126 == L_838895253))) {
+            if (!((127 == L_838895253))) {
             F.line = 254;
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.2.10/lib/system/iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
@@ -17234,9 +17237,9 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u44105(scopeSelf_p0, 
     F.line = 299;
     if ((inCycle_p3 && inComponent_p1)) {
     F.line = 300;
-    var c542_3674254419 = 0;
+    var c547_3674254419 = 0;
     F.line = 300;
-    var __r542_3674254452 = newSeq__pkgZhpx7680Zfonts_u802(0);
+    var __r547_3674254452 = newSeq__pkgZhpx7680Zfonts_u802(0);
     Label2: {
       F.line = 299;
       var i_3674254661 = 0;
@@ -17264,10 +17267,10 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u44105(scopeSelf_p0, 
             F.line = 299;
             station_3674254662 = colontmp__838895144[colontmp__838895144_Idx][chckIndx(i_838895145, 0, (colontmp__838895144[colontmp__838895144_Idx]).length - 1)];
             F.line = 300;
-            c542_3674254419 = addInt(c542_3674254419, 1);
+            c547_3674254419 = addInt(c547_3674254419, 1);
             F.line = 1484;
             F.filename = "macro_utils.nim";
-            scopedCycleCounter_1744830592[0] = c542_3674254419;
+            scopedCycleCounter_1744830592[0] = c547_3674254419;
             F.line = 300;
             F.filename = "base26.nim";
             F.line = 300;
@@ -17291,7 +17294,7 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u44105(scopeSelf_p0, 
             };
             F.line = 306;
             F.filename = "base26.nim";
-            var __r544_3674255518 = newSeq__pkgZhpx7680Zfonts_u802(0);
+            var __r549_3674255518 = newSeq__pkgZhpx7680Zfonts_u802(0);
             Label8: {
               F.line = 305;
               var student_3674255725 = [];
@@ -17315,10 +17318,10 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u44105(scopeSelf_p0, 
                     F.filename = "base26.nim";
                     student_3674255725 = colontmp__838895140[colontmp__838895140_Idx][chckIndx(i_838895141, 0, (colontmp__838895140[colontmp__838895140_Idx]).length - 1)];
                     F.line = 306;
-                    c542_3674254419 = addInt(c542_3674254419, 1);
+                    c547_3674254419 = addInt(c547_3674254419, 1);
                     F.line = 1490;
                     F.filename = "macro_utils.nim";
-                    scopedCycleCounter_1744830592[0] = c542_3674254419;
+                    scopedCycleCounter_1744830592[0] = c547_3674254419;
                     F.line = 306;
                     F.filename = "base26.nim";
                     Label12: {
@@ -17327,7 +17330,7 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u44105(scopeSelf_p0, 
                       F.line = 307;
                       formatValue__pkgZhappyxZprivateZmacro95utils_u291(fmtRes_3674255914, 0, escape__pkgZalg69xtZstrings_u346(disambiguate__OOZOOZOOZinfrastructureZtrackersZ84asks_u24636(student_3674255725), JavaScriptEscapes_3774874136, []));
                     };
-                    __r544_3674255518.push(tg2([100,105,118], [tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [102,111,110,116,45,115,105,122,101,58,32,56,48,37,59,32,100,105,114,101,99,116,105,111,110,58,32,108,116,114,59]}, NTI3674260076)], 0), [tg2([115,116,114,111,110,103], [tg4(fmtRes_3674255914[0], true, [], false)], false), tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [102,111,110,116,45,115,105,122,101,58,32,50,118,119,59]}, NTI3674260314)], 0), [tg4((Temporary13 = studentInfo__OOZOOZOOZinfrastructureZtrackersZ84asks_u49549(student_3674255725), Temporary13)[chckIndx(10, 0, (Temporary13).length - 1)], true, [], false)], false)], false)], true));;
+                    __r549_3674255518.push(tg2([100,105,118], [tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [102,111,110,116,45,115,105,122,101,58,32,56,48,37,59,32,100,105,114,101,99,116,105,111,110,58,32,108,116,114,59]}, NTI3674260076)], 0), [tg2([115,116,114,111,110,103], [tg4(fmtRes_3674255914[0], true, [], false)], false), tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [102,111,110,116,45,115,105,122,101,58,32,50,118,119,59]}, NTI3674260314)], 0), [tg4((Temporary13 = studentInfo__OOZOOZOOZinfrastructureZtrackersZ84asks_u49549(student_3674255725), Temporary13)[chckIndx(10, 0, (Temporary13).length - 1)], true, [], false)], false)], false)], true));;
                     F.line = 306;
                     scopedCycleCounter_1744830592[0] = 0;
                     F.line = 13;
@@ -17341,7 +17344,7 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u44105(scopeSelf_p0, 
                   }
               };
             };
-            __r542_3674254452.push(tg2([100,105,118], [tg2([100,105,118], [], true), tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: (shineStyle__pkgZhpx7680Zmarkup_u14(c_3674254730, reprEnum(this.palette1[chckIndx(modInt(addInt(i_3674254661, 1), this.groupCount2), 0, (this.palette1).length - 1)], NTI3825205251), 0.6)).concat(fmtRes_3674255179[0])}, NTI3674258859)], 0), [tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [100,105,115,112,108,97,121,58,32,102,108,101,120,59,32,100,105,114,101,99,116,105,111,110,58,32,108,116,114,59]}, NTI3674259580)], 0), [tg1([115,116,114,111,110,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [102,111,110,116,45,115,105,122,101,58,32,51,48,48,37,59]}, NTI3674259674)], 0), [tg4(fmtRes_3674255367, true, [], false)], false), tg2([100,105,118], [tg2([100,105,118], __r544_3674255518, true)], false)], false)], false)], true));;
+            __r547_3674254452.push(tg2([100,105,118], [tg2([100,105,118], [], true), tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: (shineStyle__pkgZhpx7680Zmarkup_u14(c_3674254730, reprEnum(this.palette1[chckIndx(modInt(addInt(i_3674254661, 1), this.groupCount2), 0, (this.palette1).length - 1)], NTI3825205251), 0.6)).concat(fmtRes_3674255179[0])}, NTI3674258859)], 0), [tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [100,105,115,112,108,97,121,58,32,102,108,101,120,59,32,100,105,114,101,99,116,105,111,110,58,32,108,116,114,59]}, NTI3674259580)], 0), [tg1([115,116,114,111,110,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [102,111,110,116,45,115,105,122,101,58,32,51,48,48,37,59]}, NTI3674259674)], 0), [tg4(fmtRes_3674255367, true, [], false)], false), tg2([100,105,118], [tg2([100,105,118], __r549_3674255518, true)], false)], false)], false)], true));;
             F.line = 300;
             F.filename = "base26.nim";
             scopedCycleCounter_1744830592[0] = 0;
@@ -17356,15 +17359,15 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u44105(scopeSelf_p0, 
           }
       };
     };
-    Temporary1 = tg2([100,105,118], [tg2([100,105,118], __r542_3674254452, true)], true);
+    Temporary1 = tg2([100,105,118], [tg2([100,105,118], __r547_3674254452, true)], true);
     }
     else {
     if (inCycle_p3) {
     F.line = 300;
     F.filename = "base26.nim";
-    var c551_3674256324 = 0;
+    var c556_3674256324 = 0;
     F.line = 300;
-    var __r551_3674256357 = newSeq__pkgZhpx7680Zfonts_u802(0);
+    var __r556_3674256357 = newSeq__pkgZhpx7680Zfonts_u802(0);
     Label14: {
       F.line = 299;
       var i_3674256566 = 0;
@@ -17392,10 +17395,10 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u44105(scopeSelf_p0, 
             F.line = 299;
             station_3674256567 = colontmp__838895157[colontmp__838895157_Idx][chckIndx(i_838895158, 0, (colontmp__838895157[colontmp__838895157_Idx]).length - 1)];
             F.line = 300;
-            c551_3674256324 = addInt(c551_3674256324, 1);
+            c556_3674256324 = addInt(c556_3674256324, 1);
             F.line = 1484;
             F.filename = "macro_utils.nim";
-            scopedCycleCounter_1744830592[0] = c551_3674256324;
+            scopedCycleCounter_1744830592[0] = c556_3674256324;
             F.line = 300;
             F.filename = "base26.nim";
             F.line = 300;
@@ -17419,7 +17422,7 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u44105(scopeSelf_p0, 
             };
             F.line = 306;
             F.filename = "base26.nim";
-            var __r553_3674257419 = newSeq__pkgZhpx7680Zfonts_u802(0);
+            var __r558_3674257419 = newSeq__pkgZhpx7680Zfonts_u802(0);
             Label20: {
               F.line = 305;
               var student_3674257626 = [];
@@ -17443,10 +17446,10 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u44105(scopeSelf_p0, 
                     F.filename = "base26.nim";
                     student_3674257626 = colontmp__838895153[colontmp__838895153_Idx][chckIndx(i_838895154, 0, (colontmp__838895153[colontmp__838895153_Idx]).length - 1)];
                     F.line = 306;
-                    c551_3674256324 = addInt(c551_3674256324, 1);
+                    c556_3674256324 = addInt(c556_3674256324, 1);
                     F.line = 1490;
                     F.filename = "macro_utils.nim";
-                    scopedCycleCounter_1744830592[0] = c551_3674256324;
+                    scopedCycleCounter_1744830592[0] = c556_3674256324;
                     F.line = 306;
                     F.filename = "base26.nim";
                     Label24: {
@@ -17455,7 +17458,7 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u44105(scopeSelf_p0, 
                       F.line = 307;
                       formatValue__pkgZhappyxZprivateZmacro95utils_u291(fmtRes_3674257815, 0, escape__pkgZalg69xtZstrings_u346(disambiguate__OOZOOZOOZinfrastructureZtrackersZ84asks_u24636(student_3674257626), JavaScriptEscapes_3774874136, []));
                     };
-                    __r553_3674257419.push(tg2([100,105,118], [tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [102,111,110,116,45,115,105,122,101,58,32,56,48,37,59,32,100,105,114,101,99,116,105,111,110,58,32,108,116,114,59]}, NTI3674262180)], 0), [tg2([115,116,114,111,110,103], [tg4(fmtRes_3674257815[0], true, [], false)], false), tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [102,111,110,116,45,115,105,122,101,58,32,50,118,119,59]}, NTI3674262418)], 0), [tg4((Temporary25 = studentInfo__OOZOOZOOZinfrastructureZtrackersZ84asks_u49549(student_3674257626), Temporary25)[chckIndx(10, 0, (Temporary25).length - 1)], true, [], false)], false)], false)], true));;
+                    __r558_3674257419.push(tg2([100,105,118], [tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [102,111,110,116,45,115,105,122,101,58,32,56,48,37,59,32,100,105,114,101,99,116,105,111,110,58,32,108,116,114,59]}, NTI3674262180)], 0), [tg2([115,116,114,111,110,103], [tg4(fmtRes_3674257815[0], true, [], false)], false), tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [102,111,110,116,45,115,105,122,101,58,32,50,118,119,59]}, NTI3674262418)], 0), [tg4((Temporary25 = studentInfo__OOZOOZOOZinfrastructureZtrackersZ84asks_u49549(student_3674257626), Temporary25)[chckIndx(10, 0, (Temporary25).length - 1)], true, [], false)], false)], false)], true));;
                     F.line = 306;
                     scopedCycleCounter_1744830592[0] = 0;
                     F.line = 13;
@@ -17469,7 +17472,7 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u44105(scopeSelf_p0, 
                   }
               };
             };
-            __r551_3674256357.push(tg2([100,105,118], [tg2([100,105,118], [], true), tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: (shineStyle__pkgZhpx7680Zmarkup_u14(c_3674256631, reprEnum(this.palette1[chckIndx(modInt(addInt(i_3674256566, 1), this.groupCount2), 0, (this.palette1).length - 1)], NTI3825205251), 0.6)).concat(fmtRes_3674257080[0])}, NTI3674260963)], 0), [tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [100,105,115,112,108,97,121,58,32,102,108,101,120,59,32,100,105,114,101,99,116,105,111,110,58,32,108,116,114,59]}, NTI3674261684)], 0), [tg1([115,116,114,111,110,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [102,111,110,116,45,115,105,122,101,58,32,51,48,48,37,59]}, NTI3674261778)], 0), [tg4(fmtRes_3674257268, true, [], false)], false), tg2([100,105,118], [tg2([100,105,118], __r553_3674257419, true)], false)], false)], false)], true));;
+            __r556_3674256357.push(tg2([100,105,118], [tg2([100,105,118], [], true), tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: (shineStyle__pkgZhpx7680Zmarkup_u14(c_3674256631, reprEnum(this.palette1[chckIndx(modInt(addInt(i_3674256566, 1), this.groupCount2), 0, (this.palette1).length - 1)], NTI3825205251), 0.6)).concat(fmtRes_3674257080[0])}, NTI3674260963)], 0), [tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [100,105,115,112,108,97,121,58,32,102,108,101,120,59,32,100,105,114,101,99,116,105,111,110,58,32,108,116,114,59]}, NTI3674261684)], 0), [tg1([115,116,114,111,110,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [102,111,110,116,45,115,105,122,101,58,32,51,48,48,37,59]}, NTI3674261778)], 0), [tg4(fmtRes_3674257268, true, [], false)], false), tg2([100,105,118], [tg2([100,105,118], __r558_3674257419, true)], false)], false)], false)], true));;
             F.line = 300;
             F.filename = "base26.nim";
             scopedCycleCounter_1744830592[0] = 0;
@@ -17484,15 +17487,15 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u44105(scopeSelf_p0, 
           }
       };
     };
-    Temporary1 = tg2([100,105,118], [tg2([100,105,118], __r551_3674256357, true)], true);
+    Temporary1 = tg2([100,105,118], [tg2([100,105,118], __r556_3674256357, true)], true);
     }
     else {
     if (inComponent_p1) {
     F.line = 300;
     F.filename = "base26.nim";
-    var c560_3674258225 = 0;
+    var c565_3674258225 = 0;
     F.line = 300;
-    var __r560_3674258258 = newSeq__pkgZhpx7680Zfonts_u802(0);
+    var __r565_3674258258 = newSeq__pkgZhpx7680Zfonts_u802(0);
     Label26: {
       F.line = 299;
       var i_3674258467 = 0;
@@ -17520,10 +17523,10 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u44105(scopeSelf_p0, 
             F.line = 299;
             station_3674258468 = colontmp__838895170[colontmp__838895170_Idx][chckIndx(i_838895171, 0, (colontmp__838895170[colontmp__838895170_Idx]).length - 1)];
             F.line = 300;
-            c560_3674258225 = addInt(c560_3674258225, 1);
+            c565_3674258225 = addInt(c565_3674258225, 1);
             F.line = 1484;
             F.filename = "macro_utils.nim";
-            scopedCycleCounter_1744830592[0] = c560_3674258225;
+            scopedCycleCounter_1744830592[0] = c565_3674258225;
             F.line = 300;
             F.filename = "base26.nim";
             F.line = 300;
@@ -17547,7 +17550,7 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u44105(scopeSelf_p0, 
             };
             F.line = 306;
             F.filename = "base26.nim";
-            var __r562_3674259320 = newSeq__pkgZhpx7680Zfonts_u802(0);
+            var __r567_3674259320 = newSeq__pkgZhpx7680Zfonts_u802(0);
             Label32: {
               F.line = 305;
               var student_3674259527 = [];
@@ -17571,10 +17574,10 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u44105(scopeSelf_p0, 
                     F.filename = "base26.nim";
                     student_3674259527 = colontmp__838895166[colontmp__838895166_Idx][chckIndx(i_838895167, 0, (colontmp__838895166[colontmp__838895166_Idx]).length - 1)];
                     F.line = 306;
-                    c560_3674258225 = addInt(c560_3674258225, 1);
+                    c565_3674258225 = addInt(c565_3674258225, 1);
                     F.line = 1490;
                     F.filename = "macro_utils.nim";
-                    scopedCycleCounter_1744830592[0] = c560_3674258225;
+                    scopedCycleCounter_1744830592[0] = c565_3674258225;
                     F.line = 306;
                     F.filename = "base26.nim";
                     Label36: {
@@ -17583,7 +17586,7 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u44105(scopeSelf_p0, 
                       F.line = 307;
                       formatValue__pkgZhappyxZprivateZmacro95utils_u291(fmtRes_3674259716, 0, escape__pkgZalg69xtZstrings_u346(disambiguate__OOZOOZOOZinfrastructureZtrackersZ84asks_u24636(student_3674259527), JavaScriptEscapes_3774874136, []));
                     };
-                    __r562_3674259320.push(tg2([100,105,118], [tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [102,111,110,116,45,115,105,122,101,58,32,56,48,37,59,32,100,105,114,101,99,116,105,111,110,58,32,108,116,114,59]}, NTI3674264284)], 0), [tg2([115,116,114,111,110,103], [tg4(fmtRes_3674259716[0], true, [], false)], false), tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [102,111,110,116,45,115,105,122,101,58,32,50,118,119,59]}, NTI3674264522)], 0), [tg4((Temporary37 = studentInfo__OOZOOZOOZinfrastructureZtrackersZ84asks_u49549(student_3674259527), Temporary37)[chckIndx(10, 0, (Temporary37).length - 1)], true, [], false)], false)], false)], true));;
+                    __r567_3674259320.push(tg2([100,105,118], [tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [102,111,110,116,45,115,105,122,101,58,32,56,48,37,59,32,100,105,114,101,99,116,105,111,110,58,32,108,116,114,59]}, NTI3674264284)], 0), [tg2([115,116,114,111,110,103], [tg4(fmtRes_3674259716[0], true, [], false)], false), tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [102,111,110,116,45,115,105,122,101,58,32,50,118,119,59]}, NTI3674264522)], 0), [tg4((Temporary37 = studentInfo__OOZOOZOOZinfrastructureZtrackersZ84asks_u49549(student_3674259527), Temporary37)[chckIndx(10, 0, (Temporary37).length - 1)], true, [], false)], false)], false)], true));;
                     F.line = 306;
                     scopedCycleCounter_1744830592[0] = 0;
                     F.line = 13;
@@ -17597,7 +17600,7 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u44105(scopeSelf_p0, 
                   }
               };
             };
-            __r560_3674258258.push(tg2([100,105,118], [tg2([100,105,118], [], true), tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: (shineStyle__pkgZhpx7680Zmarkup_u14(c_3674258532, reprEnum(this.palette1[chckIndx(modInt(addInt(i_3674258467, 1), this.groupCount2), 0, (this.palette1).length - 1)], NTI3825205251), 0.6)).concat(fmtRes_3674258981[0])}, NTI3674263067)], 0), [tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [100,105,115,112,108,97,121,58,32,102,108,101,120,59,32,100,105,114,101,99,116,105,111,110,58,32,108,116,114,59]}, NTI3674263788)], 0), [tg1([115,116,114,111,110,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [102,111,110,116,45,115,105,122,101,58,32,51,48,48,37,59]}, NTI3674263882)], 0), [tg4(fmtRes_3674259169, true, [], false)], false), tg2([100,105,118], [tg2([100,105,118], __r562_3674259320, true)], false)], false)], false)], true));;
+            __r565_3674258258.push(tg2([100,105,118], [tg2([100,105,118], [], true), tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: (shineStyle__pkgZhpx7680Zmarkup_u14(c_3674258532, reprEnum(this.palette1[chckIndx(modInt(addInt(i_3674258467, 1), this.groupCount2), 0, (this.palette1).length - 1)], NTI3825205251), 0.6)).concat(fmtRes_3674258981[0])}, NTI3674263067)], 0), [tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [100,105,115,112,108,97,121,58,32,102,108,101,120,59,32,100,105,114,101,99,116,105,111,110,58,32,108,116,114,59]}, NTI3674263788)], 0), [tg1([115,116,114,111,110,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [102,111,110,116,45,115,105,122,101,58,32,51,48,48,37,59]}, NTI3674263882)], 0), [tg4(fmtRes_3674259169, true, [], false)], false), tg2([100,105,118], [tg2([100,105,118], __r567_3674259320, true)], false)], false)], false)], true));;
             F.line = 300;
             F.filename = "base26.nim";
             scopedCycleCounter_1744830592[0] = 0;
@@ -17612,14 +17615,14 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u44105(scopeSelf_p0, 
           }
       };
     };
-    Temporary1 = tg2([100,105,118], [tg2([100,105,118], __r560_3674258258, true)], true);
+    Temporary1 = tg2([100,105,118], [tg2([100,105,118], __r565_3674258258, true)], true);
     }
     else {
       F.line = 300;
       F.filename = "base26.nim";
-      var c569_3674260126 = 0;
+      var c574_3674260126 = 0;
       F.line = 300;
-      var __r569_3674260159 = newSeq__pkgZhpx7680Zfonts_u802(0);
+      var __r574_3674260159 = newSeq__pkgZhpx7680Zfonts_u802(0);
       Label38: {
         F.line = 299;
         var i_3674260368 = 0;
@@ -17647,10 +17650,10 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u44105(scopeSelf_p0, 
               F.line = 299;
               station_3674260369 = colontmp__838895183[colontmp__838895183_Idx][chckIndx(i_838895184, 0, (colontmp__838895183[colontmp__838895183_Idx]).length - 1)];
               F.line = 300;
-              c569_3674260126 = addInt(c569_3674260126, 1);
+              c574_3674260126 = addInt(c574_3674260126, 1);
               F.line = 1484;
               F.filename = "macro_utils.nim";
-              scopedCycleCounter_1744830592[0] = c569_3674260126;
+              scopedCycleCounter_1744830592[0] = c574_3674260126;
               F.line = 300;
               F.filename = "base26.nim";
               F.line = 300;
@@ -17674,7 +17677,7 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u44105(scopeSelf_p0, 
               };
               F.line = 306;
               F.filename = "base26.nim";
-              var __r571_3674261221 = newSeq__pkgZhpx7680Zfonts_u802(0);
+              var __r576_3674261221 = newSeq__pkgZhpx7680Zfonts_u802(0);
               Label44: {
                 F.line = 305;
                 var student_3674261428 = [];
@@ -17698,10 +17701,10 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u44105(scopeSelf_p0, 
                       F.filename = "base26.nim";
                       student_3674261428 = colontmp__838895179[colontmp__838895179_Idx][chckIndx(i_838895180, 0, (colontmp__838895179[colontmp__838895179_Idx]).length - 1)];
                       F.line = 306;
-                      c569_3674260126 = addInt(c569_3674260126, 1);
+                      c574_3674260126 = addInt(c574_3674260126, 1);
                       F.line = 1490;
                       F.filename = "macro_utils.nim";
-                      scopedCycleCounter_1744830592[0] = c569_3674260126;
+                      scopedCycleCounter_1744830592[0] = c574_3674260126;
                       F.line = 306;
                       F.filename = "base26.nim";
                       Label48: {
@@ -17710,7 +17713,7 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u44105(scopeSelf_p0, 
                         F.line = 307;
                         formatValue__pkgZhappyxZprivateZmacro95utils_u291(fmtRes_3674261617, 0, escape__pkgZalg69xtZstrings_u346(disambiguate__OOZOOZOOZinfrastructureZtrackersZ84asks_u24636(student_3674261428), JavaScriptEscapes_3774874136, []));
                       };
-                      __r571_3674261221.push(tg2([100,105,118], [tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [102,111,110,116,45,115,105,122,101,58,32,56,48,37,59,32,100,105,114,101,99,116,105,111,110,58,32,108,116,114,59]}, NTI3674266388)], 0), [tg2([115,116,114,111,110,103], [tg4(fmtRes_3674261617[0], true, [], false)], false), tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [102,111,110,116,45,115,105,122,101,58,32,50,118,119,59]}, NTI3674266626)], 0), [tg4((Temporary49 = studentInfo__OOZOOZOOZinfrastructureZtrackersZ84asks_u49549(student_3674261428), Temporary49)[chckIndx(10, 0, (Temporary49).length - 1)], true, [], false)], false)], false)], true));;
+                      __r576_3674261221.push(tg2([100,105,118], [tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [102,111,110,116,45,115,105,122,101,58,32,56,48,37,59,32,100,105,114,101,99,116,105,111,110,58,32,108,116,114,59]}, NTI3674266388)], 0), [tg2([115,116,114,111,110,103], [tg4(fmtRes_3674261617[0], true, [], false)], false), tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [102,111,110,116,45,115,105,122,101,58,32,50,118,119,59]}, NTI3674266626)], 0), [tg4((Temporary49 = studentInfo__OOZOOZOOZinfrastructureZtrackersZ84asks_u49549(student_3674261428), Temporary49)[chckIndx(10, 0, (Temporary49).length - 1)], true, [], false)], false)], false)], true));;
                       F.line = 306;
                       scopedCycleCounter_1744830592[0] = 0;
                       F.line = 13;
@@ -17724,7 +17727,7 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u44105(scopeSelf_p0, 
                     }
                 };
               };
-              __r569_3674260159.push(tg2([100,105,118], [tg2([100,105,118], [], true), tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: (shineStyle__pkgZhpx7680Zmarkup_u14(c_3674260433, reprEnum(this.palette1[chckIndx(modInt(addInt(i_3674260368, 1), this.groupCount2), 0, (this.palette1).length - 1)], NTI3825205251), 0.6)).concat(fmtRes_3674260882[0])}, NTI3674265171)], 0), [tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [100,105,115,112,108,97,121,58,32,102,108,101,120,59,32,100,105,114,101,99,116,105,111,110,58,32,108,116,114,59]}, NTI3674265892)], 0), [tg1([115,116,114,111,110,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [102,111,110,116,45,115,105,122,101,58,32,51,48,48,37,59]}, NTI3674265986)], 0), [tg4(fmtRes_3674261070, true, [], false)], false), tg2([100,105,118], [tg2([100,105,118], __r571_3674261221, true)], false)], false)], false)], true));;
+              __r574_3674260159.push(tg2([100,105,118], [tg2([100,105,118], [], true), tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: (shineStyle__pkgZhpx7680Zmarkup_u14(c_3674260433, reprEnum(this.palette1[chckIndx(modInt(addInt(i_3674260368, 1), this.groupCount2), 0, (this.palette1).length - 1)], NTI3825205251), 0.6)).concat(fmtRes_3674260882[0])}, NTI3674265171)], 0), [tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [100,105,115,112,108,97,121,58,32,102,108,101,120,59,32,100,105,114,101,99,116,105,111,110,58,32,108,116,114,59]}, NTI3674265892)], 0), [tg1([115,116,114,111,110,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [102,111,110,116,45,115,105,122,101,58,32,51,48,48,37,59]}, NTI3674265986)], 0), [tg4(fmtRes_3674261070, true, [], false)], false), tg2([100,105,118], [tg2([100,105,118], __r576_3674261221, true)], false)], false)], false)], true));;
               F.line = 300;
               F.filename = "base26.nim";
               scopedCycleCounter_1744830592[0] = 0;
@@ -17739,13 +17742,13 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u44105(scopeSelf_p0, 
             }
         };
       };
-    Temporary1 = tg2([100,105,118], [tg2([100,105,118], __r569_3674260159, true)], true);
+    Temporary1 = tg2([100,105,118], [tg2([100,105,118], __r574_3674260159, true)], true);
     }
     }}
     var _res_3674262025 = Temporary1;
     F.line = 345;
     F.filename = "macro_utils.nim";
-    this.comp5413.slotData = _res_3674262025;
+    this.comp5463.slotData = _res_3674262025;
     result_3674254416 = _res_3674262025;
   framePtr = F.prev;
 
@@ -17805,7 +17808,7 @@ function classSlide__OOZOOZOOZcomponentsZlayoutZbase26_u43908(class_p0) {
     F.filename = "base26.nim";
     var HEX3Aenv_838895191 = null;
     F.line = 295;
-    HEX3Aenv_838895191 = {m_type: NTI838899993, class0: {Field0: [], Field1: []}, palette1: [], groupCount2: 0, comp5413: null};
+    HEX3Aenv_838895191 = {m_type: NTI838899993, class0: {Field0: [], Field1: []}, palette1: [], groupCount2: 0, comp5463: null};
     F.line = 294;
     HEX3Aenv_838895191.class0 = nimCopy(HEX3Aenv_838895191.class0, class_p0, NTI3674258220);
     F.line = 295;
@@ -17815,47 +17818,47 @@ function classSlide__OOZOOZOOZcomponentsZlayoutZbase26_u43908(class_p0) {
     F.line = 297;
     F.line = 299;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary1 = [99,111,109,112,53,52,49];
+    Temporary1 = [99,111,109,112,53,52,54];
     }
     else {
-    Temporary1 = ([99,111,109,112,53,52,49]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary1 = ([99,111,109,112,53,52,54]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    var _comp541_3674254407 = initGrid__pkgZhpx7680Zlayout_u720(Temporary1, 3, 1.0, [100,105,114,101,99,116,105,111,110,58,32,114,116,108,59]);
+    var _comp546_3674254407 = initGrid__pkgZhpx7680Zlayout_u720(Temporary1, 3, 1.0, [100,105,114,101,99,116,105,111,110,58,32,114,116,108,59]);
     F.line = 299;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary2 = [99,111,109,112,53,52,49];
+    Temporary2 = [99,111,109,112,53,52,54];
     }
     else {
-    Temporary2 = ([99,111,109,112,53,52,49]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary2 = ([99,111,109,112,53,52,54]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    HEX3Aenv_838895191.comp5413 = rgcmp(toJSStr(Temporary2), _comp541_3674254407);
+    HEX3Aenv_838895191.comp5463 = rgcmp(toJSStr(Temporary2), _comp546_3674254407);
     F.line = 299;
     Temporary3 = HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u44105.bind(HEX3Aenv_838895191); Temporary3.ClP_0 = HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u44105; Temporary3.ClE_0 = HEX3Aenv_838895191;
-    HEX3Aenv_838895191.comp5413.slot = Temporary3;
+    HEX3Aenv_838895191.comp5463.slot = Temporary3;
     F.line = 299;
-    var data_comp541_3674262030 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838895191.comp5413);
+    var data_comp546_3674262030 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838895191.comp5463);
     F.line = 299;
-    addArgIter__pkgZhappyxZspaZtag_u537(data_comp541_3674262030, ([100,97,116,97,45]).concat(HEX3Aenv_838895191.comp5413.uniqCompId));
+    addArgIter__pkgZhappyxZspaZtag_u537(data_comp546_3674262030, ([100,97,116,97,45]).concat(HEX3Aenv_838895191.comp5463.uniqCompId));
     F.line = 299;
-    window.addEventListener('beforeunload', data_comp541_3674262030.exited);
+    window.addEventListener('beforeunload', data_comp546_3674262030.exited);
     F.line = 299;
-    window.addEventListener('pagehide', data_comp541_3674262030.pageHide);
+    window.addEventListener('pagehide', data_comp546_3674262030.pageHide);
     F.line = 299;
-    window.addEventListener('pageshow', data_comp541_3674262030.pageShow);
-    result_3674254214 = tg2([100,105,118], [data_comp541_3674262030], true);
+    window.addEventListener('pageshow', data_comp546_3674262030.pageShow);
+    result_3674254214 = tg2([100,105,118], [data_comp546_3674262030], true);
   framePtr = F.prev;
 
   return result_3674254214;
 
 }
 
-function initTargetted__OOZlesson84arget_u83(uniqCompId_p0) {
+function initTargetted__OOZlesson84arget_u79(uniqCompId_p0) {
     var Temporary1;
 
-function HEX3Aanonymous__OOZlesson84arget_u87(self_p0, ev_p1) {
-  var F = {procname: "initTargetted.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson0_1_1/lessonTarget.nim", line: 0};
+function HEX3Aanonymous__OOZlesson84arget_u83(self_p0, ev_p1) {
+  var F = {procname: "initTargetted.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson1_0_2/lessonTarget.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -17863,8 +17866,8 @@ function HEX3Aanonymous__OOZlesson84arget_u87(self_p0, ev_p1) {
 }
     var Temporary2;
 
-function HEX3Aanonymous__OOZlesson84arget_u90(self_p0, ev_p1) {
-  var F = {procname: "initTargetted.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson0_1_1/lessonTarget.nim", line: 0};
+function HEX3Aanonymous__OOZlesson84arget_u86(self_p0, ev_p1) {
+  var F = {procname: "initTargetted.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson1_0_2/lessonTarget.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -17872,8 +17875,8 @@ function HEX3Aanonymous__OOZlesson84arget_u90(self_p0, ev_p1) {
 }
     var Temporary3;
 
-function HEX3Aanonymous__OOZlesson84arget_u93(self_p0, ev_p1) {
-  var F = {procname: "initTargetted.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson0_1_1/lessonTarget.nim", line: 0};
+function HEX3Aanonymous__OOZlesson84arget_u89(self_p0, ev_p1) {
+  var F = {procname: "initTargetted.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson1_0_2/lessonTarget.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -17881,8 +17884,8 @@ function HEX3Aanonymous__OOZlesson84arget_u93(self_p0, ev_p1) {
 }
     var Temporary4;
 
-function HEX3Aanonymous__OOZlesson84arget_u96(self_p0, ev_p1) {
-  var F = {procname: "initTargetted.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson0_1_1/lessonTarget.nim", line: 0};
+function HEX3Aanonymous__OOZlesson84arget_u92(self_p0, ev_p1) {
+  var F = {procname: "initTargetted.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson1_0_2/lessonTarget.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -17890,8 +17893,8 @@ function HEX3Aanonymous__OOZlesson84arget_u96(self_p0, ev_p1) {
 }
     var Temporary5;
 
-function HEX3Aanonymous__OOZlesson84arget_u99(self_p0, ev_p1) {
-  var F = {procname: "initTargetted.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson0_1_1/lessonTarget.nim", line: 0};
+function HEX3Aanonymous__OOZlesson84arget_u95(self_p0, ev_p1) {
+  var F = {procname: "initTargetted.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson1_0_2/lessonTarget.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -17899,8 +17902,8 @@ function HEX3Aanonymous__OOZlesson84arget_u99(self_p0, ev_p1) {
 }
     var Temporary6;
 
-function HEX3Aanonymous__OOZlesson84arget_u102(self_p0, ev_p1) {
-  var F = {procname: "initTargetted.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson0_1_1/lessonTarget.nim", line: 0};
+function HEX3Aanonymous__OOZlesson84arget_u98(self_p0, ev_p1) {
+  var F = {procname: "initTargetted.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson1_0_2/lessonTarget.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -17908,8 +17911,8 @@ function HEX3Aanonymous__OOZlesson84arget_u102(self_p0, ev_p1) {
 }
     var Temporary7;
 
-function HEX3Aanonymous__OOZlesson84arget_u105(self_p0, ev_p1) {
-  var F = {procname: "initTargetted.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson0_1_1/lessonTarget.nim", line: 0};
+function HEX3Aanonymous__OOZlesson84arget_u101(self_p0, ev_p1) {
+  var F = {procname: "initTargetted.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson1_0_2/lessonTarget.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -17917,56 +17920,56 @@ function HEX3Aanonymous__OOZlesson84arget_u105(self_p0, ev_p1) {
 }
     var Temporary8;
 
-function HEX3Aanonymous__OOZlesson84arget_u108(self_p0, ev_p1) {
-  var F = {procname: "initTargetted.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson0_1_1/lessonTarget.nim", line: 0};
+function HEX3Aanonymous__OOZlesson84arget_u104(self_p0, ev_p1) {
+  var F = {procname: "initTargetted.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson1_0_2/lessonTarget.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
   
 }
 
-  var result_4026531925 = null;
+  var result_4026531921 = null;
 
   var F = {procname: "lessonTarget.initTargetted", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 24;
     F.filename = "lessonTarget.nim";
-    var self_4026531926 = {uniqCompId: nimCopy(null, uniqCompId_p0, NTI33554449), m_type: NTI4026531885, isCreated: false, slot: null, slotData: null, beforeCreated: null, created: null, exited: null, rendered: null, pageHide: null, pageShow: null, beforeUpdated: null, updated: null};
+    var self_4026531922 = {uniqCompId: nimCopy(null, uniqCompId_p0, NTI33554449), m_type: NTI4026531883, isCreated: false, slot: null, slotData: null, beforeCreated: null, created: null, exited: null, rendered: null, pageHide: null, pageShow: null, beforeUpdated: null, updated: null};
     F.line = 33;
-    Temporary1 = HEX3Aanonymous__OOZlesson84arget_u87.bind(null); Temporary1.ClP_0 = HEX3Aanonymous__OOZlesson84arget_u87; Temporary1.ClE_0 = null;
-    self_4026531926.exited = Temporary1;
+    Temporary1 = HEX3Aanonymous__OOZlesson84arget_u83.bind(null); Temporary1.ClP_0 = HEX3Aanonymous__OOZlesson84arget_u83; Temporary1.ClE_0 = null;
+    self_4026531922.exited = Temporary1;
     F.line = 33;
-    Temporary2 = HEX3Aanonymous__OOZlesson84arget_u90.bind(null); Temporary2.ClP_0 = HEX3Aanonymous__OOZlesson84arget_u90; Temporary2.ClE_0 = null;
-    self_4026531926.beforeCreated = Temporary2;
+    Temporary2 = HEX3Aanonymous__OOZlesson84arget_u86.bind(null); Temporary2.ClP_0 = HEX3Aanonymous__OOZlesson84arget_u86; Temporary2.ClE_0 = null;
+    self_4026531922.beforeCreated = Temporary2;
     F.line = 33;
-    Temporary3 = HEX3Aanonymous__OOZlesson84arget_u93.bind(null); Temporary3.ClP_0 = HEX3Aanonymous__OOZlesson84arget_u93; Temporary3.ClE_0 = null;
-    self_4026531926.rendered = Temporary3;
+    Temporary3 = HEX3Aanonymous__OOZlesson84arget_u89.bind(null); Temporary3.ClP_0 = HEX3Aanonymous__OOZlesson84arget_u89; Temporary3.ClE_0 = null;
+    self_4026531922.rendered = Temporary3;
     F.line = 33;
-    Temporary4 = HEX3Aanonymous__OOZlesson84arget_u96.bind(null); Temporary4.ClP_0 = HEX3Aanonymous__OOZlesson84arget_u96; Temporary4.ClE_0 = null;
-    self_4026531926.updated = Temporary4;
+    Temporary4 = HEX3Aanonymous__OOZlesson84arget_u92.bind(null); Temporary4.ClP_0 = HEX3Aanonymous__OOZlesson84arget_u92; Temporary4.ClE_0 = null;
+    self_4026531922.updated = Temporary4;
     F.line = 33;
-    Temporary5 = HEX3Aanonymous__OOZlesson84arget_u99.bind(null); Temporary5.ClP_0 = HEX3Aanonymous__OOZlesson84arget_u99; Temporary5.ClE_0 = null;
-    self_4026531926.beforeUpdated = Temporary5;
+    Temporary5 = HEX3Aanonymous__OOZlesson84arget_u95.bind(null); Temporary5.ClP_0 = HEX3Aanonymous__OOZlesson84arget_u95; Temporary5.ClE_0 = null;
+    self_4026531922.beforeUpdated = Temporary5;
     F.line = 33;
-    Temporary6 = HEX3Aanonymous__OOZlesson84arget_u102.bind(null); Temporary6.ClP_0 = HEX3Aanonymous__OOZlesson84arget_u102; Temporary6.ClE_0 = null;
-    self_4026531926.pageShow = Temporary6;
+    Temporary6 = HEX3Aanonymous__OOZlesson84arget_u98.bind(null); Temporary6.ClP_0 = HEX3Aanonymous__OOZlesson84arget_u98; Temporary6.ClE_0 = null;
+    self_4026531922.pageShow = Temporary6;
     F.line = 33;
-    Temporary7 = HEX3Aanonymous__OOZlesson84arget_u105.bind(null); Temporary7.ClP_0 = HEX3Aanonymous__OOZlesson84arget_u105; Temporary7.ClE_0 = null;
-    self_4026531926.pageHide = Temporary7;
+    Temporary7 = HEX3Aanonymous__OOZlesson84arget_u101.bind(null); Temporary7.ClP_0 = HEX3Aanonymous__OOZlesson84arget_u101; Temporary7.ClE_0 = null;
+    self_4026531922.pageHide = Temporary7;
     F.line = 33;
-    Temporary8 = HEX3Aanonymous__OOZlesson84arget_u108.bind(null); Temporary8.ClP_0 = HEX3Aanonymous__OOZlesson84arget_u108; Temporary8.ClE_0 = null;
-    self_4026531926.created = Temporary8;
+    Temporary8 = HEX3Aanonymous__OOZlesson84arget_u104.bind(null); Temporary8.ClP_0 = HEX3Aanonymous__OOZlesson84arget_u104; Temporary8.ClE_0 = null;
+    self_4026531922.created = Temporary8;
     F.line = 24;
-    createdComponentsList_1744830760[0].push(self_4026531926);;
+    createdComponentsList_1744830760[0].push(self_4026531922);;
     F.line = 819;
     F.filename = "components.nim";
-    result_4026531925 = self_4026531926;
+    result_4026531921 = self_4026531922;
     break BeforeRet;
   };
   framePtr = F.prev;
 
-  return result_4026531925;
+  return result_4026531921;
 
 }
 
@@ -17974,7 +17977,7 @@ function initSlideHeader__pkgZhpx7680Zslides_u851(uniqCompId_p0, css_p1) {
     var Temporary1;
 
 function HEX3Aanonymous__pkgZhpx7680Zslides_u859(self_p0, ev_p1) {
-  var F = {procname: "initSlideHeader.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/slides.nim", line: 0};
+  var F = {procname: "initSlideHeader.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/slides.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -17983,7 +17986,7 @@ function HEX3Aanonymous__pkgZhpx7680Zslides_u859(self_p0, ev_p1) {
     var Temporary2;
 
 function HEX3Aanonymous__pkgZhpx7680Zslides_u862(self_p0, ev_p1) {
-  var F = {procname: "initSlideHeader.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/slides.nim", line: 0};
+  var F = {procname: "initSlideHeader.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/slides.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -17992,7 +17995,7 @@ function HEX3Aanonymous__pkgZhpx7680Zslides_u862(self_p0, ev_p1) {
     var Temporary3;
 
 function HEX3Aanonymous__pkgZhpx7680Zslides_u865(self_p0, ev_p1) {
-  var F = {procname: "initSlideHeader.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/slides.nim", line: 0};
+  var F = {procname: "initSlideHeader.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/slides.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -18001,7 +18004,7 @@ function HEX3Aanonymous__pkgZhpx7680Zslides_u865(self_p0, ev_p1) {
     var Temporary4;
 
 function HEX3Aanonymous__pkgZhpx7680Zslides_u868(self_p0, ev_p1) {
-  var F = {procname: "initSlideHeader.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/slides.nim", line: 0};
+  var F = {procname: "initSlideHeader.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/slides.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -18010,7 +18013,7 @@ function HEX3Aanonymous__pkgZhpx7680Zslides_u868(self_p0, ev_p1) {
     var Temporary5;
 
 function HEX3Aanonymous__pkgZhpx7680Zslides_u871(self_p0, ev_p1) {
-  var F = {procname: "initSlideHeader.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/slides.nim", line: 0};
+  var F = {procname: "initSlideHeader.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/slides.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -18019,7 +18022,7 @@ function HEX3Aanonymous__pkgZhpx7680Zslides_u871(self_p0, ev_p1) {
     var Temporary6;
 
 function HEX3Aanonymous__pkgZhpx7680Zslides_u874(self_p0, ev_p1) {
-  var F = {procname: "initSlideHeader.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/slides.nim", line: 0};
+  var F = {procname: "initSlideHeader.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/slides.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -18028,7 +18031,7 @@ function HEX3Aanonymous__pkgZhpx7680Zslides_u874(self_p0, ev_p1) {
     var Temporary7;
 
 function HEX3Aanonymous__pkgZhpx7680Zslides_u877(self_p0, ev_p1) {
-  var F = {procname: "initSlideHeader.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/slides.nim", line: 0};
+  var F = {procname: "initSlideHeader.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/slides.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -18037,7 +18040,7 @@ function HEX3Aanonymous__pkgZhpx7680Zslides_u877(self_p0, ev_p1) {
     var Temporary8;
 
 function HEX3Aanonymous__pkgZhpx7680Zslides_u880(self_p0, ev_p1) {
-  var F = {procname: "initSlideHeader.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/slides.nim", line: 0};
+  var F = {procname: "initSlideHeader.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/slides.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -18094,35 +18097,35 @@ function HEX3Aanonymous__pkgZhpx7680Zslides_u880(self_p0, ev_p1) {
 
 }
 
-function HEX3Aanonymous__a195slides950951951_u4401(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
+function HEX3Aanonymous__a195slides951950952_u4401(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
     var Temporary1;
 
   var result_838865208 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson0_1_1/a1_slides_0_1_1/Slides.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson1_0_2/a1_slides_1_0_2/Slides.nim", line: 0};
   framePtr = F;
     F.line = 46;
     F.filename = "Slides.nim";
     F.line = 46;
     if ((inCycle_p3 && inComponent_p1)) {
-    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [tg4([84,111,112,105,99,32,48,46,49,32,76,101,115,115,111,110,32,49], true, [], false)], false), tg2([100,105,118], [tg4([109,97,112,95,108,105,110,101,97,114], true, [], false)], false)], true);
+    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [tg4([84,111,112,105,99,32,49,46,48,32,76,101,115,115,111,110,32,50], true, [], false)], false), tg2([100,105,118], [tg4([115,111,108,118,101,95,108,105,110,101,97,114], true, [], false)], false)], true);
     }
     else {
     if (inCycle_p3) {
-    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [tg4([84,111,112,105,99,32,48,46,49,32,76,101,115,115,111,110,32,49], true, [], false)], false), tg2([100,105,118], [tg4([109,97,112,95,108,105,110,101,97,114], true, [], false)], false)], true);
+    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [tg4([84,111,112,105,99,32,49,46,48,32,76,101,115,115,111,110,32,50], true, [], false)], false), tg2([100,105,118], [tg4([115,111,108,118,101,95,108,105,110,101,97,114], true, [], false)], false)], true);
     }
     else {
     if (inComponent_p1) {
-    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [tg4([84,111,112,105,99,32,48,46,49,32,76,101,115,115,111,110,32,49], true, [], false)], false), tg2([100,105,118], [tg4([109,97,112,95,108,105,110,101,97,114], true, [], false)], false)], true);
+    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [tg4([84,111,112,105,99,32,49,46,48,32,76,101,115,115,111,110,32,50], true, [], false)], false), tg2([100,105,118], [tg4([115,111,108,118,101,95,108,105,110,101,97,114], true, [], false)], false)], true);
     }
     else {
-    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [tg4([84,111,112,105,99,32,48,46,49,32,76,101,115,115,111,110,32,49], true, [], false)], false), tg2([100,105,118], [tg4([109,97,112,95,108,105,110,101,97,114], true, [], false)], false)], true);
+    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [tg4([84,111,112,105,99,32,49,46,48,32,76,101,115,115,111,110,32,50], true, [], false)], false), tg2([100,105,118], [tg4([115,111,108,118,101,95,108,105,110,101,97,114], true, [], false)], false)], true);
     }
     }}
     var _res_838866129 = Temporary1;
     F.line = 345;
     F.filename = "macro_utils.nim";
-    this.comp7630.slotData = _res_838866129;
+    this.comp7680.slotData = _res_838866129;
     result_838865208 = _res_838866129;
   framePtr = F.prev;
 
@@ -18130,35 +18133,35 @@ function HEX3Aanonymous__a195slides950951951_u4401(scopeSelf_p0, inComponent_p1,
 
 }
 
-function HEX3Aanonymous__a195slides950951951_u5736(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
+function HEX3Aanonymous__a195slides951950952_u5736(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
     var Temporary1;
 
   var result_838866543 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson0_1_1/a1_slides_0_1_1/Slides.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson1_0_2/a1_slides_1_0_2/Slides.nim", line: 0};
   framePtr = F;
     F.line = 46;
     F.filename = "Slides.nim";
     F.line = 46;
     if ((inCycle_p3 && inComponent_p1)) {
-    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [tg4([84,111,112,105,99,32,48,46,49,32,76,101,115,115,111,110,32,49], true, [], false)], false), tg2([100,105,118], [tg4([109,97,112,95,108,105,110,101,97,114], true, [], false)], false)], true);
+    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [tg4([84,111,112,105,99,32,49,46,48,32,76,101,115,115,111,110,32,50], true, [], false)], false), tg2([100,105,118], [tg4([115,111,108,118,101,95,108,105,110,101,97,114], true, [], false)], false)], true);
     }
     else {
     if (inCycle_p3) {
-    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [tg4([84,111,112,105,99,32,48,46,49,32,76,101,115,115,111,110,32,49], true, [], false)], false), tg2([100,105,118], [tg4([109,97,112,95,108,105,110,101,97,114], true, [], false)], false)], true);
+    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [tg4([84,111,112,105,99,32,49,46,48,32,76,101,115,115,111,110,32,50], true, [], false)], false), tg2([100,105,118], [tg4([115,111,108,118,101,95,108,105,110,101,97,114], true, [], false)], false)], true);
     }
     else {
     if (inComponent_p1) {
-    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [tg4([84,111,112,105,99,32,48,46,49,32,76,101,115,115,111,110,32,49], true, [], false)], false), tg2([100,105,118], [tg4([109,97,112,95,108,105,110,101,97,114], true, [], false)], false)], true);
+    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [tg4([84,111,112,105,99,32,49,46,48,32,76,101,115,115,111,110,32,50], true, [], false)], false), tg2([100,105,118], [tg4([115,111,108,118,101,95,108,105,110,101,97,114], true, [], false)], false)], true);
     }
     else {
-    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [tg4([84,111,112,105,99,32,48,46,49,32,76,101,115,115,111,110,32,49], true, [], false)], false), tg2([100,105,118], [tg4([109,97,112,95,108,105,110,101,97,114], true, [], false)], false)], true);
+    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [tg4([84,111,112,105,99,32,49,46,48,32,76,101,115,115,111,110,32,50], true, [], false)], false), tg2([100,105,118], [tg4([115,111,108,118,101,95,108,105,110,101,97,114], true, [], false)], false)], true);
     }
     }}
     var _res_838867464 = Temporary1;
     F.line = 345;
     F.filename = "macro_utils.nim";
-    this.comp7741.slotData = _res_838867464;
+    this.comp7791.slotData = _res_838867464;
     result_838866543 = _res_838867464;
   framePtr = F.prev;
 
@@ -18166,35 +18169,35 @@ function HEX3Aanonymous__a195slides950951951_u5736(scopeSelf_p0, inComponent_p1,
 
 }
 
-function HEX3Aanonymous__a195slides950951951_u7071(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
+function HEX3Aanonymous__a195slides951950952_u7071(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
     var Temporary1;
 
   var result_838867878 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson0_1_1/a1_slides_0_1_1/Slides.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson1_0_2/a1_slides_1_0_2/Slides.nim", line: 0};
   framePtr = F;
     F.line = 46;
     F.filename = "Slides.nim";
     F.line = 46;
     if ((inCycle_p3 && inComponent_p1)) {
-    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [tg4([84,111,112,105,99,32,48,46,49,32,76,101,115,115,111,110,32,49], true, [], false)], false), tg2([100,105,118], [tg4([109,97,112,95,108,105,110,101,97,114], true, [], false)], false)], true);
+    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [tg4([84,111,112,105,99,32,49,46,48,32,76,101,115,115,111,110,32,50], true, [], false)], false), tg2([100,105,118], [tg4([115,111,108,118,101,95,108,105,110,101,97,114], true, [], false)], false)], true);
     }
     else {
     if (inCycle_p3) {
-    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [tg4([84,111,112,105,99,32,48,46,49,32,76,101,115,115,111,110,32,49], true, [], false)], false), tg2([100,105,118], [tg4([109,97,112,95,108,105,110,101,97,114], true, [], false)], false)], true);
+    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [tg4([84,111,112,105,99,32,49,46,48,32,76,101,115,115,111,110,32,50], true, [], false)], false), tg2([100,105,118], [tg4([115,111,108,118,101,95,108,105,110,101,97,114], true, [], false)], false)], true);
     }
     else {
     if (inComponent_p1) {
-    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [tg4([84,111,112,105,99,32,48,46,49,32,76,101,115,115,111,110,32,49], true, [], false)], false), tg2([100,105,118], [tg4([109,97,112,95,108,105,110,101,97,114], true, [], false)], false)], true);
+    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [tg4([84,111,112,105,99,32,49,46,48,32,76,101,115,115,111,110,32,50], true, [], false)], false), tg2([100,105,118], [tg4([115,111,108,118,101,95,108,105,110,101,97,114], true, [], false)], false)], true);
     }
     else {
-    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [tg4([84,111,112,105,99,32,48,46,49,32,76,101,115,115,111,110,32,49], true, [], false)], false), tg2([100,105,118], [tg4([109,97,112,95,108,105,110,101,97,114], true, [], false)], false)], true);
+    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [tg4([84,111,112,105,99,32,49,46,48,32,76,101,115,115,111,110,32,50], true, [], false)], false), tg2([100,105,118], [tg4([115,111,108,118,101,95,108,105,110,101,97,114], true, [], false)], false)], true);
     }
     }}
     var _res_838868799 = Temporary1;
     F.line = 345;
     F.filename = "macro_utils.nim";
-    this.comp7852.slotData = _res_838868799;
+    this.comp7902.slotData = _res_838868799;
     result_838867878 = _res_838868799;
   framePtr = F.prev;
 
@@ -18202,35 +18205,35 @@ function HEX3Aanonymous__a195slides950951951_u7071(scopeSelf_p0, inComponent_p1,
 
 }
 
-function HEX3Aanonymous__a195slides950951951_u8223(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
+function HEX3Aanonymous__a195slides951950952_u8223(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
     var Temporary1;
 
   var result_838869030 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson0_1_1/a1_slides_0_1_1/Slides.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson1_0_2/a1_slides_1_0_2/Slides.nim", line: 0};
   framePtr = F;
     F.line = 46;
     F.filename = "Slides.nim";
     F.line = 46;
     if ((inCycle_p3 && inComponent_p1)) {
-    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [tg4([84,111,112,105,99,32,48,46,49,32,76,101,115,115,111,110,32,49], true, [], false)], false), tg2([100,105,118], [tg4([109,97,112,95,108,105,110,101,97,114], true, [], false)], false)], true);
+    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [tg4([84,111,112,105,99,32,49,46,48,32,76,101,115,115,111,110,32,50], true, [], false)], false), tg2([100,105,118], [tg4([115,111,108,118,101,95,108,105,110,101,97,114], true, [], false)], false)], true);
     }
     else {
     if (inCycle_p3) {
-    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [tg4([84,111,112,105,99,32,48,46,49,32,76,101,115,115,111,110,32,49], true, [], false)], false), tg2([100,105,118], [tg4([109,97,112,95,108,105,110,101,97,114], true, [], false)], false)], true);
+    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [tg4([84,111,112,105,99,32,49,46,48,32,76,101,115,115,111,110,32,50], true, [], false)], false), tg2([100,105,118], [tg4([115,111,108,118,101,95,108,105,110,101,97,114], true, [], false)], false)], true);
     }
     else {
     if (inComponent_p1) {
-    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [tg4([84,111,112,105,99,32,48,46,49,32,76,101,115,115,111,110,32,49], true, [], false)], false), tg2([100,105,118], [tg4([109,97,112,95,108,105,110,101,97,114], true, [], false)], false)], true);
+    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [tg4([84,111,112,105,99,32,49,46,48,32,76,101,115,115,111,110,32,50], true, [], false)], false), tg2([100,105,118], [tg4([115,111,108,118,101,95,108,105,110,101,97,114], true, [], false)], false)], true);
     }
     else {
-    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [tg4([84,111,112,105,99,32,48,46,49,32,76,101,115,115,111,110,32,49], true, [], false)], false), tg2([100,105,118], [tg4([109,97,112,95,108,105,110,101,97,114], true, [], false)], false)], true);
+    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [tg4([84,111,112,105,99,32,49,46,48,32,76,101,115,115,111,110,32,50], true, [], false)], false), tg2([100,105,118], [tg4([115,111,108,118,101,95,108,105,110,101,97,114], true, [], false)], false)], true);
     }
     }}
     var _res_838869951 = Temporary1;
     F.line = 345;
     F.filename = "macro_utils.nim";
-    this.comp7963.slotData = _res_838869951;
+    this.comp8013.slotData = _res_838869951;
     result_838869030 = _res_838869951;
   framePtr = F.prev;
 
@@ -18238,7 +18241,7 @@ function HEX3Aanonymous__a195slides950951951_u8223(scopeSelf_p0, inComponent_p1,
 
 }
 
-function HEX3Aanonymous__a195slides950951951_u10380(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
+function HEX3Aanonymous__a195slides951950952_u10380(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
     var Temporary1;
 
   var result_838871187 = null;
@@ -18265,7 +18268,7 @@ function HEX3Aanonymous__a195slides950951951_u10380(scopeSelf_p0, inComponent_p1
     }}
     var _res_838871276 = Temporary1;
     F.line = 345;
-    this.comp8100.slotData = _res_838871276;
+    this.comp8150.slotData = _res_838871276;
     result_838871187 = _res_838871276;
   framePtr = F.prev;
 
@@ -18273,20 +18276,20 @@ function HEX3Aanonymous__a195slides950951951_u10380(scopeSelf_p0, inComponent_p1
 
 }
 
-function listed__OOZlesson84arget_u2455(s_p0) {
-  var result_4026534298 = null;
+function listed__OOZlesson84arget_u2451(s_p0) {
+  var result_4026534294 = null;
 
-  var F = {procname: "listed.listed", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "listed.listed", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 167;
     F.filename = "layout.nim";
     F.line = 169;
-    var c701_4026534299 = 0;
+    var c706_4026534295 = 0;
     F.line = 169;
-    var __r701_4026534332 = newSeq__pkgZhpx7680Zfonts_u802(0);
+    var __r706_4026534328 = newSeq__pkgZhpx7680Zfonts_u802(0);
     Label1: {
       F.line = 168;
-      var item_4026534336 = [];
+      var item_4026534332 = [];
       F.line = 249;
       F.filename = "iterators.nim";
       var i_838895350 = 0;
@@ -18298,15 +18301,15 @@ function listed__OOZlesson84arget_u2455(s_p0) {
           if (!(i_838895350 < L_838895351)) break Label3;
             F.line = 168;
             F.filename = "layout.nim";
-            item_4026534336 = s_p0[chckIndx(i_838895350, 0, (s_p0).length - 1)];
+            item_4026534332 = s_p0[chckIndx(i_838895350, 0, (s_p0).length - 1)];
             F.line = 169;
-            c701_4026534299 = addInt(c701_4026534299, 1);
+            c706_4026534295 = addInt(c706_4026534295, 1);
             F.line = 1484;
             F.filename = "macro_utils.nim";
-            scopedCycleCounter_1744830592[0] = c701_4026534299;
+            scopedCycleCounter_1744830592[0] = c706_4026534295;
             F.line = 169;
             F.filename = "layout.nim";
-            __r701_4026534332.push(tg2([100,105,118], [tg2([108,105], [tg4(item_4026534336, true, [], false)], false)], true));;
+            __r706_4026534328.push(tg2([100,105,118], [tg2([108,105], [tg4(item_4026534332, true, [], false)], false)], true));;
             F.line = 169;
             scopedCycleCounter_1744830592[0] = 0;
             F.line = 13;
@@ -18320,14 +18323,14 @@ function listed__OOZlesson84arget_u2455(s_p0) {
           }
       };
     };
-    result_4026534298 = tg2([100,105,118], [tg2([100,105,118], __r701_4026534332, true)], true);
+    result_4026534294 = tg2([100,105,118], [tg2([100,105,118], __r706_4026534328, true)], true);
   framePtr = F.prev;
 
-  return result_4026534298;
+  return result_4026534294;
 
 }
 
-function HEX3Aanonymous__a195slides950951951_u11101(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
+function HEX3Aanonymous__a195slides951950952_u11101(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
     var Temporary1;
 
   var result_838871908 = null;
@@ -18354,7 +18357,7 @@ function HEX3Aanonymous__a195slides950951951_u11101(scopeSelf_p0, inComponent_p1
     }}
     var _res_838871997 = Temporary1;
     F.line = 345;
-    this.comp8131.slotData = _res_838871997;
+    this.comp8181.slotData = _res_838871997;
     result_838871908 = _res_838871997;
   framePtr = F.prev;
 
@@ -18362,7 +18365,7 @@ function HEX3Aanonymous__a195slides950951951_u11101(scopeSelf_p0, inComponent_p1
 
 }
 
-function HEX3Aanonymous__a195slides950951951_u11822(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
+function HEX3Aanonymous__a195slides951950952_u11822(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
     var Temporary1;
 
   var result_838872629 = null;
@@ -18389,7 +18392,7 @@ function HEX3Aanonymous__a195slides950951951_u11822(scopeSelf_p0, inComponent_p1
     }}
     var _res_838872718 = Temporary1;
     F.line = 345;
-    this.comp8162.slotData = _res_838872718;
+    this.comp8212.slotData = _res_838872718;
     result_838872629 = _res_838872718;
   framePtr = F.prev;
 
@@ -18397,7 +18400,7 @@ function HEX3Aanonymous__a195slides950951951_u11822(scopeSelf_p0, inComponent_p1
 
 }
 
-function HEX3Aanonymous__a195slides950951951_u12360(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
+function HEX3Aanonymous__a195slides951950952_u12360(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
     var Temporary1;
 
   var result_838873167 = null;
@@ -18424,7 +18427,7 @@ function HEX3Aanonymous__a195slides950951951_u12360(scopeSelf_p0, inComponent_p1
     }}
     var _res_838873256 = Temporary1;
     F.line = 345;
-    this.comp8193.slotData = _res_838873256;
+    this.comp8243.slotData = _res_838873256;
     result_838873167 = _res_838873256;
   framePtr = F.prev;
 
@@ -18432,7 +18435,7 @@ function HEX3Aanonymous__a195slides950951951_u12360(scopeSelf_p0, inComponent_p1
 
 }
 
-function HEX3Aanonymous__a195slides950951951_u13585(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
+function HEX3Aanonymous__a195slides951950952_u13585(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
     var Temporary1;
 
   var result_838874392 = null;
@@ -18459,7 +18462,7 @@ function HEX3Aanonymous__a195slides950951951_u13585(scopeSelf_p0, inComponent_p1
     }}
     var _res_838874481 = Temporary1;
     F.line = 345;
-    this.comp8270.slotData = _res_838874481;
+    this.comp8320.slotData = _res_838874481;
     result_838874392 = _res_838874481;
   framePtr = F.prev;
 
@@ -18467,7 +18470,7 @@ function HEX3Aanonymous__a195slides950951951_u13585(scopeSelf_p0, inComponent_p1
 
 }
 
-function HEX3Aanonymous__a195slides950951951_u14306(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
+function HEX3Aanonymous__a195slides951950952_u14306(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
     var Temporary1;
 
   var result_838875113 = null;
@@ -18494,7 +18497,7 @@ function HEX3Aanonymous__a195slides950951951_u14306(scopeSelf_p0, inComponent_p1
     }}
     var _res_838875202 = Temporary1;
     F.line = 345;
-    this.comp8301.slotData = _res_838875202;
+    this.comp8351.slotData = _res_838875202;
     result_838875113 = _res_838875202;
   framePtr = F.prev;
 
@@ -18502,7 +18505,7 @@ function HEX3Aanonymous__a195slides950951951_u14306(scopeSelf_p0, inComponent_p1
 
 }
 
-function HEX3Aanonymous__a195slides950951951_u15027(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
+function HEX3Aanonymous__a195slides951950952_u15027(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
     var Temporary1;
 
   var result_838875834 = null;
@@ -18529,7 +18532,7 @@ function HEX3Aanonymous__a195slides950951951_u15027(scopeSelf_p0, inComponent_p1
     }}
     var _res_838875923 = Temporary1;
     F.line = 345;
-    this.comp8332.slotData = _res_838875923;
+    this.comp8382.slotData = _res_838875923;
     result_838875834 = _res_838875923;
   framePtr = F.prev;
 
@@ -18537,7 +18540,7 @@ function HEX3Aanonymous__a195slides950951951_u15027(scopeSelf_p0, inComponent_p1
 
 }
 
-function HEX3Aanonymous__a195slides950951951_u15565(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
+function HEX3Aanonymous__a195slides951950952_u15565(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
     var Temporary1;
 
   var result_838876372 = null;
@@ -18564,7 +18567,7 @@ function HEX3Aanonymous__a195slides950951951_u15565(scopeSelf_p0, inComponent_p1
     }}
     var _res_838876461 = Temporary1;
     F.line = 345;
-    this.comp8363.slotData = _res_838876461;
+    this.comp8413.slotData = _res_838876461;
     result_838876372 = _res_838876461;
   framePtr = F.prev;
 
@@ -18575,7 +18578,7 @@ function HEX3Aanonymous__a195slides950951951_u15565(scopeSelf_p0, inComponent_p1
 function rLinks__pkgZhpx7680Zslides_u4615(s_p0) {
   var result_3288338953 = [];
 
-  var F = {procname: "slides.rLinks", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/slides.nim", line: 0};
+  var F = {procname: "slides.rLinks", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/slides.nim", line: 0};
   framePtr = F;
     Label1: {
       F.line = 120;
@@ -18636,7 +18639,7 @@ function lazyTag__pkgZhappyxZspaZtag_u382(lazy_p0) {
 function linkButton__pkgZhpx7680Zslides_u3730(l_p0) {
   var result_3288338068 = null;
 
-  var F = {procname: "slides.linkButton", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/slides.nim", line: 0};
+  var F = {procname: "slides.linkButton", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/slides.nim", line: 0};
   framePtr = F;
     F.line = 104;
     F.filename = "slides.nim";
@@ -18673,7 +18676,7 @@ function withMenu__pkgZhpx7680Zslides_u3918(links_p0, content_p1, stmt_p2) {
 function HEX3Aanonymous__pkgZhpx7680Zslides_u3947() {
   var result_3288338284 = null;
 
-  var F = {procname: "withMenu.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/slides.nim", line: 0};
+  var F = {procname: "withMenu.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/slides.nim", line: 0};
   framePtr = F;
     F.line = 760;
     F.filename = "macro_utils.nim";
@@ -18689,7 +18692,7 @@ function HEX3Aanonymous__pkgZhpx7680Zslides_u3947() {
 
   var result_3288338282 = null;
 
-  var F = {procname: "slides.withMenu", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/slides.nim", line: 0};
+  var F = {procname: "slides.withMenu", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/slides.nim", line: 0};
   framePtr = F;
     F.line = 112;
     F.filename = "slides.nim";
@@ -18744,7 +18747,7 @@ function HEX3Aanonymous__pkgZhpx7680Zslides_u3947() {
 function rLinked__pkgZhpx7680Zslides_u4893(references_p0, stmt_p1) {
   var result_3288339232 = null;
 
-  var F = {procname: "slides.rLinked", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/slides.nim", line: 0};
+  var F = {procname: "slides.rLinked", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/slides.nim", line: 0};
   framePtr = F;
     F.line = 124;
     F.filename = "slides.nim";
@@ -18761,7 +18764,7 @@ function initStrut__pkgZhpx7680Zlayout_u2528(uniqCompId_p0, height_p1, width_p2,
     var Temporary1;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2544(self_p0, ev_p1) {
-  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -18770,7 +18773,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2544(self_p0, ev_p1) {
     var Temporary2;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2547(self_p0, ev_p1) {
-  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -18779,7 +18782,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2547(self_p0, ev_p1) {
     var Temporary3;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2550(self_p0, ev_p1) {
-  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -18788,7 +18791,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2550(self_p0, ev_p1) {
     var Temporary4;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2553(self_p0, ev_p1) {
-  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -18797,7 +18800,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2553(self_p0, ev_p1) {
     var Temporary5;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2556(self_p0, ev_p1) {
-  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -18806,7 +18809,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2556(self_p0, ev_p1) {
     var Temporary6;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2559(self_p0, ev_p1) {
-  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -18815,7 +18818,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2559(self_p0, ev_p1) {
     var Temporary7;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2562(self_p0, ev_p1) {
-  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -18824,7 +18827,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2562(self_p0, ev_p1) {
     var Temporary8;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2565(self_p0, ev_p1) {
-  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -18891,7 +18894,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2565(self_p0, ev_p1) {
 
 }
 
-function HEX3Aanonymous__a195slides950951951_u24060(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
+function HEX3Aanonymous__a195slides951950952_u24060(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
     var Temporary1;
 
   var result_838884867 = null;
@@ -18918,7 +18921,7 @@ function HEX3Aanonymous__a195slides950951951_u24060(scopeSelf_p0, inComponent_p1
     }}
     var _res_838884956 = Temporary1;
     F.line = 345;
-    this.comp8830.slotData = _res_838884956;
+    this.comp8880.slotData = _res_838884956;
     result_838884867 = _res_838884956;
   framePtr = F.prev;
 
@@ -18926,7 +18929,7 @@ function HEX3Aanonymous__a195slides950951951_u24060(scopeSelf_p0, inComponent_p1
 
 }
 
-function HEX3Aanonymous__a195slides950951951_u24897(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
+function HEX3Aanonymous__a195slides951950952_u24897(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
     var Temporary1;
 
   var result_838885704 = null;
@@ -18953,7 +18956,7 @@ function HEX3Aanonymous__a195slides950951951_u24897(scopeSelf_p0, inComponent_p1
     }}
     var _res_838885793 = Temporary1;
     F.line = 345;
-    this.comp8871.slotData = _res_838885793;
+    this.comp8921.slotData = _res_838885793;
     result_838885704 = _res_838885793;
   framePtr = F.prev;
 
@@ -18961,7 +18964,7 @@ function HEX3Aanonymous__a195slides950951951_u24897(scopeSelf_p0, inComponent_p1
 
 }
 
-function HEX3Aanonymous__a195slides950951951_u25734(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
+function HEX3Aanonymous__a195slides951950952_u25734(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
     var Temporary1;
 
   var result_838886541 = null;
@@ -18988,7 +18991,7 @@ function HEX3Aanonymous__a195slides950951951_u25734(scopeSelf_p0, inComponent_p1
     }}
     var _res_838886630 = Temporary1;
     F.line = 345;
-    this.comp8912.slotData = _res_838886630;
+    this.comp8962.slotData = _res_838886630;
     result_838886541 = _res_838886630;
   framePtr = F.prev;
 
@@ -18996,7 +18999,7 @@ function HEX3Aanonymous__a195slides950951951_u25734(scopeSelf_p0, inComponent_p1
 
 }
 
-function HEX3Aanonymous__a195slides950951951_u26388(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
+function HEX3Aanonymous__a195slides951950952_u26388(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
     var Temporary1;
 
   var result_838887195 = null;
@@ -19023,7 +19026,7 @@ function HEX3Aanonymous__a195slides950951951_u26388(scopeSelf_p0, inComponent_p1
     }}
     var _res_838887284 = Temporary1;
     F.line = 345;
-    this.comp8953.slotData = _res_838887284;
+    this.comp9003.slotData = _res_838887284;
     result_838887195 = _res_838887284;
   framePtr = F.prev;
 
@@ -20326,12 +20329,12 @@ function word__pkgZhappyxZroutingZroutingZscanfuncs_u30(input_p0, strVal_p1, str
 
 }
 
-function alertStyle__a195slides950951951_u30145(alert_p0) {
+function alertStyle__a195slides951950952_u30145(alert_p0) {
     var Temporary1;
 
   var result_838890947 = [];
 
-  var F = {procname: "a1_slides_0_1_1.alertStyle", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson0_1_1/a1_slides_0_1_1/Slides.nim", line: 0};
+  var F = {procname: "a1_slides_1_0_2.alertStyle", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson1_0_2/a1_slides_1_0_2/Slides.nim", line: 0};
   framePtr = F;
     F.line = 123;
     F.filename = "Slides.nim";
@@ -20349,7 +20352,7 @@ function alertStyle__a195slides950951951_u30145(alert_p0) {
 
 }
 
-function HEX5BHEX5D__a195slides950951951_u31229(t_p0, key_p1) {
+function HEX5BHEX5D__a195slides951950952_u31229(t_p0, key_p1) {
   var result_838892034 = null;
 
   var F = {procname: "[].[]", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/pure/collections/tables.nim", line: 0};
@@ -20358,7 +20361,7 @@ function HEX5BHEX5D__a195slides950951951_u31229(t_p0, key_p1) {
     F.filename = "tables.nim";
     var hcHEX60gensym22_838892035 = [0];
     F.line = 241;
-    var indexHEX60gensym22_838892042 = rawGet__OOZlesson84arget_u10707(t_p0, key_p1, hcHEX60gensym22_838892035, 0);
+    var indexHEX60gensym22_838892042 = rawGet__OOZlesson84arget_u10703(t_p0, key_p1, hcHEX60gensym22_838892035, 0);
     if ((0 <= indexHEX60gensym22_838892042)) {
     F.line = 242;
     result_838892034 = t_p0.data[chckIndx(indexHEX60gensym22_838892042, 0, (t_p0.data).length - 1)].Field2;
@@ -20527,10 +20530,10 @@ function parseInt__pureZparseutils_u915(s_p0, number_p1, number_p1_Idx, start_p2
 
 }
 
-function callRouter__a195slides950951951_u30237(force_p0) {
+function callRouter__a195slides951950952_u30237(force_p0) {
     var Temporary1;
 
-  var F = {procname: "a1_slides_0_1_1.callRouter", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/renderer.nim", line: 0};
+  var F = {procname: "a1_slides_1_0_2.callRouter", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/renderer.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 908;
@@ -20586,10 +20589,10 @@ function callRouter__a195slides950951951_u30237(force_p0) {
     F.filename = "Slides.nim";
     F.line = 742;
     F.filename = "macros.nim";
-    var __el908_838891740 = tg1([98,117,116,116,111,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [112,111,115,116,105,111,110,58,32,97,98,115,111,108,117,116,101,59,32,122,45,108,101,118,101,108,58,32,50,59,32,102,108,111,97,116,58,32,108,101,102,116,59]}, NTI838896551)], 0), [tg4([103,111,32,98,97,99,107], true, [], false)], false);
+    var __el913_838891740 = tg1([98,117,116,116,111,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [112,111,115,116,105,111,110,58,32,97,98,115,111,108,117,116,101,59,32,122,45,108,101,118,101,108,58,32,50,59,32,102,108,111,97,116,58,32,108,101,102,116,59]}, NTI838896551)], 0), [tg4([103,111,32,98,97,99,107], true, [], false)], false);
     F.line = 1247;
     F.filename = "macro_utils.nim";
-    __el908_838891740.addEventListener('click', async (event) => {
+    __el913_838891740.addEventListener('click', async (event) => {
     Label2: {
       F.line = 130;
       F.filename = "Slides.nim";
@@ -20607,11 +20610,11 @@ function callRouter__a195slides950951951_u30237(force_p0) {
       F.line = 132;
       nimAddStrStr(fmtRes_838892521[0], [104,101,105,103,104,116,58,32,57,53,118,104,59]);;
       F.line = 132;
-      formatValue__pkgZhappyxZprivateZmacro95utils_u291(fmtRes_838892521, 0, alertStyle__a195slides950951951_u30145(HEX5BHEX5D__a195slides950951951_u31229(referenceTable_4026542187[0], refTitle_838891504[0]).alert));
+      formatValue__pkgZhappyxZprivateZmacro95utils_u291(fmtRes_838892521, 0, alertStyle__a195slides951950952_u30145(HEX5BHEX5D__a195slides951950952_u31229(referenceTable_4026542183[0], refTitle_838891504[0]).alert));
       F.line = 132;
       nimAddStrStr(fmtRes_838892521[0], [32,102,111,110,116,45,115,105,122,101,58,32,49,52,48,37,59]);;
     };
-    html_838891179 = tg2([100,105,118], [__el908_838891740, tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: (makeNimstrLit("height: 100vh; width: 100vw; font-size: 2.5vw; padding: 1em; display: flex; flex-direction: column;")).concat(fmtRes_838892521[0])}, NTI838896663)], 0), [tg2([104,50], [tg4(refTitle_838891504[0], true, [], false)], false), tg1([111,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI838897618)], 0), [listed__OOZlesson84arget_u2455(HEX5BHEX5D__a195slides950951951_u31229(referenceTable_4026542187[0], refTitle_838891504[0]).list)], false)], false)], true);
+    html_838891179 = tg2([100,105,118], [__el913_838891740, tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: (makeNimstrLit("height: 100vh; width: 100vw; font-size: 2.5vw; padding: 1em; display: flex; flex-direction: column;")).concat(fmtRes_838892521[0])}, NTI838896663)], 0), [tg2([104,50], [tg4(refTitle_838891504[0], true, [], false)], false), tg1([111,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI838897618)], 0), [listed__OOZlesson84arget_u2451(HEX5BHEX5D__a195slides951950952_u31229(referenceTable_4026542183[0], refTitle_838891504[0]).list)], false)], false)], true);
     }
     else {
     if (eqStrings(path_838891178, [47])) {
@@ -20704,12 +20707,12 @@ function callRouter__a195slides950951951_u30237(force_p0) {
   
 }
 
-function onDOMContentLoaded__a195slides950951951_u33005(ev_p0) {
-  var F = {procname: "a1_slides_0_1_1.onDOMContentLoaded", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/renderer.nim", line: 0};
+function onDOMContentLoaded__a195slides951950952_u33005(ev_p0) {
+  var F = {procname: "a1_slides_1_0_2.onDOMContentLoaded", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/renderer.nim", line: 0};
   framePtr = F;
     F.line = 908;
     F.filename = "renderer.nim";
-    callRouter__a195slides950951951_u30237(false);
+    callRouter__a195slides951950952_u30237(false);
   framePtr = F.prev;
 
   
@@ -20721,7 +20724,7 @@ var Temporary18;
 var Temporary19;
 var Temporary20;
 
-function HEX3Aanonymous__a195slides950951951_u4016(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
+function HEX3Aanonymous__a195slides951950952_u4016(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
     var Temporary1;
     var Temporary2;
     var Temporary3;
@@ -20738,159 +20741,159 @@ function HEX3Aanonymous__a195slides950951951_u4016(scopeSelf_p0, inComponent_p1,
 
   var result_838864823 = null;
 
-  var F = {procname: "a1_slides_0_1_1.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson0_1_1/a1_slides_0_1_1/Slides.nim", line: 0};
+  var F = {procname: "a1_slides_1_0_2.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson1_0_2/a1_slides_1_0_2/Slides.nim", line: 0};
   framePtr = F;
     F.line = 296;
     F.filename = "macro_utils.nim";
     var HEX3Aenv_838895268 = null;
     F.line = 296;
-    HEX3Aenv_838895268 = {m_type: NTI838900040, comp7630: null, comp7741: null, comp7852: null, comp7963: null};
+    HEX3Aenv_838895268 = {m_type: NTI838900040, comp7680: null, comp7791: null, comp7902: null, comp8013: null};
     F.line = 44;
     F.filename = "Slides.nim";
     F.line = 44;
     if ((inCycle_p3 && inComponent_p1)) {
     F.line = 45;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary2 = ([99,111,109,112,55,54,51]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary2 = ([99,111,109,112,55,54,56]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary2 = ([99,111,109,112,55,54,51]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary2 = ([99,111,109,112,55,54,56]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    var _comp763_838865199 = initSlideHeader__pkgZhpx7680Zslides_u851(Temporary2, [118,101,114,116,105,99,97,108,45,97,108,105,103,110,58,32,109,105,100,100,108,101,59]);
+    var _comp768_838865199 = initSlideHeader__pkgZhpx7680Zslides_u851(Temporary2, [118,101,114,116,105,99,97,108,45,97,108,105,103,110,58,32,109,105,100,100,108,101,59]);
     F.line = 45;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary3 = ([99,111,109,112,55,54,51]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary3 = ([99,111,109,112,55,54,56]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary3 = ([99,111,109,112,55,54,51]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary3 = ([99,111,109,112,55,54,56]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    HEX3Aenv_838895268.comp7630 = rgcmp(toJSStr(Temporary3), _comp763_838865199);
+    HEX3Aenv_838895268.comp7680 = rgcmp(toJSStr(Temporary3), _comp768_838865199);
     F.line = 46;
-    Temporary4 = HEX3Aanonymous__a195slides950951951_u4401.bind(HEX3Aenv_838895268); Temporary4.ClP_0 = HEX3Aanonymous__a195slides950951951_u4401; Temporary4.ClE_0 = HEX3Aenv_838895268;
-    HEX3Aenv_838895268.comp7630.slot = Temporary4;
+    Temporary4 = HEX3Aanonymous__a195slides951950952_u4401.bind(HEX3Aenv_838895268); Temporary4.ClP_0 = HEX3Aanonymous__a195slides951950952_u4401; Temporary4.ClE_0 = HEX3Aenv_838895268;
+    HEX3Aenv_838895268.comp7680.slot = Temporary4;
     F.line = 46;
-    var data_comp763_838866130 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838895268.comp7630);
+    var data_comp768_838866130 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838895268.comp7680);
     F.line = 46;
-    addArgIter__pkgZhappyxZspaZtag_u537(data_comp763_838866130, ([100,97,116,97,45]).concat(HEX3Aenv_838895268.comp7630.uniqCompId));
+    addArgIter__pkgZhappyxZspaZtag_u537(data_comp768_838866130, ([100,97,116,97,45]).concat(HEX3Aenv_838895268.comp7680.uniqCompId));
     F.line = 46;
-    window.addEventListener('beforeunload', data_comp763_838866130.exited);
+    window.addEventListener('beforeunload', data_comp768_838866130.exited);
     F.line = 46;
-    window.addEventListener('pagehide', data_comp763_838866130.pageHide);
+    window.addEventListener('pagehide', data_comp768_838866130.pageHide);
     F.line = 46;
-    window.addEventListener('pageshow', data_comp763_838866130.pageShow);
-    Temporary1 = tg2([100,105,118], [data_comp763_838866130], true);
+    window.addEventListener('pageshow', data_comp768_838866130.pageShow);
+    Temporary1 = tg2([100,105,118], [data_comp768_838866130], true);
     }
     else {
     if (inCycle_p3) {
     F.line = 45;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary5 = ([99,111,109,112,55,55,52]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary5 = ([99,111,109,112,55,55,57]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary5 = ([99,111,109,112,55,55,52]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary5 = ([99,111,109,112,55,55,57]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    var _comp774_838866534 = initSlideHeader__pkgZhpx7680Zslides_u851(Temporary5, [118,101,114,116,105,99,97,108,45,97,108,105,103,110,58,32,109,105,100,100,108,101,59]);
+    var _comp779_838866534 = initSlideHeader__pkgZhpx7680Zslides_u851(Temporary5, [118,101,114,116,105,99,97,108,45,97,108,105,103,110,58,32,109,105,100,100,108,101,59]);
     F.line = 45;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary6 = ([99,111,109,112,55,55,52]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary6 = ([99,111,109,112,55,55,57]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary6 = ([99,111,109,112,55,55,52]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary6 = ([99,111,109,112,55,55,57]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    HEX3Aenv_838895268.comp7741 = rgcmp(toJSStr(Temporary6), _comp774_838866534);
+    HEX3Aenv_838895268.comp7791 = rgcmp(toJSStr(Temporary6), _comp779_838866534);
     F.line = 46;
-    Temporary7 = HEX3Aanonymous__a195slides950951951_u5736.bind(HEX3Aenv_838895268); Temporary7.ClP_0 = HEX3Aanonymous__a195slides950951951_u5736; Temporary7.ClE_0 = HEX3Aenv_838895268;
-    HEX3Aenv_838895268.comp7741.slot = Temporary7;
+    Temporary7 = HEX3Aanonymous__a195slides951950952_u5736.bind(HEX3Aenv_838895268); Temporary7.ClP_0 = HEX3Aanonymous__a195slides951950952_u5736; Temporary7.ClE_0 = HEX3Aenv_838895268;
+    HEX3Aenv_838895268.comp7791.slot = Temporary7;
     F.line = 46;
-    var data_comp774_838867465 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838895268.comp7741);
+    var data_comp779_838867465 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838895268.comp7791);
     F.line = 46;
-    addArgIter__pkgZhappyxZspaZtag_u537(data_comp774_838867465, ([100,97,116,97,45]).concat(HEX3Aenv_838895268.comp7741.uniqCompId));
+    addArgIter__pkgZhappyxZspaZtag_u537(data_comp779_838867465, ([100,97,116,97,45]).concat(HEX3Aenv_838895268.comp7791.uniqCompId));
     F.line = 46;
-    window.addEventListener('beforeunload', data_comp774_838867465.exited);
+    window.addEventListener('beforeunload', data_comp779_838867465.exited);
     F.line = 46;
-    window.addEventListener('pagehide', data_comp774_838867465.pageHide);
+    window.addEventListener('pagehide', data_comp779_838867465.pageHide);
     F.line = 46;
-    window.addEventListener('pageshow', data_comp774_838867465.pageShow);
-    Temporary1 = tg2([100,105,118], [data_comp774_838867465], true);
+    window.addEventListener('pageshow', data_comp779_838867465.pageShow);
+    Temporary1 = tg2([100,105,118], [data_comp779_838867465], true);
     }
     else {
     if (inComponent_p1) {
     F.line = 45;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary8 = ([99,111,109,112,55,56,53]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary8 = ([99,111,109,112,55,57,48]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary8 = ([99,111,109,112,55,56,53]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary8 = ([99,111,109,112,55,57,48]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    var _comp785_838867869 = initSlideHeader__pkgZhpx7680Zslides_u851(Temporary8, [118,101,114,116,105,99,97,108,45,97,108,105,103,110,58,32,109,105,100,100,108,101,59]);
+    var _comp790_838867869 = initSlideHeader__pkgZhpx7680Zslides_u851(Temporary8, [118,101,114,116,105,99,97,108,45,97,108,105,103,110,58,32,109,105,100,100,108,101,59]);
     F.line = 45;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary9 = ([99,111,109,112,55,56,53]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary9 = ([99,111,109,112,55,57,48]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary9 = ([99,111,109,112,55,56,53]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary9 = ([99,111,109,112,55,57,48]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    HEX3Aenv_838895268.comp7852 = rgcmp(toJSStr(Temporary9), _comp785_838867869);
+    HEX3Aenv_838895268.comp7902 = rgcmp(toJSStr(Temporary9), _comp790_838867869);
     F.line = 46;
-    Temporary10 = HEX3Aanonymous__a195slides950951951_u7071.bind(HEX3Aenv_838895268); Temporary10.ClP_0 = HEX3Aanonymous__a195slides950951951_u7071; Temporary10.ClE_0 = HEX3Aenv_838895268;
-    HEX3Aenv_838895268.comp7852.slot = Temporary10;
+    Temporary10 = HEX3Aanonymous__a195slides951950952_u7071.bind(HEX3Aenv_838895268); Temporary10.ClP_0 = HEX3Aanonymous__a195slides951950952_u7071; Temporary10.ClE_0 = HEX3Aenv_838895268;
+    HEX3Aenv_838895268.comp7902.slot = Temporary10;
     F.line = 46;
-    var data_comp785_838868800 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838895268.comp7852);
+    var data_comp790_838868800 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838895268.comp7902);
     F.line = 46;
-    addArgIter__pkgZhappyxZspaZtag_u537(data_comp785_838868800, ([100,97,116,97,45]).concat(HEX3Aenv_838895268.comp7852.uniqCompId));
+    addArgIter__pkgZhappyxZspaZtag_u537(data_comp790_838868800, ([100,97,116,97,45]).concat(HEX3Aenv_838895268.comp7902.uniqCompId));
     F.line = 46;
-    window.addEventListener('beforeunload', data_comp785_838868800.exited);
+    window.addEventListener('beforeunload', data_comp790_838868800.exited);
     F.line = 46;
-    window.addEventListener('pagehide', data_comp785_838868800.pageHide);
+    window.addEventListener('pagehide', data_comp790_838868800.pageHide);
     F.line = 46;
-    window.addEventListener('pageshow', data_comp785_838868800.pageShow);
-    Temporary1 = tg2([100,105,118], [data_comp785_838868800], true);
+    window.addEventListener('pageshow', data_comp790_838868800.pageShow);
+    Temporary1 = tg2([100,105,118], [data_comp790_838868800], true);
     }
     else {
       F.line = 45;
       if ((scopedCycleCounter_1744830592[0] == 0)) {
-      Temporary11 = [99,111,109,112,55,57,54];
+      Temporary11 = [99,111,109,112,56,48,49];
       }
       else {
-      Temporary11 = ([99,111,109,112,55,57,54]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+      Temporary11 = ([99,111,109,112,56,48,49]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
       }
       
-      var _comp796_838869021 = initSlideHeader__pkgZhpx7680Zslides_u851(Temporary11, [118,101,114,116,105,99,97,108,45,97,108,105,103,110,58,32,109,105,100,100,108,101,59]);
+      var _comp801_838869021 = initSlideHeader__pkgZhpx7680Zslides_u851(Temporary11, [118,101,114,116,105,99,97,108,45,97,108,105,103,110,58,32,109,105,100,100,108,101,59]);
       F.line = 45;
       if ((scopedCycleCounter_1744830592[0] == 0)) {
-      Temporary12 = [99,111,109,112,55,57,54];
+      Temporary12 = [99,111,109,112,56,48,49];
       }
       else {
-      Temporary12 = ([99,111,109,112,55,57,54]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+      Temporary12 = ([99,111,109,112,56,48,49]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
       }
       
-      HEX3Aenv_838895268.comp7963 = rgcmp(toJSStr(Temporary12), _comp796_838869021);
+      HEX3Aenv_838895268.comp8013 = rgcmp(toJSStr(Temporary12), _comp801_838869021);
       F.line = 46;
-      Temporary13 = HEX3Aanonymous__a195slides950951951_u8223.bind(HEX3Aenv_838895268); Temporary13.ClP_0 = HEX3Aanonymous__a195slides950951951_u8223; Temporary13.ClE_0 = HEX3Aenv_838895268;
-      HEX3Aenv_838895268.comp7963.slot = Temporary13;
+      Temporary13 = HEX3Aanonymous__a195slides951950952_u8223.bind(HEX3Aenv_838895268); Temporary13.ClP_0 = HEX3Aanonymous__a195slides951950952_u8223; Temporary13.ClE_0 = HEX3Aenv_838895268;
+      HEX3Aenv_838895268.comp8013.slot = Temporary13;
       F.line = 46;
-      var data_comp796_838869952 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838895268.comp7963);
+      var data_comp801_838869952 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838895268.comp8013);
       F.line = 46;
-      addArgIter__pkgZhappyxZspaZtag_u537(data_comp796_838869952, ([100,97,116,97,45]).concat(HEX3Aenv_838895268.comp7963.uniqCompId));
+      addArgIter__pkgZhappyxZspaZtag_u537(data_comp801_838869952, ([100,97,116,97,45]).concat(HEX3Aenv_838895268.comp8013.uniqCompId));
       F.line = 46;
-      window.addEventListener('beforeunload', data_comp796_838869952.exited);
+      window.addEventListener('beforeunload', data_comp801_838869952.exited);
       F.line = 46;
-      window.addEventListener('pagehide', data_comp796_838869952.pageHide);
+      window.addEventListener('pagehide', data_comp801_838869952.pageHide);
       F.line = 46;
-      window.addEventListener('pageshow', data_comp796_838869952.pageShow);
-    Temporary1 = tg2([100,105,118], [data_comp796_838869952], true);
+      window.addEventListener('pageshow', data_comp801_838869952.pageShow);
+    Temporary1 = tg2([100,105,118], [data_comp801_838869952], true);
     }
     }}
     var _res_838869981 = Temporary1;
     F.line = 345;
     F.filename = "macro_utils.nim";
-    comp759_838864815[0].slotData = _res_838869981;
+    comp764_838864815[0].slotData = _res_838869981;
     result_838864823 = _res_838869981;
   framePtr = F.prev;
 
@@ -20902,7 +20905,7 @@ var Temporary22;
 var Temporary23;
 var Temporary24;
 
-function HEX3Aanonymous__a195slides950951951_u9995(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
+function HEX3Aanonymous__a195slides951950952_u9995(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
     var Temporary1;
     var Temporary2;
     var Temporary3;
@@ -20919,165 +20922,165 @@ function HEX3Aanonymous__a195slides950951951_u9995(scopeSelf_p0, inComponent_p1,
 
   var result_838870802 = null;
 
-  var F = {procname: "a1_slides_0_1_1.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson0_1_1/a1_slides_0_1_1/Slides.nim", line: 0};
+  var F = {procname: "a1_slides_1_0_2.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson1_0_2/a1_slides_1_0_2/Slides.nim", line: 0};
   framePtr = F;
     F.line = 296;
     F.filename = "macro_utils.nim";
     var HEX3Aenv_838895313 = null;
     F.line = 296;
-    HEX3Aenv_838895313 = {m_type: NTI838900060, comp8100: null, comp8131: null, comp8162: null, comp8193: null};
+    HEX3Aenv_838895313 = {m_type: NTI838900060, comp8150: null, comp8181: null, comp8212: null, comp8243: null};
     F.line = 50;
     F.filename = "Slides.nim";
     F.line = 50;
     if ((inCycle_p3 && inComponent_p1)) {
     F.line = 49;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary2 = ([99,111,109,112,56,49,48]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary2 = ([99,111,109,112,56,49,53]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary2 = ([99,111,109,112,56,49,48]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary2 = ([99,111,109,112,56,49,53]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    var _comp810_838871178 = initSlideHeader__pkgZhpx7680Zslides_u851(Temporary2, []);
+    var _comp815_838871178 = initSlideHeader__pkgZhpx7680Zslides_u851(Temporary2, []);
     F.line = 49;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary3 = ([99,111,109,112,56,49,48]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary3 = ([99,111,109,112,56,49,53]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary3 = ([99,111,109,112,56,49,48]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary3 = ([99,111,109,112,56,49,53]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    HEX3Aenv_838895313.comp8100 = rgcmp(toJSStr(Temporary3), _comp810_838871178);
+    HEX3Aenv_838895313.comp8150 = rgcmp(toJSStr(Temporary3), _comp815_838871178);
     F.line = 312;
     F.filename = "macro_utils.nim";
-    Temporary4 = HEX3Aanonymous__a195slides950951951_u10380.bind(HEX3Aenv_838895313); Temporary4.ClP_0 = HEX3Aanonymous__a195slides950951951_u10380; Temporary4.ClE_0 = HEX3Aenv_838895313;
-    HEX3Aenv_838895313.comp8100.slot = Temporary4;
+    Temporary4 = HEX3Aanonymous__a195slides951950952_u10380.bind(HEX3Aenv_838895313); Temporary4.ClP_0 = HEX3Aanonymous__a195slides951950952_u10380; Temporary4.ClE_0 = HEX3Aenv_838895313;
+    HEX3Aenv_838895313.comp8150.slot = Temporary4;
     F.line = 312;
-    var data_comp810_838871277 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838895313.comp8100);
+    var data_comp815_838871277 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838895313.comp8150);
     F.line = 312;
-    addArgIter__pkgZhappyxZspaZtag_u537(data_comp810_838871277, ([100,97,116,97,45]).concat(HEX3Aenv_838895313.comp8100.uniqCompId));
+    addArgIter__pkgZhappyxZspaZtag_u537(data_comp815_838871277, ([100,97,116,97,45]).concat(HEX3Aenv_838895313.comp8150.uniqCompId));
     F.line = 312;
-    window.addEventListener('beforeunload', data_comp810_838871277.exited);
+    window.addEventListener('beforeunload', data_comp815_838871277.exited);
     F.line = 312;
-    window.addEventListener('pagehide', data_comp810_838871277.pageHide);
+    window.addEventListener('pagehide', data_comp815_838871277.pageHide);
     F.line = 312;
-    window.addEventListener('pageshow', data_comp810_838871277.pageShow);
-    Temporary1 = tg2([100,105,118], [data_comp810_838871277, tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI838872161)], 0), [listed__OOZlesson84arget_u2455(basicRules_4043309149)], false)], true);
+    window.addEventListener('pageshow', data_comp815_838871277.pageShow);
+    Temporary1 = tg2([100,105,118], [data_comp815_838871277, tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI838872161)], 0), [listed__OOZlesson84arget_u2451(basicRules_4043309149)], false)], true);
     }
     else {
     if (inCycle_p3) {
     F.line = 49;
     F.filename = "Slides.nim";
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary5 = ([99,111,109,112,56,49,51]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary5 = ([99,111,109,112,56,49,56]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary5 = ([99,111,109,112,56,49,51]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary5 = ([99,111,109,112,56,49,56]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    var _comp813_838871899 = initSlideHeader__pkgZhpx7680Zslides_u851(Temporary5, []);
+    var _comp818_838871899 = initSlideHeader__pkgZhpx7680Zslides_u851(Temporary5, []);
     F.line = 49;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary6 = ([99,111,109,112,56,49,51]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary6 = ([99,111,109,112,56,49,56]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary6 = ([99,111,109,112,56,49,51]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary6 = ([99,111,109,112,56,49,56]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    HEX3Aenv_838895313.comp8131 = rgcmp(toJSStr(Temporary6), _comp813_838871899);
+    HEX3Aenv_838895313.comp8181 = rgcmp(toJSStr(Temporary6), _comp818_838871899);
     F.line = 312;
     F.filename = "macro_utils.nim";
-    Temporary7 = HEX3Aanonymous__a195slides950951951_u11101.bind(HEX3Aenv_838895313); Temporary7.ClP_0 = HEX3Aanonymous__a195slides950951951_u11101; Temporary7.ClE_0 = HEX3Aenv_838895313;
-    HEX3Aenv_838895313.comp8131.slot = Temporary7;
+    Temporary7 = HEX3Aanonymous__a195slides951950952_u11101.bind(HEX3Aenv_838895313); Temporary7.ClP_0 = HEX3Aanonymous__a195slides951950952_u11101; Temporary7.ClE_0 = HEX3Aenv_838895313;
+    HEX3Aenv_838895313.comp8181.slot = Temporary7;
     F.line = 312;
-    var data_comp813_838871998 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838895313.comp8131);
+    var data_comp818_838871998 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838895313.comp8181);
     F.line = 312;
-    addArgIter__pkgZhappyxZspaZtag_u537(data_comp813_838871998, ([100,97,116,97,45]).concat(HEX3Aenv_838895313.comp8131.uniqCompId));
+    addArgIter__pkgZhappyxZspaZtag_u537(data_comp818_838871998, ([100,97,116,97,45]).concat(HEX3Aenv_838895313.comp8181.uniqCompId));
     F.line = 312;
-    window.addEventListener('beforeunload', data_comp813_838871998.exited);
+    window.addEventListener('beforeunload', data_comp818_838871998.exited);
     F.line = 312;
-    window.addEventListener('pagehide', data_comp813_838871998.pageHide);
+    window.addEventListener('pagehide', data_comp818_838871998.pageHide);
     F.line = 312;
-    window.addEventListener('pageshow', data_comp813_838871998.pageShow);
-    Temporary1 = tg2([100,105,118], [data_comp813_838871998, tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI838873156)], 0), [listed__OOZlesson84arget_u2455(basicRules_4043309149)], false)], true);
+    window.addEventListener('pageshow', data_comp818_838871998.pageShow);
+    Temporary1 = tg2([100,105,118], [data_comp818_838871998, tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI838873156)], 0), [listed__OOZlesson84arget_u2451(basicRules_4043309149)], false)], true);
     }
     else {
     if (inComponent_p1) {
     F.line = 49;
     F.filename = "Slides.nim";
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary8 = ([99,111,109,112,56,49,54]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary8 = ([99,111,109,112,56,50,49]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary8 = ([99,111,109,112,56,49,54]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary8 = ([99,111,109,112,56,50,49]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    var _comp816_838872620 = initSlideHeader__pkgZhpx7680Zslides_u851(Temporary8, []);
+    var _comp821_838872620 = initSlideHeader__pkgZhpx7680Zslides_u851(Temporary8, []);
     F.line = 49;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary9 = ([99,111,109,112,56,49,54]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary9 = ([99,111,109,112,56,50,49]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary9 = ([99,111,109,112,56,49,54]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary9 = ([99,111,109,112,56,50,49]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    HEX3Aenv_838895313.comp8162 = rgcmp(toJSStr(Temporary9), _comp816_838872620);
+    HEX3Aenv_838895313.comp8212 = rgcmp(toJSStr(Temporary9), _comp821_838872620);
     F.line = 312;
     F.filename = "macro_utils.nim";
-    Temporary10 = HEX3Aanonymous__a195slides950951951_u11822.bind(HEX3Aenv_838895313); Temporary10.ClP_0 = HEX3Aanonymous__a195slides950951951_u11822; Temporary10.ClE_0 = HEX3Aenv_838895313;
-    HEX3Aenv_838895313.comp8162.slot = Temporary10;
+    Temporary10 = HEX3Aanonymous__a195slides951950952_u11822.bind(HEX3Aenv_838895313); Temporary10.ClP_0 = HEX3Aanonymous__a195slides951950952_u11822; Temporary10.ClE_0 = HEX3Aenv_838895313;
+    HEX3Aenv_838895313.comp8212.slot = Temporary10;
     F.line = 312;
-    var data_comp816_838872719 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838895313.comp8162);
+    var data_comp821_838872719 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838895313.comp8212);
     F.line = 312;
-    addArgIter__pkgZhappyxZspaZtag_u537(data_comp816_838872719, ([100,97,116,97,45]).concat(HEX3Aenv_838895313.comp8162.uniqCompId));
+    addArgIter__pkgZhappyxZspaZtag_u537(data_comp821_838872719, ([100,97,116,97,45]).concat(HEX3Aenv_838895313.comp8212.uniqCompId));
     F.line = 312;
-    window.addEventListener('beforeunload', data_comp816_838872719.exited);
+    window.addEventListener('beforeunload', data_comp821_838872719.exited);
     F.line = 312;
-    window.addEventListener('pagehide', data_comp816_838872719.pageHide);
+    window.addEventListener('pagehide', data_comp821_838872719.pageHide);
     F.line = 312;
-    window.addEventListener('pageshow', data_comp816_838872719.pageShow);
-    Temporary1 = tg2([100,105,118], [data_comp816_838872719, tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI838874151)], 0), [listed__OOZlesson84arget_u2455(basicRules_4043309149)], false)], true);
+    window.addEventListener('pageshow', data_comp821_838872719.pageShow);
+    Temporary1 = tg2([100,105,118], [data_comp821_838872719, tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI838874151)], 0), [listed__OOZlesson84arget_u2451(basicRules_4043309149)], false)], true);
     }
     else {
       F.line = 49;
       F.filename = "Slides.nim";
       if ((scopedCycleCounter_1744830592[0] == 0)) {
-      Temporary11 = [99,111,109,112,56,49,57];
+      Temporary11 = [99,111,109,112,56,50,52];
       }
       else {
-      Temporary11 = ([99,111,109,112,56,49,57]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+      Temporary11 = ([99,111,109,112,56,50,52]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
       }
       
-      var _comp819_838873158 = initSlideHeader__pkgZhpx7680Zslides_u851(Temporary11, []);
+      var _comp824_838873158 = initSlideHeader__pkgZhpx7680Zslides_u851(Temporary11, []);
       F.line = 49;
       if ((scopedCycleCounter_1744830592[0] == 0)) {
-      Temporary12 = [99,111,109,112,56,49,57];
+      Temporary12 = [99,111,109,112,56,50,52];
       }
       else {
-      Temporary12 = ([99,111,109,112,56,49,57]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+      Temporary12 = ([99,111,109,112,56,50,52]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
       }
       
-      HEX3Aenv_838895313.comp8193 = rgcmp(toJSStr(Temporary12), _comp819_838873158);
+      HEX3Aenv_838895313.comp8243 = rgcmp(toJSStr(Temporary12), _comp824_838873158);
       F.line = 312;
       F.filename = "macro_utils.nim";
-      Temporary13 = HEX3Aanonymous__a195slides950951951_u12360.bind(HEX3Aenv_838895313); Temporary13.ClP_0 = HEX3Aanonymous__a195slides950951951_u12360; Temporary13.ClE_0 = HEX3Aenv_838895313;
-      HEX3Aenv_838895313.comp8193.slot = Temporary13;
+      Temporary13 = HEX3Aanonymous__a195slides951950952_u12360.bind(HEX3Aenv_838895313); Temporary13.ClP_0 = HEX3Aanonymous__a195slides951950952_u12360; Temporary13.ClE_0 = HEX3Aenv_838895313;
+      HEX3Aenv_838895313.comp8243.slot = Temporary13;
       F.line = 312;
-      var data_comp819_838873257 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838895313.comp8193);
+      var data_comp824_838873257 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838895313.comp8243);
       F.line = 312;
-      addArgIter__pkgZhappyxZspaZtag_u537(data_comp819_838873257, ([100,97,116,97,45]).concat(HEX3Aenv_838895313.comp8193.uniqCompId));
+      addArgIter__pkgZhappyxZspaZtag_u537(data_comp824_838873257, ([100,97,116,97,45]).concat(HEX3Aenv_838895313.comp8243.uniqCompId));
       F.line = 312;
-      window.addEventListener('beforeunload', data_comp819_838873257.exited);
+      window.addEventListener('beforeunload', data_comp824_838873257.exited);
       F.line = 312;
-      window.addEventListener('pagehide', data_comp819_838873257.pageHide);
+      window.addEventListener('pagehide', data_comp824_838873257.pageHide);
       F.line = 312;
-      window.addEventListener('pageshow', data_comp819_838873257.pageShow);
-    Temporary1 = tg2([100,105,118], [data_comp819_838873257, tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI838874882)], 0), [listed__OOZlesson84arget_u2455(basicRules_4043309149)], false)], true);
+      window.addEventListener('pageshow', data_comp824_838873257.pageShow);
+    Temporary1 = tg2([100,105,118], [data_comp824_838873257, tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI838874882)], 0), [listed__OOZlesson84arget_u2451(basicRules_4043309149)], false)], true);
     }
     }}
     var _res_838873504 = Temporary1;
     F.line = 345;
-    comp808_838870794[0].slotData = _res_838873504;
+    comp813_838870794[0].slotData = _res_838873504;
     result_838870802 = _res_838873504;
   framePtr = F.prev;
 
@@ -21089,7 +21092,7 @@ var Temporary26;
 var Temporary27;
 var Temporary28;
 
-function HEX3Aanonymous__a195slides950951951_u13200(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
+function HEX3Aanonymous__a195slides951950952_u13200(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
     var Temporary1;
     var Temporary2;
     var Temporary3;
@@ -21106,165 +21109,165 @@ function HEX3Aanonymous__a195slides950951951_u13200(scopeSelf_p0, inComponent_p1
 
   var result_838874007 = null;
 
-  var F = {procname: "a1_slides_0_1_1.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson0_1_1/a1_slides_0_1_1/Slides.nim", line: 0};
+  var F = {procname: "a1_slides_1_0_2.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson1_0_2/a1_slides_1_0_2/Slides.nim", line: 0};
   framePtr = F;
     F.line = 296;
     F.filename = "macro_utils.nim";
     var HEX3Aenv_838895362 = null;
     F.line = 296;
-    HEX3Aenv_838895362 = {m_type: NTI838900080, comp8270: null, comp8301: null, comp8332: null, comp8363: null};
+    HEX3Aenv_838895362 = {m_type: NTI838900080, comp8320: null, comp8351: null, comp8382: null, comp8413: null};
     F.line = 54;
     F.filename = "Slides.nim";
     F.line = 54;
     if ((inCycle_p3 && inComponent_p1)) {
     F.line = 53;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary2 = ([99,111,109,112,56,50,55]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary2 = ([99,111,109,112,56,51,50]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary2 = ([99,111,109,112,56,50,55]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary2 = ([99,111,109,112,56,51,50]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    var _comp827_838874383 = initSlideHeader__pkgZhpx7680Zslides_u851(Temporary2, []);
+    var _comp832_838874383 = initSlideHeader__pkgZhpx7680Zslides_u851(Temporary2, []);
     F.line = 53;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary3 = ([99,111,109,112,56,50,55]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary3 = ([99,111,109,112,56,51,50]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary3 = ([99,111,109,112,56,50,55]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary3 = ([99,111,109,112,56,51,50]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    HEX3Aenv_838895362.comp8270 = rgcmp(toJSStr(Temporary3), _comp827_838874383);
+    HEX3Aenv_838895362.comp8320 = rgcmp(toJSStr(Temporary3), _comp832_838874383);
     F.line = 312;
     F.filename = "macro_utils.nim";
-    Temporary4 = HEX3Aanonymous__a195slides950951951_u13585.bind(HEX3Aenv_838895362); Temporary4.ClP_0 = HEX3Aanonymous__a195slides950951951_u13585; Temporary4.ClE_0 = HEX3Aenv_838895362;
-    HEX3Aenv_838895362.comp8270.slot = Temporary4;
+    Temporary4 = HEX3Aanonymous__a195slides951950952_u13585.bind(HEX3Aenv_838895362); Temporary4.ClP_0 = HEX3Aanonymous__a195slides951950952_u13585; Temporary4.ClE_0 = HEX3Aenv_838895362;
+    HEX3Aenv_838895362.comp8320.slot = Temporary4;
     F.line = 312;
-    var data_comp827_838874482 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838895362.comp8270);
+    var data_comp832_838874482 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838895362.comp8320);
     F.line = 312;
-    addArgIter__pkgZhappyxZspaZtag_u537(data_comp827_838874482, ([100,97,116,97,45]).concat(HEX3Aenv_838895362.comp8270.uniqCompId));
+    addArgIter__pkgZhappyxZspaZtag_u537(data_comp832_838874482, ([100,97,116,97,45]).concat(HEX3Aenv_838895362.comp8320.uniqCompId));
     F.line = 312;
-    window.addEventListener('beforeunload', data_comp827_838874482.exited);
+    window.addEventListener('beforeunload', data_comp832_838874482.exited);
     F.line = 312;
-    window.addEventListener('pagehide', data_comp827_838874482.pageHide);
+    window.addEventListener('pagehide', data_comp832_838874482.pageHide);
     F.line = 312;
-    window.addEventListener('pageshow', data_comp827_838874482.pageShow);
-    Temporary1 = tg2([100,105,118], [data_comp827_838874482, tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI838876505)], 0), [listed__OOZlesson84arget_u2455(ddStore_4043309162)], false)], true);
+    window.addEventListener('pageshow', data_comp832_838874482.pageShow);
+    Temporary1 = tg2([100,105,118], [data_comp832_838874482, tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI838876505)], 0), [listed__OOZlesson84arget_u2451(ddStore_4043309162)], false)], true);
     }
     else {
     if (inCycle_p3) {
     F.line = 53;
     F.filename = "Slides.nim";
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary5 = ([99,111,109,112,56,51,48]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary5 = ([99,111,109,112,56,51,53]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary5 = ([99,111,109,112,56,51,48]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary5 = ([99,111,109,112,56,51,53]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    var _comp830_838875104 = initSlideHeader__pkgZhpx7680Zslides_u851(Temporary5, []);
+    var _comp835_838875104 = initSlideHeader__pkgZhpx7680Zslides_u851(Temporary5, []);
     F.line = 53;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary6 = ([99,111,109,112,56,51,48]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary6 = ([99,111,109,112,56,51,53]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary6 = ([99,111,109,112,56,51,48]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary6 = ([99,111,109,112,56,51,53]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    HEX3Aenv_838895362.comp8301 = rgcmp(toJSStr(Temporary6), _comp830_838875104);
+    HEX3Aenv_838895362.comp8351 = rgcmp(toJSStr(Temporary6), _comp835_838875104);
     F.line = 312;
     F.filename = "macro_utils.nim";
-    Temporary7 = HEX3Aanonymous__a195slides950951951_u14306.bind(HEX3Aenv_838895362); Temporary7.ClP_0 = HEX3Aanonymous__a195slides950951951_u14306; Temporary7.ClE_0 = HEX3Aenv_838895362;
-    HEX3Aenv_838895362.comp8301.slot = Temporary7;
+    Temporary7 = HEX3Aanonymous__a195slides951950952_u14306.bind(HEX3Aenv_838895362); Temporary7.ClP_0 = HEX3Aanonymous__a195slides951950952_u14306; Temporary7.ClE_0 = HEX3Aenv_838895362;
+    HEX3Aenv_838895362.comp8351.slot = Temporary7;
     F.line = 312;
-    var data_comp830_838875203 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838895362.comp8301);
+    var data_comp835_838875203 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838895362.comp8351);
     F.line = 312;
-    addArgIter__pkgZhappyxZspaZtag_u537(data_comp830_838875203, ([100,97,116,97,45]).concat(HEX3Aenv_838895362.comp8301.uniqCompId));
+    addArgIter__pkgZhappyxZspaZtag_u537(data_comp835_838875203, ([100,97,116,97,45]).concat(HEX3Aenv_838895362.comp8351.uniqCompId));
     F.line = 312;
-    window.addEventListener('beforeunload', data_comp830_838875203.exited);
+    window.addEventListener('beforeunload', data_comp835_838875203.exited);
     F.line = 312;
-    window.addEventListener('pagehide', data_comp830_838875203.pageHide);
+    window.addEventListener('pagehide', data_comp835_838875203.pageHide);
     F.line = 312;
-    window.addEventListener('pageshow', data_comp830_838875203.pageShow);
-    Temporary1 = tg2([100,105,118], [data_comp830_838875203, tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI838877500)], 0), [listed__OOZlesson84arget_u2455(ddStore_4043309162)], false)], true);
+    window.addEventListener('pageshow', data_comp835_838875203.pageShow);
+    Temporary1 = tg2([100,105,118], [data_comp835_838875203, tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI838877500)], 0), [listed__OOZlesson84arget_u2451(ddStore_4043309162)], false)], true);
     }
     else {
     if (inComponent_p1) {
     F.line = 53;
     F.filename = "Slides.nim";
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary8 = ([99,111,109,112,56,51,51]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary8 = ([99,111,109,112,56,51,56]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary8 = ([99,111,109,112,56,51,51]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary8 = ([99,111,109,112,56,51,56]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    var _comp833_838875825 = initSlideHeader__pkgZhpx7680Zslides_u851(Temporary8, []);
+    var _comp838_838875825 = initSlideHeader__pkgZhpx7680Zslides_u851(Temporary8, []);
     F.line = 53;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary9 = ([99,111,109,112,56,51,51]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary9 = ([99,111,109,112,56,51,56]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary9 = ([99,111,109,112,56,51,51]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary9 = ([99,111,109,112,56,51,56]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    HEX3Aenv_838895362.comp8332 = rgcmp(toJSStr(Temporary9), _comp833_838875825);
+    HEX3Aenv_838895362.comp8382 = rgcmp(toJSStr(Temporary9), _comp838_838875825);
     F.line = 312;
     F.filename = "macro_utils.nim";
-    Temporary10 = HEX3Aanonymous__a195slides950951951_u15027.bind(HEX3Aenv_838895362); Temporary10.ClP_0 = HEX3Aanonymous__a195slides950951951_u15027; Temporary10.ClE_0 = HEX3Aenv_838895362;
-    HEX3Aenv_838895362.comp8332.slot = Temporary10;
+    Temporary10 = HEX3Aanonymous__a195slides951950952_u15027.bind(HEX3Aenv_838895362); Temporary10.ClP_0 = HEX3Aanonymous__a195slides951950952_u15027; Temporary10.ClE_0 = HEX3Aenv_838895362;
+    HEX3Aenv_838895362.comp8382.slot = Temporary10;
     F.line = 312;
-    var data_comp833_838875924 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838895362.comp8332);
+    var data_comp838_838875924 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838895362.comp8382);
     F.line = 312;
-    addArgIter__pkgZhappyxZspaZtag_u537(data_comp833_838875924, ([100,97,116,97,45]).concat(HEX3Aenv_838895362.comp8332.uniqCompId));
+    addArgIter__pkgZhappyxZspaZtag_u537(data_comp838_838875924, ([100,97,116,97,45]).concat(HEX3Aenv_838895362.comp8382.uniqCompId));
     F.line = 312;
-    window.addEventListener('beforeunload', data_comp833_838875924.exited);
+    window.addEventListener('beforeunload', data_comp838_838875924.exited);
     F.line = 312;
-    window.addEventListener('pagehide', data_comp833_838875924.pageHide);
+    window.addEventListener('pagehide', data_comp838_838875924.pageHide);
     F.line = 312;
-    window.addEventListener('pageshow', data_comp833_838875924.pageShow);
-    Temporary1 = tg2([100,105,118], [data_comp833_838875924, tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI838878495)], 0), [listed__OOZlesson84arget_u2455(ddStore_4043309162)], false)], true);
+    window.addEventListener('pageshow', data_comp838_838875924.pageShow);
+    Temporary1 = tg2([100,105,118], [data_comp838_838875924, tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI838878495)], 0), [listed__OOZlesson84arget_u2451(ddStore_4043309162)], false)], true);
     }
     else {
       F.line = 53;
       F.filename = "Slides.nim";
       if ((scopedCycleCounter_1744830592[0] == 0)) {
-      Temporary11 = [99,111,109,112,56,51,54];
+      Temporary11 = [99,111,109,112,56,52,49];
       }
       else {
-      Temporary11 = ([99,111,109,112,56,51,54]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+      Temporary11 = ([99,111,109,112,56,52,49]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
       }
       
-      var _comp836_838876363 = initSlideHeader__pkgZhpx7680Zslides_u851(Temporary11, []);
+      var _comp841_838876363 = initSlideHeader__pkgZhpx7680Zslides_u851(Temporary11, []);
       F.line = 53;
       if ((scopedCycleCounter_1744830592[0] == 0)) {
-      Temporary12 = [99,111,109,112,56,51,54];
+      Temporary12 = [99,111,109,112,56,52,49];
       }
       else {
-      Temporary12 = ([99,111,109,112,56,51,54]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+      Temporary12 = ([99,111,109,112,56,52,49]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
       }
       
-      HEX3Aenv_838895362.comp8363 = rgcmp(toJSStr(Temporary12), _comp836_838876363);
+      HEX3Aenv_838895362.comp8413 = rgcmp(toJSStr(Temporary12), _comp841_838876363);
       F.line = 312;
       F.filename = "macro_utils.nim";
-      Temporary13 = HEX3Aanonymous__a195slides950951951_u15565.bind(HEX3Aenv_838895362); Temporary13.ClP_0 = HEX3Aanonymous__a195slides950951951_u15565; Temporary13.ClE_0 = HEX3Aenv_838895362;
-      HEX3Aenv_838895362.comp8363.slot = Temporary13;
+      Temporary13 = HEX3Aanonymous__a195slides951950952_u15565.bind(HEX3Aenv_838895362); Temporary13.ClP_0 = HEX3Aanonymous__a195slides951950952_u15565; Temporary13.ClE_0 = HEX3Aenv_838895362;
+      HEX3Aenv_838895362.comp8413.slot = Temporary13;
       F.line = 312;
-      var data_comp836_838876462 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838895362.comp8363);
+      var data_comp841_838876462 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838895362.comp8413);
       F.line = 312;
-      addArgIter__pkgZhappyxZspaZtag_u537(data_comp836_838876462, ([100,97,116,97,45]).concat(HEX3Aenv_838895362.comp8363.uniqCompId));
+      addArgIter__pkgZhappyxZspaZtag_u537(data_comp841_838876462, ([100,97,116,97,45]).concat(HEX3Aenv_838895362.comp8413.uniqCompId));
       F.line = 312;
-      window.addEventListener('beforeunload', data_comp836_838876462.exited);
+      window.addEventListener('beforeunload', data_comp841_838876462.exited);
       F.line = 312;
-      window.addEventListener('pagehide', data_comp836_838876462.pageHide);
+      window.addEventListener('pagehide', data_comp841_838876462.pageHide);
       F.line = 312;
-      window.addEventListener('pageshow', data_comp836_838876462.pageShow);
-    Temporary1 = tg2([100,105,118], [data_comp836_838876462, tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI838879226)], 0), [listed__OOZlesson84arget_u2455(ddStore_4043309162)], false)], true);
+      window.addEventListener('pageshow', data_comp841_838876462.pageShow);
+    Temporary1 = tg2([100,105,118], [data_comp841_838876462, tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI838879226)], 0), [listed__OOZlesson84arget_u2451(ddStore_4043309162)], false)], true);
     }
     }}
     var _res_838876709 = Temporary1;
     F.line = 345;
-    comp825_838873999[0].slotData = _res_838876709;
+    comp830_838873999[0].slotData = _res_838876709;
     result_838874007 = _res_838876709;
   framePtr = F.prev;
 
@@ -21277,12 +21280,12 @@ var Temporary31;
 var Temporary32;
 var Temporary33;
 
-function HEX3Aanonymous__a195slides950951951_u16985(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
+function HEX3Aanonymous__a195slides951950952_u16985(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
     var Temporary1;
 
   var result_838877792 = null;
 
-  var F = {procname: "a1_slides_0_1_1.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/private/macro_utils.nim", line: 0};
+  var F = {procname: "a1_slides_1_0_2.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/private/macro_utils.nim", line: 0};
   framePtr = F;
     F.line = 312;
     F.filename = "macro_utils.nim";
@@ -21304,7 +21307,7 @@ function HEX3Aanonymous__a195slides950951951_u16985(scopeSelf_p0, inComponent_p1
     }}
     var _res_838877881 = Temporary1;
     F.line = 345;
-    comp844_838877784[0].slotData = _res_838877881;
+    comp849_838877784[0].slotData = _res_838877881;
     result_838877792 = _res_838877881;
   framePtr = F.prev;
 
@@ -21317,12 +21320,12 @@ var Temporary36;
 var Temporary37;
 var Temporary38;
 
-function HEX3Aanonymous__a195slides950951951_u18193(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
+function HEX3Aanonymous__a195slides951950952_u18193(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
     var Temporary1;
 
   var result_838879000 = null;
 
-  var F = {procname: "a1_slides_0_1_1.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/private/macro_utils.nim", line: 0};
+  var F = {procname: "a1_slides_1_0_2.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/private/macro_utils.nim", line: 0};
   framePtr = F;
     F.line = 312;
     F.filename = "macro_utils.nim";
@@ -21344,7 +21347,7 @@ function HEX3Aanonymous__a195slides950951951_u18193(scopeSelf_p0, inComponent_p1
     }}
     var _res_838879089 = Temporary1;
     F.line = 345;
-    comp852_838878992[0].slotData = _res_838879089;
+    comp857_838878992[0].slotData = _res_838879089;
     result_838879000 = _res_838879089;
   framePtr = F.prev;
 
@@ -21357,12 +21360,12 @@ var Temporary40;
         var Temporary45;
         var Temporary46;
 
-function HEX3Aanonymous__a195slides950951951_u20612(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
+function HEX3Aanonymous__a195slides951950952_u20612(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
     var Temporary1;
 
   var result_838881419 = null;
 
-  var F = {procname: "a1_slides_0_1_1.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson0_1_1/a1_slides_0_1_1/Slides.nim", line: 0};
+  var F = {procname: "a1_slides_1_0_2.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson1_0_2/a1_slides_1_0_2/Slides.nim", line: 0};
   framePtr = F;
     F.line = 81;
     F.filename = "Slides.nim";
@@ -21385,7 +21388,7 @@ function HEX3Aanonymous__a195slides950951951_u20612(scopeSelf_p0, inComponent_p1
     var _res_838881428 = Temporary1;
     F.line = 345;
     F.filename = "macro_utils.nim";
-    comp861_838881411[0].slotData = _res_838881428;
+    comp866_838881411[0].slotData = _res_838881428;
     result_838881419 = _res_838881428;
   framePtr = F.prev;
 
@@ -21396,12 +21399,12 @@ function HEX3Aanonymous__a195slides950951951_u20612(scopeSelf_p0, inComponent_p1
         var Temporary48;
         var Temporary49;
 
-function HEX3Aanonymous__a195slides950951951_u21003(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
+function HEX3Aanonymous__a195slides951950952_u21003(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
     var Temporary1;
 
   var result_838881810 = null;
 
-  var F = {procname: "a1_slides_0_1_1.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson0_1_1/a1_slides_0_1_1/Slides.nim", line: 0};
+  var F = {procname: "a1_slides_1_0_2.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson1_0_2/a1_slides_1_0_2/Slides.nim", line: 0};
   framePtr = F;
     F.line = 82;
     F.filename = "Slides.nim";
@@ -21424,7 +21427,7 @@ function HEX3Aanonymous__a195slides950951951_u21003(scopeSelf_p0, inComponent_p1
     var _res_838881819 = Temporary1;
     F.line = 345;
     F.filename = "macro_utils.nim";
-    comp863_838881802[0].slotData = _res_838881819;
+    comp868_838881802[0].slotData = _res_838881819;
     result_838881810 = _res_838881819;
   framePtr = F.prev;
 
@@ -21435,12 +21438,12 @@ function HEX3Aanonymous__a195slides950951951_u21003(scopeSelf_p0, inComponent_p1
         var Temporary51;
         var Temporary52;
 
-function HEX3Aanonymous__a195slides950951951_u21394(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
+function HEX3Aanonymous__a195slides951950952_u21394(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
     var Temporary1;
 
   var result_838882201 = null;
 
-  var F = {procname: "a1_slides_0_1_1.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson0_1_1/a1_slides_0_1_1/Slides.nim", line: 0};
+  var F = {procname: "a1_slides_1_0_2.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson1_0_2/a1_slides_1_0_2/Slides.nim", line: 0};
   framePtr = F;
     F.line = 83;
     F.filename = "Slides.nim";
@@ -21463,7 +21466,7 @@ function HEX3Aanonymous__a195slides950951951_u21394(scopeSelf_p0, inComponent_p1
     var _res_838882210 = Temporary1;
     F.line = 345;
     F.filename = "macro_utils.nim";
-    comp865_838882193[0].slotData = _res_838882210;
+    comp870_838882193[0].slotData = _res_838882210;
     result_838882201 = _res_838882210;
   framePtr = F.prev;
 
@@ -21477,7 +21480,7 @@ var Temporary63;
 var Temporary64;
 var Temporary65;
 
-function HEX3Aanonymous__a195slides950951951_u23675(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
+function HEX3Aanonymous__a195slides951950952_u23675(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
     var Temporary1;
     var Temporary2;
     var Temporary3;
@@ -21494,49 +21497,49 @@ function HEX3Aanonymous__a195slides950951951_u23675(scopeSelf_p0, inComponent_p1
 
   var result_838884482 = null;
 
-  var F = {procname: "a1_slides_0_1_1.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson0_1_1/a1_slides_0_1_1/Slides.nim", line: 0};
+  var F = {procname: "a1_slides_1_0_2.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson1_0_2/a1_slides_1_0_2/Slides.nim", line: 0};
   framePtr = F;
     F.line = 296;
     F.filename = "macro_utils.nim";
     var HEX3Aenv_838895416 = null;
     F.line = 296;
-    HEX3Aenv_838895416 = {m_type: NTI838900100, comp8830: null, comp8871: null, comp8912: null, comp8953: null};
+    HEX3Aenv_838895416 = {m_type: NTI838900100, comp8880: null, comp8921: null, comp8962: null, comp9003: null};
     F.line = 104;
     F.filename = "Slides.nim";
     F.line = 104;
     if ((inCycle_p3 && inComponent_p1)) {
     F.line = 102;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary2 = ([99,111,109,112,56,56,51]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary2 = ([99,111,109,112,56,56,56]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary2 = ([99,111,109,112,56,56,51]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary2 = ([99,111,109,112,56,56,56]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    var _comp883_838884858 = initSlideHeader__pkgZhpx7680Zslides_u851(Temporary2, [118,101,114,116,105,99,97,108,45,97,108,105,103,110,58,32,109,105,100,100,108,101,59]);
+    var _comp888_838884858 = initSlideHeader__pkgZhpx7680Zslides_u851(Temporary2, [118,101,114,116,105,99,97,108,45,97,108,105,103,110,58,32,109,105,100,100,108,101,59]);
     F.line = 102;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary3 = ([99,111,109,112,56,56,51]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary3 = ([99,111,109,112,56,56,56]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary3 = ([99,111,109,112,56,56,51]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary3 = ([99,111,109,112,56,56,56]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    HEX3Aenv_838895416.comp8830 = rgcmp(toJSStr(Temporary3), _comp883_838884858);
+    HEX3Aenv_838895416.comp8880 = rgcmp(toJSStr(Temporary3), _comp888_838884858);
     F.line = 312;
     F.filename = "macro_utils.nim";
-    Temporary4 = HEX3Aanonymous__a195slides950951951_u24060.bind(HEX3Aenv_838895416); Temporary4.ClP_0 = HEX3Aanonymous__a195slides950951951_u24060; Temporary4.ClE_0 = HEX3Aenv_838895416;
-    HEX3Aenv_838895416.comp8830.slot = Temporary4;
+    Temporary4 = HEX3Aanonymous__a195slides951950952_u24060.bind(HEX3Aenv_838895416); Temporary4.ClP_0 = HEX3Aanonymous__a195slides951950952_u24060; Temporary4.ClE_0 = HEX3Aenv_838895416;
+    HEX3Aenv_838895416.comp8880.slot = Temporary4;
     F.line = 312;
-    var data_comp883_838884957 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838895416.comp8830);
+    var data_comp888_838884957 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838895416.comp8880);
     F.line = 312;
-    addArgIter__pkgZhappyxZspaZtag_u537(data_comp883_838884957, ([100,97,116,97,45]).concat(HEX3Aenv_838895416.comp8830.uniqCompId));
+    addArgIter__pkgZhappyxZspaZtag_u537(data_comp888_838884957, ([100,97,116,97,45]).concat(HEX3Aenv_838895416.comp8880.uniqCompId));
     F.line = 312;
-    window.addEventListener('beforeunload', data_comp883_838884957.exited);
+    window.addEventListener('beforeunload', data_comp888_838884957.exited);
     F.line = 312;
-    window.addEventListener('pagehide', data_comp883_838884957.pageHide);
+    window.addEventListener('pagehide', data_comp888_838884957.pageHide);
     F.line = 312;
-    window.addEventListener('pageshow', data_comp883_838884957.pageShow);
+    window.addEventListener('pageshow', data_comp888_838884957.pageShow);
     Label5: {
       F.line = 103;
       F.filename = "Slides.nim";
@@ -21558,42 +21561,42 @@ function HEX3Aanonymous__a195slides950951951_u23675(scopeSelf_p0, inComponent_p1
       F.line = 104;
       nimAddStrStr(fmtRes_838885254[0], [41]);;
     };
-    Temporary1 = tg2([100,105,118], [data_comp883_838884957, tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [99,108,97,115,115], Field1: [116,101,97,99,104,101,114]}, NTI838888822)], 0), [tg4(fmtRes_838885055[0], true, [], false)], false), tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [119,105,100,116,104,58,32,49,48,48,37,59,32,109,97,114,103,105,110,58,32,97,117,116,111,59]}, NTI838888967)], 0), [tg2([101,109], [tg4(fmtRes_838885254[0], true, [], false)], false)], false)], true);
+    Temporary1 = tg2([100,105,118], [data_comp888_838884957, tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [99,108,97,115,115], Field1: [116,101,97,99,104,101,114]}, NTI838888822)], 0), [tg4(fmtRes_838885055[0], true, [], false)], false), tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [119,105,100,116,104,58,32,49,48,48,37,59,32,109,97,114,103,105,110,58,32,97,117,116,111,59]}, NTI838888967)], 0), [tg2([101,109], [tg4(fmtRes_838885254[0], true, [], false)], false)], false)], true);
     }
     else {
     if (inCycle_p3) {
     F.line = 102;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary7 = ([99,111,109,112,56,56,55]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary7 = ([99,111,109,112,56,57,50]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary7 = ([99,111,109,112,56,56,55]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary7 = ([99,111,109,112,56,57,50]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    var _comp887_838885695 = initSlideHeader__pkgZhpx7680Zslides_u851(Temporary7, [118,101,114,116,105,99,97,108,45,97,108,105,103,110,58,32,109,105,100,100,108,101,59]);
+    var _comp892_838885695 = initSlideHeader__pkgZhpx7680Zslides_u851(Temporary7, [118,101,114,116,105,99,97,108,45,97,108,105,103,110,58,32,109,105,100,100,108,101,59]);
     F.line = 102;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary8 = ([99,111,109,112,56,56,55]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary8 = ([99,111,109,112,56,57,50]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary8 = ([99,111,109,112,56,56,55]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary8 = ([99,111,109,112,56,57,50]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    HEX3Aenv_838895416.comp8871 = rgcmp(toJSStr(Temporary8), _comp887_838885695);
+    HEX3Aenv_838895416.comp8921 = rgcmp(toJSStr(Temporary8), _comp892_838885695);
     F.line = 312;
     F.filename = "macro_utils.nim";
-    Temporary9 = HEX3Aanonymous__a195slides950951951_u24897.bind(HEX3Aenv_838895416); Temporary9.ClP_0 = HEX3Aanonymous__a195slides950951951_u24897; Temporary9.ClE_0 = HEX3Aenv_838895416;
-    HEX3Aenv_838895416.comp8871.slot = Temporary9;
+    Temporary9 = HEX3Aanonymous__a195slides951950952_u24897.bind(HEX3Aenv_838895416); Temporary9.ClP_0 = HEX3Aanonymous__a195slides951950952_u24897; Temporary9.ClE_0 = HEX3Aenv_838895416;
+    HEX3Aenv_838895416.comp8921.slot = Temporary9;
     F.line = 312;
-    var data_comp887_838885794 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838895416.comp8871);
+    var data_comp892_838885794 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838895416.comp8921);
     F.line = 312;
-    addArgIter__pkgZhappyxZspaZtag_u537(data_comp887_838885794, ([100,97,116,97,45]).concat(HEX3Aenv_838895416.comp8871.uniqCompId));
+    addArgIter__pkgZhappyxZspaZtag_u537(data_comp892_838885794, ([100,97,116,97,45]).concat(HEX3Aenv_838895416.comp8921.uniqCompId));
     F.line = 312;
-    window.addEventListener('beforeunload', data_comp887_838885794.exited);
+    window.addEventListener('beforeunload', data_comp892_838885794.exited);
     F.line = 312;
-    window.addEventListener('pagehide', data_comp887_838885794.pageHide);
+    window.addEventListener('pagehide', data_comp892_838885794.pageHide);
     F.line = 312;
-    window.addEventListener('pageshow', data_comp887_838885794.pageShow);
+    window.addEventListener('pageshow', data_comp892_838885794.pageShow);
     Label10: {
       F.line = 103;
       F.filename = "Slides.nim";
@@ -21615,42 +21618,42 @@ function HEX3Aanonymous__a195slides950951951_u23675(scopeSelf_p0, inComponent_p1
       F.line = 104;
       nimAddStrStr(fmtRes_838886091[0], [41]);;
     };
-    Temporary1 = tg2([100,105,118], [data_comp887_838885794, tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [99,108,97,115,115], Field1: [116,101,97,99,104,101,114]}, NTI838889960)], 0), [tg4(fmtRes_838885892[0], true, [], false)], false), tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [119,105,100,116,104,58,32,49,48,48,37,59,32,109,97,114,103,105,110,58,32,97,117,116,111,59]}, NTI838890104)], 0), [tg2([101,109], [tg4(fmtRes_838886091[0], true, [], false)], false)], false)], true);
+    Temporary1 = tg2([100,105,118], [data_comp892_838885794, tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [99,108,97,115,115], Field1: [116,101,97,99,104,101,114]}, NTI838889960)], 0), [tg4(fmtRes_838885892[0], true, [], false)], false), tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [119,105,100,116,104,58,32,49,48,48,37,59,32,109,97,114,103,105,110,58,32,97,117,116,111,59]}, NTI838890104)], 0), [tg2([101,109], [tg4(fmtRes_838886091[0], true, [], false)], false)], false)], true);
     }
     else {
     if (inComponent_p1) {
     F.line = 102;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary12 = ([99,111,109,112,56,57,49]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary12 = ([99,111,109,112,56,57,54]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary12 = ([99,111,109,112,56,57,49]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary12 = ([99,111,109,112,56,57,54]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    var _comp891_838886532 = initSlideHeader__pkgZhpx7680Zslides_u851(Temporary12, [118,101,114,116,105,99,97,108,45,97,108,105,103,110,58,32,109,105,100,100,108,101,59]);
+    var _comp896_838886532 = initSlideHeader__pkgZhpx7680Zslides_u851(Temporary12, [118,101,114,116,105,99,97,108,45,97,108,105,103,110,58,32,109,105,100,100,108,101,59]);
     F.line = 102;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary13 = ([99,111,109,112,56,57,49]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary13 = ([99,111,109,112,56,57,54]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary13 = ([99,111,109,112,56,57,49]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary13 = ([99,111,109,112,56,57,54]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    HEX3Aenv_838895416.comp8912 = rgcmp(toJSStr(Temporary13), _comp891_838886532);
+    HEX3Aenv_838895416.comp8962 = rgcmp(toJSStr(Temporary13), _comp896_838886532);
     F.line = 312;
     F.filename = "macro_utils.nim";
-    Temporary14 = HEX3Aanonymous__a195slides950951951_u25734.bind(HEX3Aenv_838895416); Temporary14.ClP_0 = HEX3Aanonymous__a195slides950951951_u25734; Temporary14.ClE_0 = HEX3Aenv_838895416;
-    HEX3Aenv_838895416.comp8912.slot = Temporary14;
+    Temporary14 = HEX3Aanonymous__a195slides951950952_u25734.bind(HEX3Aenv_838895416); Temporary14.ClP_0 = HEX3Aanonymous__a195slides951950952_u25734; Temporary14.ClE_0 = HEX3Aenv_838895416;
+    HEX3Aenv_838895416.comp8962.slot = Temporary14;
     F.line = 312;
-    var data_comp891_838886631 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838895416.comp8912);
+    var data_comp896_838886631 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838895416.comp8962);
     F.line = 312;
-    addArgIter__pkgZhappyxZspaZtag_u537(data_comp891_838886631, ([100,97,116,97,45]).concat(HEX3Aenv_838895416.comp8912.uniqCompId));
+    addArgIter__pkgZhappyxZspaZtag_u537(data_comp896_838886631, ([100,97,116,97,45]).concat(HEX3Aenv_838895416.comp8962.uniqCompId));
     F.line = 312;
-    window.addEventListener('beforeunload', data_comp891_838886631.exited);
+    window.addEventListener('beforeunload', data_comp896_838886631.exited);
     F.line = 312;
-    window.addEventListener('pagehide', data_comp891_838886631.pageHide);
+    window.addEventListener('pagehide', data_comp896_838886631.pageHide);
     F.line = 312;
-    window.addEventListener('pageshow', data_comp891_838886631.pageShow);
+    window.addEventListener('pageshow', data_comp896_838886631.pageShow);
     Label15: {
       F.line = 103;
       F.filename = "Slides.nim";
@@ -21672,41 +21675,41 @@ function HEX3Aanonymous__a195slides950951951_u23675(scopeSelf_p0, inComponent_p1
       F.line = 104;
       nimAddStrStr(fmtRes_838886928[0], [41]);;
     };
-    Temporary1 = tg2([100,105,118], [data_comp891_838886631, tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [99,108,97,115,115], Field1: [116,101,97,99,104,101,114]}, NTI838891096)], 0), [tg4(fmtRes_838886729[0], true, [], false)], false), tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [119,105,100,116,104,58,32,49,48,48,37,59,32,109,97,114,103,105,110,58,32,97,117,116,111,59]}, NTI838891240)], 0), [tg2([101,109], [tg4(fmtRes_838886928[0], true, [], false)], false)], false)], true);
+    Temporary1 = tg2([100,105,118], [data_comp896_838886631, tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [99,108,97,115,115], Field1: [116,101,97,99,104,101,114]}, NTI838891096)], 0), [tg4(fmtRes_838886729[0], true, [], false)], false), tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [119,105,100,116,104,58,32,49,48,48,37,59,32,109,97,114,103,105,110,58,32,97,117,116,111,59]}, NTI838891240)], 0), [tg2([101,109], [tg4(fmtRes_838886928[0], true, [], false)], false)], false)], true);
     }
     else {
       F.line = 102;
       if ((scopedCycleCounter_1744830592[0] == 0)) {
-      Temporary17 = [99,111,109,112,56,57,53];
+      Temporary17 = [99,111,109,112,57,48,48];
       }
       else {
-      Temporary17 = ([99,111,109,112,56,57,53]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+      Temporary17 = ([99,111,109,112,57,48,48]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
       }
       
-      var _comp895_838887186 = initSlideHeader__pkgZhpx7680Zslides_u851(Temporary17, [118,101,114,116,105,99,97,108,45,97,108,105,103,110,58,32,109,105,100,100,108,101,59]);
+      var _comp900_838887186 = initSlideHeader__pkgZhpx7680Zslides_u851(Temporary17, [118,101,114,116,105,99,97,108,45,97,108,105,103,110,58,32,109,105,100,100,108,101,59]);
       F.line = 102;
       if ((scopedCycleCounter_1744830592[0] == 0)) {
-      Temporary18 = [99,111,109,112,56,57,53];
+      Temporary18 = [99,111,109,112,57,48,48];
       }
       else {
-      Temporary18 = ([99,111,109,112,56,57,53]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+      Temporary18 = ([99,111,109,112,57,48,48]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
       }
       
-      HEX3Aenv_838895416.comp8953 = rgcmp(toJSStr(Temporary18), _comp895_838887186);
+      HEX3Aenv_838895416.comp9003 = rgcmp(toJSStr(Temporary18), _comp900_838887186);
       F.line = 312;
       F.filename = "macro_utils.nim";
-      Temporary19 = HEX3Aanonymous__a195slides950951951_u26388.bind(HEX3Aenv_838895416); Temporary19.ClP_0 = HEX3Aanonymous__a195slides950951951_u26388; Temporary19.ClE_0 = HEX3Aenv_838895416;
-      HEX3Aenv_838895416.comp8953.slot = Temporary19;
+      Temporary19 = HEX3Aanonymous__a195slides951950952_u26388.bind(HEX3Aenv_838895416); Temporary19.ClP_0 = HEX3Aanonymous__a195slides951950952_u26388; Temporary19.ClE_0 = HEX3Aenv_838895416;
+      HEX3Aenv_838895416.comp9003.slot = Temporary19;
       F.line = 312;
-      var data_comp895_838887285 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838895416.comp8953);
+      var data_comp900_838887285 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838895416.comp9003);
       F.line = 312;
-      addArgIter__pkgZhappyxZspaZtag_u537(data_comp895_838887285, ([100,97,116,97,45]).concat(HEX3Aenv_838895416.comp8953.uniqCompId));
+      addArgIter__pkgZhappyxZspaZtag_u537(data_comp900_838887285, ([100,97,116,97,45]).concat(HEX3Aenv_838895416.comp9003.uniqCompId));
       F.line = 312;
-      window.addEventListener('beforeunload', data_comp895_838887285.exited);
+      window.addEventListener('beforeunload', data_comp900_838887285.exited);
       F.line = 312;
-      window.addEventListener('pagehide', data_comp895_838887285.pageHide);
+      window.addEventListener('pagehide', data_comp900_838887285.pageHide);
       F.line = 312;
-      window.addEventListener('pageshow', data_comp895_838887285.pageShow);
+      window.addEventListener('pageshow', data_comp900_838887285.pageShow);
       Label20: {
         F.line = 103;
         F.filename = "Slides.nim";
@@ -21728,13 +21731,13 @@ function HEX3Aanonymous__a195slides950951951_u23675(scopeSelf_p0, inComponent_p1
         F.line = 104;
         nimAddStrStr(fmtRes_838887582[0], [41]);;
       };
-    Temporary1 = tg2([100,105,118], [data_comp895_838887285, tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [99,108,97,115,115], Field1: [116,101,97,99,104,101,114]}, NTI838891968)], 0), [tg4(fmtRes_838887383[0], true, [], false)], false), tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [119,105,100,116,104,58,32,49,48,48,37,59,32,109,97,114,103,105,110,58,32,97,117,116,111,59]}, NTI838892112)], 0), [tg2([101,109], [tg4(fmtRes_838887582[0], true, [], false)], false)], false)], true);
+    Temporary1 = tg2([100,105,118], [data_comp900_838887285, tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [99,108,97,115,115], Field1: [116,101,97,99,104,101,114]}, NTI838891968)], 0), [tg4(fmtRes_838887383[0], true, [], false)], false), tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [119,105,100,116,104,58,32,49,48,48,37,59,32,109,97,114,103,105,110,58,32,97,117,116,111,59]}, NTI838892112)], 0), [tg2([101,109], [tg4(fmtRes_838887582[0], true, [], false)], false)], false)], true);
     }
     }}
     var _res_838887648 = Temporary1;
     F.line = 345;
     F.filename = "macro_utils.nim";
-    comp881_838884474[0].slotData = _res_838887648;
+    comp886_838884474[0].slotData = _res_838887648;
     result_838884482 = _res_838887648;
   framePtr = F.prev;
 
@@ -21747,12 +21750,12 @@ var Temporary68;
 var Temporary69;
 var Temporary70;
 
-function HEX3Aanonymous__a195slides950951951_u27924(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
+function HEX3Aanonymous__a195slides951950952_u27924(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
     var Temporary1;
 
   var result_838888731 = null;
 
-  var F = {procname: "a1_slides_0_1_1.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/private/macro_utils.nim", line: 0};
+  var F = {procname: "a1_slides_1_0_2.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/private/macro_utils.nim", line: 0};
   framePtr = F;
     F.line = 312;
     F.filename = "macro_utils.nim";
@@ -21774,7 +21777,7 @@ function HEX3Aanonymous__a195slides950951951_u27924(scopeSelf_p0, inComponent_p1
     }}
     var _res_838888820 = Temporary1;
     F.line = 345;
-    comp902_838888723[0].slotData = _res_838888820;
+    comp907_838888723[0].slotData = _res_838888820;
     result_838888731 = _res_838888820;
   framePtr = F.prev;
 
@@ -21789,7 +21792,7 @@ var Temporary79;
 var Temporary80;
 var Temporary81;
   var Temporary82;
-var F = {procname: "module a1_slides_0_1_1", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson0_1_1/a1_slides_0_1_1/a1_slides_0_1_1.nim", line: 0};
+var F = {procname: "module a1_slides_1_0_2", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson1_0_2/a1_slides_1_0_2/a1_slides_1_0_2.nim", line: 0};
 framePtr = F;
 F.line = 30;
 F.filename = "Slides.nim";
@@ -21799,7 +21802,7 @@ useMathJax__pkgZhpx7680Ze77athjax_u59();
 F.line = 36;
 Label8: {
   F.line = 36;
-  var HEX3Atmp_838862595 = choose__a195slides950951951_u505(lessonJokeCsv_838860849, 5, state_2768240655[0]);
+  var HEX3Atmp_838862595 = choose__a195slides951950952_u505(lessonJokeCsv_838860849, 5, state_2768240655[0]);
   F.line = 1107;
   F.filename = "sequtils.nim";
   var iHEX60gensym10_838862598 = [0];
@@ -21841,7 +21844,7 @@ Label8: {
 var jokes_838862797 = nimCopy(null, resultHEX60gensym10_838862678[0], NTI536871234);
 F.line = 37;
 F.filename = "Slides.nim";
-var quote_838862965 = nimCopy(null, sample__a195slides950951951_u1998(motivationalQuoteCsv_838860850), NTI3724542104);
+var quote_838862965 = nimCopy(null, sample__a195slides951950952_u1998(motivationalQuoteCsv_838860850), NTI3724542104);
 F.line = 62;
 F.filename = "slides.nim";
 usingSlides_3288334370[0] = true;
@@ -21858,7 +21861,7 @@ Label12: {
   var colontmp__838895035 = [];
   F.line = 312;
   F.filename = "base26.nim";
-  colontmp__838895035 = concat__a195slides950951951_u2275([nimCopy(null, aClasses_3691035976, NTI838862769), nimCopy(null, bClasses_3691036208, NTI838862775)]);
+  colontmp__838895035 = concat__a195slides951950952_u2275([nimCopy(null, aClasses_3691035976, NTI838862769), nimCopy(null, bClasses_3691036208, NTI838862775)]);
   F.line = 249;
   F.filename = "iterators.nim";
   var i_838895036 = 0;
@@ -21873,9 +21876,9 @@ Label12: {
         classHEX60gensym14_838863329[0] = nimCopy(classHEX60gensym14_838863329[0], colontmp__838895035[chckIndx(i_838895036, 0, (colontmp__838895035).length - 1)], NTI3288338812);
         F.line = 73;
         F.filename = "slides.nim";
-        (Temporary15 = HEX5BHEX5D__a195slides950951951_u2650(slideListeners_3288334369[0], 1), Temporary15)[0][Temporary15[1]].push([]);;
+        (Temporary15 = HEX5BHEX5D__a195slides951950952_u2650(slideListeners_3288334369[0], 1), Temporary15)[0][Temporary15[1]].push([]);;
         F.line = 74;
-        (Temporary16 = HEX5BHEX5D__a195slides950951951_u2901(allTheSlides_3288334364[0], 1), Temporary16)[0][Temporary16[1]].push(tg2([100,105,118], [tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("height: 100vh; width: 100vw; font-size: 2.5vw; padding: 1em; display: flex; flex-direction: column;padding: 0em;")}, NTI838863518)], 0), [classSlide__OOZOOZOOZcomponentsZlayoutZbase26_u43908(classHEX60gensym14_838863329[0])], false)], true));;
+        (Temporary16 = HEX5BHEX5D__a195slides951950952_u2901(allTheSlides_3288334364[0], 1), Temporary16)[0][Temporary16[1]].push(tg2([100,105,118], [tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("height: 100vh; width: 100vw; font-size: 2.5vw; padding: 1em; display: flex; flex-direction: column;padding: 0em;")}, NTI838863518)], 0), [classSlide__OOZOOZOOZcomponentsZlayoutZbase26_u43908(classHEX60gensym14_838863329[0])], false)], true));;
         F.line = 313;
         F.filename = "base26.nim";
         predictedSlideIndex_3288334367[0]["Field1"] = addInt(predictedSlideIndex_3288334367[0]["Field1"], 1);
@@ -21905,36 +21908,36 @@ F.line = 43;
 F.filename = "Slides.nim";
 F.line = 44;
 if ((scopedCycleCounter_1744830592[0] == 0)) {
-Temporary18 = [99,111,109,112,55,53,57];
+Temporary18 = [99,111,109,112,55,54,52];
 }
 else {
-Temporary18 = ([99,111,109,112,55,53,57]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+Temporary18 = ([99,111,109,112,55,54,52]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
 }
 
-var _comp759_838864814 = [initTargetted__OOZlesson84arget_u83(Temporary18)];
+var _comp764_838864814 = [initTargetted__OOZlesson84arget_u79(Temporary18)];
 F.line = 44;
 if ((scopedCycleCounter_1744830592[0] == 0)) {
-Temporary19 = [99,111,109,112,55,53,57];
+Temporary19 = [99,111,109,112,55,54,52];
 }
 else {
-Temporary19 = ([99,111,109,112,55,53,57]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+Temporary19 = ([99,111,109,112,55,54,52]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
 }
 
-var comp759_838864815 = [rgcmp(toJSStr(Temporary19), _comp759_838864814[0])];
+var comp764_838864815 = [rgcmp(toJSStr(Temporary19), _comp764_838864814[0])];
 F.line = 44;
-Temporary20 = HEX3Aanonymous__a195slides950951951_u4016.bind(null); Temporary20.ClP_0 = HEX3Aanonymous__a195slides950951951_u4016; Temporary20.ClE_0 = null;
-comp759_838864815[0].slot = Temporary20;
+Temporary20 = HEX3Aanonymous__a195slides951950952_u4016.bind(null); Temporary20.ClP_0 = HEX3Aanonymous__a195slides951950952_u4016; Temporary20.ClE_0 = null;
+comp764_838864815[0].slot = Temporary20;
 F.line = 44;
-var data_comp759_838869982 = render__pkgZhappyxZspaZrenderer_u5867(comp759_838864815[0]);
+var data_comp764_838869982 = render__pkgZhappyxZspaZrenderer_u5867(comp764_838864815[0]);
 F.line = 44;
-addArgIter__pkgZhappyxZspaZtag_u537(data_comp759_838869982, ([100,97,116,97,45]).concat(comp759_838864815[0].uniqCompId));
+addArgIter__pkgZhappyxZspaZtag_u537(data_comp764_838869982, ([100,97,116,97,45]).concat(comp764_838864815[0].uniqCompId));
 F.line = 44;
-window.addEventListener('beforeunload', data_comp759_838869982.exited);
+window.addEventListener('beforeunload', data_comp764_838869982.exited);
 F.line = 44;
-window.addEventListener('pagehide', data_comp759_838869982.pageHide);
+window.addEventListener('pagehide', data_comp764_838869982.pageHide);
 F.line = 44;
-window.addEventListener('pageshow', data_comp759_838869982.pageShow);
-(Temporary17 = HEX5BHEX5D__a195slides950951951_u2901(allTheSlides_3288334364[0], 1), Temporary17)[0][Temporary17[1]].push(tg2([100,105,118], [tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("height: 100vh; width: 100vw; font-size: 2vw; padding: 0em; display: flex;")}, NTI838864205)], 0), [data_comp759_838869982], false)], true));;
+window.addEventListener('pageshow', data_comp764_838869982.pageShow);
+(Temporary17 = HEX5BHEX5D__a195slides951950952_u2901(allTheSlides_3288334364[0], 1), Temporary17)[0][Temporary17[1]].push(tg2([100,105,118], [tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("height: 100vh; width: 100vw; font-size: 2vw; padding: 0em; display: flex;")}, NTI838864205)], 0), [data_comp764_838869982], false)], true));;
 F.line = 66;
 F.filename = "slides.nim";
 predictedSlideIndex_3288334367[0]["Field0"] = addInt(predictedSlideIndex_3288334367[0]["Field0"], 1);
@@ -21950,69 +21953,69 @@ F.line = 48;
 F.filename = "Slides.nim";
 F.line = 49;
 if ((scopedCycleCounter_1744830592[0] == 0)) {
-Temporary22 = [99,111,109,112,56,48,56];
+Temporary22 = [99,111,109,112,56,49,51];
 }
 else {
-Temporary22 = ([99,111,109,112,56,48,56]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+Temporary22 = ([99,111,109,112,56,49,51]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
 }
 
-var _comp808_838870793 = [initTargetted__OOZlesson84arget_u83(Temporary22)];
+var _comp813_838870793 = [initTargetted__OOZlesson84arget_u79(Temporary22)];
 F.line = 49;
 if ((scopedCycleCounter_1744830592[0] == 0)) {
-Temporary23 = [99,111,109,112,56,48,56];
+Temporary23 = [99,111,109,112,56,49,51];
 }
 else {
-Temporary23 = ([99,111,109,112,56,48,56]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+Temporary23 = ([99,111,109,112,56,49,51]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
 }
 
-var comp808_838870794 = [rgcmp(toJSStr(Temporary23), _comp808_838870793[0])];
+var comp813_838870794 = [rgcmp(toJSStr(Temporary23), _comp813_838870793[0])];
 F.line = 50;
-Temporary24 = HEX3Aanonymous__a195slides950951951_u9995.bind(null); Temporary24.ClP_0 = HEX3Aanonymous__a195slides950951951_u9995; Temporary24.ClE_0 = null;
-comp808_838870794[0].slot = Temporary24;
+Temporary24 = HEX3Aanonymous__a195slides951950952_u9995.bind(null); Temporary24.ClP_0 = HEX3Aanonymous__a195slides951950952_u9995; Temporary24.ClE_0 = null;
+comp813_838870794[0].slot = Temporary24;
 F.line = 50;
-var data_comp808_838873505 = render__pkgZhappyxZspaZrenderer_u5867(comp808_838870794[0]);
+var data_comp813_838873505 = render__pkgZhappyxZspaZrenderer_u5867(comp813_838870794[0]);
 F.line = 50;
-addArgIter__pkgZhappyxZspaZtag_u537(data_comp808_838873505, ([100,97,116,97,45]).concat(comp808_838870794[0].uniqCompId));
+addArgIter__pkgZhappyxZspaZtag_u537(data_comp813_838873505, ([100,97,116,97,45]).concat(comp813_838870794[0].uniqCompId));
 F.line = 50;
-window.addEventListener('beforeunload', data_comp808_838873505.exited);
+window.addEventListener('beforeunload', data_comp813_838873505.exited);
 F.line = 50;
-window.addEventListener('pagehide', data_comp808_838873505.pageHide);
+window.addEventListener('pagehide', data_comp813_838873505.pageHide);
 F.line = 50;
-window.addEventListener('pageshow', data_comp808_838873505.pageShow);
-(Temporary21 = HEX5BHEX5D__a195slides950951951_u2901(allTheSlides_3288334364[0], 1), Temporary21)[0][Temporary21[1]].push(tg2([100,105,118], [tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("height: 100vh; width: 100vw; font-size: 2vw; padding: 0em; display: flex;")}, NTI838871054)], 0), [data_comp808_838873505], false)], true));;
+window.addEventListener('pageshow', data_comp813_838873505.pageShow);
+(Temporary21 = HEX5BHEX5D__a195slides951950952_u2901(allTheSlides_3288334364[0], 1), Temporary21)[0][Temporary21[1]].push(tg2([100,105,118], [tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("height: 100vh; width: 100vw; font-size: 2vw; padding: 0em; display: flex;")}, NTI838871054)], 0), [data_comp813_838873505], false)], true));;
 F.line = 52;
 F.line = 53;
 if ((scopedCycleCounter_1744830592[0] == 0)) {
-Temporary26 = [99,111,109,112,56,50,53];
+Temporary26 = [99,111,109,112,56,51,48];
 }
 else {
-Temporary26 = ([99,111,109,112,56,50,53]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+Temporary26 = ([99,111,109,112,56,51,48]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
 }
 
-var _comp825_838873998 = [initTargetted__OOZlesson84arget_u83(Temporary26)];
+var _comp830_838873998 = [initTargetted__OOZlesson84arget_u79(Temporary26)];
 F.line = 53;
 if ((scopedCycleCounter_1744830592[0] == 0)) {
-Temporary27 = [99,111,109,112,56,50,53];
+Temporary27 = [99,111,109,112,56,51,48];
 }
 else {
-Temporary27 = ([99,111,109,112,56,50,53]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+Temporary27 = ([99,111,109,112,56,51,48]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
 }
 
-var comp825_838873999 = [rgcmp(toJSStr(Temporary27), _comp825_838873998[0])];
+var comp830_838873999 = [rgcmp(toJSStr(Temporary27), _comp830_838873998[0])];
 F.line = 54;
-Temporary28 = HEX3Aanonymous__a195slides950951951_u13200.bind(null); Temporary28.ClP_0 = HEX3Aanonymous__a195slides950951951_u13200; Temporary28.ClE_0 = null;
-comp825_838873999[0].slot = Temporary28;
+Temporary28 = HEX3Aanonymous__a195slides951950952_u13200.bind(null); Temporary28.ClP_0 = HEX3Aanonymous__a195slides951950952_u13200; Temporary28.ClE_0 = null;
+comp830_838873999[0].slot = Temporary28;
 F.line = 54;
-var data_comp825_838876710 = render__pkgZhappyxZspaZrenderer_u5867(comp825_838873999[0]);
+var data_comp830_838876710 = render__pkgZhappyxZspaZrenderer_u5867(comp830_838873999[0]);
 F.line = 54;
-addArgIter__pkgZhappyxZspaZtag_u537(data_comp825_838876710, ([100,97,116,97,45]).concat(comp825_838873999[0].uniqCompId));
+addArgIter__pkgZhappyxZspaZtag_u537(data_comp830_838876710, ([100,97,116,97,45]).concat(comp830_838873999[0].uniqCompId));
 F.line = 54;
-window.addEventListener('beforeunload', data_comp825_838876710.exited);
+window.addEventListener('beforeunload', data_comp830_838876710.exited);
 F.line = 54;
-window.addEventListener('pagehide', data_comp825_838876710.pageHide);
+window.addEventListener('pagehide', data_comp830_838876710.pageHide);
 F.line = 54;
-window.addEventListener('pageshow', data_comp825_838876710.pageShow);
-(Temporary25 = HEX5BHEX5D__a195slides950951951_u2901(allTheSlides_3288334364[0], 1), Temporary25)[0][Temporary25[1]].push(tg2([100,105,118], [tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("height: 100vh; width: 100vw; font-size: 2vw; padding: 0em; display: flex;")}, NTI838875398)], 0), [data_comp825_838876710], false)], true));;
+window.addEventListener('pageshow', data_comp830_838876710.pageShow);
+(Temporary25 = HEX5BHEX5D__a195slides951950952_u2901(allTheSlides_3288334364[0], 1), Temporary25)[0][Temporary25[1]].push(tg2([100,105,118], [tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("height: 100vh; width: 100vw; font-size: 2vw; padding: 0em; display: flex;")}, NTI838875398)], 0), [data_comp830_838876710], false)], true));;
 F.line = 66;
 F.filename = "slides.nim";
 predictedSlideIndex_3288334367[0]["Field0"] = addInt(predictedSlideIndex_3288334367[0]["Field0"], 1);
@@ -22025,83 +22028,83 @@ allTheSlides_3288334364[0].push([]);;
 F.line = 64;
 slideListeners_3288334369[0].push([]);;
 F.line = 73;
-(Temporary29 = HEX5BHEX5D__a195slides950951951_u2650(slideListeners_3288334369[0], 1), Temporary29)[0][Temporary29[1]].push([]);;
+(Temporary29 = HEX5BHEX5D__a195slides951950952_u2650(slideListeners_3288334369[0], 1), Temporary29)[0][Temporary29[1]].push([]);;
 F.line = 74;
 F.line = 60;
 F.filename = "Slides.nim";
 if ((scopedCycleCounter_1744830592[0] == 0)) {
-Temporary31 = [99,111,109,112,56,52,52];
+Temporary31 = [99,111,109,112,56,52,57];
 }
 else {
-Temporary31 = ([99,111,109,112,56,52,52]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+Temporary31 = ([99,111,109,112,56,52,57]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
 }
 
-var _comp844_838877783 = [initSlideHeader__pkgZhpx7680Zslides_u851(Temporary31, [])];
+var _comp849_838877783 = [initSlideHeader__pkgZhpx7680Zslides_u851(Temporary31, [])];
 F.line = 60;
 if ((scopedCycleCounter_1744830592[0] == 0)) {
-Temporary32 = [99,111,109,112,56,52,52];
+Temporary32 = [99,111,109,112,56,52,57];
 }
 else {
-Temporary32 = ([99,111,109,112,56,52,52]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+Temporary32 = ([99,111,109,112,56,52,57]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
 }
 
-var comp844_838877784 = [rgcmp(toJSStr(Temporary32), _comp844_838877783[0])];
+var comp849_838877784 = [rgcmp(toJSStr(Temporary32), _comp849_838877783[0])];
 F.line = 312;
 F.filename = "macro_utils.nim";
-Temporary33 = HEX3Aanonymous__a195slides950951951_u16985.bind(null); Temporary33.ClP_0 = HEX3Aanonymous__a195slides950951951_u16985; Temporary33.ClE_0 = null;
-comp844_838877784[0].slot = Temporary33;
+Temporary33 = HEX3Aanonymous__a195slides951950952_u16985.bind(null); Temporary33.ClP_0 = HEX3Aanonymous__a195slides951950952_u16985; Temporary33.ClE_0 = null;
+comp849_838877784[0].slot = Temporary33;
 F.line = 312;
-var data_comp844_838877882 = render__pkgZhappyxZspaZrenderer_u5867(comp844_838877784[0]);
+var data_comp849_838877882 = render__pkgZhappyxZspaZrenderer_u5867(comp849_838877784[0]);
 F.line = 312;
-addArgIter__pkgZhappyxZspaZtag_u537(data_comp844_838877882, ([100,97,116,97,45]).concat(comp844_838877784[0].uniqCompId));
+addArgIter__pkgZhappyxZspaZtag_u537(data_comp849_838877882, ([100,97,116,97,45]).concat(comp849_838877784[0].uniqCompId));
 F.line = 312;
-window.addEventListener('beforeunload', data_comp844_838877882.exited);
+window.addEventListener('beforeunload', data_comp849_838877882.exited);
 F.line = 312;
-window.addEventListener('pagehide', data_comp844_838877882.pageHide);
+window.addEventListener('pagehide', data_comp849_838877882.pageHide);
 F.line = 312;
-window.addEventListener('pageshow', data_comp844_838877882.pageShow);
-(Temporary30 = HEX5BHEX5D__a195slides950951951_u2901(allTheSlides_3288334364[0], 1), Temporary30)[0][Temporary30[1]].push(tg2([100,105,118], [tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("height: 100vh; width: 100vw; font-size: 2.5vw; padding: 1em; display: flex; flex-direction: column;")}, NTI838880184)], 0), [rLinked__pkgZhpx7680Zslides_u4893(references_4026542025[0], tg2([100,105,118], [data_comp844_838877882, tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1")}, NTI838880888)], 0), [listed__OOZlesson84arget_u2455(lessonAgenda_4026531920)], false)], true))], false)], true));;
+window.addEventListener('pageshow', data_comp849_838877882.pageShow);
+(Temporary30 = HEX5BHEX5D__a195slides951950952_u2901(allTheSlides_3288334364[0], 1), Temporary30)[0][Temporary30[1]].push(tg2([100,105,118], [tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("height: 100vh; width: 100vw; font-size: 2.5vw; padding: 1em; display: flex; flex-direction: column;")}, NTI838880184)], 0), [rLinked__pkgZhpx7680Zslides_u4893(references_4026542021[0], tg2([100,105,118], [data_comp849_838877882, tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1")}, NTI838880888)], 0), [listed__OOZlesson84arget_u2451(lessonAgenda_4026531916)], false)], true))], false)], true));;
 F.line = 59;
 F.filename = "Slides.nim";
 predictedSlideIndex_3288334367[0]["Field1"] = addInt(predictedSlideIndex_3288334367[0]["Field1"], 1);
 F.line = 73;
 F.filename = "slides.nim";
-(Temporary34 = HEX5BHEX5D__a195slides950951951_u2650(slideListeners_3288334369[0], 1), Temporary34)[0][Temporary34[1]].push([]);;
+(Temporary34 = HEX5BHEX5D__a195slides951950952_u2650(slideListeners_3288334369[0], 1), Temporary34)[0][Temporary34[1]].push([]);;
 F.line = 74;
 F.line = 64;
 F.filename = "Slides.nim";
 if ((scopedCycleCounter_1744830592[0] == 0)) {
-Temporary36 = [99,111,109,112,56,53,50];
+Temporary36 = [99,111,109,112,56,53,55];
 }
 else {
-Temporary36 = ([99,111,109,112,56,53,50]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+Temporary36 = ([99,111,109,112,56,53,55]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
 }
 
-var _comp852_838878991 = [initSlideHeader__pkgZhpx7680Zslides_u851(Temporary36, [])];
+var _comp857_838878991 = [initSlideHeader__pkgZhpx7680Zslides_u851(Temporary36, [])];
 F.line = 64;
 if ((scopedCycleCounter_1744830592[0] == 0)) {
-Temporary37 = [99,111,109,112,56,53,50];
+Temporary37 = [99,111,109,112,56,53,55];
 }
 else {
-Temporary37 = ([99,111,109,112,56,53,50]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+Temporary37 = ([99,111,109,112,56,53,55]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
 }
 
-var comp852_838878992 = [rgcmp(toJSStr(Temporary37), _comp852_838878991[0])];
+var comp857_838878992 = [rgcmp(toJSStr(Temporary37), _comp857_838878991[0])];
 F.line = 312;
 F.filename = "macro_utils.nim";
-Temporary38 = HEX3Aanonymous__a195slides950951951_u18193.bind(null); Temporary38.ClP_0 = HEX3Aanonymous__a195slides950951951_u18193; Temporary38.ClE_0 = null;
-comp852_838878992[0].slot = Temporary38;
+Temporary38 = HEX3Aanonymous__a195slides951950952_u18193.bind(null); Temporary38.ClP_0 = HEX3Aanonymous__a195slides951950952_u18193; Temporary38.ClE_0 = null;
+comp857_838878992[0].slot = Temporary38;
 F.line = 312;
-var data_comp852_838879090 = render__pkgZhappyxZspaZrenderer_u5867(comp852_838878992[0]);
+var data_comp857_838879090 = render__pkgZhappyxZspaZrenderer_u5867(comp857_838878992[0]);
 F.line = 312;
-addArgIter__pkgZhappyxZspaZtag_u537(data_comp852_838879090, ([100,97,116,97,45]).concat(comp852_838878992[0].uniqCompId));
+addArgIter__pkgZhappyxZspaZtag_u537(data_comp857_838879090, ([100,97,116,97,45]).concat(comp857_838878992[0].uniqCompId));
 F.line = 312;
-window.addEventListener('beforeunload', data_comp852_838879090.exited);
+window.addEventListener('beforeunload', data_comp857_838879090.exited);
 F.line = 312;
-window.addEventListener('pagehide', data_comp852_838879090.pageHide);
+window.addEventListener('pagehide', data_comp857_838879090.pageHide);
 F.line = 312;
-window.addEventListener('pageshow', data_comp852_838879090.pageShow);
-(Temporary35 = HEX5BHEX5D__a195slides950951951_u2901(allTheSlides_3288334364[0], 1), Temporary35)[0][Temporary35[1]].push(tg2([100,105,118], [tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("height: 100vh; width: 100vw; font-size: 2.5vw; padding: 1em; display: flex; flex-direction: column;")}, NTI838881572)], 0), [rLinked__pkgZhpx7680Zslides_u4893(references_4026542025[0], tg2([100,105,118], [data_comp852_838879090, tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1")}, NTI838882276)], 0), [listed__OOZlesson84arget_u2455(g9Expectations_4043309074)], false)], true))], false)], true));;
+window.addEventListener('pageshow', data_comp857_838879090.pageShow);
+(Temporary35 = HEX5BHEX5D__a195slides951950952_u2901(allTheSlides_3288334364[0], 1), Temporary35)[0][Temporary35[1]].push(tg2([100,105,118], [tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("height: 100vh; width: 100vw; font-size: 2.5vw; padding: 1em; display: flex; flex-direction: column;")}, NTI838881572)], 0), [rLinked__pkgZhpx7680Zslides_u4893(references_4026542021[0], tg2([100,105,118], [data_comp857_838879090, tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1")}, NTI838882276)], 0), [listed__OOZlesson84arget_u2451(g9Expectations_4043309074)], false)], true))], false)], true));;
 F.line = 63;
 F.filename = "Slides.nim";
 predictedSlideIndex_3288334367[0]["Field1"] = addInt(predictedSlideIndex_3288334367[0]["Field1"], 1);
@@ -22117,13 +22120,13 @@ allTheSlides_3288334364[0].push([]);;
 F.line = 64;
 slideListeners_3288334369[0].push([]);;
 F.line = 73;
-(Temporary39 = HEX5BHEX5D__a195slides950951951_u2650(slideListeners_3288334369[0], 1), Temporary39)[0][Temporary39[1]].push([]);;
+(Temporary39 = HEX5BHEX5D__a195slides951950952_u2650(slideListeners_3288334369[0], 1), Temporary39)[0][Temporary39[1]].push([]);;
 F.line = 74;
 F.line = 80;
 F.filename = "Slides.nim";
-var c860_838880929 = [0];
+var c865_838880929 = [0];
 F.line = 80;
-var __r860_838880962 = [newSeq__pkgZhpx7680Zfonts_u802(0)];
+var __r865_838880962 = [newSeq__pkgZhpx7680Zfonts_u802(0)];
 Label41: {
   F.line = 79;
   var i_838880967 = [0];
@@ -22138,106 +22141,106 @@ Label41: {
         F.filename = "Slides.nim";
         i_838880967[0] = res_838895040;
         F.line = 80;
-        c860_838880929[0] = addInt(c860_838880929[0], 1);
+        c865_838880929[0] = addInt(c865_838880929[0], 1);
         F.line = 1484;
         F.filename = "macro_utils.nim";
-        scopedCycleCounter_1744830592[0] = c860_838880929[0];
+        scopedCycleCounter_1744830592[0] = c865_838880929[0];
         F.line = 80;
         F.filename = "Slides.nim";
         F.line = 81;
         if ((scopedCycleCounter_1744830592[0] == 0)) {
-        Temporary44 = ([99,111,109,112,56,54,49,95,95]).concat(HEX24__systemZdollars_u14(c860_838880929[0]));
+        Temporary44 = ([99,111,109,112,56,54,54,95,95]).concat(HEX24__systemZdollars_u14(c865_838880929[0]));
         }
         else {
-        Temporary44 = ([99,111,109,112,56,54,49,95,95]).concat(HEX24__systemZdollars_u14(c860_838880929[0]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+        Temporary44 = ([99,111,109,112,56,54,54,95,95]).concat(HEX24__systemZdollars_u14(c865_838880929[0]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
         }
         
-        var _comp861_838881410 = [initStrut__pkgZhpx7680Zlayout_u2528(Temporary44, [49,101,109], [49,101,109], [])];
+        var _comp866_838881410 = [initStrut__pkgZhpx7680Zlayout_u2528(Temporary44, [49,101,109], [49,101,109], [])];
         F.line = 81;
         if ((scopedCycleCounter_1744830592[0] == 0)) {
-        Temporary45 = ([99,111,109,112,56,54,49,95,95]).concat(HEX24__systemZdollars_u14(c860_838880929[0]));
+        Temporary45 = ([99,111,109,112,56,54,54,95,95]).concat(HEX24__systemZdollars_u14(c865_838880929[0]));
         }
         else {
-        Temporary45 = ([99,111,109,112,56,54,49,95,95]).concat(HEX24__systemZdollars_u14(c860_838880929[0]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+        Temporary45 = ([99,111,109,112,56,54,54,95,95]).concat(HEX24__systemZdollars_u14(c865_838880929[0]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
         }
         
-        var comp861_838881411 = [rgcmp(toJSStr(Temporary45), _comp861_838881410[0])];
+        var comp866_838881411 = [rgcmp(toJSStr(Temporary45), _comp866_838881410[0])];
         F.line = 81;
-        Temporary46 = HEX3Aanonymous__a195slides950951951_u20612.bind(null); Temporary46.ClP_0 = HEX3Aanonymous__a195slides950951951_u20612; Temporary46.ClE_0 = null;
-        comp861_838881411[0].slot = Temporary46;
+        Temporary46 = HEX3Aanonymous__a195slides951950952_u20612.bind(null); Temporary46.ClP_0 = HEX3Aanonymous__a195slides951950952_u20612; Temporary46.ClE_0 = null;
+        comp866_838881411[0].slot = Temporary46;
         F.line = 81;
-        var data_comp861_838881429 = render__pkgZhappyxZspaZrenderer_u5867(comp861_838881411[0]);
+        var data_comp866_838881429 = render__pkgZhappyxZspaZrenderer_u5867(comp866_838881411[0]);
         F.line = 81;
-        addArgIter__pkgZhappyxZspaZtag_u537(data_comp861_838881429, ([100,97,116,97,45]).concat(comp861_838881411[0].uniqCompId));
+        addArgIter__pkgZhappyxZspaZtag_u537(data_comp866_838881429, ([100,97,116,97,45]).concat(comp866_838881411[0].uniqCompId));
         F.line = 81;
-        window.addEventListener('beforeunload', data_comp861_838881429.exited);
+        window.addEventListener('beforeunload', data_comp866_838881429.exited);
         F.line = 81;
-        window.addEventListener('pagehide', data_comp861_838881429.pageHide);
+        window.addEventListener('pagehide', data_comp866_838881429.pageHide);
         F.line = 81;
-        window.addEventListener('pageshow', data_comp861_838881429.pageShow);
+        window.addEventListener('pageshow', data_comp866_838881429.pageShow);
         F.line = 82;
         if ((scopedCycleCounter_1744830592[0] == 0)) {
-        Temporary47 = ([99,111,109,112,56,54,51,95,95]).concat(HEX24__systemZdollars_u14(c860_838880929[0]));
+        Temporary47 = ([99,111,109,112,56,54,56,95,95]).concat(HEX24__systemZdollars_u14(c865_838880929[0]));
         }
         else {
-        Temporary47 = ([99,111,109,112,56,54,51,95,95]).concat(HEX24__systemZdollars_u14(c860_838880929[0]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+        Temporary47 = ([99,111,109,112,56,54,56,95,95]).concat(HEX24__systemZdollars_u14(c865_838880929[0]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
         }
         
-        var _comp863_838881801 = [initStrut__pkgZhpx7680Zlayout_u2528(Temporary47, [49,101,109], [49,101,109], [])];
+        var _comp868_838881801 = [initStrut__pkgZhpx7680Zlayout_u2528(Temporary47, [49,101,109], [49,101,109], [])];
         F.line = 82;
         if ((scopedCycleCounter_1744830592[0] == 0)) {
-        Temporary48 = ([99,111,109,112,56,54,51,95,95]).concat(HEX24__systemZdollars_u14(c860_838880929[0]));
+        Temporary48 = ([99,111,109,112,56,54,56,95,95]).concat(HEX24__systemZdollars_u14(c865_838880929[0]));
         }
         else {
-        Temporary48 = ([99,111,109,112,56,54,51,95,95]).concat(HEX24__systemZdollars_u14(c860_838880929[0]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+        Temporary48 = ([99,111,109,112,56,54,56,95,95]).concat(HEX24__systemZdollars_u14(c865_838880929[0]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
         }
         
-        var comp863_838881802 = [rgcmp(toJSStr(Temporary48), _comp863_838881801[0])];
+        var comp868_838881802 = [rgcmp(toJSStr(Temporary48), _comp868_838881801[0])];
         F.line = 82;
-        Temporary49 = HEX3Aanonymous__a195slides950951951_u21003.bind(null); Temporary49.ClP_0 = HEX3Aanonymous__a195slides950951951_u21003; Temporary49.ClE_0 = null;
-        comp863_838881802[0].slot = Temporary49;
+        Temporary49 = HEX3Aanonymous__a195slides951950952_u21003.bind(null); Temporary49.ClP_0 = HEX3Aanonymous__a195slides951950952_u21003; Temporary49.ClE_0 = null;
+        comp868_838881802[0].slot = Temporary49;
         F.line = 82;
-        var data_comp863_838881820 = render__pkgZhappyxZspaZrenderer_u5867(comp863_838881802[0]);
+        var data_comp868_838881820 = render__pkgZhappyxZspaZrenderer_u5867(comp868_838881802[0]);
         F.line = 82;
-        addArgIter__pkgZhappyxZspaZtag_u537(data_comp863_838881820, ([100,97,116,97,45]).concat(comp863_838881802[0].uniqCompId));
+        addArgIter__pkgZhappyxZspaZtag_u537(data_comp868_838881820, ([100,97,116,97,45]).concat(comp868_838881802[0].uniqCompId));
         F.line = 82;
-        window.addEventListener('beforeunload', data_comp863_838881820.exited);
+        window.addEventListener('beforeunload', data_comp868_838881820.exited);
         F.line = 82;
-        window.addEventListener('pagehide', data_comp863_838881820.pageHide);
+        window.addEventListener('pagehide', data_comp868_838881820.pageHide);
         F.line = 82;
-        window.addEventListener('pageshow', data_comp863_838881820.pageShow);
+        window.addEventListener('pageshow', data_comp868_838881820.pageShow);
         F.line = 83;
         if ((scopedCycleCounter_1744830592[0] == 0)) {
-        Temporary50 = ([99,111,109,112,56,54,53,95,95]).concat(HEX24__systemZdollars_u14(c860_838880929[0]));
+        Temporary50 = ([99,111,109,112,56,55,48,95,95]).concat(HEX24__systemZdollars_u14(c865_838880929[0]));
         }
         else {
-        Temporary50 = ([99,111,109,112,56,54,53,95,95]).concat(HEX24__systemZdollars_u14(c860_838880929[0]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+        Temporary50 = ([99,111,109,112,56,55,48,95,95]).concat(HEX24__systemZdollars_u14(c865_838880929[0]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
         }
         
-        var _comp865_838882192 = [initStrut__pkgZhpx7680Zlayout_u2528(Temporary50, [49,101,109], [49,101,109], [])];
+        var _comp870_838882192 = [initStrut__pkgZhpx7680Zlayout_u2528(Temporary50, [49,101,109], [49,101,109], [])];
         F.line = 83;
         if ((scopedCycleCounter_1744830592[0] == 0)) {
-        Temporary51 = ([99,111,109,112,56,54,53,95,95]).concat(HEX24__systemZdollars_u14(c860_838880929[0]));
+        Temporary51 = ([99,111,109,112,56,55,48,95,95]).concat(HEX24__systemZdollars_u14(c865_838880929[0]));
         }
         else {
-        Temporary51 = ([99,111,109,112,56,54,53,95,95]).concat(HEX24__systemZdollars_u14(c860_838880929[0]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+        Temporary51 = ([99,111,109,112,56,55,48,95,95]).concat(HEX24__systemZdollars_u14(c865_838880929[0]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
         }
         
-        var comp865_838882193 = [rgcmp(toJSStr(Temporary51), _comp865_838882192[0])];
+        var comp870_838882193 = [rgcmp(toJSStr(Temporary51), _comp870_838882192[0])];
         F.line = 83;
-        Temporary52 = HEX3Aanonymous__a195slides950951951_u21394.bind(null); Temporary52.ClP_0 = HEX3Aanonymous__a195slides950951951_u21394; Temporary52.ClE_0 = null;
-        comp865_838882193[0].slot = Temporary52;
+        Temporary52 = HEX3Aanonymous__a195slides951950952_u21394.bind(null); Temporary52.ClP_0 = HEX3Aanonymous__a195slides951950952_u21394; Temporary52.ClE_0 = null;
+        comp870_838882193[0].slot = Temporary52;
         F.line = 83;
-        var data_comp865_838882211 = render__pkgZhappyxZspaZrenderer_u5867(comp865_838882193[0]);
+        var data_comp870_838882211 = render__pkgZhappyxZspaZrenderer_u5867(comp870_838882193[0]);
         F.line = 83;
-        addArgIter__pkgZhappyxZspaZtag_u537(data_comp865_838882211, ([100,97,116,97,45]).concat(comp865_838882193[0].uniqCompId));
+        addArgIter__pkgZhappyxZspaZtag_u537(data_comp870_838882211, ([100,97,116,97,45]).concat(comp870_838882193[0].uniqCompId));
         F.line = 83;
-        window.addEventListener('beforeunload', data_comp865_838882211.exited);
+        window.addEventListener('beforeunload', data_comp870_838882211.exited);
         F.line = 83;
-        window.addEventListener('pagehide', data_comp865_838882211.pageHide);
+        window.addEventListener('pagehide', data_comp870_838882211.pageHide);
         F.line = 83;
-        window.addEventListener('pageshow', data_comp865_838882211.pageShow);
-        __r860_838880962[0].push(tg2([100,105,118], [tg2([116,114], [tg2([116,100], [data_comp861_838881429], false), tg2([116,100], [data_comp863_838881820], false), tg2([116,100], [data_comp865_838882211], false)], false)], true));;
+        window.addEventListener('pageshow', data_comp870_838882211.pageShow);
+        __r865_838880962[0].push(tg2([100,105,118], [tg2([116,114], [tg2([116,100], [data_comp866_838881429], false), tg2([116,100], [data_comp868_838881820], false), tg2([116,100], [data_comp870_838882211], false)], false)], true));;
         F.line = 80;
         scopedCycleCounter_1744830592[0] = 0;
         F.line = 102;
@@ -22246,21 +22249,21 @@ Label41: {
       }
   };
 };
-(Temporary40 = HEX5BHEX5D__a195slides950951951_u2901(allTheSlides_3288334364[0], 1), Temporary40)[0][Temporary40[1]].push(tg2([100,105,118], [tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("height: 100vh; width: 100vw; font-size: 2.5vw; padding: 1em; display: flex; flex-direction: column;")}, NTI838883249)], 0), [tg1([116,97,98,108,101], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [99,108,97,115,115], Field1: [114,101,97,100,97,98,108,101,44,32,115,116,117,100,101,110,116,44,32,116,45,116,97,98,108,101]}, NTI838883382)], 0), [tg2([116,104,101,97,100], [tg2([116,114], [tg2([116,104], [tg4([71,117,101,115,115,32,102,111,114,32,36,120,36], true, [], false)], false), tg2([116,104], [tg4([35,32,68,105,103,105,116,115,32,105,110,32,36,120,36], true, [], false)], false), tg2([116,104], [tg4([35,32,67,111,114,114,101,99,116,108,121,32,80,108,97,99,101,100,32,68,105,103,105,116,115], true, [], false)], false)], false)], false), tg2([116,98,111,100,121], [tg2([100,105,118], __r860_838880962[0], true)], false)], false)], false)], true));;
+(Temporary40 = HEX5BHEX5D__a195slides951950952_u2901(allTheSlides_3288334364[0], 1), Temporary40)[0][Temporary40[1]].push(tg2([100,105,118], [tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("height: 100vh; width: 100vw; font-size: 2.5vw; padding: 1em; display: flex; flex-direction: column;")}, NTI838883249)], 0), [tg1([116,97,98,108,101], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [99,108,97,115,115], Field1: [114,101,97,100,97,98,108,101,44,32,115,116,117,100,101,110,116,44,32,116,45,116,97,98,108,101]}, NTI838883382)], 0), [tg2([116,104,101,97,100], [tg2([116,114], [tg2([116,104], [tg4([71,117,101,115,115,32,102,111,114,32,36,120,36], true, [], false)], false), tg2([116,104], [tg4([35,32,68,105,103,105,116,115,32,105,110,32,36,120,36], true, [], false)], false), tg2([116,104], [tg4([35,32,67,111,114,114,101,99,116,108,121,32,80,108,97,99,101,100,32,68,105,103,105,116,115], true, [], false)], false)], false)], false), tg2([116,98,111,100,121], [tg2([100,105,118], __r865_838880962[0], true)], false)], false)], false)], true));;
 F.line = 71;
 F.filename = "Slides.nim";
 predictedSlideIndex_3288334367[0]["Field1"] = addInt(predictedSlideIndex_3288334367[0]["Field1"], 1);
 F.line = 73;
 F.filename = "slides.nim";
-(Temporary53 = HEX5BHEX5D__a195slides950951951_u2650(slideListeners_3288334369[0], 1), Temporary53)[0][Temporary53[1]].push([]);;
+(Temporary53 = HEX5BHEX5D__a195slides951950952_u2650(slideListeners_3288334369[0], 1), Temporary53)[0][Temporary53[1]].push([]);;
 F.line = 74;
 F.line = 85;
 F.filename = "Slides.nim";
 var digits_838882935 = [[]];
 F.line = 87;
-var c871_838882956 = [0];
+var c876_838882956 = [0];
 F.line = 87;
-var __r871_838882989 = [newSeq__pkgZhpx7680Zfonts_u802(0)];
+var __r876_838882989 = [newSeq__pkgZhpx7680Zfonts_u802(0)];
 Label55: {
   F.line = 86;
   var i_838882994 = [0];
@@ -22275,15 +22278,15 @@ Label55: {
         F.filename = "Slides.nim";
         i_838882994[0] = res_838895043;
         F.line = 87;
-        c871_838882956[0] = addInt(c871_838882956[0], 1);
+        c876_838882956[0] = addInt(c876_838882956[0], 1);
         F.line = 1484;
         F.filename = "macro_utils.nim";
-        scopedCycleCounter_1744830592[0] = c871_838882956[0];
+        scopedCycleCounter_1744830592[0] = c876_838882956[0];
         F.line = 87;
         F.filename = "Slides.nim";
         F.line = 87;
-        digits_838882935[0].push(rand__a195slides950951951_u2025(HEX2EHEX2E__stdZstrbasics_u50(0, 9)));;
-        __r871_838882989[0].push(tg2([100,105,118], [tg2([100,105,118], [], true)], true));;
+        digits_838882935[0].push(rand__a195slides951950952_u2025(HEX2EHEX2E__stdZstrbasics_u50(0, 9)));;
+        __r876_838882989[0].push(tg2([100,105,118], [tg2([100,105,118], [], true)], true));;
         F.line = 87;
         scopedCycleCounter_1744830592[0] = 0;
         F.line = 102;
@@ -22294,9 +22297,9 @@ Label55: {
 };
 F.line = 742;
 F.filename = "macros.nim";
-var c872_838883207 = [0];
+var c877_838883207 = [0];
 F.line = 742;
-var __r872_838883240 = [newSeq__pkgZhpx7680Zfonts_u802(0)];
+var __r877_838883240 = [newSeq__pkgZhpx7680Zfonts_u802(0)];
 Label58: {
   F.line = 90;
   F.filename = "Slides.nim";
@@ -22315,10 +22318,10 @@ Label58: {
         digit_838883244[0] = digits_838882935[0][chckIndx(i_838895047, 0, (digits_838882935[0]).length - 1)];
         F.line = 742;
         F.filename = "macros.nim";
-        c872_838883207[0] = addInt(c872_838883207[0], 1);
+        c877_838883207[0] = addInt(c877_838883207[0], 1);
         F.line = 1484;
         F.filename = "macro_utils.nim";
-        scopedCycleCounter_1744830592[0] = c872_838883207[0];
+        scopedCycleCounter_1744830592[0] = c877_838883207[0];
         F.line = 742;
         F.filename = "macros.nim";
         Label61: {
@@ -22332,7 +22335,7 @@ Label58: {
           F.line = 91;
           nimAddStrStr(fmtRes_838883264[0], [92,32,36]);;
         };
-        __r872_838883240[0].push(tg2([100,105,118], [tg4(fmtRes_838883264[0], true, [], false)], true));;
+        __r877_838883240[0].push(tg2([100,105,118], [tg4(fmtRes_838883264[0], true, [], false)], true));;
         F.line = 742;
         F.filename = "macros.nim";
         scopedCycleCounter_1744830592[0] = 0;
@@ -22347,7 +22350,7 @@ Label58: {
       }
   };
 };
-(Temporary54 = HEX5BHEX5D__a195slides950951951_u2901(allTheSlides_3288334364[0], 1), Temporary54)[0][Temporary54[1]].push(tg2([100,105,118], [tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("height: 100vh; width: 100vw; font-size: 2.5vw; padding: 1em; display: flex; flex-direction: column;")}, NTI838886361)], 0), [tg2([100,105,118], [], true), tg2([100,105,118], __r871_838882989[0], true), tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [102,111,110,116,45,115,105,122,101,58,32,50,48,48,37,59]}, NTI838886683)], 0), [tg4([85,115,97,98,108,101,32,68,105,103,105,116,115,58,32], true, [], false), tg2([100,105,118], __r872_838883240[0], true)], false), tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [102,111,110,116,45,115,105,122,101,58,32,50,48,48,37,59]}, NTI838886935)], 0), [tg4([85,115,97,98,108,101,32,79,112,101,114,97,116,105,111,110,115,58,32], true, [], false)], false), tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [102,111,110,116,45,115,105,122,101,58,32,50,48,48,37,59]}, NTI838887047)], 0), [tg4([84,97,114,103,101,116,32,78,117,109,98,101,114,58,32], true, [], false)], false)], false)], true));;
+(Temporary54 = HEX5BHEX5D__a195slides951950952_u2901(allTheSlides_3288334364[0], 1), Temporary54)[0][Temporary54[1]].push(tg2([100,105,118], [tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("height: 100vh; width: 100vw; font-size: 2.5vw; padding: 1em; display: flex; flex-direction: column;")}, NTI838886361)], 0), [tg2([100,105,118], [], true), tg2([100,105,118], __r876_838882989[0], true), tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [102,111,110,116,45,115,105,122,101,58,32,50,48,48,37,59]}, NTI838886683)], 0), [tg4([85,115,97,98,108,101,32,68,105,103,105,116,115,58,32], true, [], false), tg2([100,105,118], __r877_838883240[0], true)], false), tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [102,111,110,116,45,115,105,122,101,58,32,50,48,48,37,59]}, NTI838886935)], 0), [tg4([85,115,97,98,108,101,32,79,112,101,114,97,116,105,111,110,115,58,32], true, [], false)], false), tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [102,111,110,116,45,115,105,122,101,58,32,50,48,48,37,59]}, NTI838887047)], 0), [tg4([84,97,114,103,101,116,32,78,117,109,98,101,114,58,32], true, [], false)], false)], false)], true));;
 F.line = 84;
 F.filename = "Slides.nim";
 predictedSlideIndex_3288334367[0]["Field1"] = addInt(predictedSlideIndex_3288334367[0]["Field1"], 1);
@@ -22366,36 +22369,36 @@ F.line = 100;
 F.filename = "Slides.nim";
 F.line = 101;
 if ((scopedCycleCounter_1744830592[0] == 0)) {
-Temporary63 = [99,111,109,112,56,56,49];
+Temporary63 = [99,111,109,112,56,56,54];
 }
 else {
-Temporary63 = ([99,111,109,112,56,56,49]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+Temporary63 = ([99,111,109,112,56,56,54]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
 }
 
-var _comp881_838884473 = [initTargetted__OOZlesson84arget_u83(Temporary63)];
+var _comp886_838884473 = [initTargetted__OOZlesson84arget_u79(Temporary63)];
 F.line = 101;
 if ((scopedCycleCounter_1744830592[0] == 0)) {
-Temporary64 = [99,111,109,112,56,56,49];
+Temporary64 = [99,111,109,112,56,56,54];
 }
 else {
-Temporary64 = ([99,111,109,112,56,56,49]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+Temporary64 = ([99,111,109,112,56,56,54]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
 }
 
-var comp881_838884474 = [rgcmp(toJSStr(Temporary64), _comp881_838884473[0])];
+var comp886_838884474 = [rgcmp(toJSStr(Temporary64), _comp886_838884473[0])];
 F.line = 104;
-Temporary65 = HEX3Aanonymous__a195slides950951951_u23675.bind(null); Temporary65.ClP_0 = HEX3Aanonymous__a195slides950951951_u23675; Temporary65.ClE_0 = null;
-comp881_838884474[0].slot = Temporary65;
+Temporary65 = HEX3Aanonymous__a195slides951950952_u23675.bind(null); Temporary65.ClP_0 = HEX3Aanonymous__a195slides951950952_u23675; Temporary65.ClE_0 = null;
+comp886_838884474[0].slot = Temporary65;
 F.line = 104;
-var data_comp881_838887649 = render__pkgZhappyxZspaZrenderer_u5867(comp881_838884474[0]);
+var data_comp886_838887649 = render__pkgZhappyxZspaZrenderer_u5867(comp886_838884474[0]);
 F.line = 104;
-addArgIter__pkgZhappyxZspaZtag_u537(data_comp881_838887649, ([100,97,116,97,45]).concat(comp881_838884474[0].uniqCompId));
+addArgIter__pkgZhappyxZspaZtag_u537(data_comp886_838887649, ([100,97,116,97,45]).concat(comp886_838884474[0].uniqCompId));
 F.line = 104;
-window.addEventListener('beforeunload', data_comp881_838887649.exited);
+window.addEventListener('beforeunload', data_comp886_838887649.exited);
 F.line = 104;
-window.addEventListener('pagehide', data_comp881_838887649.pageHide);
+window.addEventListener('pagehide', data_comp886_838887649.pageHide);
 F.line = 104;
-window.addEventListener('pageshow', data_comp881_838887649.pageShow);
-(Temporary62 = HEX5BHEX5D__a195slides950951951_u2901(allTheSlides_3288334364[0], 1), Temporary62)[0][Temporary62[1]].push(tg2([100,105,118], [tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("height: 100vh; width: 100vw; font-size: 2vw; padding: 0em; display: flex;")}, NTI838887715)], 0), [data_comp881_838887649], false)], true));;
+window.addEventListener('pageshow', data_comp886_838887649.pageShow);
+(Temporary62 = HEX5BHEX5D__a195slides951950952_u2901(allTheSlides_3288334364[0], 1), Temporary62)[0][Temporary62[1]].push(tg2([100,105,118], [tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("height: 100vh; width: 100vw; font-size: 2vw; padding: 0em; display: flex;")}, NTI838887715)], 0), [data_comp886_838887649], false)], true));;
 F.line = 66;
 F.filename = "slides.nim";
 predictedSlideIndex_3288334367[0]["Field0"] = addInt(predictedSlideIndex_3288334367[0]["Field0"], 1);
@@ -22408,42 +22411,42 @@ allTheSlides_3288334364[0].push([]);;
 F.line = 64;
 slideListeners_3288334369[0].push([]);;
 F.line = 73;
-(Temporary66 = HEX5BHEX5D__a195slides950951951_u2650(slideListeners_3288334369[0], 1), Temporary66)[0][Temporary66[1]].push([]);;
+(Temporary66 = HEX5BHEX5D__a195slides951950952_u2650(slideListeners_3288334369[0], 1), Temporary66)[0][Temporary66[1]].push([]);;
 F.line = 74;
 F.line = 111;
 F.filename = "Slides.nim";
 if ((scopedCycleCounter_1744830592[0] == 0)) {
-Temporary68 = [99,111,109,112,57,48,50];
+Temporary68 = [99,111,109,112,57,48,55];
 }
 else {
-Temporary68 = ([99,111,109,112,57,48,50]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+Temporary68 = ([99,111,109,112,57,48,55]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
 }
 
-var _comp902_838888722 = [initSlideHeader__pkgZhpx7680Zslides_u851(Temporary68, [118,101,114,116,105,99,97,108,45,97,108,105,103,110,58,32,109,105,100,100,108,101,59])];
+var _comp907_838888722 = [initSlideHeader__pkgZhpx7680Zslides_u851(Temporary68, [118,101,114,116,105,99,97,108,45,97,108,105,103,110,58,32,109,105,100,100,108,101,59])];
 F.line = 111;
 if ((scopedCycleCounter_1744830592[0] == 0)) {
-Temporary69 = [99,111,109,112,57,48,50];
+Temporary69 = [99,111,109,112,57,48,55];
 }
 else {
-Temporary69 = ([99,111,109,112,57,48,50]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+Temporary69 = ([99,111,109,112,57,48,55]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
 }
 
-var comp902_838888723 = [rgcmp(toJSStr(Temporary69), _comp902_838888722[0])];
+var comp907_838888723 = [rgcmp(toJSStr(Temporary69), _comp907_838888722[0])];
 F.line = 312;
 F.filename = "macro_utils.nim";
-Temporary70 = HEX3Aanonymous__a195slides950951951_u27924.bind(null); Temporary70.ClP_0 = HEX3Aanonymous__a195slides950951951_u27924; Temporary70.ClE_0 = null;
-comp902_838888723[0].slot = Temporary70;
+Temporary70 = HEX3Aanonymous__a195slides951950952_u27924.bind(null); Temporary70.ClP_0 = HEX3Aanonymous__a195slides951950952_u27924; Temporary70.ClE_0 = null;
+comp907_838888723[0].slot = Temporary70;
 F.line = 312;
-var data_comp902_838888821 = render__pkgZhappyxZspaZrenderer_u5867(comp902_838888723[0]);
+var data_comp907_838888821 = render__pkgZhappyxZspaZrenderer_u5867(comp907_838888723[0]);
 F.line = 312;
-addArgIter__pkgZhappyxZspaZtag_u537(data_comp902_838888821, ([100,97,116,97,45]).concat(comp902_838888723[0].uniqCompId));
+addArgIter__pkgZhappyxZspaZtag_u537(data_comp907_838888821, ([100,97,116,97,45]).concat(comp907_838888723[0].uniqCompId));
 F.line = 312;
-window.addEventListener('beforeunload', data_comp902_838888821.exited);
+window.addEventListener('beforeunload', data_comp907_838888821.exited);
 F.line = 312;
-window.addEventListener('pagehide', data_comp902_838888821.pageHide);
+window.addEventListener('pagehide', data_comp907_838888821.pageHide);
 F.line = 312;
-window.addEventListener('pageshow', data_comp902_838888821.pageShow);
-(Temporary67 = HEX5BHEX5D__a195slides950951951_u2901(allTheSlides_3288334364[0], 1), Temporary67)[0][Temporary67[1]].push(tg2([100,105,118], [tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("height: 100vh; width: 100vw; font-size: 2.5vw; padding: 1em; display: flex; flex-direction: column;")}, NTI838893067)], 0), [rLinked__pkgZhpx7680Zslides_u4893(references_4026542025[0], tg2([100,105,118], [data_comp902_838888821], true))], false)], true));;
+window.addEventListener('pageshow', data_comp907_838888821.pageShow);
+(Temporary67 = HEX5BHEX5D__a195slides951950952_u2901(allTheSlides_3288334364[0], 1), Temporary67)[0][Temporary67[1]].push(tg2([100,105,118], [tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("height: 100vh; width: 100vw; font-size: 2.5vw; padding: 1em; display: flex; flex-direction: column;")}, NTI838893067)], 0), [rLinked__pkgZhpx7680Zslides_u4893(references_4026542021[0], tg2([100,105,118], [data_comp907_838888821], true))], false)], true));;
 F.line = 109;
 F.filename = "Slides.nim";
 predictedSlideIndex_3288334367[0]["Field1"] = addInt(predictedSlideIndex_3288334367[0]["Field1"], 1);
@@ -22464,7 +22467,7 @@ Label71: {
         joke_838889039[0] = jokes_838862797[chckIndx(i_838895052, 0, (jokes_838862797).length - 1)];
         F.line = 73;
         F.filename = "slides.nim";
-        (Temporary74 = HEX5BHEX5D__a195slides950951951_u2650(slideListeners_3288334369[0], 1), Temporary74)[0][Temporary74[1]].push([]);;
+        (Temporary74 = HEX5BHEX5D__a195slides951950952_u2650(slideListeners_3288334369[0], 1), Temporary74)[0][Temporary74[1]].push([]);;
         F.line = 74;
         Label76: {
           F.line = 114;
@@ -22473,7 +22476,7 @@ Label71: {
           F.line = 114;
           formatValue__pkgZhappyxZprivateZmacro95utils_u291(fmtRes_838889443, 0, joke_838889039[0]);
         };
-        (Temporary75 = HEX5BHEX5D__a195slides950951951_u2901(allTheSlides_3288334364[0], 1), Temporary75)[0][Temporary75[1]].push(tg2([100,105,118], [tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("height: 100vh; width: 100vw; font-size: 2.5vw; padding: 1em; display: flex; flex-direction: column;")}, NTI838894224)], 0), [tg4(fmtRes_838889443[0], true, [], false)], false)], true));;
+        (Temporary75 = HEX5BHEX5D__a195slides951950952_u2901(allTheSlides_3288334364[0], 1), Temporary75)[0][Temporary75[1]].push(tg2([100,105,118], [tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("height: 100vh; width: 100vw; font-size: 2.5vw; padding: 1em; display: flex; flex-direction: column;")}, NTI838894224)], 0), [tg4(fmtRes_838889443[0], true, [], false)], false)], true));;
         F.line = 113;
         predictedSlideIndex_3288334367[0]["Field1"] = addInt(predictedSlideIndex_3288334367[0]["Field1"], 1);
         F.line = 13;
@@ -22499,9 +22502,9 @@ allTheSlides_3288334364[0].push([]);;
 F.line = 64;
 slideListeners_3288334369[0].push([]);;
 F.line = 73;
-(Temporary77 = HEX5BHEX5D__a195slides950951951_u2650(slideListeners_3288334369[0], 1), Temporary77)[0][Temporary77[1]].push([]);;
+(Temporary77 = HEX5BHEX5D__a195slides951950952_u2650(slideListeners_3288334369[0], 1), Temporary77)[0][Temporary77[1]].push([]);;
 F.line = 74;
-(Temporary78 = HEX5BHEX5D__a195slides950951951_u2901(allTheSlides_3288334364[0], 1), Temporary78)[0][Temporary78[1]].push(tg2([100,105,118], [tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("height: 100vh; width: 100vw; font-size: 2.5vw; padding: 1em; display: flex; flex-direction: column;")}, NTI838895082)], 0), [rLinked__pkgZhpx7680Zslides_u4893(references_4026542025[0], tg2([100,105,118], [tg1([105,102,114,97,109,101], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: [104,116,116,112,115,58,47,47,119,119,119,46,116,121,108,101,114,118,105,103,101,110,46,99,111,109,47,115,112,117,114,105,111,117,115,47,114,97,110,100,111,109]}, NTI838895324), nimCopy(null, {Field0: [115,116,121,108,101], Field1: [104,101,105,103,104,116,58,32,49,48,48,118,104,59]}, NTI838895324)], 0), [], false)], true))], false)], true));;
+(Temporary78 = HEX5BHEX5D__a195slides951950952_u2901(allTheSlides_3288334364[0], 1), Temporary78)[0][Temporary78[1]].push(tg2([100,105,118], [tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("height: 100vh; width: 100vw; font-size: 2.5vw; padding: 1em; display: flex; flex-direction: column;")}, NTI838895082)], 0), [rLinked__pkgZhpx7680Zslides_u4893(references_4026542021[0], tg2([100,105,118], [tg1([105,102,114,97,109,101], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: [104,116,116,112,115,58,47,47,119,119,119,46,116,121,108,101,114,118,105,103,101,110,46,99,111,109,47,115,112,117,114,105,111,117,115,47,114,97,110,100,111,109]}, NTI838895324), nimCopy(null, {Field0: [115,116,121,108,101], Field1: [104,101,105,103,104,116,58,32,49,48,48,118,104,59]}, NTI838895324)], 0), [], false)], true))], false)], true));;
 F.line = 117;
 F.filename = "Slides.nim";
 predictedSlideIndex_3288334367[0]["Field1"] = addInt(predictedSlideIndex_3288334367[0]["Field1"], 1);
@@ -22515,7 +22518,7 @@ F.filename = "Slides.nim";
 var app_838890948 = [registerApp__pkgZhappyxZspaZrenderer_u495("ROOT")];
 F.line = 666;
 F.filename = "renderer.nim";
-Temporary79 = callRouter__a195slides950951951_u30237.bind(null); Temporary79.ClP_0 = callRouter__a195slides950951951_u30237; Temporary79.ClE_0 = null;
+Temporary79 = callRouter__a195slides951950952_u30237.bind(null); Temporary79.ClP_0 = callRouter__a195slides951950952_u30237; Temporary79.ClE_0 = null;
 app_838890948[0].router = Temporary79;
 F.line = 2878;
 F.filename = "system.nim";
@@ -22527,7 +22530,7 @@ F.line = 2880;
 alreadyExecutedHEX60gensym99_838893810[0] = true;
 F.line = 440;
 F.filename = "renderer.nim";
-Temporary80 = onDOMContentLoaded__a195slides950951951_u33005.bind(null); Temporary80.ClP_0 = onDOMContentLoaded__a195slides950951951_u33005; Temporary80.ClE_0 = null;
+Temporary80 = onDOMContentLoaded__a195slides951950952_u33005.bind(null); Temporary80.ClP_0 = onDOMContentLoaded__a195slides951950952_u33005; Temporary80.ClE_0 = null;
 document.addEventListener("hashchange", Temporary80, false);
 }
 
@@ -22565,7 +22568,7 @@ else {
 }
 
 framePtr = F.prev;
-var F = {procname: "module a1_slides_0_1_1", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson0_1_1/a1_slides_0_1_1/a1_slides_0_1_1.nim", line: 0};
+var F = {procname: "module a1_slides_1_0_2", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson1_0_2/a1_slides_1_0_2/a1_slides_1_0_2.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 
@@ -23001,7 +23004,7 @@ function printUnit__pkgZhpx7680Zlayout_u131() {
 
   var result_3170893956 = [];
 
-  var F = {procname: "layout.printUnit", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "layout.printUnit", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 22;
     F.filename = "layout.nim";
@@ -23506,7 +23509,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u3609(scopeSelf_p0, inComponent_p1, 
 
   var result_3170897440 = null;
 
-  var F = {procname: "renderTag.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "renderTag.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 89;
     F.filename = "layout.nim";
@@ -23666,7 +23669,7 @@ function initPages__pkgZhpx7680Zlayout_u143(uniqCompId_p0, n_p1, css_p2, class_p
     var Temporary1;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u163(self_p0, ev_p1) {
-  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -23675,7 +23678,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u163(self_p0, ev_p1) {
     var Temporary2;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u166(self_p0, ev_p1) {
-  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -23684,7 +23687,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u166(self_p0, ev_p1) {
     var Temporary3;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u169(self_p0, ev_p1) {
-  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -23693,7 +23696,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u169(self_p0, ev_p1) {
     var Temporary4;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u172(self_p0, ev_p1) {
-  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -23702,7 +23705,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u172(self_p0, ev_p1) {
     var Temporary5;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u175(self_p0, ev_p1) {
-  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -23711,7 +23714,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u175(self_p0, ev_p1) {
     var Temporary6;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u178(self_p0, ev_p1) {
-  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -23720,7 +23723,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u178(self_p0, ev_p1) {
     var Temporary7;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u181(self_p0, ev_p1) {
-  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -23729,7 +23732,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u181(self_p0, ev_p1) {
     var Temporary8;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u184(self_p0, ev_p1) {
-  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -23801,7 +23804,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u14896(scopeSelf_p0, inComponent_p1,
 
   var result_3170908727 = null;
 
-  var F = {procname: "renderTag.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "renderTag.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 148;
     F.filename = "layout.nim";
@@ -24466,7 +24469,7 @@ function initProbGrid__pkgZhpx7680Zlayout_u1225(uniqCompId_p0, n_p1, stretch_p2,
     var Temporary1;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u1245(self_p0, ev_p1) {
-  var F = {procname: "initProbGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initProbGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -24475,7 +24478,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u1245(self_p0, ev_p1) {
     var Temporary2;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u1248(self_p0, ev_p1) {
-  var F = {procname: "initProbGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initProbGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -24484,7 +24487,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u1248(self_p0, ev_p1) {
     var Temporary3;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u1251(self_p0, ev_p1) {
-  var F = {procname: "initProbGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initProbGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -24493,7 +24496,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u1251(self_p0, ev_p1) {
     var Temporary4;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u1254(self_p0, ev_p1) {
-  var F = {procname: "initProbGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initProbGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -24502,7 +24505,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u1254(self_p0, ev_p1) {
     var Temporary5;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u1257(self_p0, ev_p1) {
-  var F = {procname: "initProbGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initProbGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -24511,7 +24514,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u1257(self_p0, ev_p1) {
     var Temporary6;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u1260(self_p0, ev_p1) {
-  var F = {procname: "initProbGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initProbGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -24520,7 +24523,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u1260(self_p0, ev_p1) {
     var Temporary7;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u1263(self_p0, ev_p1) {
-  var F = {procname: "initProbGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initProbGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -24529,7 +24532,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u1263(self_p0, ev_p1) {
     var Temporary8;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u1266(self_p0, ev_p1) {
-  var F = {procname: "initProbGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initProbGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -24601,7 +24604,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u6363(scopeSelf_p0, inComponent_p1, 
 
   var result_3170900194 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 130;
     F.filename = "layout.nim";
@@ -24637,7 +24640,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u6590(scopeSelf_p0, inComponent_p1, 
 
   var result_3170900421 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 130;
     F.filename = "layout.nim";
@@ -24673,7 +24676,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u6817(scopeSelf_p0, inComponent_p1, 
 
   var result_3170900648 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 130;
     F.filename = "layout.nim";
@@ -24709,7 +24712,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u7044(scopeSelf_p0, inComponent_p1, 
 
   var result_3170900875 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 130;
     F.filename = "layout.nim";
@@ -24757,7 +24760,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u6308(scopeSelf_p0, inComponent_p1, 
 
   var result_3170900139 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 296;
     F.filename = "macro_utils.nim";
@@ -24986,7 +24989,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u3740(scopeSelf_p0, inComponent_p1, 
 
   var result_3170897571 = null;
 
-  var F = {procname: "pageCut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "pageCut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 93;
     F.filename = "layout.nim";
@@ -25035,7 +25038,7 @@ function initCutRule__pkgZhpx7680Zlayout_u2114(uniqCompId_p0, css_p1) {
     var Temporary1;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2122(self_p0, ev_p1) {
-  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -25044,7 +25047,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2122(self_p0, ev_p1) {
     var Temporary2;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2125(self_p0, ev_p1) {
-  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -25053,7 +25056,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2125(self_p0, ev_p1) {
     var Temporary3;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2128(self_p0, ev_p1) {
-  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -25062,7 +25065,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2128(self_p0, ev_p1) {
     var Temporary4;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2131(self_p0, ev_p1) {
-  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -25071,7 +25074,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2131(self_p0, ev_p1) {
     var Temporary5;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2134(self_p0, ev_p1) {
-  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -25080,7 +25083,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2134(self_p0, ev_p1) {
     var Temporary6;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2137(self_p0, ev_p1) {
-  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -25089,7 +25092,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2137(self_p0, ev_p1) {
     var Temporary7;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2140(self_p0, ev_p1) {
-  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -25098,7 +25101,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2140(self_p0, ev_p1) {
     var Temporary8;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2143(self_p0, ev_p1) {
-  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -25160,7 +25163,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u3804(scopeSelf_p0, inComponent_p1, 
 
   var result_3170897635 = null;
 
-  var F = {procname: "pageCut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "pageCut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 94;
     F.filename = "layout.nim";
@@ -25196,7 +25199,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u3867(scopeSelf_p0, inComponent_p1, 
 
   var result_3170897698 = null;
 
-  var F = {procname: "pageCut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "pageCut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 95;
     F.filename = "layout.nim";
@@ -25240,7 +25243,7 @@ function pageCut__pkgZhpx7680Zlayout_u3693() {
 
   var result_3170897518 = null;
 
-  var F = {procname: "layout.pageCut", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "layout.pageCut", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 296;
     F.filename = "macro_utils.nim";
@@ -25354,7 +25357,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u7387(scopeSelf_p0, inComponent_p1, 
 
   var result_3170901218 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 135;
     F.filename = "layout.nim";
@@ -25404,7 +25407,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u7622(scopeSelf_p0, inComponent_p1, 
 
   var result_3170901453 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 135;
     F.filename = "layout.nim";
@@ -25440,7 +25443,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u7853(scopeSelf_p0, inComponent_p1, 
 
   var result_3170901684 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 135;
     F.filename = "layout.nim";
@@ -25476,7 +25479,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u8084(scopeSelf_p0, inComponent_p1, 
 
   var result_3170901915 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 135;
     F.filename = "layout.nim";
@@ -25524,7 +25527,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u7332(scopeSelf_p0, inComponent_p1, 
 
   var result_3170901163 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 296;
     F.filename = "macro_utils.nim";
@@ -25753,7 +25756,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u8443(scopeSelf_p0, inComponent_p1, 
 
   var result_3170902274 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 130;
     F.filename = "layout.nim";
@@ -25789,7 +25792,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u8670(scopeSelf_p0, inComponent_p1, 
 
   var result_3170902501 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 130;
     F.filename = "layout.nim";
@@ -25825,7 +25828,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u8897(scopeSelf_p0, inComponent_p1, 
 
   var result_3170902728 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 130;
     F.filename = "layout.nim";
@@ -25861,7 +25864,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u9124(scopeSelf_p0, inComponent_p1, 
 
   var result_3170902955 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 130;
     F.filename = "layout.nim";
@@ -25909,7 +25912,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u8388(scopeSelf_p0, inComponent_p1, 
 
   var result_3170902219 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 296;
     F.filename = "macro_utils.nim";
@@ -26138,7 +26141,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u9467(scopeSelf_p0, inComponent_p1, 
 
   var result_3170903298 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 135;
     F.filename = "layout.nim";
@@ -26174,7 +26177,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u9698(scopeSelf_p0, inComponent_p1, 
 
   var result_3170903529 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 135;
     F.filename = "layout.nim";
@@ -26210,7 +26213,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u9929(scopeSelf_p0, inComponent_p1, 
 
   var result_3170903760 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 135;
     F.filename = "layout.nim";
@@ -26246,7 +26249,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u10160(scopeSelf_p0, inComponent_p1,
 
   var result_3170903991 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 135;
     F.filename = "layout.nim";
@@ -26294,7 +26297,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u9412(scopeSelf_p0, inComponent_p1, 
 
   var result_3170903243 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 296;
     F.filename = "macro_utils.nim";
@@ -26523,7 +26526,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u10519(scopeSelf_p0, inComponent_p1,
 
   var result_3170904350 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 130;
     F.filename = "layout.nim";
@@ -26559,7 +26562,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u10746(scopeSelf_p0, inComponent_p1,
 
   var result_3170904577 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 130;
     F.filename = "layout.nim";
@@ -26595,7 +26598,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u10973(scopeSelf_p0, inComponent_p1,
 
   var result_3170904804 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 130;
     F.filename = "layout.nim";
@@ -26631,7 +26634,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u11200(scopeSelf_p0, inComponent_p1,
 
   var result_3170905031 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 130;
     F.filename = "layout.nim";
@@ -26679,7 +26682,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u10464(scopeSelf_p0, inComponent_p1,
 
   var result_3170904295 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 296;
     F.filename = "macro_utils.nim";
@@ -26908,7 +26911,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u11543(scopeSelf_p0, inComponent_p1,
 
   var result_3170905374 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 135;
     F.filename = "layout.nim";
@@ -26944,7 +26947,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u11774(scopeSelf_p0, inComponent_p1,
 
   var result_3170905605 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 135;
     F.filename = "layout.nim";
@@ -26980,7 +26983,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u12005(scopeSelf_p0, inComponent_p1,
 
   var result_3170905836 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 135;
     F.filename = "layout.nim";
@@ -27016,7 +27019,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u12236(scopeSelf_p0, inComponent_p1,
 
   var result_3170906067 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 135;
     F.filename = "layout.nim";
@@ -27064,7 +27067,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u11488(scopeSelf_p0, inComponent_p1,
 
   var result_3170905319 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 296;
     F.filename = "macro_utils.nim";
@@ -27293,7 +27296,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u12595(scopeSelf_p0, inComponent_p1,
 
   var result_3170906426 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 130;
     F.filename = "layout.nim";
@@ -27329,7 +27332,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u12822(scopeSelf_p0, inComponent_p1,
 
   var result_3170906653 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 130;
     F.filename = "layout.nim";
@@ -27365,7 +27368,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u13049(scopeSelf_p0, inComponent_p1,
 
   var result_3170906880 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 130;
     F.filename = "layout.nim";
@@ -27401,7 +27404,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u13276(scopeSelf_p0, inComponent_p1,
 
   var result_3170907107 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 130;
     F.filename = "layout.nim";
@@ -27449,7 +27452,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u12540(scopeSelf_p0, inComponent_p1,
 
   var result_3170906371 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 296;
     F.filename = "macro_utils.nim";
@@ -27678,7 +27681,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u13619(scopeSelf_p0, inComponent_p1,
 
   var result_3170907450 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 135;
     F.filename = "layout.nim";
@@ -27714,7 +27717,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u13850(scopeSelf_p0, inComponent_p1,
 
   var result_3170907681 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 135;
     F.filename = "layout.nim";
@@ -27750,7 +27753,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u14081(scopeSelf_p0, inComponent_p1,
 
   var result_3170907912 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 135;
     F.filename = "layout.nim";
@@ -27786,7 +27789,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u14312(scopeSelf_p0, inComponent_p1,
 
   var result_3170908143 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 135;
     F.filename = "layout.nim";
@@ -27834,7 +27837,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u13564(scopeSelf_p0, inComponent_p1,
 
   var result_3170907395 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 296;
     F.filename = "macro_utils.nim";
@@ -28087,7 +28090,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u6177(scopeSelf_p0, inComponent_p1, 
 
   var result_3170900008 = null;
 
-  var F = {procname: "renderTag.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "renderTag.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 128;
     F.filename = "layout.nim";
@@ -28739,7 +28742,7 @@ function initProbRow__pkgZhpx7680Zlayout_u1683(uniqCompId_p0, stretch_p1, css_p2
     var Temporary1;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u1699(self_p0, ev_p1) {
-  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -28748,7 +28751,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u1699(self_p0, ev_p1) {
     var Temporary2;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u1702(self_p0, ev_p1) {
-  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -28757,7 +28760,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u1702(self_p0, ev_p1) {
     var Temporary3;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u1705(self_p0, ev_p1) {
-  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -28766,7 +28769,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u1705(self_p0, ev_p1) {
     var Temporary4;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u1708(self_p0, ev_p1) {
-  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -28775,7 +28778,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u1708(self_p0, ev_p1) {
     var Temporary5;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u1711(self_p0, ev_p1) {
-  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -28784,7 +28787,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u1711(self_p0, ev_p1) {
     var Temporary6;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u1714(self_p0, ev_p1) {
-  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -28793,7 +28796,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u1714(self_p0, ev_p1) {
     var Temporary7;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u1717(self_p0, ev_p1) {
-  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -28802,7 +28805,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u1717(self_p0, ev_p1) {
     var Temporary8;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u1720(self_p0, ev_p1) {
-  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -28874,7 +28877,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u4288(scopeSelf_p0, inComponent_p1, 
 
   var result_3170898119 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 112;
     F.filename = "layout.nim";
@@ -28910,7 +28913,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u4495(scopeSelf_p0, inComponent_p1, 
 
   var result_3170898326 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 115;
     F.filename = "layout.nim";
@@ -28946,7 +28949,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u4641(scopeSelf_p0, inComponent_p1, 
 
   var result_3170898472 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 112;
     F.filename = "layout.nim";
@@ -28982,7 +28985,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u4848(scopeSelf_p0, inComponent_p1, 
 
   var result_3170898679 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 115;
     F.filename = "layout.nim";
@@ -29018,7 +29021,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u4994(scopeSelf_p0, inComponent_p1, 
 
   var result_3170898825 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 112;
     F.filename = "layout.nim";
@@ -29054,7 +29057,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u5201(scopeSelf_p0, inComponent_p1, 
 
   var result_3170899032 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 115;
     F.filename = "layout.nim";
@@ -29090,7 +29093,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u5347(scopeSelf_p0, inComponent_p1, 
 
   var result_3170899178 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 112;
     F.filename = "layout.nim";
@@ -29126,7 +29129,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u5554(scopeSelf_p0, inComponent_p1, 
 
   var result_3170899385 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 115;
     F.filename = "layout.nim";
@@ -29186,7 +29189,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u4232(scopeSelf_p0, inComponent_p1, 
 
   var result_3170898063 = null;
 
-  var F = {procname: "renderTag.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "renderTag.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 296;
     F.filename = "macro_utils.nim";
@@ -29746,7 +29749,7 @@ function script__pkgZhpx7680Zlayout_u16232(self_p0) {
 }
 
 function reset__pkgZhpx7680Znumbering_u22(c_p0) {
-  var F = {procname: "numbering.reset", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/numbering.nim", line: 0};
+  var F = {procname: "numbering.reset", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/numbering.nim", line: 0};
   framePtr = F;
     F.line = 21;
     F.filename = "numbering.nim";
@@ -29763,7 +29766,7 @@ function reset__pkgZhpx7680Znumbering_u22(c_p0) {
 }
 
 function resetCounts__pkgZhpx7680Znumbering_u92() {
-  var F = {procname: "numbering.resetCounts", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/numbering.nim", line: 0};
+  var F = {procname: "numbering.resetCounts", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/numbering.nim", line: 0};
   framePtr = F;
     F.line = 57;
     F.filename = "numbering.nim";
@@ -29780,7 +29783,7 @@ function resetCounts__pkgZhpx7680Znumbering_u92() {
 function printClass__pkgZhpx7680Zlayout_u3897(v_p0) {
   var result_3170897723 = [];
 
-  var F = {procname: "layout.printClass", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/layout.nim", line: 0};
+  var F = {procname: "layout.printClass", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/layout.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 98;
@@ -30008,7 +30011,7 @@ function toInt__pkgZhappyxZspaZstate_u910(self_p0) {
 function googleFontImport__pkgZhpx7680Zfonts_u25(fontUrl_p0) {
   var result_3137339419 = [];
 
-  var F = {procname: "fonts.googleFontImport", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/fonts.nim", line: 0};
+  var F = {procname: "fonts.googleFontImport", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/fonts.nim", line: 0};
   framePtr = F;
     F.line = 13;
     F.filename = "fonts.nim";
@@ -31357,7 +31360,7 @@ function HEX3Aanonymous__pkgZhpx7680Zslides_u2238(scopeSelf_p0, inComponent_p1, 
 
   var result_3288336581 = null;
 
-  var F = {procname: "renderTag.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/slides.nim", line: 0};
+  var F = {procname: "renderTag.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/slides.nim", line: 0};
   framePtr = F;
     F.line = 91;
     F.filename = "slides.nim";
@@ -32167,7 +32170,7 @@ function initYTvideo__pkgZhpx7680Zvideos_u11(uniqCompId_p0, query_p1, width_p2, 
     var Temporary1;
 
 function HEX3Aanonymous__pkgZhpx7680Zvideos_u27(self_p0, ev_p1) {
-  var F = {procname: "initYTvideo.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/videos.nim", line: 0};
+  var F = {procname: "initYTvideo.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/videos.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -32176,7 +32179,7 @@ function HEX3Aanonymous__pkgZhpx7680Zvideos_u27(self_p0, ev_p1) {
     var Temporary2;
 
 function HEX3Aanonymous__pkgZhpx7680Zvideos_u30(self_p0, ev_p1) {
-  var F = {procname: "initYTvideo.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/videos.nim", line: 0};
+  var F = {procname: "initYTvideo.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/videos.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -32185,7 +32188,7 @@ function HEX3Aanonymous__pkgZhpx7680Zvideos_u30(self_p0, ev_p1) {
     var Temporary3;
 
 function HEX3Aanonymous__pkgZhpx7680Zvideos_u33(self_p0, ev_p1) {
-  var F = {procname: "initYTvideo.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/videos.nim", line: 0};
+  var F = {procname: "initYTvideo.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/videos.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -32194,7 +32197,7 @@ function HEX3Aanonymous__pkgZhpx7680Zvideos_u33(self_p0, ev_p1) {
     var Temporary4;
 
 function HEX3Aanonymous__pkgZhpx7680Zvideos_u36(self_p0, ev_p1) {
-  var F = {procname: "initYTvideo.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/videos.nim", line: 0};
+  var F = {procname: "initYTvideo.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/videos.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -32203,7 +32206,7 @@ function HEX3Aanonymous__pkgZhpx7680Zvideos_u36(self_p0, ev_p1) {
     var Temporary5;
 
 function HEX3Aanonymous__pkgZhpx7680Zvideos_u39(self_p0, ev_p1) {
-  var F = {procname: "initYTvideo.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/videos.nim", line: 0};
+  var F = {procname: "initYTvideo.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/videos.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -32212,7 +32215,7 @@ function HEX3Aanonymous__pkgZhpx7680Zvideos_u39(self_p0, ev_p1) {
     var Temporary6;
 
 function HEX3Aanonymous__pkgZhpx7680Zvideos_u42(self_p0, ev_p1) {
-  var F = {procname: "initYTvideo.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/videos.nim", line: 0};
+  var F = {procname: "initYTvideo.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/videos.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -32221,7 +32224,7 @@ function HEX3Aanonymous__pkgZhpx7680Zvideos_u42(self_p0, ev_p1) {
     var Temporary7;
 
 function HEX3Aanonymous__pkgZhpx7680Zvideos_u45(self_p0, ev_p1) {
-  var F = {procname: "initYTvideo.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/videos.nim", line: 0};
+  var F = {procname: "initYTvideo.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/videos.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -32230,7 +32233,7 @@ function HEX3Aanonymous__pkgZhpx7680Zvideos_u45(self_p0, ev_p1) {
     var Temporary8;
 
 function HEX3Aanonymous__pkgZhpx7680Zvideos_u48(self_p0, ev_p1) {
-  var F = {procname: "initYTvideo.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/videos.nim", line: 0};
+  var F = {procname: "initYTvideo.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/videos.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -32297,7 +32300,7 @@ function HEX3Aanonymous__pkgZhpx7680Zvideos_u678(scopeSelf_p0, inComponent_p1, c
 
   var result_3305112237 = null;
 
-  var F = {procname: "renderTag.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/videos.nim", line: 0};
+  var F = {procname: "renderTag.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/videos.nim", line: 0};
   framePtr = F;
     F.line = 14;
     F.filename = "videos.nim";
@@ -33268,7 +33271,7 @@ function render__pkgZhpx7680Zm66locks_u716(self_p0) {
 
 }
 
-function script__pkgZhpx7680Zproblem84ype_u902(self_p0) {
+function script__pkgZhpx7680Zproblem84ype_u904(self_p0) {
   var F = {procname: "problemType.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
@@ -33276,16 +33279,16 @@ function script__pkgZhpx7680Zproblem84ype_u902(self_p0) {
   
 }
 
-function HEX7E__pkgZhpx7680Zproblem84ype_u290(p_p0) {
+function HEX7E__pkgZhpx7680Zproblem84ype_u292(p_p0) {
     var Temporary1;
     var Temporary2;
     var Temporary3;
 
-  var result_3271557412 = null;
+  var result_3271557414 = null;
 
-  var F = {procname: "problemType.~", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/problemType.nim", line: 0};
+  var F = {procname: "problemType.~", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/problemType.nim", line: 0};
   framePtr = F;
-    F.line = 84;
+    F.line = 86;
     F.filename = "problemType.nim";
     if (p_p0.counted) {
     if (((usingSlides_3288334370[0] && (p_p0.kind == 0)) && (p_p0.nlevel == 0))) {
@@ -33308,15 +33311,15 @@ function HEX7E__pkgZhpx7680Zproblem84ype_u290(p_p0) {
     Temporary3 = null;
     }
     
-    F.line = 97;
-    var c318_3271557615 = 0;
-    F.line = 97;
-    var __r318_3271557648 = newSeq__pkgZhpx7680Zfonts_u802(0);
+    F.line = 99;
+    var c318_3271557617 = 0;
+    F.line = 99;
+    var __r318_3271557650 = newSeq__pkgZhpx7680Zfonts_u802(0);
     Label4: {
-      F.line = 96;
-      var i_3271557706 = 0;
-      F.line = 96;
-      var part_3271557707 = null;
+      F.line = 98;
+      var i_3271557708 = 0;
+      F.line = 98;
+      var part_3271557709 = null;
       F.line = 182;
       F.filename = "iterators.nim";
       var i_838896518 = 0;
@@ -33326,20 +33329,20 @@ function HEX7E__pkgZhpx7680Zproblem84ype_u290(p_p0) {
         F.line = 184;
           Label6: while (true) {
           if (!(i_838896518 < L_838896519)) break Label6;
-            F.line = 96;
+            F.line = 98;
             F.filename = "problemType.nim";
-            i_3271557706 = i_838896518;
-            F.line = 96;
-            part_3271557707 = p_p0.parts[chckIndx(i_838896518, 0, (p_p0.parts).length - 1)];
-            F.line = 97;
-            c318_3271557615 = addInt(c318_3271557615, 1);
+            i_3271557708 = i_838896518;
+            F.line = 98;
+            part_3271557709 = p_p0.parts[chckIndx(i_838896518, 0, (p_p0.parts).length - 1)];
+            F.line = 99;
+            c318_3271557617 = addInt(c318_3271557617, 1);
             F.line = 1484;
             F.filename = "macro_utils.nim";
-            scopedCycleCounter_1744830592[0] = c318_3271557615;
-            F.line = 97;
+            scopedCycleCounter_1744830592[0] = c318_3271557617;
+            F.line = 99;
             F.filename = "problemType.nim";
-            __r318_3271557648.push(tg2([100,105,118], [HEX7E__pkgZhpx7680Zproblem84ype_u290(part_3271557707)], true));;
-            F.line = 97;
+            __r318_3271557650.push(tg2([100,105,118], [HEX7E__pkgZhpx7680Zproblem84ype_u292(part_3271557709)], true));;
+            F.line = 99;
             scopedCycleCounter_1744830592[0] = 0;
             F.line = 13;
             F.filename = "iterators.nim";
@@ -33352,53 +33355,53 @@ function HEX7E__pkgZhpx7680Zproblem84ype_u290(p_p0) {
           }
       };
     };
-    result_3271557412 = tg2([100,105,118], [tg2([80,114,111,98,71,114,111,117,112], [tg2([115,112,97,110], [Temporary1, p_p0.prompt()], false), tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, p_p0.css, NTI33554449)}, NTI3271557423)], 0), [p_p0.content(), Temporary3], false), tg2([100,105,118], __r318_3271557648, true)], false)], true);
+    result_3271557414 = tg2([100,105,118], [tg2([80,114,111,98,71,114,111,117,112], [tg2([115,112,97,110], [Temporary1, p_p0.prompt()], false), tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, p_p0.css, NTI33554449)}, NTI3271557423)], 0), [p_p0.content(), Temporary3], false), tg2([100,105,118], __r318_3271557650, true)], false)], true);
   framePtr = F.prev;
 
-  return result_3271557412;
+  return result_3271557414;
 
 }
 
-function renderTag__pkgZhpx7680Zproblem84ype_u907(self_p0) {
-  var result_3271558029 = null;
+function renderTag__pkgZhpx7680Zproblem84ype_u909(self_p0) {
+  var result_3271558031 = null;
 
   var F = {procname: "problemType.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
   framePtr = F;
-    F.line = 102;
+    F.line = 104;
     F.filename = "problemType.nim";
-    result_3271558029 = tg2([100,105,118], [HEX7E__pkgZhpx7680Zproblem84ype_u290(self_p0.p.val)], true);
+    result_3271558031 = tg2([100,105,118], [HEX7E__pkgZhpx7680Zproblem84ype_u292(self_p0.p.val)], true);
   framePtr = F.prev;
 
-  return result_3271558029;
+  return result_3271558031;
 
 }
 
-function style__pkgZhpx7680Zproblem84ype_u904(self_p0) {
-  var result_3271558026 = [];
+function style__pkgZhpx7680Zproblem84ype_u906(self_p0) {
+  var result_3271558028 = [];
 
   var F = {procname: "problemType.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
   framePtr = F;
-    F.line = 99;
+    F.line = 101;
     F.filename = "problemType.nim";
-    result_3271558026 = nimCopy(null, [], NTI33554449);
+    result_3271558028 = nimCopy(null, [], NTI33554449);
   framePtr = F.prev;
 
-  return result_3271558026;
+  return result_3271558028;
 
 }
 
-function render__pkgZhpx7680Zproblem84ype_u929(self_p0) {
-  var result_3271558051 = null;
+function render__pkgZhpx7680Zproblem84ype_u931(self_p0) {
+  var result_3271558053 = null;
 
   var F = {procname: "problemType.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
   framePtr = F;
-    F.line = 99;
+    F.line = 101;
     F.filename = "problemType.nim";
     currentComponentsList_1744830755[0].push(self_p0);;
-    F.line = 99;
+    F.line = 101;
     currentComponent_1744830750[0] = nimCopy(null, self_p0.uniqCompId, NTI33554449);
-    F.line = 99;
-    script__pkgZhpx7680Zproblem84ype_u902(self_p0);
+    F.line = 101;
+    script__pkgZhpx7680Zproblem84ype_u904(self_p0);
     if ((self_p0.isCreated == false)) {
     F.line = 819;
     F.filename = "components.nim";
@@ -33407,20 +33410,20 @@ function render__pkgZhpx7680Zproblem84ype_u929(self_p0) {
     
     F.line = 819;
     self_p0.beforeUpdated(self_p0, null);
-    F.line = 99;
+    F.line = 101;
     F.filename = "problemType.nim";
-    result_3271558051 = renderTag__pkgZhpx7680Zproblem84ype_u907(self_p0);
-    F.line = 99;
-    tgadd(result_3271558051, [tg2([115,116,121,108,101], [textTag__pkgZhappyxZspaZtag_u407(style__pkgZhpx7680Zproblem84ype_u904(self_p0))], false)]);
+    result_3271558053 = renderTag__pkgZhpx7680Zproblem84ype_u909(self_p0);
+    F.line = 101;
+    tgadd(result_3271558053, [tg2([115,116,121,108,101], [textTag__pkgZhappyxZspaZtag_u407(style__pkgZhpx7680Zproblem84ype_u906(self_p0))], false)]);
     F.line = 819;
     F.filename = "components.nim";
     self_p0.rendered(self_p0, null);
-    F.line = 99;
+    F.line = 101;
     F.filename = "problemType.nim";
     currentComponent_1744830750[0] = nimCopy(null, [], NTI33554449);
   framePtr = F.prev;
 
-  return result_3271558051;
+  return result_3271558053;
 
 }
 
@@ -33512,7 +33515,7 @@ function initIcon__pkgZhpx7680Zimages_u24(uniqCompId_p0, stem_p1, scale_p2, css_
     var Temporary1;
 
 function HEX3Aanonymous__pkgZhpx7680Zimages_u80(self_p0, ev_p1) {
-  var F = {procname: "initIcon.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/images.nim", line: 0};
+  var F = {procname: "initIcon.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/images.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -33521,7 +33524,7 @@ function HEX3Aanonymous__pkgZhpx7680Zimages_u80(self_p0, ev_p1) {
     var Temporary2;
 
 function HEX3Aanonymous__pkgZhpx7680Zimages_u83(self_p0, ev_p1) {
-  var F = {procname: "initIcon.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/images.nim", line: 0};
+  var F = {procname: "initIcon.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/images.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -33530,7 +33533,7 @@ function HEX3Aanonymous__pkgZhpx7680Zimages_u83(self_p0, ev_p1) {
     var Temporary3;
 
 function HEX3Aanonymous__pkgZhpx7680Zimages_u86(self_p0, ev_p1) {
-  var F = {procname: "initIcon.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/images.nim", line: 0};
+  var F = {procname: "initIcon.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/images.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -33539,7 +33542,7 @@ function HEX3Aanonymous__pkgZhpx7680Zimages_u86(self_p0, ev_p1) {
     var Temporary4;
 
 function HEX3Aanonymous__pkgZhpx7680Zimages_u89(self_p0, ev_p1) {
-  var F = {procname: "initIcon.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/images.nim", line: 0};
+  var F = {procname: "initIcon.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/images.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -33548,7 +33551,7 @@ function HEX3Aanonymous__pkgZhpx7680Zimages_u89(self_p0, ev_p1) {
     var Temporary5;
 
 function HEX3Aanonymous__pkgZhpx7680Zimages_u92(self_p0, ev_p1) {
-  var F = {procname: "initIcon.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/images.nim", line: 0};
+  var F = {procname: "initIcon.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/images.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -33557,7 +33560,7 @@ function HEX3Aanonymous__pkgZhpx7680Zimages_u92(self_p0, ev_p1) {
     var Temporary6;
 
 function HEX3Aanonymous__pkgZhpx7680Zimages_u95(self_p0, ev_p1) {
-  var F = {procname: "initIcon.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/images.nim", line: 0};
+  var F = {procname: "initIcon.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/images.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -33566,7 +33569,7 @@ function HEX3Aanonymous__pkgZhpx7680Zimages_u95(self_p0, ev_p1) {
     var Temporary7;
 
 function HEX3Aanonymous__pkgZhpx7680Zimages_u98(self_p0, ev_p1) {
-  var F = {procname: "initIcon.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/images.nim", line: 0};
+  var F = {procname: "initIcon.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/images.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -33575,7 +33578,7 @@ function HEX3Aanonymous__pkgZhpx7680Zimages_u98(self_p0, ev_p1) {
     var Temporary8;
 
 function HEX3Aanonymous__pkgZhpx7680Zimages_u101(self_p0, ev_p1) {
-  var F = {procname: "initIcon.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/images.nim", line: 0};
+  var F = {procname: "initIcon.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/images.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -33670,7 +33673,7 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZslides26_u1182(scopeSelf_p0,
     var _res_3841983662 = Temporary1;
     F.line = 345;
     F.filename = "macro_utils.nim";
-    this.comp5840.slotData = _res_3841983662;
+    this.comp5890.slotData = _res_3841983662;
     result_3841983653 = _res_3841983662;
   framePtr = F.prev;
 
@@ -33691,44 +33694,44 @@ function renderTag__OOZOOZOOZcomponentsZlayoutZslides26_u1048(self_p0) {
     F.filename = "macro_utils.nim";
     var HEX3Aenv_838896524 = null;
     F.line = 296;
-    HEX3Aenv_838896524 = {m_type: NTI838900629, comp5840: null};
+    HEX3Aenv_838896524 = {m_type: NTI838900629, comp5890: null};
     F.line = 30;
     F.filename = "slides26.nim";
     F.line = 29;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary1 = ([99,111,109,112,53,56,52]).concat(self_p0.uniqCompId);
+    Temporary1 = ([99,111,109,112,53,56,57]).concat(self_p0.uniqCompId);
     }
     else {
-    Temporary1 = ([99,111,109,112,53,56,52]).concat(self_p0.uniqCompId,HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary1 = ([99,111,109,112,53,56,57]).concat(self_p0.uniqCompId,HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    var _comp584_3841983644 = initIcon__pkgZhpx7680Zimages_u24(Temporary1, [99,114,111,115,98,121,72,105,103,104,47,115,117,99,99,101,115,115,67,114,105,116,101,114,105,97], 2.0, [], []);
+    var _comp589_3841983644 = initIcon__pkgZhpx7680Zimages_u24(Temporary1, [99,114,111,115,98,121,72,105,103,104,47,115,117,99,99,101,115,115,67,114,105,116,101,114,105,97], 2.0, [], []);
     F.line = 29;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary2 = ([99,111,109,112,53,56,52]).concat(self_p0.uniqCompId);
+    Temporary2 = ([99,111,109,112,53,56,57]).concat(self_p0.uniqCompId);
     }
     else {
-    Temporary2 = ([99,111,109,112,53,56,52]).concat(self_p0.uniqCompId,HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary2 = ([99,111,109,112,53,56,57]).concat(self_p0.uniqCompId,HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    HEX3Aenv_838896524.comp5840 = rgcmp(toJSStr(Temporary2), _comp584_3841983644);
+    HEX3Aenv_838896524.comp5890 = rgcmp(toJSStr(Temporary2), _comp589_3841983644);
     F.line = 29;
     Temporary3 = HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZslides26_u1182.bind(HEX3Aenv_838896524); Temporary3.ClP_0 = HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZslides26_u1182; Temporary3.ClE_0 = HEX3Aenv_838896524;
-    HEX3Aenv_838896524.comp5840.slot = Temporary3;
+    HEX3Aenv_838896524.comp5890.slot = Temporary3;
     F.line = 29;
-    var data_comp584_3841983663 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838896524.comp5840);
+    var data_comp589_3841983663 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838896524.comp5890);
     F.line = 29;
-    addArgIter__pkgZhappyxZspaZtag_u537(data_comp584_3841983663, ([100,97,116,97,45]).concat(HEX3Aenv_838896524.comp5840.uniqCompId));
+    addArgIter__pkgZhappyxZspaZtag_u537(data_comp589_3841983663, ([100,97,116,97,45]).concat(HEX3Aenv_838896524.comp5890.uniqCompId));
     F.line = 29;
-    window.addEventListener('beforeunload', data_comp584_3841983663.exited);
+    window.addEventListener('beforeunload', data_comp589_3841983663.exited);
     F.line = 29;
-    window.addEventListener('pagehide', data_comp584_3841983663.pageHide);
+    window.addEventListener('pagehide', data_comp589_3841983663.pageHide);
     F.line = 29;
-    window.addEventListener('pageshow', data_comp584_3841983663.pageShow);
+    window.addEventListener('pageshow', data_comp589_3841983663.pageShow);
     F.line = 614;
     F.filename = "components.nim";
     var cclCounter_3841983718 = [0];
-    result_3841983514 = tg2([100,105,118], [tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("flex: 1 0 0; background-color: white; font-size: 1.5vw; padding: 1vw; border-radius: 4vw; display:flex; flex-direction: column;")}, NTI3841983146)], 0), [tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [116,101,120,116,45,97,108,105,103,110,58,32,99,101,110,116,101,114,59]}, NTI3841983176)], 0), [data_comp584_3841983663], false), self_p0.slot(self_p0, true, [83,108,105,100,101,67,114,105,116,101,114,105,97], false, cclCounter_3841983718, 0, self_p0.uniqCompId)], false)], true);
+    result_3841983514 = tg2([100,105,118], [tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("flex: 1 0 0; background-color: white; font-size: 1.5vw; padding: 1vw; border-radius: 4vw; display:flex; flex-direction: column;")}, NTI3841983146)], 0), [tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [116,101,120,116,45,97,108,105,103,110,58,32,99,101,110,116,101,114,59]}, NTI3841983176)], 0), [data_comp589_3841983663], false), self_p0.slot(self_p0, true, [83,108,105,100,101,67,114,105,116,101,114,105,97], false, cclCounter_3841983718, 0, self_p0.uniqCompId)], false)], true);
   framePtr = F.prev;
 
   return result_3841983514;
@@ -33822,7 +33825,7 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZslides26_u710(scopeSelf_p0, 
     var _res_3841983190 = Temporary1;
     F.line = 345;
     F.filename = "macro_utils.nim";
-    this.comp5800.slotData = _res_3841983190;
+    this.comp5850.slotData = _res_3841983190;
     result_3841983181 = _res_3841983190;
   framePtr = F.prev;
 
@@ -33843,44 +33846,44 @@ function renderTag__OOZOOZOOZcomponentsZlayoutZslides26_u576(self_p0) {
     F.filename = "macro_utils.nim";
     var HEX3Aenv_838896560 = null;
     F.line = 296;
-    HEX3Aenv_838896560 = {m_type: NTI838900649, comp5800: null};
+    HEX3Aenv_838896560 = {m_type: NTI838900649, comp5850: null};
     F.line = 24;
     F.filename = "slides26.nim";
     F.line = 23;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary1 = ([99,111,109,112,53,56,48]).concat(self_p0.uniqCompId);
+    Temporary1 = ([99,111,109,112,53,56,53]).concat(self_p0.uniqCompId);
     }
     else {
-    Temporary1 = ([99,111,109,112,53,56,48]).concat(self_p0.uniqCompId,HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary1 = ([99,111,109,112,53,56,53]).concat(self_p0.uniqCompId,HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    var _comp580_3841983172 = initIcon__pkgZhpx7680Zimages_u24(Temporary1, [99,114,111,115,98,121,72,105,103,104,47,108,101,97,114,110,105,110,103,84,97,114,103,101,116], 2.0, [], []);
+    var _comp585_3841983172 = initIcon__pkgZhpx7680Zimages_u24(Temporary1, [99,114,111,115,98,121,72,105,103,104,47,108,101,97,114,110,105,110,103,84,97,114,103,101,116], 2.0, [], []);
     F.line = 23;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary2 = ([99,111,109,112,53,56,48]).concat(self_p0.uniqCompId);
+    Temporary2 = ([99,111,109,112,53,56,53]).concat(self_p0.uniqCompId);
     }
     else {
-    Temporary2 = ([99,111,109,112,53,56,48]).concat(self_p0.uniqCompId,HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary2 = ([99,111,109,112,53,56,53]).concat(self_p0.uniqCompId,HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    HEX3Aenv_838896560.comp5800 = rgcmp(toJSStr(Temporary2), _comp580_3841983172);
+    HEX3Aenv_838896560.comp5850 = rgcmp(toJSStr(Temporary2), _comp585_3841983172);
     F.line = 23;
     Temporary3 = HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZslides26_u710.bind(HEX3Aenv_838896560); Temporary3.ClP_0 = HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZslides26_u710; Temporary3.ClE_0 = HEX3Aenv_838896560;
-    HEX3Aenv_838896560.comp5800.slot = Temporary3;
+    HEX3Aenv_838896560.comp5850.slot = Temporary3;
     F.line = 23;
-    var data_comp580_3841983191 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838896560.comp5800);
+    var data_comp585_3841983191 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838896560.comp5850);
     F.line = 23;
-    addArgIter__pkgZhappyxZspaZtag_u537(data_comp580_3841983191, ([100,97,116,97,45]).concat(HEX3Aenv_838896560.comp5800.uniqCompId));
+    addArgIter__pkgZhappyxZspaZtag_u537(data_comp585_3841983191, ([100,97,116,97,45]).concat(HEX3Aenv_838896560.comp5850.uniqCompId));
     F.line = 23;
-    window.addEventListener('beforeunload', data_comp580_3841983191.exited);
+    window.addEventListener('beforeunload', data_comp585_3841983191.exited);
     F.line = 23;
-    window.addEventListener('pagehide', data_comp580_3841983191.pageHide);
+    window.addEventListener('pagehide', data_comp585_3841983191.pageHide);
     F.line = 23;
-    window.addEventListener('pageshow', data_comp580_3841983191.pageShow);
+    window.addEventListener('pageshow', data_comp585_3841983191.pageShow);
     F.line = 614;
     F.filename = "components.nim";
     var cclCounter_3841983246 = [0];
-    result_3841983042 = tg2([100,105,118], [tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("background-color: white; font-size: 1.5vw; padding: 1vw; border-radius: 4vw;")}, NTI3841982846)], 0), [tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [116,101,120,116,45,97,108,105,103,110,58,32,99,101,110,116,101,114,59]}, NTI3841982876)], 0), [data_comp580_3841983191], false), self_p0.slot(self_p0, true, [83,108,105,100,101,84,97,114,103,101,116], false, cclCounter_3841983246, 0, self_p0.uniqCompId)], false)], true);
+    result_3841983042 = tg2([100,105,118], [tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("background-color: white; font-size: 1.5vw; padding: 1vw; border-radius: 4vw;")}, NTI3841982846)], 0), [tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [116,101,120,116,45,97,108,105,103,110,58,32,99,101,110,116,101,114,59]}, NTI3841982876)], 0), [data_comp585_3841983191], false), self_p0.slot(self_p0, true, [83,108,105,100,101,84,97,114,103,101,116], false, cclCounter_3841983246, 0, self_p0.uniqCompId)], false)], true);
   framePtr = F.prev;
 
   return result_3841983042;
@@ -39191,48 +39194,48 @@ function reRender__pkgZhpx7680Zm66locks_u165(self_p0) {
   
 }
 
-function reRender__pkgZhpx7680Zproblem84ype_u761(self_p0) {
+function reRender__pkgZhpx7680Zproblem84ype_u763(self_p0) {
   var F = {procname: "problemType.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 80;
     F.filename = "components.nim";
-    var activeElementHEX60gensym2_3271557897 = document.activeElement;
+    var activeElementHEX60gensym2_3271557899 = document.activeElement;
     F.line = 81;
-    var compTmpDataHEX60gensym2_3271557898 = render__pkgZhappyxZspaZrenderer_u5867(self_p0);
+    var compTmpDataHEX60gensym2_3271557900 = render__pkgZhappyxZspaZrenderer_u5867(self_p0);
     F.line = 82;
     del__pkgZhpx7680Zfonts_u507(currentComponentsList_1744830755, 0, chckRange(find__pkgZhpx7680Zfonts_u488(currentComponentsList_1744830755[0], self_p0), 0, 2147483647));
     F.line = 83;
-    addArgIter__pkgZhappyxZspaZtag_u537(compTmpDataHEX60gensym2_3271557898, ([100,97,116,97,45]).concat(self_p0.uniqCompId));
+    addArgIter__pkgZhappyxZspaZtag_u537(compTmpDataHEX60gensym2_3271557900, ([100,97,116,97,45]).concat(self_p0.uniqCompId));
     F.line = 87;
-    var currentHEX60gensym2_3271557908 = document.querySelector(toJSStr(([91,100,97,116,97,45]).concat(self_p0.uniqCompId,[93])));
+    var currentHEX60gensym2_3271557910 = document.querySelector(toJSStr(([91,100,97,116,97,45]).concat(self_p0.uniqCompId,[93])));
     F.line = 88;
-    var elementsHEX60gensym2_3271557941 = newSeq__pkgZhpx7680Zfonts_u548(0);
+    var elementsHEX60gensym2_3271557943 = newSeq__pkgZhpx7680Zfonts_u548(0);
     Label1: {
       F.line = 89;
-      var tagHEX60gensym2_3271557945 = null;
+      var tagHEX60gensym2_3271557947 = null;
       F.line = 249;
       F.filename = "iterators.nim";
       var i_838897022 = 0;
       F.line = 250;
-      var L_838897023 = (compTmpDataHEX60gensym2_3271557898.childNodes).length;
+      var L_838897023 = (compTmpDataHEX60gensym2_3271557900.childNodes).length;
       Label2: {
         F.line = 251;
           Label3: while (true) {
           if (!(i_838897022 < L_838897023)) break Label3;
             F.line = 89;
             F.filename = "components.nim";
-            tagHEX60gensym2_3271557945 = compTmpDataHEX60gensym2_3271557898.childNodes[chckIndx(i_838897022, 0, (compTmpDataHEX60gensym2_3271557898.childNodes).length - 1)];
-            if (!((currentHEX60gensym2_3271557908 == null))) {
+            tagHEX60gensym2_3271557947 = compTmpDataHEX60gensym2_3271557900.childNodes[chckIndx(i_838897022, 0, (compTmpDataHEX60gensym2_3271557900.childNodes).length - 1)];
+            if (!((currentHEX60gensym2_3271557910 == null))) {
             F.line = 91;
-            elementsHEX60gensym2_3271557941.push(currentHEX60gensym2_3271557908);;
+            elementsHEX60gensym2_3271557943.push(currentHEX60gensym2_3271557910);;
             F.line = 92;
-            currentHEX60gensym2_3271557908 = currentHEX60gensym2_3271557908.nextSibling;
+            currentHEX60gensym2_3271557910 = currentHEX60gensym2_3271557910.nextSibling;
             }
             
             F.line = 13;
             F.filename = "iterators.nim";
             i_838897022 += 1;
-            if (!(((compTmpDataHEX60gensym2_3271557898.childNodes).length == L_838897023))) {
+            if (!(((compTmpDataHEX60gensym2_3271557900.childNodes).length == L_838897023))) {
             F.line = 254;
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.2.10/lib/system/iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
@@ -39243,13 +39246,13 @@ function reRender__pkgZhpx7680Zproblem84ype_u761(self_p0) {
     Label4: {
       F.line = 94;
       F.filename = "components.nim";
-      var iHEX60gensym2_3271557961 = 0;
+      var iHEX60gensym2_3271557963 = 0;
       F.line = 6;
       F.filename = "iterators_1.nim";
       var colontmp__838897026 = 0;
       F.line = 94;
       F.filename = "components.nim";
-      colontmp__838897026 = subInt((elementsHEX60gensym2_3271557941).length, 1);
+      colontmp__838897026 = subInt((elementsHEX60gensym2_3271557943).length, 1);
       F.line = 33;
       F.filename = "iterators_1.nim";
       var res_838897027 = colontmp__838897026;
@@ -39259,26 +39262,26 @@ function reRender__pkgZhpx7680Zproblem84ype_u761(self_p0) {
           if (!(0 <= res_838897027)) break Label6;
             F.line = 94;
             F.filename = "components.nim";
-            iHEX60gensym2_3271557961 = res_838897027;
+            iHEX60gensym2_3271557963 = res_838897027;
             F.line = 96;
-            var elemHEX60gensym2_3271557962 = elementsHEX60gensym2_3271557941[chckIndx(iHEX60gensym2_3271557961, 0, (elementsHEX60gensym2_3271557941).length - 1)];
+            var elemHEX60gensym2_3271557964 = elementsHEX60gensym2_3271557943[chckIndx(iHEX60gensym2_3271557963, 0, (elementsHEX60gensym2_3271557943).length - 1)];
             F.line = 97;
-            var tagHEX60gensym2_3271557963 = compTmpDataHEX60gensym2_3271557898.childNodes[chckIndx(iHEX60gensym2_3271557961, 0, (compTmpDataHEX60gensym2_3271557898.childNodes).length - 1)];
+            var tagHEX60gensym2_3271557965 = compTmpDataHEX60gensym2_3271557900.childNodes[chckIndx(iHEX60gensym2_3271557963, 0, (compTmpDataHEX60gensym2_3271557900.childNodes).length - 1)];
             F.line = 98;
-            var parentHEX60gensym2_3271557964 = elemHEX60gensym2_3271557962.parentElement;
+            var parentHEX60gensym2_3271557966 = elemHEX60gensym2_3271557964.parentElement;
             F.line = 99;
-            var idxHEX60gensym2_3271557965 = index__pkgZhappyxZspaZcomponents_u74(elemHEX60gensym2_3271557962);
+            var idxHEX60gensym2_3271557967 = index__pkgZhappyxZspaZcomponents_u74(elemHEX60gensym2_3271557964);
             F.line = 100;
-            var lengthHEX60gensym2_3271557969 = (parentHEX60gensym2_3271557964.childNodes).length;
+            var lengthHEX60gensym2_3271557971 = (parentHEX60gensym2_3271557966.childNodes).length;
             F.line = 102;
-            elemHEX60gensym2_3271557962.remove();
-            if ((subInt(lengthHEX60gensym2_3271557969, 1) == idxHEX60gensym2_3271557965)) {
+            elemHEX60gensym2_3271557964.remove();
+            if ((subInt(lengthHEX60gensym2_3271557971, 1) == idxHEX60gensym2_3271557967)) {
             F.line = 104;
-            parentHEX60gensym2_3271557964.appendChild(tagHEX60gensym2_3271557963);
+            parentHEX60gensym2_3271557966.appendChild(tagHEX60gensym2_3271557965);
             }
             else {
               F.line = 106;
-            parentHEX60gensym2_3271557964.insertBefore(tagHEX60gensym2_3271557963, parentHEX60gensym2_3271557964.childNodes[chckIndx(idxHEX60gensym2_3271557965, 0, (parentHEX60gensym2_3271557964.childNodes).length - 1)]);
+            parentHEX60gensym2_3271557966.insertBefore(tagHEX60gensym2_3271557965, parentHEX60gensym2_3271557966.childNodes[chckIndx(idxHEX60gensym2_3271557967, 0, (parentHEX60gensym2_3271557966.childNodes).length - 1)]);
             }
             
             F.line = 39;
@@ -39287,20 +39290,20 @@ function reRender__pkgZhpx7680Zproblem84ype_u761(self_p0) {
           }
       };
     };
-    if (activeElementHEX60gensym2_3271557897.hasAttribute("id")) {
+    if (activeElementHEX60gensym2_3271557899.hasAttribute("id")) {
     F.line = 109;
     F.filename = "components.nim";
-    var actElemHEX60gensym2_3271557970 = document.getElementById(activeElementHEX60gensym2_3271557897.id);
-    if (!((actElemHEX60gensym2_3271557970 == null))) {
+    var actElemHEX60gensym2_3271557972 = document.getElementById(activeElementHEX60gensym2_3271557899.id);
+    if (!((actElemHEX60gensym2_3271557972 == null))) {
     F.line = 111;
-    actElemHEX60gensym2_3271557970.focus();
-    if (contains__pkgZhappyxZspaZrenderer_u5754(["INPUT", "TEXTAREA"], actElemHEX60gensym2_3271557970.nodeName)) {
+    actElemHEX60gensym2_3271557972.focus();
+    if (contains__pkgZhappyxZspaZrenderer_u5754(["INPUT", "TEXTAREA"], actElemHEX60gensym2_3271557972.nodeName)) {
     F.line = 114;
-    var oldActiveElemHEX60gensym2_3271558016 = activeElementHEX60gensym2_3271557897;
+    var oldActiveElemHEX60gensym2_3271558018 = activeElementHEX60gensym2_3271557899;
     F.line = 115;
-    var currentActiveElemHEX60gensym2_3271558017 = actElemHEX60gensym2_3271557970;
+    var currentActiveElemHEX60gensym2_3271558019 = actElemHEX60gensym2_3271557972;
     F.line = 116;
-    currentActiveElemHEX60gensym2_3271558017.setSelectionRange(oldActiveElemHEX60gensym2_3271558016.selectionStart, oldActiveElemHEX60gensym2_3271558016.selectionEnd, oldActiveElemHEX60gensym2_3271558016.selectionDirection);
+    currentActiveElemHEX60gensym2_3271558019.setSelectionRange(oldActiveElemHEX60gensym2_3271558018.selectionStart, oldActiveElemHEX60gensym2_3271558018.selectionEnd, oldActiveElemHEX60gensym2_3271558018.selectionDirection);
     }
     
     }
@@ -39309,7 +39312,7 @@ function reRender__pkgZhpx7680Zproblem84ype_u761(self_p0) {
     
     F.line = 125;
     self_p0.updated(self_p0, null);
-    F.line = 99;
+    F.line = 101;
     F.filename = "problemType.nim";
     self_p0.rendered(self_p0, null);
   framePtr = F.prev;
@@ -40199,48 +40202,48 @@ function reRender__pkgZhpx7680Zjsx71raph_u750(self_p0) {
   
 }
 
-function reRender__OOZlesson84arget_u179(self_p0) {
+function reRender__OOZlesson84arget_u175(self_p0) {
   var F = {procname: "lessonTarget.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 80;
     F.filename = "components.nim";
-    var activeElementHEX60gensym0_4026532035 = document.activeElement;
+    var activeElementHEX60gensym0_4026532031 = document.activeElement;
     F.line = 81;
-    var compTmpDataHEX60gensym0_4026532036 = render__pkgZhappyxZspaZrenderer_u5867(self_p0);
+    var compTmpDataHEX60gensym0_4026532032 = render__pkgZhappyxZspaZrenderer_u5867(self_p0);
     F.line = 82;
     del__pkgZhpx7680Zfonts_u507(currentComponentsList_1744830755, 0, chckRange(find__pkgZhpx7680Zfonts_u488(currentComponentsList_1744830755[0], self_p0), 0, 2147483647));
     F.line = 83;
-    addArgIter__pkgZhappyxZspaZtag_u537(compTmpDataHEX60gensym0_4026532036, ([100,97,116,97,45]).concat(self_p0.uniqCompId));
+    addArgIter__pkgZhappyxZspaZtag_u537(compTmpDataHEX60gensym0_4026532032, ([100,97,116,97,45]).concat(self_p0.uniqCompId));
     F.line = 87;
-    var currentHEX60gensym0_4026532106 = document.querySelector(toJSStr(([91,100,97,116,97,45]).concat(self_p0.uniqCompId,[93])));
+    var currentHEX60gensym0_4026532102 = document.querySelector(toJSStr(([91,100,97,116,97,45]).concat(self_p0.uniqCompId,[93])));
     F.line = 88;
-    var elementsHEX60gensym0_4026532139 = newSeq__pkgZhpx7680Zfonts_u548(0);
+    var elementsHEX60gensym0_4026532135 = newSeq__pkgZhpx7680Zfonts_u548(0);
     Label1: {
       F.line = 89;
-      var tagHEX60gensym0_4026532143 = null;
+      var tagHEX60gensym0_4026532139 = null;
       F.line = 249;
       F.filename = "iterators.nim";
       var i_838897086 = 0;
       F.line = 250;
-      var L_838897087 = (compTmpDataHEX60gensym0_4026532036.childNodes).length;
+      var L_838897087 = (compTmpDataHEX60gensym0_4026532032.childNodes).length;
       Label2: {
         F.line = 251;
           Label3: while (true) {
           if (!(i_838897086 < L_838897087)) break Label3;
             F.line = 89;
             F.filename = "components.nim";
-            tagHEX60gensym0_4026532143 = compTmpDataHEX60gensym0_4026532036.childNodes[chckIndx(i_838897086, 0, (compTmpDataHEX60gensym0_4026532036.childNodes).length - 1)];
-            if (!((currentHEX60gensym0_4026532106 == null))) {
+            tagHEX60gensym0_4026532139 = compTmpDataHEX60gensym0_4026532032.childNodes[chckIndx(i_838897086, 0, (compTmpDataHEX60gensym0_4026532032.childNodes).length - 1)];
+            if (!((currentHEX60gensym0_4026532102 == null))) {
             F.line = 91;
-            elementsHEX60gensym0_4026532139.push(currentHEX60gensym0_4026532106);;
+            elementsHEX60gensym0_4026532135.push(currentHEX60gensym0_4026532102);;
             F.line = 92;
-            currentHEX60gensym0_4026532106 = currentHEX60gensym0_4026532106.nextSibling;
+            currentHEX60gensym0_4026532102 = currentHEX60gensym0_4026532102.nextSibling;
             }
             
             F.line = 13;
             F.filename = "iterators.nim";
             i_838897086 += 1;
-            if (!(((compTmpDataHEX60gensym0_4026532036.childNodes).length == L_838897087))) {
+            if (!(((compTmpDataHEX60gensym0_4026532032.childNodes).length == L_838897087))) {
             F.line = 254;
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.2.10/lib/system/iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
@@ -40251,13 +40254,13 @@ function reRender__OOZlesson84arget_u179(self_p0) {
     Label4: {
       F.line = 94;
       F.filename = "components.nim";
-      var iHEX60gensym0_4026532241 = 0;
+      var iHEX60gensym0_4026532237 = 0;
       F.line = 6;
       F.filename = "iterators_1.nim";
       var colontmp__838897090 = 0;
       F.line = 94;
       F.filename = "components.nim";
-      colontmp__838897090 = subInt((elementsHEX60gensym0_4026532139).length, 1);
+      colontmp__838897090 = subInt((elementsHEX60gensym0_4026532135).length, 1);
       F.line = 33;
       F.filename = "iterators_1.nim";
       var res_838897091 = colontmp__838897090;
@@ -40267,26 +40270,26 @@ function reRender__OOZlesson84arget_u179(self_p0) {
           if (!(0 <= res_838897091)) break Label6;
             F.line = 94;
             F.filename = "components.nim";
-            iHEX60gensym0_4026532241 = res_838897091;
+            iHEX60gensym0_4026532237 = res_838897091;
             F.line = 96;
-            var elemHEX60gensym0_4026532350 = elementsHEX60gensym0_4026532139[chckIndx(iHEX60gensym0_4026532241, 0, (elementsHEX60gensym0_4026532139).length - 1)];
+            var elemHEX60gensym0_4026532346 = elementsHEX60gensym0_4026532135[chckIndx(iHEX60gensym0_4026532237, 0, (elementsHEX60gensym0_4026532135).length - 1)];
             F.line = 97;
-            var tagHEX60gensym0_4026532459 = compTmpDataHEX60gensym0_4026532036.childNodes[chckIndx(iHEX60gensym0_4026532241, 0, (compTmpDataHEX60gensym0_4026532036.childNodes).length - 1)];
+            var tagHEX60gensym0_4026532455 = compTmpDataHEX60gensym0_4026532032.childNodes[chckIndx(iHEX60gensym0_4026532237, 0, (compTmpDataHEX60gensym0_4026532032.childNodes).length - 1)];
             F.line = 98;
-            var parentHEX60gensym0_4026532460 = elemHEX60gensym0_4026532350.parentElement;
+            var parentHEX60gensym0_4026532456 = elemHEX60gensym0_4026532346.parentElement;
             F.line = 99;
-            var idxHEX60gensym0_4026532461 = index__pkgZhappyxZspaZcomponents_u74(elemHEX60gensym0_4026532350);
+            var idxHEX60gensym0_4026532457 = index__pkgZhappyxZspaZcomponents_u74(elemHEX60gensym0_4026532346);
             F.line = 100;
-            var lengthHEX60gensym0_4026532509 = (parentHEX60gensym0_4026532460.childNodes).length;
+            var lengthHEX60gensym0_4026532505 = (parentHEX60gensym0_4026532456.childNodes).length;
             F.line = 102;
-            elemHEX60gensym0_4026532350.remove();
-            if ((subInt(lengthHEX60gensym0_4026532509, 1) == idxHEX60gensym0_4026532461)) {
+            elemHEX60gensym0_4026532346.remove();
+            if ((subInt(lengthHEX60gensym0_4026532505, 1) == idxHEX60gensym0_4026532457)) {
             F.line = 104;
-            parentHEX60gensym0_4026532460.appendChild(tagHEX60gensym0_4026532459);
+            parentHEX60gensym0_4026532456.appendChild(tagHEX60gensym0_4026532455);
             }
             else {
               F.line = 106;
-            parentHEX60gensym0_4026532460.insertBefore(tagHEX60gensym0_4026532459, parentHEX60gensym0_4026532460.childNodes[chckIndx(idxHEX60gensym0_4026532461, 0, (parentHEX60gensym0_4026532460.childNodes).length - 1)]);
+            parentHEX60gensym0_4026532456.insertBefore(tagHEX60gensym0_4026532455, parentHEX60gensym0_4026532456.childNodes[chckIndx(idxHEX60gensym0_4026532457, 0, (parentHEX60gensym0_4026532456.childNodes).length - 1)]);
             }
             
             F.line = 39;
@@ -40295,20 +40298,20 @@ function reRender__OOZlesson84arget_u179(self_p0) {
           }
       };
     };
-    if (activeElementHEX60gensym0_4026532035.hasAttribute("id")) {
+    if (activeElementHEX60gensym0_4026532031.hasAttribute("id")) {
     F.line = 109;
     F.filename = "components.nim";
-    var actElemHEX60gensym0_4026532673 = document.getElementById(activeElementHEX60gensym0_4026532035.id);
-    if (!((actElemHEX60gensym0_4026532673 == null))) {
+    var actElemHEX60gensym0_4026532669 = document.getElementById(activeElementHEX60gensym0_4026532031.id);
+    if (!((actElemHEX60gensym0_4026532669 == null))) {
     F.line = 111;
-    actElemHEX60gensym0_4026532673.focus();
-    if (contains__pkgZhappyxZspaZrenderer_u5754(["INPUT", "TEXTAREA"], actElemHEX60gensym0_4026532673.nodeName)) {
+    actElemHEX60gensym0_4026532669.focus();
+    if (contains__pkgZhappyxZspaZrenderer_u5754(["INPUT", "TEXTAREA"], actElemHEX60gensym0_4026532669.nodeName)) {
     F.line = 114;
-    var oldActiveElemHEX60gensym0_4026532761 = activeElementHEX60gensym0_4026532035;
+    var oldActiveElemHEX60gensym0_4026532757 = activeElementHEX60gensym0_4026532031;
     F.line = 115;
-    var currentActiveElemHEX60gensym0_4026532762 = actElemHEX60gensym0_4026532673;
+    var currentActiveElemHEX60gensym0_4026532758 = actElemHEX60gensym0_4026532669;
     F.line = 116;
-    currentActiveElemHEX60gensym0_4026532762.setSelectionRange(oldActiveElemHEX60gensym0_4026532761.selectionStart, oldActiveElemHEX60gensym0_4026532761.selectionEnd, oldActiveElemHEX60gensym0_4026532761.selectionDirection);
+    currentActiveElemHEX60gensym0_4026532758.setSelectionRange(oldActiveElemHEX60gensym0_4026532757.selectionStart, oldActiveElemHEX60gensym0_4026532757.selectionEnd, oldActiveElemHEX60gensym0_4026532757.selectionDirection);
     }
     
     }
@@ -42558,7 +42561,7 @@ function reRender__pkgZhappyxZspaZrenderer_u5871(self_p0) {
     else {
     if (isObj(self_p0.m_type, NTI3271557573)) {
     F.line = 410;
-    reRender__pkgZhpx7680Zproblem84ype_u761(self_p0);
+    reRender__pkgZhpx7680Zproblem84ype_u763(self_p0);
     }
     else {
     if (isObj(self_p0.m_type, NTI3841983301)) {
@@ -42596,9 +42599,9 @@ function reRender__pkgZhappyxZspaZrenderer_u5871(self_p0) {
     reRender__pkgZhpx7680Zjsx71raph_u750(self_p0);
     }
     else {
-    if (isObj(self_p0.m_type, NTI4026531885)) {
+    if (isObj(self_p0.m_type, NTI4026531883)) {
     F.line = 410;
-    reRender__OOZlesson84arget_u179(self_p0);
+    reRender__OOZlesson84arget_u175(self_p0);
     }
     else {
     if (isObj(self_p0.m_type, NTI4060086969)) {
@@ -42695,7 +42698,7 @@ function initFitText__pkgZhpx7680Zmarkup_u1664(uniqCompId_p0, text_p1, css_p2, c
     var Temporary1;
 
 function HEX3Aanonymous__pkgZhpx7680Zmarkup_u1680(self_p0, ev_p1) {
-  var F = {procname: "initFitText.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/markup.nim", line: 0};
+  var F = {procname: "initFitText.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/markup.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -42704,7 +42707,7 @@ function HEX3Aanonymous__pkgZhpx7680Zmarkup_u1680(self_p0, ev_p1) {
     var Temporary2;
 
 function HEX3Aanonymous__pkgZhpx7680Zmarkup_u1683(self_p0, ev_p1) {
-  var F = {procname: "initFitText.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/markup.nim", line: 0};
+  var F = {procname: "initFitText.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/markup.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -42713,7 +42716,7 @@ function HEX3Aanonymous__pkgZhpx7680Zmarkup_u1683(self_p0, ev_p1) {
     var Temporary3;
 
 function HEX3Aanonymous__pkgZhpx7680Zmarkup_u1686(self_p0, ev_p1) {
-  var F = {procname: "initFitText.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/markup.nim", line: 0};
+  var F = {procname: "initFitText.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/markup.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -42722,7 +42725,7 @@ function HEX3Aanonymous__pkgZhpx7680Zmarkup_u1686(self_p0, ev_p1) {
     var Temporary4;
 
 function HEX3Aanonymous__pkgZhpx7680Zmarkup_u1689(self_p0, ev_p1) {
-  var F = {procname: "initFitText.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/markup.nim", line: 0};
+  var F = {procname: "initFitText.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/markup.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -42731,7 +42734,7 @@ function HEX3Aanonymous__pkgZhpx7680Zmarkup_u1689(self_p0, ev_p1) {
     var Temporary5;
 
 function HEX3Aanonymous__pkgZhpx7680Zmarkup_u1692(self_p0, ev_p1) {
-  var F = {procname: "initFitText.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/markup.nim", line: 0};
+  var F = {procname: "initFitText.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/markup.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -42740,7 +42743,7 @@ function HEX3Aanonymous__pkgZhpx7680Zmarkup_u1692(self_p0, ev_p1) {
     var Temporary6;
 
 function HEX3Aanonymous__pkgZhpx7680Zmarkup_u1695(self_p0, ev_p1) {
-  var F = {procname: "initFitText.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/markup.nim", line: 0};
+  var F = {procname: "initFitText.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/markup.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -42749,7 +42752,7 @@ function HEX3Aanonymous__pkgZhpx7680Zmarkup_u1695(self_p0, ev_p1) {
     var Temporary7;
 
 function HEX3Aanonymous__pkgZhpx7680Zmarkup_u1698(self_p0, ev_p1) {
-  var F = {procname: "initFitText.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/markup.nim", line: 0};
+  var F = {procname: "initFitText.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/markup.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -42758,7 +42761,7 @@ function HEX3Aanonymous__pkgZhpx7680Zmarkup_u1698(self_p0, ev_p1) {
     var Temporary8;
 
 function HEX3Aanonymous__pkgZhpx7680Zmarkup_u1701(self_p0, ev_p1) {
-  var F = {procname: "initFitText.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/markup.nim", line: 0};
+  var F = {procname: "initFitText.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/markup.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -42825,7 +42828,7 @@ function HEX3Aanonymous__pkgZhpx7680Zdice66ear_u1952(scopeSelf_p0, inComponent_p
 
   var result_3992979367 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/diceBear.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/diceBear.nim", line: 0};
   framePtr = F;
     F.line = 226;
     F.filename = "diceBear.nim";
@@ -42848,7 +42851,7 @@ function HEX3Aanonymous__pkgZhpx7680Zdice66ear_u1952(scopeSelf_p0, inComponent_p
     var _res_3992979376 = Temporary1;
     F.line = 345;
     F.filename = "macro_utils.nim";
-    this.comp6200.slotData = _res_3992979376;
+    this.comp6250.slotData = _res_3992979376;
     result_3992979367 = _res_3992979376;
   framePtr = F.prev;
 
@@ -42942,7 +42945,7 @@ function nsuJoinSep(a_p0, sep_p1) {
 function openPeepHtml__pkgZhpx7680Zdice66ear_u710(seed_p0, gender_p1, flip_p2, otherQueries_p3) {
   var result_3992978135 = [];
 
-  var F = {procname: "diceBear.openPeepHtml", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/diceBear.nim", line: 0};
+  var F = {procname: "diceBear.openPeepHtml", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/diceBear.nim", line: 0};
   framePtr = F;
     F.line = 136;
     F.filename = "diceBear.nim";
@@ -43104,7 +43107,7 @@ function openPeepHtml__pkgZhpx7680Zdice66ear_u710(seed_p0, gender_p1, flip_p2, o
 function openPeepQnA__pkgZhpx7680Zdice66ear_u933(seed_p0, gender_p1, flip_p2, mood_p3, otherQueries_p4) {
   var result_3992978359 = [];
 
-  var F = {procname: "diceBear.openPeepQnA", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/diceBear.nim", line: 0};
+  var F = {procname: "diceBear.openPeepQnA", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/diceBear.nim", line: 0};
   framePtr = F;
     F.line = 172;
     F.filename = "diceBear.nim";
@@ -43335,7 +43338,7 @@ function openPeepQnA__pkgZhpx7680Zdice66ear_u933(seed_p0, gender_p1, flip_p2, mo
 function openPeepQnA__pkgZhpx7680Zdice66ear_u1269(p_p0, seed_p1, flip_p2, otherQueries_p3) {
   var result_3992978694 = [];
 
-  var F = {procname: "diceBear.openPeepQnA", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/diceBear.nim", line: 0};
+  var F = {procname: "diceBear.openPeepQnA", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/diceBear.nim", line: 0};
   framePtr = F;
     F.line = 185;
     F.filename = "diceBear.nim";
@@ -43351,7 +43354,7 @@ function HEX3Aanonymous__pkgZhpx7680Zdice66ear_u2956(scopeSelf_p0, inComponent_p
 
   var result_3992980371 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/diceBear.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/diceBear.nim", line: 0};
   framePtr = F;
     F.line = 226;
     F.filename = "diceBear.nim";
@@ -43374,7 +43377,7 @@ function HEX3Aanonymous__pkgZhpx7680Zdice66ear_u2956(scopeSelf_p0, inComponent_p
     var _res_3992980380 = Temporary1;
     F.line = 345;
     F.filename = "macro_utils.nim";
-    this.comp6371.slotData = _res_3992980380;
+    this.comp6421.slotData = _res_3992980380;
     result_3992980371 = _res_3992980380;
   framePtr = F.prev;
 
@@ -43387,7 +43390,7 @@ function HEX3Aanonymous__pkgZhpx7680Zdice66ear_u3960(scopeSelf_p0, inComponent_p
 
   var result_3992981375 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/diceBear.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/diceBear.nim", line: 0};
   framePtr = F;
     F.line = 226;
     F.filename = "diceBear.nim";
@@ -43410,7 +43413,7 @@ function HEX3Aanonymous__pkgZhpx7680Zdice66ear_u3960(scopeSelf_p0, inComponent_p
     var _res_3992981384 = Temporary1;
     F.line = 345;
     F.filename = "macro_utils.nim";
-    this.comp6542.slotData = _res_3992981384;
+    this.comp6592.slotData = _res_3992981384;
     result_3992981375 = _res_3992981384;
   framePtr = F.prev;
 
@@ -43423,7 +43426,7 @@ function HEX3Aanonymous__pkgZhpx7680Zdice66ear_u4964(scopeSelf_p0, inComponent_p
 
   var result_3992982379 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/diceBear.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/diceBear.nim", line: 0};
   framePtr = F;
     F.line = 226;
     F.filename = "diceBear.nim";
@@ -43446,7 +43449,7 @@ function HEX3Aanonymous__pkgZhpx7680Zdice66ear_u4964(scopeSelf_p0, inComponent_p
     var _res_3992982388 = Temporary1;
     F.line = 345;
     F.filename = "macro_utils.nim";
-    this.comp6713.slotData = _res_3992982388;
+    this.comp6763.slotData = _res_3992982388;
     result_3992982379 = _res_3992982388;
   framePtr = F.prev;
 
@@ -43519,48 +43522,48 @@ function HEX3Aanonymous__pkgZhpx7680Zdice66ear_u1855(scopeSelf_p0, inComponent_p
 
   var result_3992979270 = null;
 
-  var F = {procname: "renderTag.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/diceBear.nim", line: 0};
+  var F = {procname: "renderTag.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/diceBear.nim", line: 0};
   framePtr = F;
     F.line = 296;
     F.filename = "macro_utils.nim";
     var HEX3Aenv_838896611 = null;
     F.line = 296;
-    HEX3Aenv_838896611 = {m_type: NTI838900671, comp6200: null, comp6371: null, comp6542: null, comp6713: null};
+    HEX3Aenv_838896611 = {m_type: NTI838900671, comp6250: null, comp6421: null, comp6592: null, comp6763: null};
     F.line = 245;
     F.filename = "diceBear.nim";
     F.line = 245;
     if ((inCycle_p3 && inComponent_p1)) {
     F.line = 226;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary2 = ([99,111,109,112,54,50,48]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary2 = ([99,111,109,112,54,50,53]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary2 = ([99,111,109,112,54,50,48]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary2 = ([99,111,109,112,54,50,53]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    var _comp620_3992979358 = initFitText__pkgZhpx7680Zmarkup_u1664(Temporary2, toJSStr(this.self0.peep1.val.Field0), "", "");
+    var _comp625_3992979358 = initFitText__pkgZhpx7680Zmarkup_u1664(Temporary2, toJSStr(this.self0.peep1.val.Field0), "", "");
     F.line = 226;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary3 = ([99,111,109,112,54,50,48]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary3 = ([99,111,109,112,54,50,53]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary3 = ([99,111,109,112,54,50,48]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary3 = ([99,111,109,112,54,50,53]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    HEX3Aenv_838896611.comp6200 = rgcmp(toJSStr(Temporary3), _comp620_3992979358);
+    HEX3Aenv_838896611.comp6250 = rgcmp(toJSStr(Temporary3), _comp625_3992979358);
     F.line = 226;
     Temporary4 = HEX3Aanonymous__pkgZhpx7680Zdice66ear_u1952.bind(HEX3Aenv_838896611); Temporary4.ClP_0 = HEX3Aanonymous__pkgZhpx7680Zdice66ear_u1952; Temporary4.ClE_0 = HEX3Aenv_838896611;
-    HEX3Aenv_838896611.comp6200.slot = Temporary4;
+    HEX3Aenv_838896611.comp6250.slot = Temporary4;
     F.line = 226;
-    var data_comp620_3992979377 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838896611.comp6200);
+    var data_comp625_3992979377 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838896611.comp6250);
     F.line = 226;
-    addArgIter__pkgZhappyxZspaZtag_u537(data_comp620_3992979377, ([100,97,116,97,45]).concat(HEX3Aenv_838896611.comp6200.uniqCompId));
+    addArgIter__pkgZhappyxZspaZtag_u537(data_comp625_3992979377, ([100,97,116,97,45]).concat(HEX3Aenv_838896611.comp6250.uniqCompId));
     F.line = 226;
-    window.addEventListener('beforeunload', data_comp620_3992979377.exited);
+    window.addEventListener('beforeunload', data_comp625_3992979377.exited);
     F.line = 226;
-    window.addEventListener('pagehide', data_comp620_3992979377.pageHide);
+    window.addEventListener('pagehide', data_comp625_3992979377.pageHide);
     F.line = 226;
-    window.addEventListener('pageshow', data_comp620_3992979377.pageShow);
+    window.addEventListener('pageshow', data_comp625_3992979377.pageShow);
     F.line = 227;
     var baseStyle_3992979378 = [119,105,100,116,104,58,32,49,48,48,37,59];
     if (this.self0.showAnswer.val) {
@@ -43647,41 +43650,41 @@ function HEX3Aanonymous__pkgZhpx7680Zdice66ear_u1855(scopeSelf_p0, inComponent_p
     Temporary16 = tg2([100,105,118], [tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [99,111,108,111,114,58,32,114,101,100,59]}, NTI3992979518)], 0), [tg4([87,114,111,110,103,33], true, [], false)], false)], true);
     }
     
-    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [data_comp620_3992979377, tg2([100,105,118], [], true), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.self0.peep1.val, [97,97,97,97,97], false, [])}, NTI3992978932), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary5, NTI33554449)}, NTI3992978932)], 0), [], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.peep1Right1, [97,97,97,97,97], false, [])}, NTI3992978967), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary6, NTI33554449)}, NTI3992978967)], 0), [], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.peep1Wrong2, [97,97,97,97,97], false, [])}, NTI3992979002), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary7, NTI33554449)}, NTI3992979002)], 0), [], false), Temporary8, tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary9, NTI33554449)}, NTI3992979061)], 0), [Temporary10], false)], false), tg2([100,105,118], [this.self0.question.val()], false), tg2([100,105,118], [tg2([104,50], [tg4(this.self0.peep2.val.Field0, true, [], false)], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.self0.peep2.val, [97,97,97,97,97], true, [])}, NTI3992979307), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary11, NTI33554449)}, NTI3992979307)], 0), [], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.peep2Right3, [97,97,97,97,97], true, [])}, NTI3992979342), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary12, NTI33554449)}, NTI3992979342)], 0), [], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.peep2Wrong4, [97,97,97,97,97], true, [])}, NTI3992979377), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary13, NTI33554449)}, NTI3992979377)], 0), [], false), Temporary14, tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary15, NTI33554449)}, NTI3992979436)], 0), [Temporary16], false)], false)], true);
+    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [data_comp625_3992979377, tg2([100,105,118], [], true), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.self0.peep1.val, [97,97,97,97,97], false, [])}, NTI3992978932), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary5, NTI33554449)}, NTI3992978932)], 0), [], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.peep1Right1, [97,97,97,97,97], false, [])}, NTI3992978967), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary6, NTI33554449)}, NTI3992978967)], 0), [], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.peep1Wrong2, [97,97,97,97,97], false, [])}, NTI3992979002), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary7, NTI33554449)}, NTI3992979002)], 0), [], false), Temporary8, tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary9, NTI33554449)}, NTI3992979061)], 0), [Temporary10], false)], false), tg2([100,105,118], [this.self0.question.val()], false), tg2([100,105,118], [tg2([104,50], [tg4(this.self0.peep2.val.Field0, true, [], false)], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.self0.peep2.val, [97,97,97,97,97], true, [])}, NTI3992979307), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary11, NTI33554449)}, NTI3992979307)], 0), [], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.peep2Right3, [97,97,97,97,97], true, [])}, NTI3992979342), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary12, NTI33554449)}, NTI3992979342)], 0), [], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.peep2Wrong4, [97,97,97,97,97], true, [])}, NTI3992979377), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary13, NTI33554449)}, NTI3992979377)], 0), [], false), Temporary14, tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary15, NTI33554449)}, NTI3992979436)], 0), [Temporary16], false)], false)], true);
     }
     else {
     if (inCycle_p3) {
     F.line = 226;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary17 = ([99,111,109,112,54,51,55]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary17 = ([99,111,109,112,54,52,50]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary17 = ([99,111,109,112,54,51,55]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary17 = ([99,111,109,112,54,52,50]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    var _comp637_3992980362 = initFitText__pkgZhpx7680Zmarkup_u1664(Temporary17, toJSStr(this.self0.peep1.val.Field0), "", "");
+    var _comp642_3992980362 = initFitText__pkgZhpx7680Zmarkup_u1664(Temporary17, toJSStr(this.self0.peep1.val.Field0), "", "");
     F.line = 226;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary18 = ([99,111,109,112,54,51,55]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary18 = ([99,111,109,112,54,52,50]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary18 = ([99,111,109,112,54,51,55]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary18 = ([99,111,109,112,54,52,50]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    HEX3Aenv_838896611.comp6371 = rgcmp(toJSStr(Temporary18), _comp637_3992980362);
+    HEX3Aenv_838896611.comp6421 = rgcmp(toJSStr(Temporary18), _comp642_3992980362);
     F.line = 226;
     Temporary19 = HEX3Aanonymous__pkgZhpx7680Zdice66ear_u2956.bind(HEX3Aenv_838896611); Temporary19.ClP_0 = HEX3Aanonymous__pkgZhpx7680Zdice66ear_u2956; Temporary19.ClE_0 = HEX3Aenv_838896611;
-    HEX3Aenv_838896611.comp6371.slot = Temporary19;
+    HEX3Aenv_838896611.comp6421.slot = Temporary19;
     F.line = 226;
-    var data_comp637_3992980381 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838896611.comp6371);
+    var data_comp642_3992980381 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838896611.comp6421);
     F.line = 226;
-    addArgIter__pkgZhappyxZspaZtag_u537(data_comp637_3992980381, ([100,97,116,97,45]).concat(HEX3Aenv_838896611.comp6371.uniqCompId));
+    addArgIter__pkgZhappyxZspaZtag_u537(data_comp642_3992980381, ([100,97,116,97,45]).concat(HEX3Aenv_838896611.comp6421.uniqCompId));
     F.line = 226;
-    window.addEventListener('beforeunload', data_comp637_3992980381.exited);
+    window.addEventListener('beforeunload', data_comp642_3992980381.exited);
     F.line = 226;
-    window.addEventListener('pagehide', data_comp637_3992980381.pageHide);
+    window.addEventListener('pagehide', data_comp642_3992980381.pageHide);
     F.line = 226;
-    window.addEventListener('pageshow', data_comp637_3992980381.pageShow);
+    window.addEventListener('pageshow', data_comp642_3992980381.pageShow);
     F.line = 227;
     var baseStyle_3992980382 = [119,105,100,116,104,58,32,49,48,48,37,59];
     if (this.self0.showAnswer.val) {
@@ -43768,41 +43771,41 @@ function HEX3Aanonymous__pkgZhpx7680Zdice66ear_u1855(scopeSelf_p0, inComponent_p
     Temporary31 = tg2([100,105,118], [tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [99,111,108,111,114,58,32,114,101,100,59]}, NTI3992980260)], 0), [tg4([87,114,111,110,103,33], true, [], false)], false)], true);
     }
     
-    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [data_comp637_3992980381, tg2([100,105,118], [], true), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.self0.peep1.val, [97,97,97,97,97], false, [])}, NTI3992979674), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary20, NTI33554449)}, NTI3992979674)], 0), [], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.peep1Right1, [97,97,97,97,97], false, [])}, NTI3992979709), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary21, NTI33554449)}, NTI3992979709)], 0), [], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.peep1Wrong2, [97,97,97,97,97], false, [])}, NTI3992979744), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary22, NTI33554449)}, NTI3992979744)], 0), [], false), Temporary23, tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary24, NTI33554449)}, NTI3992979803)], 0), [Temporary25], false)], false), tg2([100,105,118], [this.self0.question.val()], false), tg2([100,105,118], [tg2([104,50], [tg4(this.self0.peep2.val.Field0, true, [], false)], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.self0.peep2.val, [97,97,97,97,97], true, [])}, NTI3992980049), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary26, NTI33554449)}, NTI3992980049)], 0), [], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.peep2Right3, [97,97,97,97,97], true, [])}, NTI3992980084), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary27, NTI33554449)}, NTI3992980084)], 0), [], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.peep2Wrong4, [97,97,97,97,97], true, [])}, NTI3992980119), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary28, NTI33554449)}, NTI3992980119)], 0), [], false), Temporary29, tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary30, NTI33554449)}, NTI3992980178)], 0), [Temporary31], false)], false)], true);
+    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [data_comp642_3992980381, tg2([100,105,118], [], true), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.self0.peep1.val, [97,97,97,97,97], false, [])}, NTI3992979674), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary20, NTI33554449)}, NTI3992979674)], 0), [], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.peep1Right1, [97,97,97,97,97], false, [])}, NTI3992979709), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary21, NTI33554449)}, NTI3992979709)], 0), [], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.peep1Wrong2, [97,97,97,97,97], false, [])}, NTI3992979744), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary22, NTI33554449)}, NTI3992979744)], 0), [], false), Temporary23, tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary24, NTI33554449)}, NTI3992979803)], 0), [Temporary25], false)], false), tg2([100,105,118], [this.self0.question.val()], false), tg2([100,105,118], [tg2([104,50], [tg4(this.self0.peep2.val.Field0, true, [], false)], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.self0.peep2.val, [97,97,97,97,97], true, [])}, NTI3992980049), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary26, NTI33554449)}, NTI3992980049)], 0), [], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.peep2Right3, [97,97,97,97,97], true, [])}, NTI3992980084), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary27, NTI33554449)}, NTI3992980084)], 0), [], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.peep2Wrong4, [97,97,97,97,97], true, [])}, NTI3992980119), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary28, NTI33554449)}, NTI3992980119)], 0), [], false), Temporary29, tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary30, NTI33554449)}, NTI3992980178)], 0), [Temporary31], false)], false)], true);
     }
     else {
     if (inComponent_p1) {
     F.line = 226;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary32 = ([99,111,109,112,54,53,52]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary32 = ([99,111,109,112,54,53,57]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary32 = ([99,111,109,112,54,53,52]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary32 = ([99,111,109,112,54,53,57]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    var _comp654_3992981366 = initFitText__pkgZhpx7680Zmarkup_u1664(Temporary32, toJSStr(this.self0.peep1.val.Field0), "", "");
+    var _comp659_3992981366 = initFitText__pkgZhpx7680Zmarkup_u1664(Temporary32, toJSStr(this.self0.peep1.val.Field0), "", "");
     F.line = 226;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary33 = ([99,111,109,112,54,53,52]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary33 = ([99,111,109,112,54,53,57]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary33 = ([99,111,109,112,54,53,52]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary33 = ([99,111,109,112,54,53,57]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    HEX3Aenv_838896611.comp6542 = rgcmp(toJSStr(Temporary33), _comp654_3992981366);
+    HEX3Aenv_838896611.comp6592 = rgcmp(toJSStr(Temporary33), _comp659_3992981366);
     F.line = 226;
     Temporary34 = HEX3Aanonymous__pkgZhpx7680Zdice66ear_u3960.bind(HEX3Aenv_838896611); Temporary34.ClP_0 = HEX3Aanonymous__pkgZhpx7680Zdice66ear_u3960; Temporary34.ClE_0 = HEX3Aenv_838896611;
-    HEX3Aenv_838896611.comp6542.slot = Temporary34;
+    HEX3Aenv_838896611.comp6592.slot = Temporary34;
     F.line = 226;
-    var data_comp654_3992981385 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838896611.comp6542);
+    var data_comp659_3992981385 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838896611.comp6592);
     F.line = 226;
-    addArgIter__pkgZhappyxZspaZtag_u537(data_comp654_3992981385, ([100,97,116,97,45]).concat(HEX3Aenv_838896611.comp6542.uniqCompId));
+    addArgIter__pkgZhappyxZspaZtag_u537(data_comp659_3992981385, ([100,97,116,97,45]).concat(HEX3Aenv_838896611.comp6592.uniqCompId));
     F.line = 226;
-    window.addEventListener('beforeunload', data_comp654_3992981385.exited);
+    window.addEventListener('beforeunload', data_comp659_3992981385.exited);
     F.line = 226;
-    window.addEventListener('pagehide', data_comp654_3992981385.pageHide);
+    window.addEventListener('pagehide', data_comp659_3992981385.pageHide);
     F.line = 226;
-    window.addEventListener('pageshow', data_comp654_3992981385.pageShow);
+    window.addEventListener('pageshow', data_comp659_3992981385.pageShow);
     F.line = 227;
     var baseStyle_3992981386 = [119,105,100,116,104,58,32,49,48,48,37,59];
     if (this.self0.showAnswer.val) {
@@ -43889,40 +43892,40 @@ function HEX3Aanonymous__pkgZhpx7680Zdice66ear_u1855(scopeSelf_p0, inComponent_p
     Temporary46 = tg2([100,105,118], [tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [99,111,108,111,114,58,32,114,101,100,59]}, NTI3992981002)], 0), [tg4([87,114,111,110,103,33], true, [], false)], false)], true);
     }
     
-    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [data_comp654_3992981385, tg2([100,105,118], [], true), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.self0.peep1.val, [97,97,97,97,97], false, [])}, NTI3992980416), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary35, NTI33554449)}, NTI3992980416)], 0), [], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.peep1Right1, [97,97,97,97,97], false, [])}, NTI3992980451), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary36, NTI33554449)}, NTI3992980451)], 0), [], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.peep1Wrong2, [97,97,97,97,97], false, [])}, NTI3992980486), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary37, NTI33554449)}, NTI3992980486)], 0), [], false), Temporary38, tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary39, NTI33554449)}, NTI3992980545)], 0), [Temporary40], false)], false), tg2([100,105,118], [this.self0.question.val()], false), tg2([100,105,118], [tg2([104,50], [tg4(this.self0.peep2.val.Field0, true, [], false)], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.self0.peep2.val, [97,97,97,97,97], true, [])}, NTI3992980791), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary41, NTI33554449)}, NTI3992980791)], 0), [], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.peep2Right3, [97,97,97,97,97], true, [])}, NTI3992980826), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary42, NTI33554449)}, NTI3992980826)], 0), [], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.peep2Wrong4, [97,97,97,97,97], true, [])}, NTI3992980861), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary43, NTI33554449)}, NTI3992980861)], 0), [], false), Temporary44, tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary45, NTI33554449)}, NTI3992980920)], 0), [Temporary46], false)], false)], true);
+    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [data_comp659_3992981385, tg2([100,105,118], [], true), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.self0.peep1.val, [97,97,97,97,97], false, [])}, NTI3992980416), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary35, NTI33554449)}, NTI3992980416)], 0), [], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.peep1Right1, [97,97,97,97,97], false, [])}, NTI3992980451), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary36, NTI33554449)}, NTI3992980451)], 0), [], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.peep1Wrong2, [97,97,97,97,97], false, [])}, NTI3992980486), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary37, NTI33554449)}, NTI3992980486)], 0), [], false), Temporary38, tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary39, NTI33554449)}, NTI3992980545)], 0), [Temporary40], false)], false), tg2([100,105,118], [this.self0.question.val()], false), tg2([100,105,118], [tg2([104,50], [tg4(this.self0.peep2.val.Field0, true, [], false)], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.self0.peep2.val, [97,97,97,97,97], true, [])}, NTI3992980791), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary41, NTI33554449)}, NTI3992980791)], 0), [], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.peep2Right3, [97,97,97,97,97], true, [])}, NTI3992980826), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary42, NTI33554449)}, NTI3992980826)], 0), [], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.peep2Wrong4, [97,97,97,97,97], true, [])}, NTI3992980861), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary43, NTI33554449)}, NTI3992980861)], 0), [], false), Temporary44, tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary45, NTI33554449)}, NTI3992980920)], 0), [Temporary46], false)], false)], true);
     }
     else {
       F.line = 226;
       if ((scopedCycleCounter_1744830592[0] == 0)) {
-      Temporary47 = [99,111,109,112,54,55,49];
+      Temporary47 = [99,111,109,112,54,55,54];
       }
       else {
-      Temporary47 = ([99,111,109,112,54,55,49]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+      Temporary47 = ([99,111,109,112,54,55,54]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
       }
       
-      var _comp671_3992982370 = initFitText__pkgZhpx7680Zmarkup_u1664(Temporary47, toJSStr(this.self0.peep1.val.Field0), "", "");
+      var _comp676_3992982370 = initFitText__pkgZhpx7680Zmarkup_u1664(Temporary47, toJSStr(this.self0.peep1.val.Field0), "", "");
       F.line = 226;
       if ((scopedCycleCounter_1744830592[0] == 0)) {
-      Temporary48 = [99,111,109,112,54,55,49];
+      Temporary48 = [99,111,109,112,54,55,54];
       }
       else {
-      Temporary48 = ([99,111,109,112,54,55,49]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+      Temporary48 = ([99,111,109,112,54,55,54]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
       }
       
-      HEX3Aenv_838896611.comp6713 = rgcmp(toJSStr(Temporary48), _comp671_3992982370);
+      HEX3Aenv_838896611.comp6763 = rgcmp(toJSStr(Temporary48), _comp676_3992982370);
       F.line = 226;
       Temporary49 = HEX3Aanonymous__pkgZhpx7680Zdice66ear_u4964.bind(HEX3Aenv_838896611); Temporary49.ClP_0 = HEX3Aanonymous__pkgZhpx7680Zdice66ear_u4964; Temporary49.ClE_0 = HEX3Aenv_838896611;
-      HEX3Aenv_838896611.comp6713.slot = Temporary49;
+      HEX3Aenv_838896611.comp6763.slot = Temporary49;
       F.line = 226;
-      var data_comp671_3992982389 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838896611.comp6713);
+      var data_comp676_3992982389 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838896611.comp6763);
       F.line = 226;
-      addArgIter__pkgZhappyxZspaZtag_u537(data_comp671_3992982389, ([100,97,116,97,45]).concat(HEX3Aenv_838896611.comp6713.uniqCompId));
+      addArgIter__pkgZhappyxZspaZtag_u537(data_comp676_3992982389, ([100,97,116,97,45]).concat(HEX3Aenv_838896611.comp6763.uniqCompId));
       F.line = 226;
-      window.addEventListener('beforeunload', data_comp671_3992982389.exited);
+      window.addEventListener('beforeunload', data_comp676_3992982389.exited);
       F.line = 226;
-      window.addEventListener('pagehide', data_comp671_3992982389.pageHide);
+      window.addEventListener('pagehide', data_comp676_3992982389.pageHide);
       F.line = 226;
-      window.addEventListener('pageshow', data_comp671_3992982389.pageShow);
+      window.addEventListener('pageshow', data_comp676_3992982389.pageShow);
       F.line = 227;
       var baseStyle_3992982390 = [119,105,100,116,104,58,32,49,48,48,37,59];
       if (this.self0.showAnswer.val) {
@@ -44009,13 +44012,13 @@ function HEX3Aanonymous__pkgZhpx7680Zdice66ear_u1855(scopeSelf_p0, inComponent_p
       Temporary61 = tg2([100,105,118], [tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [99,111,108,111,114,58,32,114,101,100,59]}, NTI3992981743)], 0), [tg4([87,114,111,110,103,33], true, [], false)], false)], true);
       }
       
-    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [data_comp671_3992982389, tg2([100,105,118], [], true), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.self0.peep1.val, [97,97,97,97,97], false, [])}, NTI3992981157), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary50, NTI33554449)}, NTI3992981157)], 0), [], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.peep1Right1, [97,97,97,97,97], false, [])}, NTI3992981192), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary51, NTI33554449)}, NTI3992981192)], 0), [], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.peep1Wrong2, [97,97,97,97,97], false, [])}, NTI3992981227), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary52, NTI33554449)}, NTI3992981227)], 0), [], false), Temporary53, tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary54, NTI33554449)}, NTI3992981286)], 0), [Temporary55], false)], false), tg2([100,105,118], [this.self0.question.val()], false), tg2([100,105,118], [tg2([104,50], [tg4(this.self0.peep2.val.Field0, true, [], false)], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.self0.peep2.val, [97,97,97,97,97], true, [])}, NTI3992981532), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary56, NTI33554449)}, NTI3992981532)], 0), [], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.peep2Right3, [97,97,97,97,97], true, [])}, NTI3992981567), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary57, NTI33554449)}, NTI3992981567)], 0), [], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.peep2Wrong4, [97,97,97,97,97], true, [])}, NTI3992981602), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary58, NTI33554449)}, NTI3992981602)], 0), [], false), Temporary59, tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary60, NTI33554449)}, NTI3992981661)], 0), [Temporary61], false)], false)], true);
+    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [data_comp676_3992982389, tg2([100,105,118], [], true), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.self0.peep1.val, [97,97,97,97,97], false, [])}, NTI3992981157), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary50, NTI33554449)}, NTI3992981157)], 0), [], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.peep1Right1, [97,97,97,97,97], false, [])}, NTI3992981192), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary51, NTI33554449)}, NTI3992981192)], 0), [], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.peep1Wrong2, [97,97,97,97,97], false, [])}, NTI3992981227), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary52, NTI33554449)}, NTI3992981227)], 0), [], false), Temporary53, tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary54, NTI33554449)}, NTI3992981286)], 0), [Temporary55], false)], false), tg2([100,105,118], [this.self0.question.val()], false), tg2([100,105,118], [tg2([104,50], [tg4(this.self0.peep2.val.Field0, true, [], false)], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.self0.peep2.val, [97,97,97,97,97], true, [])}, NTI3992981532), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary56, NTI33554449)}, NTI3992981532)], 0), [], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.peep2Right3, [97,97,97,97,97], true, [])}, NTI3992981567), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary57, NTI33554449)}, NTI3992981567)], 0), [], false), tg1([105,109,103], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,114,99], Field1: openPeepQnA__pkgZhpx7680Zdice66ear_u1269(this.peep2Wrong4, [97,97,97,97,97], true, [])}, NTI3992981602), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary58, NTI33554449)}, NTI3992981602)], 0), [], false), Temporary59, tg1([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, Temporary60, NTI33554449)}, NTI3992981661)], 0), [Temporary61], false)], false)], true);
     }
     }}
     var _res_3992983287 = Temporary1;
     F.line = 345;
     F.filename = "macro_utils.nim";
-    this.comp6195.slotData = _res_3992983287;
+    this.comp6245.slotData = _res_3992983287;
     result_3992979270 = _res_3992983287;
   framePtr = F.prev;
 
@@ -44037,7 +44040,7 @@ function renderTag__pkgZhpx7680Zdice66ear_u1673(self_p0) {
     F.filename = "diceBear.nim";
     var HEX3Aenv_838896610 = null;
     F.line = 209;
-    HEX3Aenv_838896610 = {m_type: NTI838900669, self0: null, peep1Right1: {Field0: [], Field1: 0, Field2: 0}, peep1Wrong2: {Field0: [], Field1: 0, Field2: 0}, peep2Right3: {Field0: [], Field1: 0, Field2: 0}, peep2Wrong4: {Field0: [], Field1: 0, Field2: 0}, comp6195: null};
+    HEX3Aenv_838896610 = {m_type: NTI838900669, self0: null, peep1Right1: {Field0: [], Field1: 0, Field2: 0}, peep1Wrong2: {Field0: [], Field1: 0, Field2: 0}, peep2Right3: {Field0: [], Field1: 0, Field2: 0}, peep2Wrong4: {Field0: [], Field1: 0, Field2: 0}, comp6245: null};
     F.line = 936;
     F.filename = "components.nim";
     HEX3Aenv_838896610.self0 = self_p0;
@@ -44059,10 +44062,10 @@ function renderTag__pkgZhpx7680Zdice66ear_u1673(self_p0) {
     Temporary1 = tg2([100,105,118], [tg4([115,104,111,119,32,97,110,115,119,101,114], true, [], false)], true);
     }
     
-    var __el600_3992979214 = tg2([98,117,116,116,111,110], [Temporary1], false);
+    var __el605_3992979214 = tg2([98,117,116,116,111,110], [Temporary1], false);
     F.line = 1149;
     F.filename = "macro_utils.nim";
-    __el600_3992979214.addEventListener('click', async (event) => {
+    __el605_3992979214.addEventListener('click', async (event) => {
     Label2: {
       F.line = 218;
       F.filename = "diceBear.nim";
@@ -44084,36 +44087,36 @@ function renderTag__pkgZhpx7680Zdice66ear_u1673(self_p0) {
     });
     F.line = 225;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary3 = ([99,111,109,112,54,49,57]).concat(HEX3Aenv_838896610.self0.uniqCompId);
+    Temporary3 = ([99,111,109,112,54,50,52]).concat(HEX3Aenv_838896610.self0.uniqCompId);
     }
     else {
-    Temporary3 = ([99,111,109,112,54,49,57]).concat(HEX3Aenv_838896610.self0.uniqCompId,HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary3 = ([99,111,109,112,54,50,52]).concat(HEX3Aenv_838896610.self0.uniqCompId,HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    var _comp619_3992979261 = initGrid__pkgZhpx7680Zlayout_u720(Temporary3, 3, 1.0, []);
+    var _comp624_3992979261 = initGrid__pkgZhpx7680Zlayout_u720(Temporary3, 3, 1.0, []);
     F.line = 225;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary4 = ([99,111,109,112,54,49,57]).concat(HEX3Aenv_838896610.self0.uniqCompId);
+    Temporary4 = ([99,111,109,112,54,50,52]).concat(HEX3Aenv_838896610.self0.uniqCompId);
     }
     else {
-    Temporary4 = ([99,111,109,112,54,49,57]).concat(HEX3Aenv_838896610.self0.uniqCompId,HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary4 = ([99,111,109,112,54,50,52]).concat(HEX3Aenv_838896610.self0.uniqCompId,HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    HEX3Aenv_838896610.comp6195 = rgcmp(toJSStr(Temporary4), _comp619_3992979261);
+    HEX3Aenv_838896610.comp6245 = rgcmp(toJSStr(Temporary4), _comp624_3992979261);
     F.line = 245;
     Temporary5 = HEX3Aanonymous__pkgZhpx7680Zdice66ear_u1855.bind(HEX3Aenv_838896610); Temporary5.ClP_0 = HEX3Aanonymous__pkgZhpx7680Zdice66ear_u1855; Temporary5.ClE_0 = HEX3Aenv_838896610;
-    HEX3Aenv_838896610.comp6195.slot = Temporary5;
+    HEX3Aenv_838896610.comp6245.slot = Temporary5;
     F.line = 245;
-    var data_comp619_3992983360 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838896610.comp6195);
+    var data_comp624_3992983360 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838896610.comp6245);
     F.line = 245;
-    addArgIter__pkgZhappyxZspaZtag_u537(data_comp619_3992983360, ([100,97,116,97,45]).concat(HEX3Aenv_838896610.comp6195.uniqCompId));
+    addArgIter__pkgZhappyxZspaZtag_u537(data_comp624_3992983360, ([100,97,116,97,45]).concat(HEX3Aenv_838896610.comp6245.uniqCompId));
     F.line = 245;
-    window.addEventListener('beforeunload', data_comp619_3992983360.exited);
+    window.addEventListener('beforeunload', data_comp624_3992983360.exited);
     F.line = 245;
-    window.addEventListener('pagehide', data_comp619_3992983360.pageHide);
+    window.addEventListener('pagehide', data_comp624_3992983360.pageHide);
     F.line = 245;
-    window.addEventListener('pageshow', data_comp619_3992983360.pageShow);
-    result_3992979083 = tg2([100,105,118], [tg2([100,105,118], [], true), tg2([100,105,118], [], true), tg2([100,105,118], [], true), tg2([100,105,118], [], true), __el600_3992979214, data_comp619_3992983360], true);
+    window.addEventListener('pageshow', data_comp624_3992983360.pageShow);
+    result_3992979083 = tg2([100,105,118], [tg2([100,105,118], [], true), tg2([100,105,118], [], true), tg2([100,105,118], [], true), tg2([100,105,118], [], true), __el605_3992979214, data_comp624_3992983360], true);
   framePtr = F.prev;
 
   return result_3992979083;
@@ -44635,10 +44638,10 @@ function renderTag__pkgZhpx7680Zjsx71raph_u896(self_p0) {
     };
     F.line = 742;
     F.filename = "macros.nim";
-    var __el594_3976201334 = tg2([98,117,116,116,111,110], [tg4([99,104,97,110,103,101,32,105,100], true, [], false)], false);
+    var __el599_3976201334 = tg2([98,117,116,116,111,110], [tg4([99,104,97,110,103,101,32,105,100], true, [], false)], false);
     F.line = 1149;
     F.filename = "macro_utils.nim";
-    __el594_3976201334.addEventListener('click', async (event) => {
+    __el599_3976201334.addEventListener('click', async (event) => {
     Label5: {
       F.line = 124;
       F.filename = "jsxGraph.nim";
@@ -44652,7 +44655,7 @@ function renderTag__pkgZhpx7680Zjsx71raph_u896(self_p0) {
     };
     F.line = 124;
     });
-    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [tg4(fmtRes_3976201137[0], true, [], false)], false), tg2([100,105,118], [tg4(fmtRes_3976201202[0], true, [], false)], false), tg2([100,105,118], [tg4(fmtRes_3976201267[0], true, [], false)], false), __el594_3976201334], true);
+    Temporary1 = tg2([100,105,118], [tg2([100,105,118], [tg4(fmtRes_3976201137[0], true, [], false)], false), tg2([100,105,118], [tg4(fmtRes_3976201202[0], true, [], false)], false), tg2([100,105,118], [tg4(fmtRes_3976201267[0], true, [], false)], false), __el599_3976201334], true);
     }
     else {
     Temporary1 = null;
@@ -44730,7 +44733,7 @@ function render__pkgZhpx7680Zjsx71raph_u1347(self_p0) {
 
 }
 
-function script__OOZlesson84arget_u927(self_p0) {
+function script__OOZlesson84arget_u923(self_p0) {
   var F = {procname: "lessonTarget.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
@@ -44976,12 +44979,12 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZslides26_u389(self_p0, ev_p1
 
 }
 
-function HEX3Aanonymous__OOZlesson84arget_u1573(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
+function HEX3Aanonymous__OOZlesson84arget_u1569(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
     var Temporary1;
 
-  var result_4026533420 = null;
+  var result_4026533416 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson0_1_1/lessonTarget.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson1_0_2/lessonTarget.nim", line: 0};
   framePtr = F;
     F.line = 28;
     F.filename = "lessonTarget.nim";
@@ -45001,14 +45004,14 @@ function HEX3Aanonymous__OOZlesson84arget_u1573(scopeSelf_p0, inComponent_p1, co
     Temporary1 = tg2([100,105,118], [tg4([87,101,32,119,105,108,108,32,117,110,100,101,114,115,116,97,110,100,32,104,111,119,32,116,111,32,115,111,108,118,101,32,108,105,110,101,97,114,32,101,113,117,97,116,105,111,110,115], true, [], false)], true);
     }
     }}
-    var _res_4026533701 = Temporary1;
+    var _res_4026533697 = Temporary1;
     F.line = 345;
     F.filename = "macro_utils.nim";
-    this.comp6950.slotData = _res_4026533701;
-    result_4026533420 = _res_4026533701;
+    this.comp7000.slotData = _res_4026533697;
+    result_4026533416 = _res_4026533697;
   framePtr = F.prev;
 
-  return result_4026533420;
+  return result_4026533416;
 
 }
 
@@ -45131,120 +45134,48 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZslides26_u861(self_p0, ev_p1
 
 }
 
-function HEX3Aanonymous__OOZlesson84arget_u2250(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
+function HEX3Aanonymous__OOZlesson84arget_u2246(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
     var Temporary1;
 
-  var result_4026534097 = null;
+  var result_4026534093 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson0_1_1/lessonTarget.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson1_0_2/lessonTarget.nim", line: 0};
   framePtr = F;
     F.line = 30;
     F.filename = "lessonTarget.nim";
     F.line = 30;
     if ((inCycle_p3 && inComponent_p1)) {
-    Temporary1 = tg2([100,105,118], [tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI4026534750)], 0), [listed__OOZlesson84arget_u2455(lessonCriteria_4026531895)], false)], true);
+    Temporary1 = tg2([100,105,118], [tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI4026534748)], 0), [listed__OOZlesson84arget_u2451(lessonCriteria_4026531895)], false)], true);
     }
     else {
     if (inCycle_p3) {
-    Temporary1 = tg2([100,105,118], [tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI4026535311)], 0), [listed__OOZlesson84arget_u2455(lessonCriteria_4026531895)], false)], true);
+    Temporary1 = tg2([100,105,118], [tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI4026535309)], 0), [listed__OOZlesson84arget_u2451(lessonCriteria_4026531895)], false)], true);
     }
     else {
     if (inComponent_p1) {
-    Temporary1 = tg2([100,105,118], [tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI4026535579)], 0), [listed__OOZlesson84arget_u2455(lessonCriteria_4026531895)], false)], true);
+    Temporary1 = tg2([100,105,118], [tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI4026535577)], 0), [listed__OOZlesson84arget_u2451(lessonCriteria_4026531895)], false)], true);
     }
     else {
-    Temporary1 = tg2([100,105,118], [tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI4026535847)], 0), [listed__OOZlesson84arget_u2455(lessonCriteria_4026531895)], false)], true);
+    Temporary1 = tg2([100,105,118], [tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI4026535845)], 0), [listed__OOZlesson84arget_u2451(lessonCriteria_4026531895)], false)], true);
     }
     }}
-    var _res_4026535334 = Temporary1;
+    var _res_4026535330 = Temporary1;
     F.line = 345;
     F.filename = "macro_utils.nim";
-    this.comp6981.slotData = _res_4026535334;
-    result_4026534097 = _res_4026535334;
+    this.comp7031.slotData = _res_4026535330;
+    result_4026534093 = _res_4026535330;
   framePtr = F.prev;
 
-  return result_4026534097;
+  return result_4026534093;
 
 }
 
-function HEX3Aanonymous__OOZlesson84arget_u3905(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
+function HEX3Aanonymous__OOZlesson84arget_u3901(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
     var Temporary1;
 
-  var result_4026535752 = null;
+  var result_4026535748 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson0_1_1/lessonTarget.nim", line: 0};
-  framePtr = F;
-    F.line = 28;
-    F.filename = "lessonTarget.nim";
-    F.line = 28;
-    if ((inCycle_p3 && inComponent_p1)) {
-    Temporary1 = tg2([100,105,118], [tg4([87,101,32,119,105,108,108,32,117,110,100,101,114,115,116,97,110,100,32,104,111,119,32,116,111,32,115,111,108,118,101,32,108,105,110,101,97,114,32,101,113,117,97,116,105,111,110,115], true, [], false)], true);
-    }
-    else {
-    if (inCycle_p3) {
-    Temporary1 = tg2([100,105,118], [tg4([87,101,32,119,105,108,108,32,117,110,100,101,114,115,116,97,110,100,32,104,111,119,32,116,111,32,115,111,108,118,101,32,108,105,110,101,97,114,32,101,113,117,97,116,105,111,110,115], true, [], false)], true);
-    }
-    else {
-    if (inComponent_p1) {
-    Temporary1 = tg2([100,105,118], [tg4([87,101,32,119,105,108,108,32,117,110,100,101,114,115,116,97,110,100,32,104,111,119,32,116,111,32,115,111,108,118,101,32,108,105,110,101,97,114,32,101,113,117,97,116,105,111,110,115], true, [], false)], true);
-    }
-    else {
-    Temporary1 = tg2([100,105,118], [tg4([87,101,32,119,105,108,108,32,117,110,100,101,114,115,116,97,110,100,32,104,111,119,32,116,111,32,115,111,108,118,101,32,108,105,110,101,97,114,32,101,113,117,97,116,105,111,110,115], true, [], false)], true);
-    }
-    }}
-    var _res_4026536033 = Temporary1;
-    F.line = 345;
-    F.filename = "macro_utils.nim";
-    this.comp7092.slotData = _res_4026536033;
-    result_4026535752 = _res_4026536033;
-  framePtr = F.prev;
-
-  return result_4026535752;
-
-}
-
-function HEX3Aanonymous__OOZlesson84arget_u4578(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
-    var Temporary1;
-
-  var result_4026536425 = null;
-
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson0_1_1/lessonTarget.nim", line: 0};
-  framePtr = F;
-    F.line = 30;
-    F.filename = "lessonTarget.nim";
-    F.line = 30;
-    if ((inCycle_p3 && inComponent_p1)) {
-    Temporary1 = tg2([100,105,118], [tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI4026537752)], 0), [listed__OOZlesson84arget_u2455(lessonCriteria_4026531895)], false)], true);
-    }
-    else {
-    if (inCycle_p3) {
-    Temporary1 = tg2([100,105,118], [tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI4026538020)], 0), [listed__OOZlesson84arget_u2455(lessonCriteria_4026531895)], false)], true);
-    }
-    else {
-    if (inComponent_p1) {
-    Temporary1 = tg2([100,105,118], [tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI4026538288)], 0), [listed__OOZlesson84arget_u2455(lessonCriteria_4026531895)], false)], true);
-    }
-    else {
-    Temporary1 = tg2([100,105,118], [tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI4026538556)], 0), [listed__OOZlesson84arget_u2455(lessonCriteria_4026531895)], false)], true);
-    }
-    }}
-    var _res_4026537386 = Temporary1;
-    F.line = 345;
-    F.filename = "macro_utils.nim";
-    this.comp7123.slotData = _res_4026537386;
-    result_4026536425 = _res_4026537386;
-  framePtr = F.prev;
-
-  return result_4026536425;
-
-}
-
-function HEX3Aanonymous__OOZlesson84arget_u5953(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
-    var Temporary1;
-
-  var result_4026537800 = null;
-
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson0_1_1/lessonTarget.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson1_0_2/lessonTarget.nim", line: 0};
   framePtr = F;
     F.line = 28;
     F.filename = "lessonTarget.nim";
@@ -45264,59 +45195,59 @@ function HEX3Aanonymous__OOZlesson84arget_u5953(scopeSelf_p0, inComponent_p1, co
     Temporary1 = tg2([100,105,118], [tg4([87,101,32,119,105,108,108,32,117,110,100,101,114,115,116,97,110,100,32,104,111,119,32,116,111,32,115,111,108,118,101,32,108,105,110,101,97,114,32,101,113,117,97,116,105,111,110,115], true, [], false)], true);
     }
     }}
-    var _res_4026538081 = Temporary1;
+    var _res_4026536029 = Temporary1;
     F.line = 345;
     F.filename = "macro_utils.nim";
-    this.comp7214.slotData = _res_4026538081;
-    result_4026537800 = _res_4026538081;
+    this.comp7142.slotData = _res_4026536029;
+    result_4026535748 = _res_4026536029;
   framePtr = F.prev;
 
-  return result_4026537800;
+  return result_4026535748;
 
 }
 
-function HEX3Aanonymous__OOZlesson84arget_u6626(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
+function HEX3Aanonymous__OOZlesson84arget_u4574(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
     var Temporary1;
 
-  var result_4026538473 = null;
+  var result_4026536421 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson0_1_1/lessonTarget.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson1_0_2/lessonTarget.nim", line: 0};
   framePtr = F;
     F.line = 30;
     F.filename = "lessonTarget.nim";
     F.line = 30;
     if ((inCycle_p3 && inComponent_p1)) {
-    Temporary1 = tg2([100,105,118], [tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI4026540459)], 0), [listed__OOZlesson84arget_u2455(lessonCriteria_4026531895)], false)], true);
+    Temporary1 = tg2([100,105,118], [tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI4026537750)], 0), [listed__OOZlesson84arget_u2451(lessonCriteria_4026531895)], false)], true);
     }
     else {
     if (inCycle_p3) {
-    Temporary1 = tg2([100,105,118], [tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI4026540727)], 0), [listed__OOZlesson84arget_u2455(lessonCriteria_4026531895)], false)], true);
+    Temporary1 = tg2([100,105,118], [tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI4026538018)], 0), [listed__OOZlesson84arget_u2451(lessonCriteria_4026531895)], false)], true);
     }
     else {
     if (inComponent_p1) {
-    Temporary1 = tg2([100,105,118], [tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI4026540995)], 0), [listed__OOZlesson84arget_u2455(lessonCriteria_4026531895)], false)], true);
+    Temporary1 = tg2([100,105,118], [tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI4026538286)], 0), [listed__OOZlesson84arget_u2451(lessonCriteria_4026531895)], false)], true);
     }
     else {
-    Temporary1 = tg2([100,105,118], [tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI4026541263)], 0), [listed__OOZlesson84arget_u2455(lessonCriteria_4026531895)], false)], true);
+    Temporary1 = tg2([100,105,118], [tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI4026538554)], 0), [listed__OOZlesson84arget_u2451(lessonCriteria_4026531895)], false)], true);
     }
     }}
-    var _res_4026539434 = Temporary1;
+    var _res_4026537382 = Temporary1;
     F.line = 345;
     F.filename = "macro_utils.nim";
-    this.comp7245.slotData = _res_4026539434;
-    result_4026538473 = _res_4026539434;
+    this.comp7173.slotData = _res_4026537382;
+    result_4026536421 = _res_4026537382;
   framePtr = F.prev;
 
-  return result_4026538473;
+  return result_4026536421;
 
 }
 
-function HEX3Aanonymous__OOZlesson84arget_u7818(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
+function HEX3Aanonymous__OOZlesson84arget_u5949(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
     var Temporary1;
 
-  var result_4026539665 = null;
+  var result_4026537796 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson0_1_1/lessonTarget.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson1_0_2/lessonTarget.nim", line: 0};
   framePtr = F;
     F.line = 28;
     F.filename = "lessonTarget.nim";
@@ -45336,54 +45267,126 @@ function HEX3Aanonymous__OOZlesson84arget_u7818(scopeSelf_p0, inComponent_p1, co
     Temporary1 = tg2([100,105,118], [tg4([87,101,32,119,105,108,108,32,117,110,100,101,114,115,116,97,110,100,32,104,111,119,32,116,111,32,115,111,108,118,101,32,108,105,110,101,97,114,32,101,113,117,97,116,105,111,110,115], true, [], false)], true);
     }
     }}
-    var _res_4026539946 = Temporary1;
+    var _res_4026538077 = Temporary1;
     F.line = 345;
     F.filename = "macro_utils.nim";
-    this.comp7336.slotData = _res_4026539946;
-    result_4026539665 = _res_4026539946;
+    this.comp7264.slotData = _res_4026538077;
+    result_4026537796 = _res_4026538077;
   framePtr = F.prev;
 
-  return result_4026539665;
+  return result_4026537796;
 
 }
 
-function HEX3Aanonymous__OOZlesson84arget_u8308(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
+function HEX3Aanonymous__OOZlesson84arget_u6622(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
     var Temporary1;
 
-  var result_4026540155 = null;
+  var result_4026538469 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson0_1_1/lessonTarget.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson1_0_2/lessonTarget.nim", line: 0};
   framePtr = F;
     F.line = 30;
     F.filename = "lessonTarget.nim";
     F.line = 30;
     if ((inCycle_p3 && inComponent_p1)) {
-    Temporary1 = tg2([100,105,118], [tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI4026542638)], 0), [listed__OOZlesson84arget_u2455(lessonCriteria_4026531895)], false)], true);
+    Temporary1 = tg2([100,105,118], [tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI4026540457)], 0), [listed__OOZlesson84arget_u2451(lessonCriteria_4026531895)], false)], true);
     }
     else {
     if (inCycle_p3) {
-    Temporary1 = tg2([100,105,118], [tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI4026542906)], 0), [listed__OOZlesson84arget_u2455(lessonCriteria_4026531895)], false)], true);
+    Temporary1 = tg2([100,105,118], [tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI4026540725)], 0), [listed__OOZlesson84arget_u2451(lessonCriteria_4026531895)], false)], true);
     }
     else {
     if (inComponent_p1) {
-    Temporary1 = tg2([100,105,118], [tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI4026543174)], 0), [listed__OOZlesson84arget_u2455(lessonCriteria_4026531895)], false)], true);
+    Temporary1 = tg2([100,105,118], [tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI4026540993)], 0), [listed__OOZlesson84arget_u2451(lessonCriteria_4026531895)], false)], true);
     }
     else {
-    Temporary1 = tg2([100,105,118], [tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI4026543442)], 0), [listed__OOZlesson84arget_u2455(lessonCriteria_4026531895)], false)], true);
+    Temporary1 = tg2([100,105,118], [tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI4026541261)], 0), [listed__OOZlesson84arget_u2451(lessonCriteria_4026531895)], false)], true);
     }
     }}
-    var _res_4026541116 = Temporary1;
+    var _res_4026539430 = Temporary1;
     F.line = 345;
     F.filename = "macro_utils.nim";
-    this.comp7367.slotData = _res_4026541116;
-    result_4026540155 = _res_4026541116;
+    this.comp7295.slotData = _res_4026539430;
+    result_4026538469 = _res_4026539430;
   framePtr = F.prev;
 
-  return result_4026540155;
+  return result_4026538469;
 
 }
 
-function HEX3Aanonymous__OOZlesson84arget_u1188(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
+function HEX3Aanonymous__OOZlesson84arget_u7814(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
+    var Temporary1;
+
+  var result_4026539661 = null;
+
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson1_0_2/lessonTarget.nim", line: 0};
+  framePtr = F;
+    F.line = 28;
+    F.filename = "lessonTarget.nim";
+    F.line = 28;
+    if ((inCycle_p3 && inComponent_p1)) {
+    Temporary1 = tg2([100,105,118], [tg4([87,101,32,119,105,108,108,32,117,110,100,101,114,115,116,97,110,100,32,104,111,119,32,116,111,32,115,111,108,118,101,32,108,105,110,101,97,114,32,101,113,117,97,116,105,111,110,115], true, [], false)], true);
+    }
+    else {
+    if (inCycle_p3) {
+    Temporary1 = tg2([100,105,118], [tg4([87,101,32,119,105,108,108,32,117,110,100,101,114,115,116,97,110,100,32,104,111,119,32,116,111,32,115,111,108,118,101,32,108,105,110,101,97,114,32,101,113,117,97,116,105,111,110,115], true, [], false)], true);
+    }
+    else {
+    if (inComponent_p1) {
+    Temporary1 = tg2([100,105,118], [tg4([87,101,32,119,105,108,108,32,117,110,100,101,114,115,116,97,110,100,32,104,111,119,32,116,111,32,115,111,108,118,101,32,108,105,110,101,97,114,32,101,113,117,97,116,105,111,110,115], true, [], false)], true);
+    }
+    else {
+    Temporary1 = tg2([100,105,118], [tg4([87,101,32,119,105,108,108,32,117,110,100,101,114,115,116,97,110,100,32,104,111,119,32,116,111,32,115,111,108,118,101,32,108,105,110,101,97,114,32,101,113,117,97,116,105,111,110,115], true, [], false)], true);
+    }
+    }}
+    var _res_4026539942 = Temporary1;
+    F.line = 345;
+    F.filename = "macro_utils.nim";
+    this.comp7386.slotData = _res_4026539942;
+    result_4026539661 = _res_4026539942;
+  framePtr = F.prev;
+
+  return result_4026539661;
+
+}
+
+function HEX3Aanonymous__OOZlesson84arget_u8304(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
+    var Temporary1;
+
+  var result_4026540151 = null;
+
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson1_0_2/lessonTarget.nim", line: 0};
+  framePtr = F;
+    F.line = 30;
+    F.filename = "lessonTarget.nim";
+    F.line = 30;
+    if ((inCycle_p3 && inComponent_p1)) {
+    Temporary1 = tg2([100,105,118], [tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI4026542636)], 0), [listed__OOZlesson84arget_u2451(lessonCriteria_4026531895)], false)], true);
+    }
+    else {
+    if (inCycle_p3) {
+    Temporary1 = tg2([100,105,118], [tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI4026542904)], 0), [listed__OOZlesson84arget_u2451(lessonCriteria_4026531895)], false)], true);
+    }
+    else {
+    if (inComponent_p1) {
+    Temporary1 = tg2([100,105,118], [tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI4026543172)], 0), [listed__OOZlesson84arget_u2451(lessonCriteria_4026531895)], false)], true);
+    }
+    else {
+    Temporary1 = tg2([100,105,118], [tg1([117,108], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: makeNimstrLit("display: flex; flex-direction: column; justify-content: space-evenly;flex: 1;")}, NTI4026543440)], 0), [listed__OOZlesson84arget_u2451(lessonCriteria_4026531895)], false)], true);
+    }
+    }}
+    var _res_4026541112 = Temporary1;
+    F.line = 345;
+    F.filename = "macro_utils.nim";
+    this.comp7417.slotData = _res_4026541112;
+    result_4026540151 = _res_4026541112;
+  framePtr = F.prev;
+
+  return result_4026540151;
+
+}
+
+function HEX3Aanonymous__OOZlesson84arget_u1184(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
     var Temporary1;
     var Temporary2;
     var Temporary3;
@@ -45410,289 +45413,289 @@ function HEX3Aanonymous__OOZlesson84arget_u1188(scopeSelf_p0, inComponent_p1, co
       var Temporary24;
       var Temporary25;
 
-  var result_4026533035 = null;
+  var result_4026533031 = null;
 
-  var F = {procname: "renderTag.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson0_1_1/lessonTarget.nim", line: 0};
+  var F = {procname: "renderTag.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson1_0_2/lessonTarget.nim", line: 0};
   framePtr = F;
     F.line = 296;
     F.filename = "macro_utils.nim";
     var HEX3Aenv_838897297 = null;
     F.line = 296;
-    HEX3Aenv_838897297 = {m_type: NTI838900933, comp6950: null, comp6981: null, comp7092: null, comp7123: null, comp7214: null, comp7245: null, comp7336: null, comp7367: null};
+    HEX3Aenv_838897297 = {m_type: NTI838900933, comp7000: null, comp7031: null, comp7142: null, comp7173: null, comp7264: null, comp7295: null, comp7386: null, comp7417: null};
     F.line = 29;
     F.filename = "lessonTarget.nim";
     F.line = 29;
     if ((inCycle_p3 && inComponent_p1)) {
     F.line = 28;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary2 = ([99,111,109,112,54,57,53]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary2 = ([99,111,109,112,55,48,48]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary2 = ([99,111,109,112,54,57,53]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary2 = ([99,111,109,112,55,48,48]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    var _comp695_4026533411 = initSlideTarget__OOZOOZOOZcomponentsZlayoutZslides26_u364(Temporary2);
+    var _comp700_4026533407 = initSlideTarget__OOZOOZOOZcomponentsZlayoutZslides26_u364(Temporary2);
     F.line = 28;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary3 = ([99,111,109,112,54,57,53]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary3 = ([99,111,109,112,55,48,48]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary3 = ([99,111,109,112,54,57,53]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary3 = ([99,111,109,112,55,48,48]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    HEX3Aenv_838897297.comp6950 = rgcmp(toJSStr(Temporary3), _comp695_4026533411);
+    HEX3Aenv_838897297.comp7000 = rgcmp(toJSStr(Temporary3), _comp700_4026533407);
     F.line = 28;
-    Temporary4 = HEX3Aanonymous__OOZlesson84arget_u1573.bind(HEX3Aenv_838897297); Temporary4.ClP_0 = HEX3Aanonymous__OOZlesson84arget_u1573; Temporary4.ClE_0 = HEX3Aenv_838897297;
-    HEX3Aenv_838897297.comp6950.slot = Temporary4;
+    Temporary4 = HEX3Aanonymous__OOZlesson84arget_u1569.bind(HEX3Aenv_838897297); Temporary4.ClP_0 = HEX3Aanonymous__OOZlesson84arget_u1569; Temporary4.ClE_0 = HEX3Aenv_838897297;
+    HEX3Aenv_838897297.comp7000.slot = Temporary4;
     F.line = 28;
-    var data_comp695_4026533706 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838897297.comp6950);
+    var data_comp700_4026533702 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838897297.comp7000);
     F.line = 28;
-    addArgIter__pkgZhappyxZspaZtag_u537(data_comp695_4026533706, ([100,97,116,97,45]).concat(HEX3Aenv_838897297.comp6950.uniqCompId));
+    addArgIter__pkgZhappyxZspaZtag_u537(data_comp700_4026533702, ([100,97,116,97,45]).concat(HEX3Aenv_838897297.comp7000.uniqCompId));
     F.line = 28;
-    window.addEventListener('beforeunload', data_comp695_4026533706.exited);
+    window.addEventListener('beforeunload', data_comp700_4026533702.exited);
     F.line = 28;
-    window.addEventListener('pagehide', data_comp695_4026533706.pageHide);
+    window.addEventListener('pagehide', data_comp700_4026533702.pageHide);
     F.line = 28;
-    window.addEventListener('pageshow', data_comp695_4026533706.pageShow);
+    window.addEventListener('pageshow', data_comp700_4026533702.pageShow);
     F.line = 30;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary5 = ([99,111,109,112,54,57,56]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary5 = ([99,111,109,112,55,48,51]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary5 = ([99,111,109,112,54,57,56]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary5 = ([99,111,109,112,55,48,51]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    var _comp698_4026534088 = initSlideCriteria__OOZOOZOOZcomponentsZlayoutZslides26_u836(Temporary5);
+    var _comp703_4026534084 = initSlideCriteria__OOZOOZOOZcomponentsZlayoutZslides26_u836(Temporary5);
     F.line = 30;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary6 = ([99,111,109,112,54,57,56]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary6 = ([99,111,109,112,55,48,51]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary6 = ([99,111,109,112,54,57,56]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary6 = ([99,111,109,112,55,48,51]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    HEX3Aenv_838897297.comp6981 = rgcmp(toJSStr(Temporary6), _comp698_4026534088);
+    HEX3Aenv_838897297.comp7031 = rgcmp(toJSStr(Temporary6), _comp703_4026534084);
     F.line = 30;
-    Temporary7 = HEX3Aanonymous__OOZlesson84arget_u2250.bind(HEX3Aenv_838897297); Temporary7.ClP_0 = HEX3Aanonymous__OOZlesson84arget_u2250; Temporary7.ClE_0 = HEX3Aenv_838897297;
-    HEX3Aenv_838897297.comp6981.slot = Temporary7;
+    Temporary7 = HEX3Aanonymous__OOZlesson84arget_u2246.bind(HEX3Aenv_838897297); Temporary7.ClP_0 = HEX3Aanonymous__OOZlesson84arget_u2246; Temporary7.ClE_0 = HEX3Aenv_838897297;
+    HEX3Aenv_838897297.comp7031.slot = Temporary7;
     F.line = 30;
-    var data_comp698_4026535339 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838897297.comp6981);
+    var data_comp703_4026535335 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838897297.comp7031);
     F.line = 30;
-    addArgIter__pkgZhappyxZspaZtag_u537(data_comp698_4026535339, ([100,97,116,97,45]).concat(HEX3Aenv_838897297.comp6981.uniqCompId));
+    addArgIter__pkgZhappyxZspaZtag_u537(data_comp703_4026535335, ([100,97,116,97,45]).concat(HEX3Aenv_838897297.comp7031.uniqCompId));
     F.line = 30;
-    window.addEventListener('beforeunload', data_comp698_4026535339.exited);
+    window.addEventListener('beforeunload', data_comp703_4026535335.exited);
     F.line = 30;
-    window.addEventListener('pagehide', data_comp698_4026535339.pageHide);
+    window.addEventListener('pagehide', data_comp703_4026535335.pageHide);
     F.line = 30;
-    window.addEventListener('pageshow', data_comp698_4026535339.pageShow);
-    Temporary1 = tg2([100,105,118], [data_comp695_4026533706, data_comp698_4026535339], true);
+    window.addEventListener('pageshow', data_comp703_4026535335.pageShow);
+    Temporary1 = tg2([100,105,118], [data_comp700_4026533702, data_comp703_4026535335], true);
     }
     else {
     if (inCycle_p3) {
     F.line = 28;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary8 = ([99,111,109,112,55,48,57]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary8 = ([99,111,109,112,55,49,52]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary8 = ([99,111,109,112,55,48,57]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary8 = ([99,111,109,112,55,49,52]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    var _comp709_4026535743 = initSlideTarget__OOZOOZOOZcomponentsZlayoutZslides26_u364(Temporary8);
+    var _comp714_4026535739 = initSlideTarget__OOZOOZOOZcomponentsZlayoutZslides26_u364(Temporary8);
     F.line = 28;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary9 = ([99,111,109,112,55,48,57]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary9 = ([99,111,109,112,55,49,52]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary9 = ([99,111,109,112,55,48,57]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary9 = ([99,111,109,112,55,49,52]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    HEX3Aenv_838897297.comp7092 = rgcmp(toJSStr(Temporary9), _comp709_4026535743);
+    HEX3Aenv_838897297.comp7142 = rgcmp(toJSStr(Temporary9), _comp714_4026535739);
     F.line = 28;
-    Temporary10 = HEX3Aanonymous__OOZlesson84arget_u3905.bind(HEX3Aenv_838897297); Temporary10.ClP_0 = HEX3Aanonymous__OOZlesson84arget_u3905; Temporary10.ClE_0 = HEX3Aenv_838897297;
-    HEX3Aenv_838897297.comp7092.slot = Temporary10;
+    Temporary10 = HEX3Aanonymous__OOZlesson84arget_u3901.bind(HEX3Aenv_838897297); Temporary10.ClP_0 = HEX3Aanonymous__OOZlesson84arget_u3901; Temporary10.ClE_0 = HEX3Aenv_838897297;
+    HEX3Aenv_838897297.comp7142.slot = Temporary10;
     F.line = 28;
-    var data_comp709_4026536034 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838897297.comp7092);
+    var data_comp714_4026536030 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838897297.comp7142);
     F.line = 28;
-    addArgIter__pkgZhappyxZspaZtag_u537(data_comp709_4026536034, ([100,97,116,97,45]).concat(HEX3Aenv_838897297.comp7092.uniqCompId));
+    addArgIter__pkgZhappyxZspaZtag_u537(data_comp714_4026536030, ([100,97,116,97,45]).concat(HEX3Aenv_838897297.comp7142.uniqCompId));
     F.line = 28;
-    window.addEventListener('beforeunload', data_comp709_4026536034.exited);
+    window.addEventListener('beforeunload', data_comp714_4026536030.exited);
     F.line = 28;
-    window.addEventListener('pagehide', data_comp709_4026536034.pageHide);
+    window.addEventListener('pagehide', data_comp714_4026536030.pageHide);
     F.line = 28;
-    window.addEventListener('pageshow', data_comp709_4026536034.pageShow);
+    window.addEventListener('pageshow', data_comp714_4026536030.pageShow);
     F.line = 30;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary11 = ([99,111,109,112,55,49,50]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary11 = ([99,111,109,112,55,49,55]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary11 = ([99,111,109,112,55,49,50]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary11 = ([99,111,109,112,55,49,55]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    var _comp712_4026536416 = initSlideCriteria__OOZOOZOOZcomponentsZlayoutZslides26_u836(Temporary11);
+    var _comp717_4026536412 = initSlideCriteria__OOZOOZOOZcomponentsZlayoutZslides26_u836(Temporary11);
     F.line = 30;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary12 = ([99,111,109,112,55,49,50]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary12 = ([99,111,109,112,55,49,55]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary12 = ([99,111,109,112,55,49,50]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary12 = ([99,111,109,112,55,49,55]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    HEX3Aenv_838897297.comp7123 = rgcmp(toJSStr(Temporary12), _comp712_4026536416);
+    HEX3Aenv_838897297.comp7173 = rgcmp(toJSStr(Temporary12), _comp717_4026536412);
     F.line = 30;
-    Temporary13 = HEX3Aanonymous__OOZlesson84arget_u4578.bind(HEX3Aenv_838897297); Temporary13.ClP_0 = HEX3Aanonymous__OOZlesson84arget_u4578; Temporary13.ClE_0 = HEX3Aenv_838897297;
-    HEX3Aenv_838897297.comp7123.slot = Temporary13;
+    Temporary13 = HEX3Aanonymous__OOZlesson84arget_u4574.bind(HEX3Aenv_838897297); Temporary13.ClP_0 = HEX3Aanonymous__OOZlesson84arget_u4574; Temporary13.ClE_0 = HEX3Aenv_838897297;
+    HEX3Aenv_838897297.comp7173.slot = Temporary13;
     F.line = 30;
-    var data_comp712_4026537387 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838897297.comp7123);
+    var data_comp717_4026537383 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838897297.comp7173);
     F.line = 30;
-    addArgIter__pkgZhappyxZspaZtag_u537(data_comp712_4026537387, ([100,97,116,97,45]).concat(HEX3Aenv_838897297.comp7123.uniqCompId));
+    addArgIter__pkgZhappyxZspaZtag_u537(data_comp717_4026537383, ([100,97,116,97,45]).concat(HEX3Aenv_838897297.comp7173.uniqCompId));
     F.line = 30;
-    window.addEventListener('beforeunload', data_comp712_4026537387.exited);
+    window.addEventListener('beforeunload', data_comp717_4026537383.exited);
     F.line = 30;
-    window.addEventListener('pagehide', data_comp712_4026537387.pageHide);
+    window.addEventListener('pagehide', data_comp717_4026537383.pageHide);
     F.line = 30;
-    window.addEventListener('pageshow', data_comp712_4026537387.pageShow);
-    Temporary1 = tg2([100,105,118], [data_comp709_4026536034, data_comp712_4026537387], true);
+    window.addEventListener('pageshow', data_comp717_4026537383.pageShow);
+    Temporary1 = tg2([100,105,118], [data_comp714_4026536030, data_comp717_4026537383], true);
     }
     else {
     if (inComponent_p1) {
     F.line = 28;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary14 = ([99,111,109,112,55,50,49]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary14 = ([99,111,109,112,55,50,54]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary14 = ([99,111,109,112,55,50,49]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary14 = ([99,111,109,112,55,50,54]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    var _comp721_4026537791 = initSlideTarget__OOZOOZOOZcomponentsZlayoutZslides26_u364(Temporary14);
+    var _comp726_4026537787 = initSlideTarget__OOZOOZOOZcomponentsZlayoutZslides26_u364(Temporary14);
     F.line = 28;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary15 = ([99,111,109,112,55,50,49]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary15 = ([99,111,109,112,55,50,54]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary15 = ([99,111,109,112,55,50,49]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary15 = ([99,111,109,112,55,50,54]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    HEX3Aenv_838897297.comp7214 = rgcmp(toJSStr(Temporary15), _comp721_4026537791);
+    HEX3Aenv_838897297.comp7264 = rgcmp(toJSStr(Temporary15), _comp726_4026537787);
     F.line = 28;
-    Temporary16 = HEX3Aanonymous__OOZlesson84arget_u5953.bind(HEX3Aenv_838897297); Temporary16.ClP_0 = HEX3Aanonymous__OOZlesson84arget_u5953; Temporary16.ClE_0 = HEX3Aenv_838897297;
-    HEX3Aenv_838897297.comp7214.slot = Temporary16;
+    Temporary16 = HEX3Aanonymous__OOZlesson84arget_u5949.bind(HEX3Aenv_838897297); Temporary16.ClP_0 = HEX3Aanonymous__OOZlesson84arget_u5949; Temporary16.ClE_0 = HEX3Aenv_838897297;
+    HEX3Aenv_838897297.comp7264.slot = Temporary16;
     F.line = 28;
-    var data_comp721_4026538082 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838897297.comp7214);
+    var data_comp726_4026538078 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838897297.comp7264);
     F.line = 28;
-    addArgIter__pkgZhappyxZspaZtag_u537(data_comp721_4026538082, ([100,97,116,97,45]).concat(HEX3Aenv_838897297.comp7214.uniqCompId));
+    addArgIter__pkgZhappyxZspaZtag_u537(data_comp726_4026538078, ([100,97,116,97,45]).concat(HEX3Aenv_838897297.comp7264.uniqCompId));
     F.line = 28;
-    window.addEventListener('beforeunload', data_comp721_4026538082.exited);
+    window.addEventListener('beforeunload', data_comp726_4026538078.exited);
     F.line = 28;
-    window.addEventListener('pagehide', data_comp721_4026538082.pageHide);
+    window.addEventListener('pagehide', data_comp726_4026538078.pageHide);
     F.line = 28;
-    window.addEventListener('pageshow', data_comp721_4026538082.pageShow);
+    window.addEventListener('pageshow', data_comp726_4026538078.pageShow);
     F.line = 30;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary17 = ([99,111,109,112,55,50,52]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary17 = ([99,111,109,112,55,50,57]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary17 = ([99,111,109,112,55,50,52]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary17 = ([99,111,109,112,55,50,57]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    var _comp724_4026538464 = initSlideCriteria__OOZOOZOOZcomponentsZlayoutZslides26_u836(Temporary17);
+    var _comp729_4026538460 = initSlideCriteria__OOZOOZOOZcomponentsZlayoutZslides26_u836(Temporary17);
     F.line = 30;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary18 = ([99,111,109,112,55,50,52]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+    Temporary18 = ([99,111,109,112,55,50,57]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
     }
     else {
-    Temporary18 = ([99,111,109,112,55,50,52]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary18 = ([99,111,109,112,55,50,57]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    HEX3Aenv_838897297.comp7245 = rgcmp(toJSStr(Temporary18), _comp724_4026538464);
+    HEX3Aenv_838897297.comp7295 = rgcmp(toJSStr(Temporary18), _comp729_4026538460);
     F.line = 30;
-    Temporary19 = HEX3Aanonymous__OOZlesson84arget_u6626.bind(HEX3Aenv_838897297); Temporary19.ClP_0 = HEX3Aanonymous__OOZlesson84arget_u6626; Temporary19.ClE_0 = HEX3Aenv_838897297;
-    HEX3Aenv_838897297.comp7245.slot = Temporary19;
+    Temporary19 = HEX3Aanonymous__OOZlesson84arget_u6622.bind(HEX3Aenv_838897297); Temporary19.ClP_0 = HEX3Aanonymous__OOZlesson84arget_u6622; Temporary19.ClE_0 = HEX3Aenv_838897297;
+    HEX3Aenv_838897297.comp7295.slot = Temporary19;
     F.line = 30;
-    var data_comp724_4026539435 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838897297.comp7245);
+    var data_comp729_4026539431 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838897297.comp7295);
     F.line = 30;
-    addArgIter__pkgZhappyxZspaZtag_u537(data_comp724_4026539435, ([100,97,116,97,45]).concat(HEX3Aenv_838897297.comp7245.uniqCompId));
+    addArgIter__pkgZhappyxZspaZtag_u537(data_comp729_4026539431, ([100,97,116,97,45]).concat(HEX3Aenv_838897297.comp7295.uniqCompId));
     F.line = 30;
-    window.addEventListener('beforeunload', data_comp724_4026539435.exited);
+    window.addEventListener('beforeunload', data_comp729_4026539431.exited);
     F.line = 30;
-    window.addEventListener('pagehide', data_comp724_4026539435.pageHide);
+    window.addEventListener('pagehide', data_comp729_4026539431.pageHide);
     F.line = 30;
-    window.addEventListener('pageshow', data_comp724_4026539435.pageShow);
-    Temporary1 = tg2([100,105,118], [data_comp721_4026538082, data_comp724_4026539435], true);
+    window.addEventListener('pageshow', data_comp729_4026539431.pageShow);
+    Temporary1 = tg2([100,105,118], [data_comp726_4026538078, data_comp729_4026539431], true);
     }
     else {
       F.line = 28;
       if ((scopedCycleCounter_1744830592[0] == 0)) {
-      Temporary20 = [99,111,109,112,55,51,51];
+      Temporary20 = [99,111,109,112,55,51,56];
       }
       else {
-      Temporary20 = ([99,111,109,112,55,51,51]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+      Temporary20 = ([99,111,109,112,55,51,56]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
       }
       
-      var _comp733_4026539656 = initSlideTarget__OOZOOZOOZcomponentsZlayoutZslides26_u364(Temporary20);
+      var _comp738_4026539652 = initSlideTarget__OOZOOZOOZcomponentsZlayoutZslides26_u364(Temporary20);
       F.line = 28;
       if ((scopedCycleCounter_1744830592[0] == 0)) {
-      Temporary21 = [99,111,109,112,55,51,51];
+      Temporary21 = [99,111,109,112,55,51,56];
       }
       else {
-      Temporary21 = ([99,111,109,112,55,51,51]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+      Temporary21 = ([99,111,109,112,55,51,56]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
       }
       
-      HEX3Aenv_838897297.comp7336 = rgcmp(toJSStr(Temporary21), _comp733_4026539656);
+      HEX3Aenv_838897297.comp7386 = rgcmp(toJSStr(Temporary21), _comp738_4026539652);
       F.line = 28;
-      Temporary22 = HEX3Aanonymous__OOZlesson84arget_u7818.bind(HEX3Aenv_838897297); Temporary22.ClP_0 = HEX3Aanonymous__OOZlesson84arget_u7818; Temporary22.ClE_0 = HEX3Aenv_838897297;
-      HEX3Aenv_838897297.comp7336.slot = Temporary22;
+      Temporary22 = HEX3Aanonymous__OOZlesson84arget_u7814.bind(HEX3Aenv_838897297); Temporary22.ClP_0 = HEX3Aanonymous__OOZlesson84arget_u7814; Temporary22.ClE_0 = HEX3Aenv_838897297;
+      HEX3Aenv_838897297.comp7386.slot = Temporary22;
       F.line = 28;
-      var data_comp733_4026539947 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838897297.comp7336);
+      var data_comp738_4026539943 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838897297.comp7386);
       F.line = 28;
-      addArgIter__pkgZhappyxZspaZtag_u537(data_comp733_4026539947, ([100,97,116,97,45]).concat(HEX3Aenv_838897297.comp7336.uniqCompId));
+      addArgIter__pkgZhappyxZspaZtag_u537(data_comp738_4026539943, ([100,97,116,97,45]).concat(HEX3Aenv_838897297.comp7386.uniqCompId));
       F.line = 28;
-      window.addEventListener('beforeunload', data_comp733_4026539947.exited);
+      window.addEventListener('beforeunload', data_comp738_4026539943.exited);
       F.line = 28;
-      window.addEventListener('pagehide', data_comp733_4026539947.pageHide);
+      window.addEventListener('pagehide', data_comp738_4026539943.pageHide);
       F.line = 28;
-      window.addEventListener('pageshow', data_comp733_4026539947.pageShow);
+      window.addEventListener('pageshow', data_comp738_4026539943.pageShow);
       F.line = 30;
       if ((scopedCycleCounter_1744830592[0] == 0)) {
-      Temporary23 = [99,111,109,112,55,51,54];
+      Temporary23 = [99,111,109,112,55,52,49];
       }
       else {
-      Temporary23 = ([99,111,109,112,55,51,54]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+      Temporary23 = ([99,111,109,112,55,52,49]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
       }
       
-      var _comp736_4026540146 = initSlideCriteria__OOZOOZOOZcomponentsZlayoutZslides26_u836(Temporary23);
+      var _comp741_4026540142 = initSlideCriteria__OOZOOZOOZcomponentsZlayoutZslides26_u836(Temporary23);
       F.line = 30;
       if ((scopedCycleCounter_1744830592[0] == 0)) {
-      Temporary24 = [99,111,109,112,55,51,54];
+      Temporary24 = [99,111,109,112,55,52,49];
       }
       else {
-      Temporary24 = ([99,111,109,112,55,51,54]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+      Temporary24 = ([99,111,109,112,55,52,49]).concat(HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
       }
       
-      HEX3Aenv_838897297.comp7367 = rgcmp(toJSStr(Temporary24), _comp736_4026540146);
+      HEX3Aenv_838897297.comp7417 = rgcmp(toJSStr(Temporary24), _comp741_4026540142);
       F.line = 30;
-      Temporary25 = HEX3Aanonymous__OOZlesson84arget_u8308.bind(HEX3Aenv_838897297); Temporary25.ClP_0 = HEX3Aanonymous__OOZlesson84arget_u8308; Temporary25.ClE_0 = HEX3Aenv_838897297;
-      HEX3Aenv_838897297.comp7367.slot = Temporary25;
+      Temporary25 = HEX3Aanonymous__OOZlesson84arget_u8304.bind(HEX3Aenv_838897297); Temporary25.ClP_0 = HEX3Aanonymous__OOZlesson84arget_u8304; Temporary25.ClE_0 = HEX3Aenv_838897297;
+      HEX3Aenv_838897297.comp7417.slot = Temporary25;
       F.line = 30;
-      var data_comp736_4026541117 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838897297.comp7367);
+      var data_comp741_4026541113 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838897297.comp7417);
       F.line = 30;
-      addArgIter__pkgZhappyxZspaZtag_u537(data_comp736_4026541117, ([100,97,116,97,45]).concat(HEX3Aenv_838897297.comp7367.uniqCompId));
+      addArgIter__pkgZhappyxZspaZtag_u537(data_comp741_4026541113, ([100,97,116,97,45]).concat(HEX3Aenv_838897297.comp7417.uniqCompId));
       F.line = 30;
-      window.addEventListener('beforeunload', data_comp736_4026541117.exited);
+      window.addEventListener('beforeunload', data_comp741_4026541113.exited);
       F.line = 30;
-      window.addEventListener('pagehide', data_comp736_4026541117.pageHide);
+      window.addEventListener('pagehide', data_comp741_4026541113.pageHide);
       F.line = 30;
-      window.addEventListener('pageshow', data_comp736_4026541117.pageShow);
-    Temporary1 = tg2([100,105,118], [data_comp733_4026539947, data_comp736_4026541117], true);
+      window.addEventListener('pageshow', data_comp741_4026541113.pageShow);
+    Temporary1 = tg2([100,105,118], [data_comp738_4026539943, data_comp741_4026541113], true);
     }
     }}
-    var _res_4026541146 = Temporary1;
+    var _res_4026541142 = Temporary1;
     F.line = 345;
     F.filename = "macro_utils.nim";
-    this.comp6920.slotData = _res_4026541146;
-    result_4026533035 = _res_4026541146;
+    this.comp6970.slotData = _res_4026541142;
+    result_4026533031 = _res_4026541142;
   framePtr = F.prev;
 
-  return result_4026533035;
+  return result_4026533031;
 
 }
 
@@ -45815,51 +45818,51 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZslides26_u1333(self_p0, ev_p
 
 }
 
-function HEX3Aanonymous__OOZlesson84arget_u9573(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
+function HEX3Aanonymous__OOZlesson84arget_u9569(scopeSelf_p0, inComponent_p1, compName_p2, inCycle_p3, cycleCounter_p4, cycleCounter_p4_Idx, compCounter_p5) {
     var Temporary1;
 
-  var result_4026541420 = null;
+  var result_4026541416 = null;
 
-  var F = {procname: "renderTag.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson0_1_1/lessonTarget.nim", line: 0};
+  var F = {procname: "renderTag.:anonymous", prev: framePtr, filename: "/home/taq/bSync/web/wwwLP/algebra1/lesson1_0_2/lessonTarget.nim", line: 0};
   framePtr = F;
     F.line = 33;
     F.filename = "lessonTarget.nim";
     F.line = 33;
     if ((inCycle_p3 && inComponent_p1)) {
     F.line = 33;
-    var cclCounter_4026541507 = [cycleCounter_p4[cycleCounter_p4_Idx]];
-    Temporary1 = tg2([100,105,118], [this.self1.slot(this.self1, true, [], true, cclCounter_4026541507, 0, compCounter_p5)], true);
+    var cclCounter_4026541503 = [cycleCounter_p4[cycleCounter_p4_Idx]];
+    Temporary1 = tg2([100,105,118], [this.self1.slot(this.self1, true, [], true, cclCounter_4026541503, 0, compCounter_p5)], true);
     }
     else {
     if (inCycle_p3) {
     F.line = 33;
-    var cclCounter_4026541614 = [cycleCounter_p4[cycleCounter_p4_Idx]];
-    Temporary1 = tg2([100,105,118], [this.self1.slot(this.self1, false, [], true, cclCounter_4026541614, 0, compCounter_p5)], true);
+    var cclCounter_4026541610 = [cycleCounter_p4[cycleCounter_p4_Idx]];
+    Temporary1 = tg2([100,105,118], [this.self1.slot(this.self1, false, [], true, cclCounter_4026541610, 0, compCounter_p5)], true);
     }
     else {
     if (inComponent_p1) {
     F.line = 33;
-    var cclCounter_4026541721 = [cycleCounter_p4[cycleCounter_p4_Idx]];
-    Temporary1 = tg2([100,105,118], [this.self1.slot(this.self1, true, [], false, cclCounter_4026541721, 0, compCounter_p5)], true);
+    var cclCounter_4026541717 = [cycleCounter_p4[cycleCounter_p4_Idx]];
+    Temporary1 = tg2([100,105,118], [this.self1.slot(this.self1, true, [], false, cclCounter_4026541717, 0, compCounter_p5)], true);
     }
     else {
       F.line = 33;
-      var cclCounter_4026541828 = [cycleCounter_p4[cycleCounter_p4_Idx]];
-    Temporary1 = tg2([100,105,118], [this.self1.slot(this.self1, false, [], false, cclCounter_4026541828, 0, compCounter_p5)], true);
+      var cclCounter_4026541824 = [cycleCounter_p4[cycleCounter_p4_Idx]];
+    Temporary1 = tg2([100,105,118], [this.self1.slot(this.self1, false, [], false, cclCounter_4026541824, 0, compCounter_p5)], true);
     }
     }}
-    var _res_4026541849 = Temporary1;
+    var _res_4026541845 = Temporary1;
     F.line = 345;
     F.filename = "macro_utils.nim";
-    this.comp6942.slotData = _res_4026541849;
-    result_4026541420 = _res_4026541849;
+    this.comp6992.slotData = _res_4026541845;
+    result_4026541416 = _res_4026541845;
   framePtr = F.prev;
 
-  return result_4026541420;
+  return result_4026541416;
 
 }
 
-function renderTag__OOZlesson84arget_u932(self_p0) {
+function renderTag__OOZlesson84arget_u928(self_p0) {
     var Temporary1;
     var Temporary2;
     var Temporary3;
@@ -45867,7 +45870,7 @@ function renderTag__OOZlesson84arget_u932(self_p0) {
     var Temporary5;
     var Temporary6;
 
-  var result_4026532774 = null;
+  var result_4026532770 = null;
 
   var F = {procname: "lessonTarget.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
   framePtr = F;
@@ -45875,7 +45878,7 @@ function renderTag__OOZlesson84arget_u932(self_p0) {
     F.filename = "renderer.nim";
     var HEX3Aenv_838897296 = null;
     F.line = 639;
-    HEX3Aenv_838897296 = {m_type: NTI838900931, comp6920: null, self1: null, comp6942: null};
+    HEX3Aenv_838897296 = {m_type: NTI838900931, comp6970: null, self1: null, comp6992: null};
     F.line = 936;
     F.filename = "components.nim";
     HEX3Aenv_838897296.self1 = self_p0;
@@ -45883,89 +45886,89 @@ function renderTag__OOZlesson84arget_u932(self_p0) {
     F.filename = "lessonTarget.nim";
     F.line = 27;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary1 = ([99,111,109,112,54,57,50]).concat(HEX3Aenv_838897296.self1.uniqCompId);
+    Temporary1 = ([99,111,109,112,54,57,55]).concat(HEX3Aenv_838897296.self1.uniqCompId);
     }
     else {
-    Temporary1 = ([99,111,109,112,54,57,50]).concat(HEX3Aenv_838897296.self1.uniqCompId,HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary1 = ([99,111,109,112,54,57,55]).concat(HEX3Aenv_838897296.self1.uniqCompId,HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    var _comp692_4026533026 = initLessonTargets__OOZOOZOOZcomponentsZlayoutZslides26_u10(Temporary1);
+    var _comp697_4026533022 = initLessonTargets__OOZOOZOOZcomponentsZlayoutZslides26_u10(Temporary1);
     F.line = 27;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary2 = ([99,111,109,112,54,57,50]).concat(HEX3Aenv_838897296.self1.uniqCompId);
+    Temporary2 = ([99,111,109,112,54,57,55]).concat(HEX3Aenv_838897296.self1.uniqCompId);
     }
     else {
-    Temporary2 = ([99,111,109,112,54,57,50]).concat(HEX3Aenv_838897296.self1.uniqCompId,HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary2 = ([99,111,109,112,54,57,55]).concat(HEX3Aenv_838897296.self1.uniqCompId,HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    HEX3Aenv_838897296.comp6920 = rgcmp(toJSStr(Temporary2), _comp692_4026533026);
+    HEX3Aenv_838897296.comp6970 = rgcmp(toJSStr(Temporary2), _comp697_4026533022);
     F.line = 29;
-    Temporary3 = HEX3Aanonymous__OOZlesson84arget_u1188.bind(HEX3Aenv_838897296); Temporary3.ClP_0 = HEX3Aanonymous__OOZlesson84arget_u1188; Temporary3.ClE_0 = HEX3Aenv_838897296;
-    HEX3Aenv_838897296.comp6920.slot = Temporary3;
+    Temporary3 = HEX3Aanonymous__OOZlesson84arget_u1184.bind(HEX3Aenv_838897296); Temporary3.ClP_0 = HEX3Aanonymous__OOZlesson84arget_u1184; Temporary3.ClE_0 = HEX3Aenv_838897296;
+    HEX3Aenv_838897296.comp6970.slot = Temporary3;
     F.line = 29;
-    var data_comp692_4026541151 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838897296.comp6920);
+    var data_comp697_4026541147 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838897296.comp6970);
     F.line = 29;
-    addArgIter__pkgZhappyxZspaZtag_u537(data_comp692_4026541151, ([100,97,116,97,45]).concat(HEX3Aenv_838897296.comp6920.uniqCompId));
+    addArgIter__pkgZhappyxZspaZtag_u537(data_comp697_4026541147, ([100,97,116,97,45]).concat(HEX3Aenv_838897296.comp6970.uniqCompId));
     F.line = 29;
-    window.addEventListener('beforeunload', data_comp692_4026541151.exited);
+    window.addEventListener('beforeunload', data_comp697_4026541147.exited);
     F.line = 29;
-    window.addEventListener('pagehide', data_comp692_4026541151.pageHide);
+    window.addEventListener('pagehide', data_comp697_4026541147.pageHide);
     F.line = 29;
-    window.addEventListener('pageshow', data_comp692_4026541151.pageShow);
+    window.addEventListener('pageshow', data_comp697_4026541147.pageShow);
     F.line = 33;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary4 = ([99,111,109,112,54,57,52]).concat(HEX3Aenv_838897296.self1.uniqCompId);
+    Temporary4 = ([99,111,109,112,54,57,57]).concat(HEX3Aenv_838897296.self1.uniqCompId);
     }
     else {
-    Temporary4 = ([99,111,109,112,54,57,52]).concat(HEX3Aenv_838897296.self1.uniqCompId,HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary4 = ([99,111,109,112,54,57,57]).concat(HEX3Aenv_838897296.self1.uniqCompId,HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    var _comp694_4026541411 = initSlideBody__OOZOOZOOZcomponentsZlayoutZslides26_u1308(Temporary4);
+    var _comp699_4026541407 = initSlideBody__OOZOOZOOZcomponentsZlayoutZslides26_u1308(Temporary4);
     F.line = 33;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary5 = ([99,111,109,112,54,57,52]).concat(HEX3Aenv_838897296.self1.uniqCompId);
+    Temporary5 = ([99,111,109,112,54,57,57]).concat(HEX3Aenv_838897296.self1.uniqCompId);
     }
     else {
-    Temporary5 = ([99,111,109,112,54,57,52]).concat(HEX3Aenv_838897296.self1.uniqCompId,HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary5 = ([99,111,109,112,54,57,57]).concat(HEX3Aenv_838897296.self1.uniqCompId,HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    HEX3Aenv_838897296.comp6942 = rgcmp(toJSStr(Temporary5), _comp694_4026541411);
+    HEX3Aenv_838897296.comp6992 = rgcmp(toJSStr(Temporary5), _comp699_4026541407);
     F.line = 33;
-    Temporary6 = HEX3Aanonymous__OOZlesson84arget_u9573.bind(HEX3Aenv_838897296); Temporary6.ClP_0 = HEX3Aanonymous__OOZlesson84arget_u9573; Temporary6.ClE_0 = HEX3Aenv_838897296;
-    HEX3Aenv_838897296.comp6942.slot = Temporary6;
+    Temporary6 = HEX3Aanonymous__OOZlesson84arget_u9569.bind(HEX3Aenv_838897296); Temporary6.ClP_0 = HEX3Aanonymous__OOZlesson84arget_u9569; Temporary6.ClE_0 = HEX3Aenv_838897296;
+    HEX3Aenv_838897296.comp6992.slot = Temporary6;
     F.line = 33;
-    var data_comp694_4026541862 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838897296.comp6942);
+    var data_comp699_4026541858 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838897296.comp6992);
     F.line = 33;
-    addArgIter__pkgZhappyxZspaZtag_u537(data_comp694_4026541862, ([100,97,116,97,45]).concat(HEX3Aenv_838897296.comp6942.uniqCompId));
+    addArgIter__pkgZhappyxZspaZtag_u537(data_comp699_4026541858, ([100,97,116,97,45]).concat(HEX3Aenv_838897296.comp6992.uniqCompId));
     F.line = 33;
-    window.addEventListener('beforeunload', data_comp694_4026541862.exited);
+    window.addEventListener('beforeunload', data_comp699_4026541858.exited);
     F.line = 33;
-    window.addEventListener('pagehide', data_comp694_4026541862.pageHide);
+    window.addEventListener('pagehide', data_comp699_4026541858.pageHide);
     F.line = 33;
-    window.addEventListener('pageshow', data_comp694_4026541862.pageShow);
-    result_4026532774 = tg2([100,105,118], [data_comp692_4026541151, data_comp694_4026541862], true);
+    window.addEventListener('pageshow', data_comp699_4026541858.pageShow);
+    result_4026532770 = tg2([100,105,118], [data_comp697_4026541147, data_comp699_4026541858], true);
   framePtr = F.prev;
 
-  return result_4026532774;
+  return result_4026532770;
 
 }
 
-function style__OOZlesson84arget_u929(self_p0) {
-  var result_4026532771 = [];
+function style__OOZlesson84arget_u925(self_p0) {
+  var result_4026532767 = [];
 
   var F = {procname: "lessonTarget.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 24;
     F.filename = "lessonTarget.nim";
-    result_4026532771 = nimCopy(null, [], NTI33554449);
+    result_4026532767 = nimCopy(null, [], NTI33554449);
   framePtr = F.prev;
 
-  return result_4026532771;
+  return result_4026532767;
 
 }
 
-function render__OOZlesson84arget_u10051(self_p0) {
-  var result_4026541893 = null;
+function render__OOZlesson84arget_u10047(self_p0) {
+  var result_4026541889 = null;
 
   var F = {procname: "lessonTarget.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
   framePtr = F;
@@ -45975,7 +45978,7 @@ function render__OOZlesson84arget_u10051(self_p0) {
     F.line = 24;
     currentComponent_1744830750[0] = nimCopy(null, self_p0.uniqCompId, NTI33554449);
     F.line = 24;
-    script__OOZlesson84arget_u927(self_p0);
+    script__OOZlesson84arget_u923(self_p0);
     if ((self_p0.isCreated == false)) {
     F.line = 819;
     F.filename = "components.nim";
@@ -45986,9 +45989,9 @@ function render__OOZlesson84arget_u10051(self_p0) {
     self_p0.beforeUpdated(self_p0, null);
     F.line = 24;
     F.filename = "lessonTarget.nim";
-    result_4026541893 = renderTag__OOZlesson84arget_u932(self_p0);
+    result_4026541889 = renderTag__OOZlesson84arget_u928(self_p0);
     F.line = 24;
-    tgadd(result_4026541893, [tg2([115,116,121,108,101], [textTag__pkgZhappyxZspaZtag_u407(style__OOZlesson84arget_u929(self_p0))], false)]);
+    tgadd(result_4026541889, [tg2([115,116,121,108,101], [textTag__pkgZhappyxZspaZtag_u407(style__OOZlesson84arget_u925(self_p0))], false)]);
     F.line = 819;
     F.filename = "components.nim";
     self_p0.rendered(self_p0, null);
@@ -45997,7 +46000,7 @@ function render__OOZlesson84arget_u10051(self_p0) {
     currentComponent_1744830750[0] = nimCopy(null, [], NTI33554449);
   framePtr = F.prev;
 
-  return result_4026541893;
+  return result_4026541889;
 
 }
 
@@ -46292,7 +46295,7 @@ function initProbGroup__pkgZhpx7680Zmarkup_u50(uniqCompId_p0, css_p1, class_p2, 
     var Temporary1;
 
 function HEX3Aanonymous__pkgZhpx7680Zmarkup_u70(self_p0, ev_p1) {
-  var F = {procname: "initProbGroup.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/markup.nim", line: 0};
+  var F = {procname: "initProbGroup.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/markup.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -46301,7 +46304,7 @@ function HEX3Aanonymous__pkgZhpx7680Zmarkup_u70(self_p0, ev_p1) {
     var Temporary2;
 
 function HEX3Aanonymous__pkgZhpx7680Zmarkup_u73(self_p0, ev_p1) {
-  var F = {procname: "initProbGroup.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/markup.nim", line: 0};
+  var F = {procname: "initProbGroup.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/markup.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -46310,7 +46313,7 @@ function HEX3Aanonymous__pkgZhpx7680Zmarkup_u73(self_p0, ev_p1) {
     var Temporary3;
 
 function HEX3Aanonymous__pkgZhpx7680Zmarkup_u76(self_p0, ev_p1) {
-  var F = {procname: "initProbGroup.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/markup.nim", line: 0};
+  var F = {procname: "initProbGroup.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/markup.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -46319,7 +46322,7 @@ function HEX3Aanonymous__pkgZhpx7680Zmarkup_u76(self_p0, ev_p1) {
     var Temporary4;
 
 function HEX3Aanonymous__pkgZhpx7680Zmarkup_u79(self_p0, ev_p1) {
-  var F = {procname: "initProbGroup.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/markup.nim", line: 0};
+  var F = {procname: "initProbGroup.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/markup.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -46328,7 +46331,7 @@ function HEX3Aanonymous__pkgZhpx7680Zmarkup_u79(self_p0, ev_p1) {
     var Temporary5;
 
 function HEX3Aanonymous__pkgZhpx7680Zmarkup_u82(self_p0, ev_p1) {
-  var F = {procname: "initProbGroup.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/markup.nim", line: 0};
+  var F = {procname: "initProbGroup.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/markup.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -46337,7 +46340,7 @@ function HEX3Aanonymous__pkgZhpx7680Zmarkup_u82(self_p0, ev_p1) {
     var Temporary6;
 
 function HEX3Aanonymous__pkgZhpx7680Zmarkup_u85(self_p0, ev_p1) {
-  var F = {procname: "initProbGroup.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/markup.nim", line: 0};
+  var F = {procname: "initProbGroup.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/markup.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -46346,7 +46349,7 @@ function HEX3Aanonymous__pkgZhpx7680Zmarkup_u85(self_p0, ev_p1) {
     var Temporary7;
 
 function HEX3Aanonymous__pkgZhpx7680Zmarkup_u88(self_p0, ev_p1) {
-  var F = {procname: "initProbGroup.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/markup.nim", line: 0};
+  var F = {procname: "initProbGroup.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/markup.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -46355,7 +46358,7 @@ function HEX3Aanonymous__pkgZhpx7680Zmarkup_u88(self_p0, ev_p1) {
     var Temporary8;
 
 function HEX3Aanonymous__pkgZhpx7680Zmarkup_u91(self_p0, ev_p1) {
-  var F = {procname: "initProbGroup.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-72ad004441aa0a6092468294d0cfb7b2c619d9ee/hpxLP/markup.nim", line: 0};
+  var F = {procname: "initProbGroup.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-0c4bdd80f1658b732f5c79c3a5a6d481a7de2473/hpxLP/markup.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -46455,7 +46458,7 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u20788(scopeSelf_p0, 
     var _res_3674231804 = Temporary1;
     F.line = 345;
     F.filename = "macro_utils.nim";
-    this.comp3941.slotData = _res_3674231804;
+    this.comp3991.slotData = _res_3674231804;
     result_3674231099 = _res_3674231804;
   framePtr = F.prev;
 
@@ -46491,7 +46494,7 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u22631(scopeSelf_p0, 
     var _res_3674233647 = Temporary1;
     F.line = 345;
     F.filename = "macro_utils.nim";
-    this.comp4063.slotData = _res_3674233647;
+    this.comp4113.slotData = _res_3674233647;
     result_3674232942 = _res_3674233647;
   framePtr = F.prev;
 
@@ -46527,7 +46530,7 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u24470(scopeSelf_p0, 
     var _res_3674235486 = Temporary1;
     F.line = 345;
     F.filename = "macro_utils.nim";
-    this.comp4185.slotData = _res_3674235486;
+    this.comp4235.slotData = _res_3674235486;
     result_3674234781 = _res_3674235486;
   framePtr = F.prev;
 
@@ -46563,7 +46566,7 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u26309(scopeSelf_p0, 
     var _res_3674237325 = Temporary1;
     F.line = 345;
     F.filename = "macro_utils.nim";
-    this.comp4307.slotData = _res_3674237325;
+    this.comp4357.slotData = _res_3674237325;
     result_3674236620 = _res_3674237325;
   framePtr = F.prev;
 
@@ -46594,14 +46597,14 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u19531(scopeSelf_p0, 
     F.filename = "base26.nim";
     var HEX3Aenv_838897412 = null;
     F.line = 123;
-    HEX3Aenv_838897412 = {m_type: NTI838900973, step0: {Field0: [], Field1: [], Field2: []}, comp3941: null, step2: {Field0: [], Field1: [], Field2: []}, comp4063: null, step4: {Field0: [], Field1: [], Field2: []}, comp4185: null, step6: {Field0: [], Field1: [], Field2: []}, comp4307: null};
+    HEX3Aenv_838897412 = {m_type: NTI838900973, step0: {Field0: [], Field1: [], Field2: []}, comp3991: null, step2: {Field0: [], Field1: [], Field2: []}, comp4113: null, step4: {Field0: [], Field1: [], Field2: []}, comp4235: null, step6: {Field0: [], Field1: [], Field2: []}, comp4357: null};
     F.line = 123;
     F.line = 123;
     if ((inCycle_p3 && inComponent_p1)) {
     F.line = 124;
-    var c387_3674229845 = 0;
+    var c392_3674229845 = 0;
     F.line = 124;
-    var __r387_3674229878 = newSeq__pkgZhpx7680Zfonts_u802(0);
+    var __r392_3674229878 = newSeq__pkgZhpx7680Zfonts_u802(0);
     Label2: {
       HEX3Aenv_838897412.step0 = {Field0: [], Field1: [], Field2: []};
       F.line = 249;
@@ -46617,44 +46620,44 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u19531(scopeSelf_p0, 
             F.filename = "base26.nim";
             HEX3Aenv_838897412.step0 = nimCopy(HEX3Aenv_838897412.step0, this.self0.steps.val[chckIndx(i_838897381, 0, (this.self0.steps.val).length - 1)], NTI3674231083);
             F.line = 124;
-            c387_3674229845 = addInt(c387_3674229845, 1);
+            c392_3674229845 = addInt(c392_3674229845, 1);
             F.line = 1484;
             F.filename = "macro_utils.nim";
-            scopedCycleCounter_1744830592[0] = c387_3674229845;
+            scopedCycleCounter_1744830592[0] = c392_3674229845;
             F.line = 124;
             F.filename = "base26.nim";
             F.line = 129;
             if ((scopedCycleCounter_1744830592[0] == 0)) {
-            Temporary5 = ([99,111,109,112,51,57,52]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(c387_3674229845),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+            Temporary5 = ([99,111,109,112,51,57,57]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(c392_3674229845),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
             }
             else {
-            Temporary5 = ([99,111,109,112,51,57,52]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(c387_3674229845),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+            Temporary5 = ([99,111,109,112,51,57,57]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(c392_3674229845),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
             }
             
-            var _comp394_3674231090 = initProbGroup__pkgZhpx7680Zmarkup_u50(Temporary5, [], [], false, []);
+            var _comp399_3674231090 = initProbGroup__pkgZhpx7680Zmarkup_u50(Temporary5, [], [], false, []);
             F.line = 129;
             if ((scopedCycleCounter_1744830592[0] == 0)) {
-            Temporary6 = ([99,111,109,112,51,57,52]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(c387_3674229845),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+            Temporary6 = ([99,111,109,112,51,57,57]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(c392_3674229845),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
             }
             else {
-            Temporary6 = ([99,111,109,112,51,57,52]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(c387_3674229845),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+            Temporary6 = ([99,111,109,112,51,57,57]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(c392_3674229845),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
             }
             
-            HEX3Aenv_838897412.comp3941 = rgcmp(toJSStr(Temporary6), _comp394_3674231090);
+            HEX3Aenv_838897412.comp3991 = rgcmp(toJSStr(Temporary6), _comp399_3674231090);
             F.line = 129;
             Temporary7 = HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u20788.bind(HEX3Aenv_838897412); Temporary7.ClP_0 = HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u20788; Temporary7.ClE_0 = HEX3Aenv_838897412;
-            HEX3Aenv_838897412.comp3941.slot = Temporary7;
+            HEX3Aenv_838897412.comp3991.slot = Temporary7;
             F.line = 129;
-            var data_comp394_3674231809 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838897412.comp3941);
+            var data_comp399_3674231809 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838897412.comp3991);
             F.line = 129;
-            addArgIter__pkgZhappyxZspaZtag_u537(data_comp394_3674231809, ([100,97,116,97,45]).concat(HEX3Aenv_838897412.comp3941.uniqCompId));
+            addArgIter__pkgZhappyxZspaZtag_u537(data_comp399_3674231809, ([100,97,116,97,45]).concat(HEX3Aenv_838897412.comp3991.uniqCompId));
             F.line = 129;
-            window.addEventListener('beforeunload', data_comp394_3674231809.exited);
+            window.addEventListener('beforeunload', data_comp399_3674231809.exited);
             F.line = 129;
-            window.addEventListener('pagehide', data_comp394_3674231809.pageHide);
+            window.addEventListener('pagehide', data_comp399_3674231809.pageHide);
             F.line = 129;
-            window.addEventListener('pageshow', data_comp394_3674231809.pageShow);
-            __r387_3674229878.push(tg2([100,105,118], [tg2([100,105,118], [tg2([115,116,114,111,110,103], [tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [99,108,97,115,115], Field1: [116,101,97,99,104,101,114]}, NTI3674232861)], 0), [tg4(HEX3Aenv_838897412.step0["Field0"], true, [], false)], false)], false), tg2([100,105,118], [tg2([101,109], [tg4(HEX3Aenv_838897412.step0["Field2"], true, [], false)], false)], false)], false), data_comp394_3674231809], true));;
+            window.addEventListener('pageshow', data_comp399_3674231809.pageShow);
+            __r392_3674229878.push(tg2([100,105,118], [tg2([100,105,118], [tg2([115,116,114,111,110,103], [tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [99,108,97,115,115], Field1: [116,101,97,99,104,101,114]}, NTI3674232861)], 0), [tg4(HEX3Aenv_838897412.step0["Field0"], true, [], false)], false)], false), tg2([100,105,118], [tg2([101,109], [tg4(HEX3Aenv_838897412.step0["Field2"], true, [], false)], false)], false)], false), data_comp399_3674231809], true));;
             F.line = 124;
             scopedCycleCounter_1744830592[0] = 0;
             F.line = 13;
@@ -46668,15 +46671,15 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u19531(scopeSelf_p0, 
           }
       };
     };
-    Temporary1 = tg2([100,105,118], [tg2([100,105,118], __r387_3674229878, true)], true);
+    Temporary1 = tg2([100,105,118], [tg2([100,105,118], __r392_3674229878, true)], true);
     }
     else {
     if (inCycle_p3) {
     F.line = 124;
     F.filename = "base26.nim";
-    var c399_3674231890 = 0;
+    var c404_3674231890 = 0;
     F.line = 124;
-    var __r399_3674231923 = newSeq__pkgZhpx7680Zfonts_u802(0);
+    var __r404_3674231923 = newSeq__pkgZhpx7680Zfonts_u802(0);
     Label8: {
       HEX3Aenv_838897412.step2 = {Field0: [], Field1: [], Field2: []};
       F.line = 249;
@@ -46692,44 +46695,44 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u19531(scopeSelf_p0, 
             F.filename = "base26.nim";
             HEX3Aenv_838897412.step2 = nimCopy(HEX3Aenv_838897412.step2, this.self0.steps.val[chckIndx(i_838897385, 0, (this.self0.steps.val).length - 1)], NTI3674231083);
             F.line = 124;
-            c399_3674231890 = addInt(c399_3674231890, 1);
+            c404_3674231890 = addInt(c404_3674231890, 1);
             F.line = 1484;
             F.filename = "macro_utils.nim";
-            scopedCycleCounter_1744830592[0] = c399_3674231890;
+            scopedCycleCounter_1744830592[0] = c404_3674231890;
             F.line = 124;
             F.filename = "base26.nim";
             F.line = 129;
             if ((scopedCycleCounter_1744830592[0] == 0)) {
-            Temporary11 = ([99,111,109,112,52,48,54]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(c399_3674231890),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+            Temporary11 = ([99,111,109,112,52,49,49]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(c404_3674231890),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
             }
             else {
-            Temporary11 = ([99,111,109,112,52,48,54]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(c399_3674231890),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+            Temporary11 = ([99,111,109,112,52,49,49]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(c404_3674231890),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
             }
             
-            var _comp406_3674232933 = initProbGroup__pkgZhpx7680Zmarkup_u50(Temporary11, [], [], false, []);
+            var _comp411_3674232933 = initProbGroup__pkgZhpx7680Zmarkup_u50(Temporary11, [], [], false, []);
             F.line = 129;
             if ((scopedCycleCounter_1744830592[0] == 0)) {
-            Temporary12 = ([99,111,109,112,52,48,54]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(c399_3674231890),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+            Temporary12 = ([99,111,109,112,52,49,49]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(c404_3674231890),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
             }
             else {
-            Temporary12 = ([99,111,109,112,52,48,54]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(c399_3674231890),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+            Temporary12 = ([99,111,109,112,52,49,49]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(c404_3674231890),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
             }
             
-            HEX3Aenv_838897412.comp4063 = rgcmp(toJSStr(Temporary12), _comp406_3674232933);
+            HEX3Aenv_838897412.comp4113 = rgcmp(toJSStr(Temporary12), _comp411_3674232933);
             F.line = 129;
             Temporary13 = HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u22631.bind(HEX3Aenv_838897412); Temporary13.ClP_0 = HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u22631; Temporary13.ClE_0 = HEX3Aenv_838897412;
-            HEX3Aenv_838897412.comp4063.slot = Temporary13;
+            HEX3Aenv_838897412.comp4113.slot = Temporary13;
             F.line = 129;
-            var data_comp406_3674233648 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838897412.comp4063);
+            var data_comp411_3674233648 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838897412.comp4113);
             F.line = 129;
-            addArgIter__pkgZhappyxZspaZtag_u537(data_comp406_3674233648, ([100,97,116,97,45]).concat(HEX3Aenv_838897412.comp4063.uniqCompId));
+            addArgIter__pkgZhappyxZspaZtag_u537(data_comp411_3674233648, ([100,97,116,97,45]).concat(HEX3Aenv_838897412.comp4113.uniqCompId));
             F.line = 129;
-            window.addEventListener('beforeunload', data_comp406_3674233648.exited);
+            window.addEventListener('beforeunload', data_comp411_3674233648.exited);
             F.line = 129;
-            window.addEventListener('pagehide', data_comp406_3674233648.pageHide);
+            window.addEventListener('pagehide', data_comp411_3674233648.pageHide);
             F.line = 129;
-            window.addEventListener('pageshow', data_comp406_3674233648.pageShow);
-            __r399_3674231923.push(tg2([100,105,118], [tg2([100,105,118], [tg2([115,116,114,111,110,103], [tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [99,108,97,115,115], Field1: [116,101,97,99,104,101,114]}, NTI3674235089)], 0), [tg4(HEX3Aenv_838897412.step2["Field0"], true, [], false)], false)], false), tg2([100,105,118], [tg2([101,109], [tg4(HEX3Aenv_838897412.step2["Field2"], true, [], false)], false)], false)], false), data_comp406_3674233648], true));;
+            window.addEventListener('pageshow', data_comp411_3674233648.pageShow);
+            __r404_3674231923.push(tg2([100,105,118], [tg2([100,105,118], [tg2([115,116,114,111,110,103], [tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [99,108,97,115,115], Field1: [116,101,97,99,104,101,114]}, NTI3674235089)], 0), [tg4(HEX3Aenv_838897412.step2["Field0"], true, [], false)], false)], false), tg2([100,105,118], [tg2([101,109], [tg4(HEX3Aenv_838897412.step2["Field2"], true, [], false)], false)], false)], false), data_comp411_3674233648], true));;
             F.line = 124;
             scopedCycleCounter_1744830592[0] = 0;
             F.line = 13;
@@ -46743,15 +46746,15 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u19531(scopeSelf_p0, 
           }
       };
     };
-    Temporary1 = tg2([100,105,118], [tg2([100,105,118], __r399_3674231923, true)], true);
+    Temporary1 = tg2([100,105,118], [tg2([100,105,118], __r404_3674231923, true)], true);
     }
     else {
     if (inComponent_p1) {
     F.line = 124;
     F.filename = "base26.nim";
-    var c411_3674233729 = 0;
+    var c416_3674233729 = 0;
     F.line = 124;
-    var __r411_3674233762 = newSeq__pkgZhpx7680Zfonts_u802(0);
+    var __r416_3674233762 = newSeq__pkgZhpx7680Zfonts_u802(0);
     Label14: {
       HEX3Aenv_838897412.step4 = {Field0: [], Field1: [], Field2: []};
       F.line = 249;
@@ -46767,44 +46770,44 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u19531(scopeSelf_p0, 
             F.filename = "base26.nim";
             HEX3Aenv_838897412.step4 = nimCopy(HEX3Aenv_838897412.step4, this.self0.steps.val[chckIndx(i_838897389, 0, (this.self0.steps.val).length - 1)], NTI3674231083);
             F.line = 124;
-            c411_3674233729 = addInt(c411_3674233729, 1);
+            c416_3674233729 = addInt(c416_3674233729, 1);
             F.line = 1484;
             F.filename = "macro_utils.nim";
-            scopedCycleCounter_1744830592[0] = c411_3674233729;
+            scopedCycleCounter_1744830592[0] = c416_3674233729;
             F.line = 124;
             F.filename = "base26.nim";
             F.line = 129;
             if ((scopedCycleCounter_1744830592[0] == 0)) {
-            Temporary17 = ([99,111,109,112,52,49,56]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(c411_3674233729),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+            Temporary17 = ([99,111,109,112,52,50,51]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(c416_3674233729),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
             }
             else {
-            Temporary17 = ([99,111,109,112,52,49,56]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(c411_3674233729),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+            Temporary17 = ([99,111,109,112,52,50,51]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(c416_3674233729),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
             }
             
-            var _comp418_3674234772 = initProbGroup__pkgZhpx7680Zmarkup_u50(Temporary17, [], [], false, []);
+            var _comp423_3674234772 = initProbGroup__pkgZhpx7680Zmarkup_u50(Temporary17, [], [], false, []);
             F.line = 129;
             if ((scopedCycleCounter_1744830592[0] == 0)) {
-            Temporary18 = ([99,111,109,112,52,49,56]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(c411_3674233729),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+            Temporary18 = ([99,111,109,112,52,50,51]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(c416_3674233729),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
             }
             else {
-            Temporary18 = ([99,111,109,112,52,49,56]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(c411_3674233729),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+            Temporary18 = ([99,111,109,112,52,50,51]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(c416_3674233729),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
             }
             
-            HEX3Aenv_838897412.comp4185 = rgcmp(toJSStr(Temporary18), _comp418_3674234772);
+            HEX3Aenv_838897412.comp4235 = rgcmp(toJSStr(Temporary18), _comp423_3674234772);
             F.line = 129;
             Temporary19 = HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u24470.bind(HEX3Aenv_838897412); Temporary19.ClP_0 = HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u24470; Temporary19.ClE_0 = HEX3Aenv_838897412;
-            HEX3Aenv_838897412.comp4185.slot = Temporary19;
+            HEX3Aenv_838897412.comp4235.slot = Temporary19;
             F.line = 129;
-            var data_comp418_3674235487 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838897412.comp4185);
+            var data_comp423_3674235487 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838897412.comp4235);
             F.line = 129;
-            addArgIter__pkgZhappyxZspaZtag_u537(data_comp418_3674235487, ([100,97,116,97,45]).concat(HEX3Aenv_838897412.comp4185.uniqCompId));
+            addArgIter__pkgZhappyxZspaZtag_u537(data_comp423_3674235487, ([100,97,116,97,45]).concat(HEX3Aenv_838897412.comp4235.uniqCompId));
             F.line = 129;
-            window.addEventListener('beforeunload', data_comp418_3674235487.exited);
+            window.addEventListener('beforeunload', data_comp423_3674235487.exited);
             F.line = 129;
-            window.addEventListener('pagehide', data_comp418_3674235487.pageHide);
+            window.addEventListener('pagehide', data_comp423_3674235487.pageHide);
             F.line = 129;
-            window.addEventListener('pageshow', data_comp418_3674235487.pageShow);
-            __r411_3674233762.push(tg2([100,105,118], [tg2([100,105,118], [tg2([115,116,114,111,110,103], [tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [99,108,97,115,115], Field1: [116,101,97,99,104,101,114]}, NTI3674237315)], 0), [tg4(HEX3Aenv_838897412.step4["Field0"], true, [], false)], false)], false), tg2([100,105,118], [tg2([101,109], [tg4(HEX3Aenv_838897412.step4["Field2"], true, [], false)], false)], false)], false), data_comp418_3674235487], true));;
+            window.addEventListener('pageshow', data_comp423_3674235487.pageShow);
+            __r416_3674233762.push(tg2([100,105,118], [tg2([100,105,118], [tg2([115,116,114,111,110,103], [tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [99,108,97,115,115], Field1: [116,101,97,99,104,101,114]}, NTI3674237315)], 0), [tg4(HEX3Aenv_838897412.step4["Field0"], true, [], false)], false)], false), tg2([100,105,118], [tg2([101,109], [tg4(HEX3Aenv_838897412.step4["Field2"], true, [], false)], false)], false)], false), data_comp423_3674235487], true));;
             F.line = 124;
             scopedCycleCounter_1744830592[0] = 0;
             F.line = 13;
@@ -46818,14 +46821,14 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u19531(scopeSelf_p0, 
           }
       };
     };
-    Temporary1 = tg2([100,105,118], [tg2([100,105,118], __r411_3674233762, true)], true);
+    Temporary1 = tg2([100,105,118], [tg2([100,105,118], __r416_3674233762, true)], true);
     }
     else {
       F.line = 124;
       F.filename = "base26.nim";
-      var c423_3674235568 = 0;
+      var c428_3674235568 = 0;
       F.line = 124;
-      var __r423_3674235601 = newSeq__pkgZhpx7680Zfonts_u802(0);
+      var __r428_3674235601 = newSeq__pkgZhpx7680Zfonts_u802(0);
       Label20: {
         HEX3Aenv_838897412.step6 = {Field0: [], Field1: [], Field2: []};
         F.line = 249;
@@ -46841,44 +46844,44 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u19531(scopeSelf_p0, 
               F.filename = "base26.nim";
               HEX3Aenv_838897412.step6 = nimCopy(HEX3Aenv_838897412.step6, this.self0.steps.val[chckIndx(i_838897393, 0, (this.self0.steps.val).length - 1)], NTI3674231083);
               F.line = 124;
-              c423_3674235568 = addInt(c423_3674235568, 1);
+              c428_3674235568 = addInt(c428_3674235568, 1);
               F.line = 1484;
               F.filename = "macro_utils.nim";
-              scopedCycleCounter_1744830592[0] = c423_3674235568;
+              scopedCycleCounter_1744830592[0] = c428_3674235568;
               F.line = 124;
               F.filename = "base26.nim";
               F.line = 129;
               if ((scopedCycleCounter_1744830592[0] == 0)) {
-              Temporary23 = ([99,111,109,112,52,51,48]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(c423_3674235568),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+              Temporary23 = ([99,111,109,112,52,51,53]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(c428_3674235568),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
               }
               else {
-              Temporary23 = ([99,111,109,112,52,51,48]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(c423_3674235568),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+              Temporary23 = ([99,111,109,112,52,51,53]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(c428_3674235568),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
               }
               
-              var _comp430_3674236611 = initProbGroup__pkgZhpx7680Zmarkup_u50(Temporary23, [], [], false, []);
+              var _comp435_3674236611 = initProbGroup__pkgZhpx7680Zmarkup_u50(Temporary23, [], [], false, []);
               F.line = 129;
               if ((scopedCycleCounter_1744830592[0] == 0)) {
-              Temporary24 = ([99,111,109,112,52,51,48]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(c423_3674235568),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
+              Temporary24 = ([99,111,109,112,52,51,53]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(c428_3674235568),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]));
               }
               else {
-              Temporary24 = ([99,111,109,112,52,51,48]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(c423_3674235568),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+              Temporary24 = ([99,111,109,112,52,51,53]).concat(compCounter_p5,[95,95],HEX24__systemZdollars_u14(c428_3674235568),[95,95,95,95],HEX24__systemZdollars_u14(cycleCounter_p4[cycleCounter_p4_Idx]),HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
               }
               
-              HEX3Aenv_838897412.comp4307 = rgcmp(toJSStr(Temporary24), _comp430_3674236611);
+              HEX3Aenv_838897412.comp4357 = rgcmp(toJSStr(Temporary24), _comp435_3674236611);
               F.line = 129;
               Temporary25 = HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u26309.bind(HEX3Aenv_838897412); Temporary25.ClP_0 = HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u26309; Temporary25.ClE_0 = HEX3Aenv_838897412;
-              HEX3Aenv_838897412.comp4307.slot = Temporary25;
+              HEX3Aenv_838897412.comp4357.slot = Temporary25;
               F.line = 129;
-              var data_comp430_3674237326 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838897412.comp4307);
+              var data_comp435_3674237326 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838897412.comp4357);
               F.line = 129;
-              addArgIter__pkgZhappyxZspaZtag_u537(data_comp430_3674237326, ([100,97,116,97,45]).concat(HEX3Aenv_838897412.comp4307.uniqCompId));
+              addArgIter__pkgZhappyxZspaZtag_u537(data_comp435_3674237326, ([100,97,116,97,45]).concat(HEX3Aenv_838897412.comp4357.uniqCompId));
               F.line = 129;
-              window.addEventListener('beforeunload', data_comp430_3674237326.exited);
+              window.addEventListener('beforeunload', data_comp435_3674237326.exited);
               F.line = 129;
-              window.addEventListener('pagehide', data_comp430_3674237326.pageHide);
+              window.addEventListener('pagehide', data_comp435_3674237326.pageHide);
               F.line = 129;
-              window.addEventListener('pageshow', data_comp430_3674237326.pageShow);
-              __r423_3674235601.push(tg2([100,105,118], [tg2([100,105,118], [tg2([115,116,114,111,110,103], [tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [99,108,97,115,115], Field1: [116,101,97,99,104,101,114]}, NTI3674239541)], 0), [tg4(HEX3Aenv_838897412.step6["Field0"], true, [], false)], false)], false), tg2([100,105,118], [tg2([101,109], [tg4(HEX3Aenv_838897412.step6["Field2"], true, [], false)], false)], false)], false), data_comp430_3674237326], true));;
+              window.addEventListener('pageshow', data_comp435_3674237326.pageShow);
+              __r428_3674235601.push(tg2([100,105,118], [tg2([100,105,118], [tg2([115,116,114,111,110,103], [tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [99,108,97,115,115], Field1: [116,101,97,99,104,101,114]}, NTI3674239541)], 0), [tg4(HEX3Aenv_838897412.step6["Field0"], true, [], false)], false)], false), tg2([100,105,118], [tg2([101,109], [tg4(HEX3Aenv_838897412.step6["Field2"], true, [], false)], false)], false)], false), data_comp435_3674237326], true));;
               F.line = 124;
               scopedCycleCounter_1744830592[0] = 0;
               F.line = 13;
@@ -46892,13 +46895,13 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u19531(scopeSelf_p0, 
             }
         };
       };
-    Temporary1 = tg2([100,105,118], [tg2([100,105,118], __r423_3674235601, true)], true);
+    Temporary1 = tg2([100,105,118], [tg2([100,105,118], __r428_3674235601, true)], true);
     }
     }}
     var _res_3674237405 = Temporary1;
     F.line = 345;
     F.filename = "macro_utils.nim";
-    this.comp3861.slotData = _res_3674237405;
+    this.comp3911.slotData = _res_3674237405;
     result_3674229842 = _res_3674237405;
   framePtr = F.prev;
 
@@ -46919,7 +46922,7 @@ function renderTag__OOZOOZOOZcomponentsZlayoutZbase26_u19275(self_p0) {
     F.filename = "renderer.nim";
     var HEX3Aenv_838897411 = null;
     F.line = 639;
-    HEX3Aenv_838897411 = {m_type: NTI838900971, self0: null, comp3861: null};
+    HEX3Aenv_838897411 = {m_type: NTI838900971, self0: null, comp3911: null};
     F.line = 936;
     F.filename = "components.nim";
     HEX3Aenv_838897411.self0 = self_p0;
@@ -46927,36 +46930,36 @@ function renderTag__OOZOOZOOZcomponentsZlayoutZbase26_u19275(self_p0) {
     F.filename = "base26.nim";
     F.line = 123;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary1 = ([99,111,109,112,51,56,54]).concat(HEX3Aenv_838897411.self0.uniqCompId);
+    Temporary1 = ([99,111,109,112,51,57,49]).concat(HEX3Aenv_838897411.self0.uniqCompId);
     }
     else {
-    Temporary1 = ([99,111,109,112,51,56,54]).concat(HEX3Aenv_838897411.self0.uniqCompId,HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary1 = ([99,111,109,112,51,57,49]).concat(HEX3Aenv_838897411.self0.uniqCompId,HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    var _comp386_3674229833 = initProbGrid__pkgZhpx7680Zlayout_u1225(Temporary1, 2, 1.0, [], []);
+    var _comp391_3674229833 = initProbGrid__pkgZhpx7680Zlayout_u1225(Temporary1, 2, 1.0, [], []);
     F.line = 123;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary2 = ([99,111,109,112,51,56,54]).concat(HEX3Aenv_838897411.self0.uniqCompId);
+    Temporary2 = ([99,111,109,112,51,57,49]).concat(HEX3Aenv_838897411.self0.uniqCompId);
     }
     else {
-    Temporary2 = ([99,111,109,112,51,56,54]).concat(HEX3Aenv_838897411.self0.uniqCompId,HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary2 = ([99,111,109,112,51,57,49]).concat(HEX3Aenv_838897411.self0.uniqCompId,HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    HEX3Aenv_838897411.comp3861 = rgcmp(toJSStr(Temporary2), _comp386_3674229833);
+    HEX3Aenv_838897411.comp3911 = rgcmp(toJSStr(Temporary2), _comp391_3674229833);
     F.line = 123;
     Temporary3 = HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u19531.bind(HEX3Aenv_838897411); Temporary3.ClP_0 = HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u19531; Temporary3.ClE_0 = HEX3Aenv_838897411;
-    HEX3Aenv_838897411.comp3861.slot = Temporary3;
+    HEX3Aenv_838897411.comp3911.slot = Temporary3;
     F.line = 123;
-    var data_comp386_3674237406 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838897411.comp3861);
+    var data_comp391_3674237406 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838897411.comp3911);
     F.line = 123;
-    addArgIter__pkgZhappyxZspaZtag_u537(data_comp386_3674237406, ([100,97,116,97,45]).concat(HEX3Aenv_838897411.comp3861.uniqCompId));
+    addArgIter__pkgZhappyxZspaZtag_u537(data_comp391_3674237406, ([100,97,116,97,45]).concat(HEX3Aenv_838897411.comp3911.uniqCompId));
     F.line = 123;
-    window.addEventListener('beforeunload', data_comp386_3674237406.exited);
+    window.addEventListener('beforeunload', data_comp391_3674237406.exited);
     F.line = 123;
-    window.addEventListener('pagehide', data_comp386_3674237406.pageHide);
+    window.addEventListener('pagehide', data_comp391_3674237406.pageHide);
     F.line = 123;
-    window.addEventListener('pageshow', data_comp386_3674237406.pageShow);
-    result_3674229581 = tg2([100,105,118], [data_comp386_3674237406], true);
+    window.addEventListener('pageshow', data_comp391_3674237406.pageShow);
+    result_3674229581 = tg2([100,105,118], [data_comp391_3674237406], true);
   framePtr = F.prev;
 
   return result_3674229581;
@@ -47372,9 +47375,9 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u9517(scopeSelf_p0, i
     var cclCounter_3674219915 = [cycleCounter_p4[cycleCounter_p4_Idx]];
     F.line = 742;
     F.filename = "macros.nim";
-    var c351_3674219916 = 0;
+    var c356_3674219916 = 0;
     F.line = 742;
-    var __r351_3674219949 = newSeq__pkgZhpx7680Zfonts_u802(0);
+    var __r356_3674219949 = newSeq__pkgZhpx7680Zfonts_u802(0);
     Label2: {
       F.line = 68;
       F.filename = "base26.nim";
@@ -47397,13 +47400,13 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u9517(scopeSelf_p0, i
             i_3674219962 = res_838897500;
             F.line = 742;
             F.filename = "macros.nim";
-            c351_3674219916 = addInt(c351_3674219916, 1);
+            c356_3674219916 = addInt(c356_3674219916, 1);
             F.line = 1484;
             F.filename = "macro_utils.nim";
-            scopedCycleCounter_1744830592[0] = c351_3674219916;
+            scopedCycleCounter_1744830592[0] = c356_3674219916;
             F.line = 742;
             F.filename = "macros.nim";
-            __r351_3674219949.push(tg2([100,105,118], [tg4([115,108,111,116], true, [], false)], true));;
+            __r356_3674219949.push(tg2([100,105,118], [tg4([115,108,111,116], true, [], false)], true));;
             F.line = 742;
             scopedCycleCounter_1744830592[0] = 0;
             F.line = 102;
@@ -47412,7 +47415,7 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u9517(scopeSelf_p0, i
           }
       };
     };
-    Temporary1 = tg2([100,105,118], [this.self0.slot(this.self0, true, [], true, cclCounter_3674219915, 0, compCounter_p5), tg2([100,105,118], __r351_3674219949, true)], true);
+    Temporary1 = tg2([100,105,118], [this.self0.slot(this.self0, true, [], true, cclCounter_3674219915, 0, compCounter_p5), tg2([100,105,118], __r356_3674219949, true)], true);
     }
     else {
     if (inCycle_p3) {
@@ -47421,9 +47424,9 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u9517(scopeSelf_p0, i
     var cclCounter_3674220134 = [cycleCounter_p4[cycleCounter_p4_Idx]];
     F.line = 742;
     F.filename = "macros.nim";
-    var c353_3674220135 = 0;
+    var c358_3674220135 = 0;
     F.line = 742;
-    var __r353_3674220168 = newSeq__pkgZhpx7680Zfonts_u802(0);
+    var __r358_3674220168 = newSeq__pkgZhpx7680Zfonts_u802(0);
     Label5: {
       F.line = 68;
       F.filename = "base26.nim";
@@ -47446,13 +47449,13 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u9517(scopeSelf_p0, i
             i_3674220181 = res_838897504;
             F.line = 742;
             F.filename = "macros.nim";
-            c353_3674220135 = addInt(c353_3674220135, 1);
+            c358_3674220135 = addInt(c358_3674220135, 1);
             F.line = 1484;
             F.filename = "macro_utils.nim";
-            scopedCycleCounter_1744830592[0] = c353_3674220135;
+            scopedCycleCounter_1744830592[0] = c358_3674220135;
             F.line = 742;
             F.filename = "macros.nim";
-            __r353_3674220168.push(tg2([100,105,118], [tg4([115,108,111,116], true, [], false)], true));;
+            __r358_3674220168.push(tg2([100,105,118], [tg4([115,108,111,116], true, [], false)], true));;
             F.line = 742;
             scopedCycleCounter_1744830592[0] = 0;
             F.line = 102;
@@ -47461,7 +47464,7 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u9517(scopeSelf_p0, i
           }
       };
     };
-    Temporary1 = tg2([100,105,118], [this.self0.slot(this.self0, false, [], true, cclCounter_3674220134, 0, compCounter_p5), tg2([100,105,118], __r353_3674220168, true)], true);
+    Temporary1 = tg2([100,105,118], [this.self0.slot(this.self0, false, [], true, cclCounter_3674220134, 0, compCounter_p5), tg2([100,105,118], __r358_3674220168, true)], true);
     }
     else {
     if (inComponent_p1) {
@@ -47470,9 +47473,9 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u9517(scopeSelf_p0, i
     var cclCounter_3674220353 = [cycleCounter_p4[cycleCounter_p4_Idx]];
     F.line = 742;
     F.filename = "macros.nim";
-    var c355_3674220354 = 0;
+    var c360_3674220354 = 0;
     F.line = 742;
-    var __r355_3674220387 = newSeq__pkgZhpx7680Zfonts_u802(0);
+    var __r360_3674220387 = newSeq__pkgZhpx7680Zfonts_u802(0);
     Label8: {
       F.line = 68;
       F.filename = "base26.nim";
@@ -47495,13 +47498,13 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u9517(scopeSelf_p0, i
             i_3674220400 = res_838897508;
             F.line = 742;
             F.filename = "macros.nim";
-            c355_3674220354 = addInt(c355_3674220354, 1);
+            c360_3674220354 = addInt(c360_3674220354, 1);
             F.line = 1484;
             F.filename = "macro_utils.nim";
-            scopedCycleCounter_1744830592[0] = c355_3674220354;
+            scopedCycleCounter_1744830592[0] = c360_3674220354;
             F.line = 742;
             F.filename = "macros.nim";
-            __r355_3674220387.push(tg2([100,105,118], [tg4([115,108,111,116], true, [], false)], true));;
+            __r360_3674220387.push(tg2([100,105,118], [tg4([115,108,111,116], true, [], false)], true));;
             F.line = 742;
             scopedCycleCounter_1744830592[0] = 0;
             F.line = 102;
@@ -47510,7 +47513,7 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u9517(scopeSelf_p0, i
           }
       };
     };
-    Temporary1 = tg2([100,105,118], [this.self0.slot(this.self0, true, [], false, cclCounter_3674220353, 0, compCounter_p5), tg2([100,105,118], __r355_3674220387, true)], true);
+    Temporary1 = tg2([100,105,118], [this.self0.slot(this.self0, true, [], false, cclCounter_3674220353, 0, compCounter_p5), tg2([100,105,118], __r360_3674220387, true)], true);
     }
     else {
       F.line = 67;
@@ -47518,9 +47521,9 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u9517(scopeSelf_p0, i
       var cclCounter_3674220572 = [cycleCounter_p4[cycleCounter_p4_Idx]];
       F.line = 742;
       F.filename = "macros.nim";
-      var c357_3674220573 = 0;
+      var c362_3674220573 = 0;
       F.line = 742;
-      var __r357_3674220606 = newSeq__pkgZhpx7680Zfonts_u802(0);
+      var __r362_3674220606 = newSeq__pkgZhpx7680Zfonts_u802(0);
       Label11: {
         F.line = 68;
         F.filename = "base26.nim";
@@ -47543,13 +47546,13 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u9517(scopeSelf_p0, i
               i_3674220619 = res_838897512;
               F.line = 742;
               F.filename = "macros.nim";
-              c357_3674220573 = addInt(c357_3674220573, 1);
+              c362_3674220573 = addInt(c362_3674220573, 1);
               F.line = 1484;
               F.filename = "macro_utils.nim";
-              scopedCycleCounter_1744830592[0] = c357_3674220573;
+              scopedCycleCounter_1744830592[0] = c362_3674220573;
               F.line = 742;
               F.filename = "macros.nim";
-              __r357_3674220606.push(tg2([100,105,118], [tg4([115,108,111,116], true, [], false)], true));;
+              __r362_3674220606.push(tg2([100,105,118], [tg4([115,108,111,116], true, [], false)], true));;
               F.line = 742;
               scopedCycleCounter_1744830592[0] = 0;
               F.line = 102;
@@ -47558,13 +47561,13 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u9517(scopeSelf_p0, i
             }
         };
       };
-    Temporary1 = tg2([100,105,118], [this.self0.slot(this.self0, false, [], false, cclCounter_3674220572, 0, compCounter_p5), tg2([100,105,118], __r357_3674220606, true)], true);
+    Temporary1 = tg2([100,105,118], [this.self0.slot(this.self0, false, [], false, cclCounter_3674220572, 0, compCounter_p5), tg2([100,105,118], __r362_3674220606, true)], true);
     }
     }}
     var _res_3674220705 = Temporary1;
     F.line = 345;
     F.filename = "macro_utils.nim";
-    this.comp3491.slotData = _res_3674220705;
+    this.comp3541.slotData = _res_3674220705;
     result_3674219828 = _res_3674220705;
   framePtr = F.prev;
 
@@ -47585,7 +47588,7 @@ function renderTag__OOZOOZOOZcomponentsZlayoutZbase26_u9261(self_p0) {
     F.filename = "renderer.nim";
     var HEX3Aenv_838897516 = null;
     F.line = 639;
-    HEX3Aenv_838897516 = {m_type: NTI838901011, self0: null, comp3491: null};
+    HEX3Aenv_838897516 = {m_type: NTI838901011, self0: null, comp3541: null};
     F.line = 936;
     F.filename = "components.nim";
     HEX3Aenv_838897516.self0 = self_p0;
@@ -47593,36 +47596,36 @@ function renderTag__OOZOOZOOZcomponentsZlayoutZbase26_u9261(self_p0) {
     F.filename = "base26.nim";
     F.line = 67;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary1 = ([99,111,109,112,51,52,57]).concat(HEX3Aenv_838897516.self0.uniqCompId);
+    Temporary1 = ([99,111,109,112,51,53,52]).concat(HEX3Aenv_838897516.self0.uniqCompId);
     }
     else {
-    Temporary1 = ([99,111,109,112,51,52,57]).concat(HEX3Aenv_838897516.self0.uniqCompId,HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary1 = ([99,111,109,112,51,53,52]).concat(HEX3Aenv_838897516.self0.uniqCompId,HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    var _comp349_3674219819 = initProbGrid__pkgZhpx7680Zlayout_u1225(Temporary1, HEX3Aenv_838897516.self0.ncols.val, HEX3Aenv_838897516.self0.stretch.val, [], []);
+    var _comp354_3674219819 = initProbGrid__pkgZhpx7680Zlayout_u1225(Temporary1, HEX3Aenv_838897516.self0.ncols.val, HEX3Aenv_838897516.self0.stretch.val, [], []);
     F.line = 67;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary2 = ([99,111,109,112,51,52,57]).concat(HEX3Aenv_838897516.self0.uniqCompId);
+    Temporary2 = ([99,111,109,112,51,53,52]).concat(HEX3Aenv_838897516.self0.uniqCompId);
     }
     else {
-    Temporary2 = ([99,111,109,112,51,52,57]).concat(HEX3Aenv_838897516.self0.uniqCompId,HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary2 = ([99,111,109,112,51,53,52]).concat(HEX3Aenv_838897516.self0.uniqCompId,HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    HEX3Aenv_838897516.comp3491 = rgcmp(toJSStr(Temporary2), _comp349_3674219819);
+    HEX3Aenv_838897516.comp3541 = rgcmp(toJSStr(Temporary2), _comp354_3674219819);
     F.line = 68;
     Temporary3 = HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u9517.bind(HEX3Aenv_838897516); Temporary3.ClP_0 = HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u9517; Temporary3.ClE_0 = HEX3Aenv_838897516;
-    HEX3Aenv_838897516.comp3491.slot = Temporary3;
+    HEX3Aenv_838897516.comp3541.slot = Temporary3;
     F.line = 68;
-    var data_comp349_3674220718 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838897516.comp3491);
+    var data_comp354_3674220718 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838897516.comp3541);
     F.line = 68;
-    addArgIter__pkgZhappyxZspaZtag_u537(data_comp349_3674220718, ([100,97,116,97,45]).concat(HEX3Aenv_838897516.comp3491.uniqCompId));
+    addArgIter__pkgZhappyxZspaZtag_u537(data_comp354_3674220718, ([100,97,116,97,45]).concat(HEX3Aenv_838897516.comp3541.uniqCompId));
     F.line = 68;
-    window.addEventListener('beforeunload', data_comp349_3674220718.exited);
+    window.addEventListener('beforeunload', data_comp354_3674220718.exited);
     F.line = 68;
-    window.addEventListener('pagehide', data_comp349_3674220718.pageHide);
+    window.addEventListener('pagehide', data_comp354_3674220718.pageHide);
     F.line = 68;
-    window.addEventListener('pageshow', data_comp349_3674220718.pageShow);
-    result_3674219567 = tg2([100,105,118], [data_comp349_3674220718], true);
+    window.addEventListener('pageshow', data_comp354_3674220718.pageShow);
+    result_3674219567 = tg2([100,105,118], [data_comp354_3674220718], true);
   framePtr = F.prev;
 
   return result_3674219567;
@@ -47907,7 +47910,7 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u12984(scopeSelf_p0, 
     }}
     var _res_3674223384 = Temporary1;
     F.line = 345;
-    this.comp3610.slotData = _res_3674223384;
+    this.comp3660.slotData = _res_3674223384;
     result_3674223295 = _res_3674223384;
   framePtr = F.prev;
 
@@ -47928,42 +47931,42 @@ function renderTag__OOZOOZOOZcomponentsZlayoutZbase26_u12728(self_p0) {
     F.filename = "macro_utils.nim";
     var HEX3Aenv_838897553 = null;
     F.line = 296;
-    HEX3Aenv_838897553 = {m_type: NTI838901043, comp3610: null};
+    HEX3Aenv_838897553 = {m_type: NTI838901043, comp3660: null};
     F.line = 79;
     F.filename = "base26.nim";
     F.line = 79;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary1 = ([99,111,109,112,51,54,49]).concat(self_p0.uniqCompId);
+    Temporary1 = ([99,111,109,112,51,54,54]).concat(self_p0.uniqCompId);
     }
     else {
-    Temporary1 = ([99,111,109,112,51,54,49]).concat(self_p0.uniqCompId,HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary1 = ([99,111,109,112,51,54,54]).concat(self_p0.uniqCompId,HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    var _comp361_3674223286 = initKeyNotice__OOZOOZOOZcomponentsZlayoutZbase26_u10577(Temporary1);
+    var _comp366_3674223286 = initKeyNotice__OOZOOZOOZcomponentsZlayoutZbase26_u10577(Temporary1);
     F.line = 79;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary2 = ([99,111,109,112,51,54,49]).concat(self_p0.uniqCompId);
+    Temporary2 = ([99,111,109,112,51,54,54]).concat(self_p0.uniqCompId);
     }
     else {
-    Temporary2 = ([99,111,109,112,51,54,49]).concat(self_p0.uniqCompId,HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary2 = ([99,111,109,112,51,54,54]).concat(self_p0.uniqCompId,HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    HEX3Aenv_838897553.comp3610 = rgcmp(toJSStr(Temporary2), _comp361_3674223286);
+    HEX3Aenv_838897553.comp3660 = rgcmp(toJSStr(Temporary2), _comp366_3674223286);
     F.line = 312;
     F.filename = "macro_utils.nim";
     Temporary3 = HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u12984.bind(HEX3Aenv_838897553); Temporary3.ClP_0 = HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u12984; Temporary3.ClE_0 = HEX3Aenv_838897553;
-    HEX3Aenv_838897553.comp3610.slot = Temporary3;
+    HEX3Aenv_838897553.comp3660.slot = Temporary3;
     F.line = 312;
-    var data_comp361_3674223385 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838897553.comp3610);
+    var data_comp366_3674223385 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838897553.comp3660);
     F.line = 312;
-    addArgIter__pkgZhappyxZspaZtag_u537(data_comp361_3674223385, ([100,97,116,97,45]).concat(HEX3Aenv_838897553.comp3610.uniqCompId));
+    addArgIter__pkgZhappyxZspaZtag_u537(data_comp366_3674223385, ([100,97,116,97,45]).concat(HEX3Aenv_838897553.comp3660.uniqCompId));
     F.line = 312;
-    window.addEventListener('beforeunload', data_comp361_3674223385.exited);
+    window.addEventListener('beforeunload', data_comp366_3674223385.exited);
     F.line = 312;
-    window.addEventListener('pagehide', data_comp361_3674223385.pageHide);
+    window.addEventListener('pagehide', data_comp366_3674223385.pageHide);
     F.line = 312;
-    window.addEventListener('pageshow', data_comp361_3674223385.pageShow);
-    result_3674223034 = tg2([100,105,118], [data_comp361_3674223385], true);
+    window.addEventListener('pageshow', data_comp366_3674223385.pageShow);
+    result_3674223034 = tg2([100,105,118], [data_comp366_3674223385], true);
   framePtr = F.prev;
 
   return result_3674223034;
@@ -48217,7 +48220,7 @@ function HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u14356(scopeSelf_p0, 
     var _res_3674224676 = Temporary1;
     F.line = 345;
     F.filename = "macro_utils.nim";
-    this.comp3620.slotData = _res_3674224676;
+    this.comp3670.slotData = _res_3674224676;
     result_3674224667 = _res_3674224676;
   framePtr = F.prev;
 
@@ -48238,40 +48241,40 @@ function renderTag__OOZOOZOOZcomponentsZlayoutZbase26_u14100(self_p0) {
     F.filename = "macro_utils.nim";
     var HEX3Aenv_838897590 = null;
     F.line = 296;
-    HEX3Aenv_838897590 = {m_type: NTI838901063, comp3620: null};
+    HEX3Aenv_838897590 = {m_type: NTI838901063, comp3670: null};
     F.line = 88;
     F.filename = "base26.nim";
     F.line = 84;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary1 = ([99,111,109,112,51,54,50]).concat(self_p0.uniqCompId);
+    Temporary1 = ([99,111,109,112,51,54,55]).concat(self_p0.uniqCompId);
     }
     else {
-    Temporary1 = ([99,111,109,112,51,54,50]).concat(self_p0.uniqCompId,HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary1 = ([99,111,109,112,51,54,55]).concat(self_p0.uniqCompId,HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    var _comp362_3674224658 = initStrut__pkgZhpx7680Zlayout_u2528(Temporary1, [49,101,109], [49,101,109], []);
+    var _comp367_3674224658 = initStrut__pkgZhpx7680Zlayout_u2528(Temporary1, [49,101,109], [49,101,109], []);
     F.line = 84;
     if ((scopedCycleCounter_1744830592[0] == 0)) {
-    Temporary2 = ([99,111,109,112,51,54,50]).concat(self_p0.uniqCompId);
+    Temporary2 = ([99,111,109,112,51,54,55]).concat(self_p0.uniqCompId);
     }
     else {
-    Temporary2 = ([99,111,109,112,51,54,50]).concat(self_p0.uniqCompId,HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
+    Temporary2 = ([99,111,109,112,51,54,55]).concat(self_p0.uniqCompId,HEX24__systemZdollars_u14(scopedCycleCounter_1744830592[0]));
     }
     
-    HEX3Aenv_838897590.comp3620 = rgcmp(toJSStr(Temporary2), _comp362_3674224658);
+    HEX3Aenv_838897590.comp3670 = rgcmp(toJSStr(Temporary2), _comp367_3674224658);
     F.line = 84;
     Temporary3 = HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u14356.bind(HEX3Aenv_838897590); Temporary3.ClP_0 = HEX3Aanonymous__OOZOOZOOZcomponentsZlayoutZbase26_u14356; Temporary3.ClE_0 = HEX3Aenv_838897590;
-    HEX3Aenv_838897590.comp3620.slot = Temporary3;
+    HEX3Aenv_838897590.comp3670.slot = Temporary3;
     F.line = 84;
-    var data_comp362_3674224677 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838897590.comp3620);
+    var data_comp367_3674224677 = render__pkgZhappyxZspaZrenderer_u5867(HEX3Aenv_838897590.comp3670);
     F.line = 84;
-    addArgIter__pkgZhappyxZspaZtag_u537(data_comp362_3674224677, ([100,97,116,97,45]).concat(HEX3Aenv_838897590.comp3620.uniqCompId));
+    addArgIter__pkgZhappyxZspaZtag_u537(data_comp367_3674224677, ([100,97,116,97,45]).concat(HEX3Aenv_838897590.comp3670.uniqCompId));
     F.line = 84;
-    window.addEventListener('beforeunload', data_comp362_3674224677.exited);
+    window.addEventListener('beforeunload', data_comp367_3674224677.exited);
     F.line = 84;
-    window.addEventListener('pagehide', data_comp362_3674224677.pageHide);
+    window.addEventListener('pagehide', data_comp367_3674224677.pageHide);
     F.line = 84;
-    window.addEventListener('pageshow', data_comp362_3674224677.pageShow);
+    window.addEventListener('pageshow', data_comp367_3674224677.pageShow);
     Label4: {
       F.line = 87;
       var fmtRes_3674224859 = [mnewString(0)];
@@ -48285,7 +48288,7 @@ function renderTag__OOZOOZOOZcomponentsZlayoutZbase26_u14100(self_p0) {
     F.line = 614;
     F.filename = "components.nim";
     var cclCounter_3674224954 = [0];
-    result_3674224406 = tg2([100,105,118], [data_comp362_3674224677, tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [98,111,114,100,101,114,45,115,116,121,108,101,58,32,48,46,50,101,109,32,103,114,111,111,118,101,32,103,114,97,121,59]}, NTI3674226386)], 0), [tg2([115,116,114,111,110,103], [tg4(fmtRes_3674224859[0], true, [], false), self_p0.slot(self_p0, true, [84,80,76,101,118,101,108], false, cclCounter_3674224954, 0, self_p0.uniqCompId)], false)], false)], true);
+    result_3674224406 = tg2([100,105,118], [data_comp367_3674224677, tg1([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: [98,111,114,100,101,114,45,115,116,121,108,101,58,32,48,46,50,101,109,32,103,114,111,111,118,101,32,103,114,97,121,59]}, NTI3674226386)], 0), [tg2([115,116,114,111,110,103], [tg4(fmtRes_3674224859[0], true, [], false), self_p0.slot(self_p0, true, [84,80,76,101,118,101,108], false, cclCounter_3674224954, 0, self_p0.uniqCompId)], false)], false)], true);
   framePtr = F.prev;
 
   return result_3674224406;
@@ -48774,7 +48777,7 @@ function render__pkgZhappyxZspaZrenderer_u5867(self_p0) {
     else {
     if (isObj(self_p0.m_type, NTI3271557573)) {
     F.line = 405;
-    result_1744836332 = render__pkgZhpx7680Zproblem84ype_u929(self_p0);
+    result_1744836332 = render__pkgZhpx7680Zproblem84ype_u931(self_p0);
     break BeforeRet;
     }
     else {
@@ -48820,9 +48823,9 @@ function render__pkgZhappyxZspaZrenderer_u5867(self_p0) {
     break BeforeRet;
     }
     else {
-    if (isObj(self_p0.m_type, NTI4026531885)) {
+    if (isObj(self_p0.m_type, NTI4026531883)) {
     F.line = 405;
-    result_1744836332 = render__OOZlesson84arget_u10051(self_p0);
+    result_1744836332 = render__OOZlesson84arget_u10047(self_p0);
     break BeforeRet;
     }
     else {
