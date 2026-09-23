@@ -24,7 +24,15 @@ window.MathJax = {
     fontCache: 'global'
   },
   startup: {
-    typeset: false
+    typeset: false,
+    pageReady: function () {
+      // This is the official MathJax 3 hook. It fires only when initialization is truly 100% complete.
+      return MathJax.startup.defaultPageReady().then(function () {
+        window._mjIsReady = true;
+        // If HappyX loaded before MathJax finished, trigger the first pass now.
+        if (window._triggerMathJaxNim) window._triggerMathJaxNim();
+      });
+    }
   }
 };
 </script>
