@@ -21,7 +21,7 @@ var NTI2952791323 = {size: 0, kind: 18, base: null, node: null, finalizer: null}
 var NTI2952791030 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
 var NTI2952791627 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
 var NTI2952791449 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
-var NTI3003121672 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
+var NTI3003121703 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
 var NTI2936024897 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
 var NTI2936024778 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
 var NTI2936024656 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
@@ -1198,9 +1198,9 @@ NTI2936024778.node = NNI2936024778;
 var NNI2936024897 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
 {kind: 1, offset: "Field1", len: 0, typ: NTI33554449, name: "Field1", sons: null}]};
 NTI2936024897.node = NNI2936024897;
-var NNI3003121672 = {kind: 2, len: 0, offset: 0, typ: null, name: null, sons: []};
-NTI3003121672.node = NNI3003121672;
-NTI3003121672.base = NTI1728053258;
+var NNI3003121703 = {kind: 2, len: 0, offset: 0, typ: null, name: null, sons: []};
+NTI3003121703.node = NNI3003121703;
+NTI3003121703.base = NTI1728053258;
 var NNI2952791449 = {kind: 2, len: 3, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "counter", len: 0, typ: NTI2952791037, name: "counter", sons: null}, 
 {kind: 1, offset: "count", len: 0, typ: NTI2231370664, name: "count", sons: null}, 
 {kind: 1, offset: "text", len: 0, typ: NTI2231370846, name: "text", sons: null}]};
@@ -1724,12 +1724,13 @@ function addChar(x_p0, c_p1) {
   
 }
 var ConstSet7 = setConstr([48, 57], [65, 90], [97, 122]);
-      var subjectMap_3120562525 = {data: [{Field0: 0, Field1: [], Field2: []}, {Field0: (-1887157039), Field1: [77,65,84,72,45,76,65,66], Field2: [77,97,116,104,32,76,97,98]}, {Field0: 1291329042, Field1: [65,76,71,45,50], Field2: [65,108,103,101,98,114,97,32,50]}, {Field0: (-1586830062), Field1: [65,76,71,45,49,72], Field2: [72,111,110,111,114,115,32,65,108,103,101,98,114,97,32,49]}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: (-927795218), Field1: [65,76,71,45,49], Field2: [65,108,103,101,98,114,97,32,49]}, {Field0: 0, Field1: [], Field2: []}], counter: 4};
-      var a1Lessons_838860941 = [[97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,119,95,50,47,97,49,95,108,101,115,115,111,110,95,49,95,119,95,50,47,97,49,95,108,101,115,115,111,110,95,49,95,119,95,50,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,119,95,50,47,97,49,95,115,108,105,100,101,115,95,49,95,119,95,50,47,97,49,95,115,108,105,100,101,115,95,49,95,119,95,50,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,48,95,51,47,97,49,95,108,101,115,115,111,110,95,48,95,48,95,51,47,97,49,95,108,101,115,115,111,110,95,48,95,48,95,51,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,48,95,51,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,51,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,51,95,112,117,98,108,105,99,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,48,95,51,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,51,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,51,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,49,95,49,47,97,49,95,108,101,115,115,111,110,95,48,95,49,95,49,47,97,49,95,108,101,115,115,111,110,95,48,95,49,95,49,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,49,95,49,47,97,49,95,115,108,105,100,101,115,95,48,95,49,95,49,47,97,49,95,115,108,105,100,101,115,95,48,95,49,95,49,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,49,95,49,47,97,49,95,115,108,105,100,101,115,95,48,95,49,95,49,47,97,49,95,115,108,105,100,101,115,95,48,95,49,95,49,95,112,117,98,108,105,99,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,49,95,49,47,97,49,95,108,101,115,115,111,110,50,95,48,95,49,95,49,47,97,49,95,108,101,115,115,111,110,50,95,48,95,49,95,49,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,48,95,50,47,97,49,95,108,101,115,115,111,110,95,48,95,48,95,50,47,97,49,95,108,101,115,115,111,110,95,48,95,48,95,50,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,48,95,50,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,50,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,50,95,112,117,98,108,105,99,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,48,95,50,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,50,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,50,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,119,95,49,47,97,49,95,108,101,115,115,111,110,95,49,95,119,95,49,47,97,49,95,108,101,115,115,111,110,95,49,95,119,95,49,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,119,95,49,47,97,49,95,115,108,105,100,101,115,95,49,95,119,95,49,47,97,49,95,115,108,105,100,101,115,95,49,95,119,95,49,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,119,95,49,47,97,49,95,115,108,105,100,101,115,95,49,95,119,95,49,47,97,49,95,115,108,105,100,101,115,95,49,95,119,95,49,95,112,117,98,108,105,99,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,102,105,114,115,116,68,97,121,47,97,49,95,108,101,115,115,111,110,95,48,95,48,95,48,47,97,49,95,108,101,115,115,111,110,95,48,95,48,95,48,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,102,105,114,115,116,68,97,121,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,48,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,48,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,102,105,114,115,116,68,97,121,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,48,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,48,95,112,117,98,108,105,99,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,48,95,51,47,97,49,95,108,101,115,115,111,110,95,49,95,48,95,51,47,97,49,95,108,101,115,115,111,110,95,49,95,48,95,51,46,104,116,109,108], makeNimstrLit("algebra1/lesson1_0_3/a1_targets_Posting_1_0_3/a1_targets_Posting_1_0_3.html"), [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,48,95,51,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,51,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,51,95,112,117,98,108,105,99,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,48,95,51,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,51,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,51,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,48,95,49,47,97,49,95,108,101,115,115,111,110,95,49,95,48,95,49,47,97,49,95,108,101,115,115,111,110,95,49,95,48,95,49,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,48,95,49,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,49,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,49,95,112,117,98,108,105,99,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,48,95,49,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,49,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,49,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,115,101,99,111,110,100,68,97,121,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,49,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,49,95,112,117,98,108,105,99,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,115,101,99,111,110,100,68,97,121,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,49,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,49,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,115,101,99,111,110,100,68,97,121,47,97,49,95,108,101,115,115,111,110,95,48,95,48,95,49,47,97,49,95,108,101,115,115,111,110,95,48,95,48,95,49,46,104,116,109,108], makeNimstrLit("algebra1/lessonx_0_3/Q1_1_0_3_solve_linear_LES/Q1_1_0_3_solve_linear_LES.html"), makeNimstrLit("algebra1/lessonx_0_3/Q1_1_0_3_solve_linear_PRA/Q1_1_0_3_solve_linear_PRA.html"), [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,48,95,50,47,97,49,95,108,101,115,115,111,110,95,49,95,48,95,50,47,97,49,95,108,101,115,115,111,110,95,49,95,48,95,50,46,104,116,109,108], makeNimstrLit("algebra1/lesson1_0_2/a1_targets_Posting_1_0_2/a1_targets_Posting_1_0_2.html"), [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,48,95,50,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,50,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,50,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,48,95,50,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,50,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,50,95,112,117,98,108,105,99,46,104,116,109,108]];
+      var subjectMap_3137339741 = {data: [{Field0: 0, Field1: [], Field2: []}, {Field0: (-1887157039), Field1: [77,65,84,72,45,76,65,66], Field2: [77,97,116,104,32,76,97,98]}, {Field0: 1291329042, Field1: [65,76,71,45,50], Field2: [65,108,103,101,98,114,97,32,50]}, {Field0: (-1586830062), Field1: [65,76,71,45,49,72], Field2: [72,111,110,111,114,115,32,65,108,103,101,98,114,97,32,49]}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: (-927795218), Field1: [65,76,71,45,49], Field2: [65,108,103,101,98,114,97,32,49]}, {Field0: 0, Field1: [], Field2: []}], counter: 4};
+      var a1Lessons_838860941 = [[97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,119,95,50,47,97,49,95,108,101,115,115,111,110,95,49,95,119,95,50,47,97,49,95,108,101,115,115,111,110,95,49,95,119,95,50,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,119,95,50,47,97,49,95,115,108,105,100,101,115,95,49,95,119,95,50,47,97,49,95,115,108,105,100,101,115,95,49,95,119,95,50,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,113,117,105,122,49,95,49,47,81,49,95,49,95,49,95,116,119,111,95,115,116,101,112,95,81,85,73,90,47,81,49,95,49,95,49,95,116,119,111,95,115,116,101,112,95,81,85,73,90,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,113,117,105,122,49,95,49,47,81,49,95,49,95,49,95,116,119,111,95,115,116,101,112,95,83,76,73,47,81,49,95,49,95,49,95,116,119,111,95,115,116,101,112,95,83,76,73,46,104,116,109,108], makeNimstrLit("algebra1/quiz1_1/Q1_1_1_two_step_SLI/Q1_1_1_two_step_SLI_public.html"), makeNimstrLit("algebra1/lesson1_0_4/Q1_1_0_4_2_step_SLI/Q1_1_0_4_2_step_SLI_public.html"), makeNimstrLit("algebra1/lesson1_0_4/Q1_1_0_4_2_step_SLI/Q1_1_0_4_2_step_SLI.html"), makeNimstrLit("algebra1/lesson1_0_4/Q1_1_0_4_2_step_PRA/Q1_1_0_4_2_step_PRA.html"), makeNimstrLit("algebra1/lesson1_0_4/Q1_1_0_4_2_step_LES/Q1_1_0_4_2_step_LES.html"), [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,48,95,51,47,97,49,95,108,101,115,115,111,110,95,48,95,48,95,51,47,97,49,95,108,101,115,115,111,110,95,48,95,48,95,51,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,48,95,51,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,51,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,51,95,112,117,98,108,105,99,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,48,95,51,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,51,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,51,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,49,95,49,47,97,49,95,108,101,115,115,111,110,95,48,95,49,95,49,47,97,49,95,108,101,115,115,111,110,95,48,95,49,95,49,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,49,95,49,47,97,49,95,115,108,105,100,101,115,95,48,95,49,95,49,47,97,49,95,115,108,105,100,101,115,95,48,95,49,95,49,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,49,95,49,47,97,49,95,115,108,105,100,101,115,95,48,95,49,95,49,47,97,49,95,115,108,105,100,101,115,95,48,95,49,95,49,95,112,117,98,108,105,99,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,49,95,49,47,97,49,95,108,101,115,115,111,110,50,95,48,95,49,95,49,47,97,49,95,108,101,115,115,111,110,50,95,48,95,49,95,49,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,48,95,50,47,97,49,95,108,101,115,115,111,110,95,48,95,48,95,50,47,97,49,95,108,101,115,115,111,110,95,48,95,48,95,50,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,48,95,50,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,50,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,50,95,112,117,98,108,105,99,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,48,95,50,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,50,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,50,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,119,95,49,47,97,49,95,108,101,115,115,111,110,95,49,95,119,95,49,47,97,49,95,108,101,115,115,111,110,95,49,95,119,95,49,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,119,95,49,47,97,49,95,115,108,105,100,101,115,95,49,95,119,95,49,47,97,49,95,115,108,105,100,101,115,95,49,95,119,95,49,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,119,95,49,47,97,49,95,115,108,105,100,101,115,95,49,95,119,95,49,47,97,49,95,115,108,105,100,101,115,95,49,95,119,95,49,95,112,117,98,108,105,99,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,102,105,114,115,116,68,97,121,47,97,49,95,108,101,115,115,111,110,95,48,95,48,95,48,47,97,49,95,108,101,115,115,111,110,95,48,95,48,95,48,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,102,105,114,115,116,68,97,121,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,48,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,48,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,102,105,114,115,116,68,97,121,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,48,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,48,95,112,117,98,108,105,99,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,48,95,51,47,97,49,95,108,101,115,115,111,110,95,49,95,48,95,51,47,97,49,95,108,101,115,115,111,110,95,49,95,48,95,51,46,104,116,109,108], makeNimstrLit("algebra1/lesson1_0_3/a1_targets_Posting_1_0_3/a1_targets_Posting_1_0_3.html"), [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,48,95,51,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,51,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,51,95,112,117,98,108,105,99,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,48,95,51,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,51,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,51,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,48,95,49,47,97,49,95,108,101,115,115,111,110,95,49,95,48,95,49,47,97,49,95,108,101,115,115,111,110,95,49,95,48,95,49,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,48,95,49,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,49,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,49,95,112,117,98,108,105,99,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,48,95,49,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,49,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,49,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,115,101,99,111,110,100,68,97,121,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,49,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,49,95,112,117,98,108,105,99,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,115,101,99,111,110,100,68,97,121,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,49,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,49,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,115,101,99,111,110,100,68,97,121,47,97,49,95,108,101,115,115,111,110,95,48,95,48,95,49,47,97,49,95,108,101,115,115,111,110,95,48,95,48,95,49,46,104,116,109,108], makeNimstrLit("algebra1/lessonx_0_3/Q1_1_0_3_solve_linear_LES/Q1_1_0_3_solve_linear_LES.html"), makeNimstrLit("algebra1/lessonx_0_3/Q1_1_0_3_solve_linear_PRA/Q1_1_0_3_solve_linear_PRA.html"), [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,48,95,50,47,97,49,95,108,101,115,115,111,110,95,49,95,48,95,50,47,97,49,95,108,101,115,115,111,110,95,49,95,48,95,50,46,104,116,109,108], makeNimstrLit("algebra1/lesson1_0_2/a1_targets_Posting_1_0_2/a1_targets_Posting_1_0_2.html"), [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,48,95,50,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,50,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,50,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,48,95,50,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,50,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,50,95,112,117,98,108,105,99,46,104,116,109,108]];
+      var a1hLessons_838860942 = [makeNimstrLit("algebra1Honors/lesson1_0_4/Q1_1_0_4_3_step_PRA/Q1_1_0_4_3_step_PRA.html"), makeNimstrLit("algebra1Honors/lesson1_0_4/Q1_1_0_4_3_step_SLI/Q1_1_0_4_3_step_SLI.html"), makeNimstrLit("algebra1Honors/lesson1_0_4/Q1_1_0_4_3_step_SLI/Q1_1_0_4_3_step_SLI_public.html"), makeNimstrLit("algebra1Honors/lesson1_0_4/Q1_1_0_4_3_step_LES/Q1_1_0_4_3_step_LES.html")];
             var categories_838861511 = [[76,101,115,115,111,110,115], [80,114,97,99,116,105,99,101], [72,111,109,101,119,111,114,107], [81,117,105,122,122,101,115], [83,108,105,100,101,115], [83,117,112,112,111,114,116,115]];
 var ConstSet8 = setConstr([97, 122]);
 var ConstSet9 = setConstr(47, 47);
-    var TaskCodeMap_3120562258 = {data: [{Field0: 566978320, Field1: [80,82,65], Field2: [80,114,97,99,116,105,99,101]}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: (-888005707), Field1: [78,73,76], Field2: [67,117,115,116,111,109]}, {Field0: 0, Field1: [], Field2: []}, {Field0: 518700167, Field1: [83,85,80], Field2: [83,117,112,112,111,114,116]}, {Field0: (-417154600), Field1: [65,67,84], Field2: [65,99,116,105,118,105,116,121]}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 595183371, Field1: [76,69,83], Field2: [76,101,115,115,111,110]}, {Field0: 230516044, Field1: [81,85,73,90], Field2: [81,117,105,122]}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 474743055, Field1: [83,76,73], Field2: [83,108,105,100,101,115]}], counter: 7};
+    var TaskCodeMap_3137339474 = {data: [{Field0: 566978320, Field1: [80,82,65], Field2: [80,114,97,99,116,105,99,101]}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: (-888005707), Field1: [78,73,76], Field2: [67,117,115,116,111,109]}, {Field0: 0, Field1: [], Field2: []}, {Field0: 518700167, Field1: [83,85,80], Field2: [83,117,112,112,111,114,116]}, {Field0: (-417154600), Field1: [65,67,84], Field2: [65,99,116,105,118,105,116,121]}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 595183371, Field1: [76,69,83], Field2: [76,101,115,115,111,110]}, {Field0: 230516044, Field1: [81,85,73,90], Field2: [81,117,105,122]}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 474743055, Field1: [83,76,73], Field2: [83,108,105,100,101,115]}], counter: 7};
 var ConstSet10 = setConstr([48, 57]);
 var ConstSet11 = setConstr(0, 125);
 var ConstSet12 = setConstr([48, 57]);
@@ -6665,7 +6666,7 @@ framePtr = F.prev;
 function newProbCounter__pkgZhpx7680Znumbering_u59() {
   var result_2952790076 = null;
 
-  var F = {procname: "numbering.newProbCounter", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/numbering.nim", line: 0};
+  var F = {procname: "numbering.newProbCounter", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/numbering.nim", line: 0};
   framePtr = F;
     F.line = 50;
     F.filename = "numbering.nim";
@@ -6675,7 +6676,7 @@ function newProbCounter__pkgZhpx7680Znumbering_u59() {
   return result_2952790076;
 
 }
-var F = {procname: "module numbering", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/numbering.nim", line: 0};
+var F = {procname: "module numbering", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/numbering.nim", line: 0};
 framePtr = F;
 F.line = 4;
 F.filename = "numbering.nim";
@@ -6733,80 +6734,92 @@ var eCount_2952790113 = [newProbCounter__pkgZhpx7680Znumbering_u59()];
 F.line = 54;
 var sCount_2952790114 = [newProbCounter__pkgZhpx7680Znumbering_u59()];
 framePtr = F.prev;
-var F = {procname: "module numbering", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/numbering.nim", line: 0};
+var F = {procname: "module numbering", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/numbering.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module thunks", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/algExt-0.1.0-ee6e157bba03447b3b43476aa961afb00502f073/algExt/thunks.nim", line: 0};
+var F = {procname: "module thunks", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/algExt-0.1.0-a4d950278e71e3b8383789552a2bc8bd79b37d58/algExt/thunks.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module thunks", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/algExt-0.1.0-ee6e157bba03447b3b43476aa961afb00502f073/algExt/thunks.nim", line: 0};
+var F = {procname: "module thunks", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/algExt-0.1.0-a4d950278e71e3b8383789552a2bc8bd79b37d58/algExt/thunks.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module tagRefable", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/tagRefable.nim", line: 0};
+var F = {procname: "module tagRefable", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/tagRefable.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module tagRefable", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/tagRefable.nim", line: 0};
+var F = {procname: "module tagRefable", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/tagRefable.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module latex", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/algebraic-0.1.0-914bcc66e6d4fd95b88586d7efd26ce7f239a790/algebraic/latex.nim", line: 0};
+var F = {procname: "module latex", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/algebraic-0.1.0-f2ffe6c3461741233dc0021804b9aee25c184be7/algebraic/latex.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module latex", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/algebraic-0.1.0-914bcc66e6d4fd95b88586d7efd26ce7f239a790/algebraic/latex.nim", line: 0};
+var F = {procname: "module latex", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/algebraic-0.1.0-f2ffe6c3461741233dc0021804b9aee25c184be7/algebraic/latex.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module eMathjax", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/eMathjax.nim", line: 0};
+var F = {procname: "module htmlFile", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/htmlFile.nim", line: 0};
 framePtr = F;
-F.line = 53;
+F.line = 1;
+F.filename = "htmlFile.nim";
+framePtr = F.prev;
+var F = {procname: "module htmlFile", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/htmlFile.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module eMathjax", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/eMathjax.nim", line: 0};
+framePtr = F;
+F.line = 78;
 F.filename = "eMathjax.nim";
-  let isRendering = false;
+  window._triggerMathJaxNim = function() {
+    if (!window.MathJax || !window.MathJax.startup || !window.MathJax.startup.promise) return;
+    
+    // The MathJax 3 official method for dynamic queuing:
+    // Chain off the internal startup promise to guarantee no overlap with initialization.
+    window.MathJax.startup.promise = window.MathJax.startup.promise
+      .then(() => {
+        if (window.MathJax.typesetClear) window.MathJax.typesetClear();
+        return window.MathJax.typesetPromise();
+      })
+      .catch(err => console.warn('MathJax render error:', err));
+  };
 
   const observer = new MutationObserver((mutations) => {
-    if (isRendering) return;
-    const added = mutations.some(m => m.addedNodes.length > 0);
-    if (!added) return;
-
-    clearTimeout(window._mjTimeout);
-    window._mjTimeout = setTimeout(() => {
-      if (window.MathJax && window.MathJax.typesetPromise) {
-        isRendering = true;
-        window.MathJax.typesetPromise()
-          .catch(e => console.warn(e))
-          .finally(() => { isRendering = false; });
+    let shouldRender = false;
+    for (let m of mutations) {
+      if (m.target && m.target.tagName && m.target.tagName.toLowerCase().includes('mjx')) continue;
+      if (m.addedNodes.length > 0) {
+        shouldRender = true;
+        break;
       }
-    }, 100);
+    }
+    if (shouldRender) {
+      clearTimeout(window._mjTimeout);
+      window._mjTimeout = setTimeout(() => {
+        window._triggerMathJaxNim();
+      }, 100);
+    }
   });
 
-  (function init() {
-    if (!document.body) {
-      document.addEventListener('DOMContentLoaded', init);
-      return;
-    }
-
-    // Attach observer immediately
+  if (document.body) {
     observer.observe(document.body, { childList: true, subtree: true });
+  }
 
-    // Handle initial render regardless of whether DOMContentLoaded already fired
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => triggerMathJax());
-    } else {
-      triggerMathJax();
-    }
-  })();
+  // If MathJax finished loading from cache before HappyX ran, trigger the first pass now.
+  if (window._mjIsReady) {
+    window._triggerMathJaxNim();
+  }
 ;
 framePtr = F.prev;
-var F = {procname: "module eMathjax", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/eMathjax.nim", line: 0};
+var F = {procname: "module eMathjax", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/eMathjax.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module sampling", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/algExt-0.1.0-ee6e157bba03447b3b43476aa961afb00502f073/algExt/sampling.nim", line: 0};
+var F = {procname: "module sampling", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/algExt-0.1.0-a4d950278e71e3b8383789552a2bc8bd79b37d58/algExt/sampling.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module sampling", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/algExt-0.1.0-ee6e157bba03447b3b43476aa961afb00502f073/algExt/sampling.nim", line: 0};
+var F = {procname: "module sampling", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/algExt-0.1.0-a4d950278e71e3b8383789552a2bc8bd79b37d58/algExt/sampling.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module grouping", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/algExt-0.1.0-ee6e157bba03447b3b43476aa961afb00502f073/algExt/grouping.nim", line: 0};
+var F = {procname: "module grouping", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/algExt-0.1.0-a4d950278e71e3b8383789552a2bc8bd79b37d58/algExt/grouping.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module grouping", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/algExt-0.1.0-ee6e157bba03447b3b43476aa961afb00502f073/algExt/grouping.nim", line: 0};
+var F = {procname: "module grouping", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/algExt-0.1.0-a4d950278e71e3b8383789552a2bc8bd79b37d58/algExt/grouping.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 
@@ -6833,22 +6846,22 @@ function watchImpl__pkgZhpx7680Zlayout_u56(state_p0, o_p1, n_p2) {
       var w_2936012882 = null;
       F.line = 249;
       F.filename = "iterators.nim";
-      var i_2936029236 = 0;
+      var i_2936029205 = 0;
       F.line = 250;
-      var L_2936029237 = (state_p0.watchers).length;
+      var L_2936029206 = (state_p0.watchers).length;
       Label2: {
         F.line = 251;
           Label3: while (true) {
-          if (!(i_2936029236 < L_2936029237)) break Label3;
+          if (!(i_2936029205 < L_2936029206)) break Label3;
             F.line = 53;
             F.filename = "state.nim";
-            w_2936012882 = state_p0.watchers[chckIndx(i_2936029236, 0, (state_p0.watchers).length - 1)];
+            w_2936012882 = state_p0.watchers[chckIndx(i_2936029205, 0, (state_p0.watchers).length - 1)];
             F.line = 54;
             w_2936012882(o_p1, n_p2);
             F.line = 13;
             F.filename = "iterators.nim";
-            i_2936029236 += 1;
-            if (!(((state_p0.watchers).length == L_2936029237))) {
+            i_2936029205 += 1;
+            if (!(((state_p0.watchers).length == L_2936029206))) {
             F.line = 254;
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.2.10/lib/system/iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
@@ -6884,7 +6897,7 @@ function set__pkgZhpx7680Zlayout_u44(self_p0, value_p1) {
 var Temporary6;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u38(ev_p0) {
-  var F = {procname: "layout.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "layout.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 19;
     F.filename = "layout.nim";
@@ -6896,7 +6909,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u38(ev_p0) {
 var Temporary7;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u123(ev_p0) {
-  var F = {procname: "layout.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "layout.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 20;
     F.filename = "layout.nim";
@@ -6905,7 +6918,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u123(ev_p0) {
 
   
 }
-var F = {procname: "module layout", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+var F = {procname: "module layout", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
 framePtr = F;
 F.line = 15;
 F.filename = "layout.nim";
@@ -6919,7 +6932,7 @@ F.line = 20;
 Temporary7 = HEX3Aanonymous__pkgZhpx7680Zlayout_u123.bind(null); Temporary7.ClP_0 = HEX3Aanonymous__pkgZhpx7680Zlayout_u123; Temporary7.ClE_0 = null;
 window.addEventListener("afterprint", Temporary7, false);
 framePtr = F.prev;
-var F = {procname: "module layout", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+var F = {procname: "module layout", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 var F = {procname: "module underscored_calls", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/std/private/underscored_calls.nim", line: 0};
@@ -8003,7 +8016,7 @@ function initGrid__pkgZhpx7680Zlayout_u722(uniqCompId_p0, n_p1, stretch_p2, css_
     var Temporary1;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u756(self_p0, ev_p1) {
-  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -8012,7 +8025,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u756(self_p0, ev_p1) {
     var Temporary2;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u759(self_p0, ev_p1) {
-  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -8021,7 +8034,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u759(self_p0, ev_p1) {
     var Temporary3;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u762(self_p0, ev_p1) {
-  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -8030,7 +8043,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u762(self_p0, ev_p1) {
     var Temporary4;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u765(self_p0, ev_p1) {
-  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -8039,7 +8052,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u765(self_p0, ev_p1) {
     var Temporary5;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u768(self_p0, ev_p1) {
-  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -8048,7 +8061,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u768(self_p0, ev_p1) {
     var Temporary6;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u771(self_p0, ev_p1) {
-  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -8057,7 +8070,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u771(self_p0, ev_p1) {
     var Temporary7;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u774(self_p0, ev_p1) {
-  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -8066,7 +8079,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u774(self_p0, ev_p1) {
     var Temporary8;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u777(self_p0, ev_p1) {
-  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -8327,16 +8340,16 @@ function nsuIsAlphaNumericChar(c_p0) {
 }
 
 function compactCode__pkgZrosettaZcode67ase_u19(s_p0) {
-  var result_3103784981 = [];
+  var result_3120562197 = [];
 
   var F = {procname: "codeCase.compactCode", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/rosetta-0.1.0-4d77dcee55ea03d4cc3ea1cad8d5e68d821e2d5b/rosetta/codeCase.nim", line: 0};
   framePtr = F;
     F.line = 20;
     F.filename = "codeCase.nim";
-    result_3103784981 = nimCopy(null, [], NTI33554449);
+    result_3120562197 = nimCopy(null, [], NTI33554449);
     Label1: {
       F.line = 21;
-      var c_3103784982 = 0;
+      var c_3120562198 = 0;
       F.line = 267;
       F.filename = "iterators.nim";
       var i_838864824 = 0;
@@ -8348,10 +8361,10 @@ function compactCode__pkgZrosettaZcode67ase_u19(s_p0) {
           if (!(i_838864824 < L_838864825)) break Label3;
             F.line = 21;
             F.filename = "codeCase.nim";
-            c_3103784982 = s_p0[chckIndx(i_838864824, 0, (s_p0).length - 1)];
-            if (nsuIsAlphaNumericChar(c_3103784982)) {
+            c_3120562198 = s_p0[chckIndx(i_838864824, 0, (s_p0).length - 1)];
+            if (nsuIsAlphaNumericChar(c_3120562198)) {
             F.line = 23;
-            addChar(result_3103784981, nsuToLowerAsciiChar(c_3103784982));;
+            addChar(result_3120562197, nsuToLowerAsciiChar(c_3120562198));;
             }
             
             F.line = 13;
@@ -8367,7 +8380,7 @@ function compactCode__pkgZrosettaZcode67ase_u19(s_p0) {
     };
   framePtr = F.prev;
 
-  return result_3103784981;
+  return result_3120562197;
 
 }
 
@@ -8419,27 +8432,27 @@ function rawGet__jsZjsffi_u387(t_p0, key_p1, hc_p2, hc_p2_Idx) {
 function getOrDefault__pkgZ7680Zcurriculum67odes_u442(t_p0, key_p1, def_p2) {
     var Temporary1;
 
-  var result_3120562624 = [];
+  var result_3137339840 = [];
 
   var F = {procname: "getOrDefault.getOrDefault", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/pure/collections/tables.nim", line: 0};
   framePtr = F;
     F.line = 206;
     F.filename = "tableimpl.nim";
-    var hcHEX60gensym3_3120562627 = [0];
+    var hcHEX60gensym3_3137339843 = [0];
     F.line = 207;
-    var indexHEX60gensym3_3120562634 = rawGet__jsZjsffi_u387(t_p0, key_p1, hcHEX60gensym3_3120562627, 0);
+    var indexHEX60gensym3_3137339850 = rawGet__jsZjsffi_u387(t_p0, key_p1, hcHEX60gensym3_3137339843, 0);
     F.line = 208;
-    if ((0 <= indexHEX60gensym3_3120562634)) {
-    Temporary1 = t_p0.data[chckIndx(indexHEX60gensym3_3120562634, 0, (t_p0.data).length - 1)].Field2;
+    if ((0 <= indexHEX60gensym3_3137339850)) {
+    Temporary1 = t_p0.data[chckIndx(indexHEX60gensym3_3137339850, 0, (t_p0.data).length - 1)].Field2;
     }
     else {
     Temporary1 = def_p2;
     }
     
-    result_3120562624 = nimCopy(null, Temporary1, NTI33554449);
+    result_3137339840 = nimCopy(null, Temporary1, NTI33554449);
   framePtr = F.prev;
 
-  return result_3120562624;
+  return result_3137339840;
 
 }
 
@@ -8455,10 +8468,10 @@ function getSubjectInfo__index_u143(subj_p0) {
     F.line = 40;
     switch (toJSStr(compactCode__pkgZrosettaZcode67ase_u19(subj_p0))) {
     case "alg1":
-      Temporary1 = {code: [65,76,71,45,49], title: getOrDefault__pkgZ7680Zcurriculum67odes_u442(subjectMap_3120562525, [65,76,71,45,49], [65,108,103,101,98,114,97,32,49]), css: makeNimstrLit("@media screen{\x0A    * {\x0A        --ts-color-heading: #333333;\x0A        --ts-color-body: #83827a;\x0A        --ts-color-background: #fbf8e7;\x0A        --ts-color-background-alt: #E7FBEE;\x0A        --ts-bg-midpoint: color-mix(in oklch, var(--ts-color-background) 50%, var(--ts-color-background-alt));\x0A        --ts-color-muted: oklch(from var(--ts-bg-midpoint) 0.55 calc(c * 3.5) h);\x0A        --ts-color-subtle: oklch(from var(--ts-bg-midpoint) 0.92 calc(c * 1.5) h);\x0A        --ts-color-link: oklch(from var(--ts-bg-midpoint) 0.53 0.15 calc(h + 120));\x0A        --ts-color-standout: oklch(from var(--ts-bg-midpoint) 0.88 0.12 calc(h + 180));\x0A        --ts-font-weight-regular: 500;\x0A        --ts-font-weight-bold: 900;\x0A        data-typesettings: \"golden sans-serif\";\x0A    }\x0A}\x0A\x0A@media print {\x0A    * {\x0A        --ts-color-heading: black;\x0A        --ts-color-body: black;\x0A        --ts-color-background: white;\x0A        --ts-color-background-alt: white;\x0A        --ts-color-link: #333333;\x0A        --ts-color-subtle #eeeeee;\x0A        --ts-color-border: #cdcdcd;\x0A        --ts-color-muted: #717171;\x0A        --ts-color-standout: #d9d9d9;\x0A        --ts-font-weight-regular: 300;\x0A        --ts-font-weight-bold: 600;\x0A        data-typesttings: \"sans-serif\";\x0A    }\x0A}\x0A\x0A"), lessons: nimCopy(null, a1Lessons_838860941, NTI838860808), prefix: [97,49,95]};
+      Temporary1 = {code: [65,76,71,45,49], title: getOrDefault__pkgZ7680Zcurriculum67odes_u442(subjectMap_3137339741, [65,76,71,45,49], [65,108,103,101,98,114,97,32,49]), css: makeNimstrLit("@media screen{\x0A    * {\x0A        --ts-color-heading: #333333;\x0A        --ts-color-body: #83827a;\x0A        --ts-color-background: #fbf8e7;\x0A        --ts-color-background-alt: #E7FBEE;\x0A        --ts-bg-midpoint: color-mix(in oklch, var(--ts-color-background) 50%, var(--ts-color-background-alt));\x0A        --ts-color-muted: oklch(from var(--ts-bg-midpoint) 0.55 calc(c * 3.5) h);\x0A        --ts-color-subtle: oklch(from var(--ts-bg-midpoint) 0.92 calc(c * 1.5) h);\x0A        --ts-color-link: oklch(from var(--ts-bg-midpoint) 0.53 0.15 calc(h + 120));\x0A        --ts-color-standout: oklch(from var(--ts-bg-midpoint) 0.88 0.12 calc(h + 180));\x0A        --ts-font-weight-regular: 500;\x0A        --ts-font-weight-bold: 900;\x0A        data-typesettings: \"golden sans-serif\";\x0A    }\x0A}\x0A\x0A@media print {\x0A    * {\x0A        --ts-color-heading: black;\x0A        --ts-color-body: black;\x0A        --ts-color-background: white;\x0A        --ts-color-background-alt: white;\x0A        --ts-color-link: #333333;\x0A        --ts-color-subtle #eeeeee;\x0A        --ts-color-border: #cdcdcd;\x0A        --ts-color-muted: #717171;\x0A        --ts-color-standout: #d9d9d9;\x0A        --ts-font-weight-regular: 300;\x0A        --ts-font-weight-bold: 600;\x0A        data-typesttings: \"sans-serif\";\x0A    }\x0A}\x0A\x0A"), lessons: nimCopy(null, a1Lessons_838860941, NTI838860808), prefix: [97,49,95]};
       break;
     case "alg1h":
-      Temporary1 = {code: [65,76,71,45,49,72], title: getOrDefault__pkgZ7680Zcurriculum67odes_u442(subjectMap_3120562525, [65,76,71,45,49,72], [72,111,110,111,114,115,32,65,108,103,101,98,114,97,32,49]), css: makeNimstrLit("@media screen {\x0A    * {\x0A        /* Theme Inputs */\x0A        --ts-color-background: #f3ebd7;     /* Primary canvas surface color */\x0A        --ts-bg-shift: -187deg;             /* OKLCH hue rotation to generate alt background */\x0A        --ts-color-heading: #073642;        /* Highest emphasis typographic text */\x0A        --ts-color-body: #586e75;           /* Main reading text balancing readability against canvas */\x0A        --ts-color-border: #93a1a1;         /* Structural division lines and container boundaries */\x0A\x0A        /* Derived Palette */\x0A        --ts-color-background-alt: oklch(from var(--ts-color-background) l c calc(h + var(--ts-bg-shift))); /* Contextual alternate canvas */\x0A        --ts-bg-midpoint: color-mix(in oklch, var(--ts-color-background) 50%, var(--ts-color-background-alt)); /* Mean canvas anchor */\x0A        --ts-color-subtle: oklch(from var(--ts-bg-midpoint) 0.92 calc(c * 1.5) h); /* Low-contrast fill for code blocks and tables */\x0A        --ts-color-muted: oklch(from var(--ts-bg-midpoint) 0.55 calc(c * 3.5) h); /* Secondary text and captions; darkened base hue on mean bg */\x0A        --ts-color-link: oklch(from var(--ts-bg-midpoint) 0.53 0.15 calc(h + sign(var(--ts-bg-shift)) * 120deg)); /* Interactive links and buttons; triadic offset mirroring shift direction */\x0A        --ts-color-standout: oklch(from var(--ts-bg-midpoint) 0.88 0.12 calc(h + 180deg)); /* Stand out from background and text; sharper opposite of mean-bg */\x0A\x0A        /* Typography & Engine Settings */\x0A        --ts-font-weight-regular: 500;\x0A        --ts-font-weight-bold: 900;\x0A        data-typesettings: \"golden sans-serif\";\x0A    }\x0A}\x0A\x0A\x0A@media print {\x0A    * {\x0A        --ts-color-heading: black;\x0A        --ts-color-body: black;\x0A        --ts-color-background: white;\x0A        --ts-color-background-alt: white;\x0A        --ts-color-link: #333333;\x0A        --ts-color-subtle #eeeeee;\x0A        --ts-color-border: #cdcdcd;\x0A        --ts-color-muted: #717171;\x0A        --ts-color-standout: #d9d9d9;\x0A        --ts-font-weight-regular: 300;\x0A        --ts-font-weight-bold: 600;\x0A        data-typesttings: \"sans-serif\";\x0A    }\x0A}\x0A\x0A"), lessons: [], prefix: [97,49,104,95]};
+      Temporary1 = {code: [65,76,71,45,49,72], title: getOrDefault__pkgZ7680Zcurriculum67odes_u442(subjectMap_3137339741, [65,76,71,45,49,72], [72,111,110,111,114,115,32,65,108,103,101,98,114,97,32,49]), css: makeNimstrLit("@media screen {\x0A    * {\x0A        /* Theme Inputs */\x0A        --ts-color-background: #f3ebd7;     /* Primary canvas surface color */\x0A        --ts-bg-shift: -187deg;             /* OKLCH hue rotation to generate alt background */\x0A        --ts-color-heading: #073642;        /* Highest emphasis typographic text */\x0A        --ts-color-body: #586e75;           /* Main reading text balancing readability against canvas */\x0A        --ts-color-border: #93a1a1;         /* Structural division lines and container boundaries */\x0A\x0A        /* Derived Palette */\x0A        --ts-color-background-alt: oklch(from var(--ts-color-background) l c calc(h + var(--ts-bg-shift))); /* Contextual alternate canvas */\x0A        --ts-bg-midpoint: color-mix(in oklch, var(--ts-color-background) 50%, var(--ts-color-background-alt)); /* Mean canvas anchor */\x0A        --ts-color-subtle: oklch(from var(--ts-bg-midpoint) 0.92 calc(c * 1.5) h); /* Low-contrast fill for code blocks and tables */\x0A        --ts-color-muted: oklch(from var(--ts-bg-midpoint) 0.55 calc(c * 3.5) h); /* Secondary text and captions; darkened base hue on mean bg */\x0A        --ts-color-link: oklch(from var(--ts-bg-midpoint) 0.53 0.15 calc(h + sign(var(--ts-bg-shift)) * 120deg)); /* Interactive links and buttons; triadic offset mirroring shift direction */\x0A        --ts-color-standout: oklch(from var(--ts-bg-midpoint) 0.88 0.12 calc(h + 180deg)); /* Stand out from background and text; sharper opposite of mean-bg */\x0A\x0A        /* Typography & Engine Settings */\x0A        --ts-font-weight-regular: 500;\x0A        --ts-font-weight-bold: 900;\x0A        data-typesettings: \"golden sans-serif\";\x0A    }\x0A}\x0A\x0A\x0A@media print {\x0A    * {\x0A        --ts-color-heading: black;\x0A        --ts-color-body: black;\x0A        --ts-color-background: white;\x0A        --ts-color-background-alt: white;\x0A        --ts-color-link: #333333;\x0A        --ts-color-subtle #eeeeee;\x0A        --ts-color-border: #cdcdcd;\x0A        --ts-color-muted: #717171;\x0A        --ts-color-standout: #d9d9d9;\x0A        --ts-font-weight-regular: 300;\x0A        --ts-font-weight-bold: 600;\x0A        data-typesttings: \"sans-serif\";\x0A    }\x0A}\x0A\x0A"), lessons: nimCopy(null, a1hLessons_838860942, NTI838860808), prefix: [97,49,104,95]};
       break;
     default: 
       Temporary1 = {code: [], title: [], css: [], lessons: [], prefix: []};
@@ -10761,33 +10774,33 @@ function nsuFormatOpenArray(formatstr_p0, a_p1) {
 }
 
 function generateDocumentTitle__pkgZ7680Zcurriculum67odes_u374(subjectCode_p0, lesson_p1, taskCode_p2, disambiguator_p3) {
-  var result_3120562555 = [];
+  var result_3137339771 = [];
 
   var F = {procname: "curriculumCodes.generateDocumentTitle", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/LP-0.1.0-6196e85fadf02dba4d240ad3e4c563f0f3f5666e/LP/curriculumCodes.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 47;
     F.filename = "curriculumCodes.nim";
-    var taskExpanded_3120562684 = getOrDefault__pkgZ7680Zcurriculum67odes_u442(TaskCodeMap_3120562258, taskCode_p2, taskCode_p2);
+    var taskExpanded_3137339900 = getOrDefault__pkgZ7680Zcurriculum67odes_u442(TaskCodeMap_3137339474, taskCode_p2, taskCode_p2);
     if ((eqStrings(taskCode_p2, [78,73,76]) && (0 < (disambiguator_p3).length))) {
     F.line = 49;
-    result_3120562555 = nimCopy(null, nsuFormatOpenArray([36,35,32,36,35,32,36,35], [nimCopy(null, subjectCode_p0, NTI33554449), nimCopy(null, disambiguator_p3, NTI33554449), nimCopy(null, lesson_p1, NTI33554449)]), NTI33554449);
+    result_3137339771 = nimCopy(null, nsuFormatOpenArray([36,35,32,36,35,32,36,35], [nimCopy(null, subjectCode_p0, NTI33554449), nimCopy(null, disambiguator_p3, NTI33554449), nimCopy(null, lesson_p1, NTI33554449)]), NTI33554449);
     break BeforeRet;
     }
     else {
     if ((0 < (disambiguator_p3).length)) {
     F.line = 51;
-    result_3120562555 = nimCopy(null, nsuFormatOpenArray([36,35,32,36,35,32,36,35,32,40,36,35,41], [nimCopy(null, subjectCode_p0, NTI33554449), nimCopy(null, taskExpanded_3120562684, NTI33554449), nimCopy(null, lesson_p1, NTI33554449), nimCopy(null, disambiguator_p3, NTI33554449)]), NTI33554449);
+    result_3137339771 = nimCopy(null, nsuFormatOpenArray([36,35,32,36,35,32,36,35,32,40,36,35,41], [nimCopy(null, subjectCode_p0, NTI33554449), nimCopy(null, taskExpanded_3137339900, NTI33554449), nimCopy(null, lesson_p1, NTI33554449), nimCopy(null, disambiguator_p3, NTI33554449)]), NTI33554449);
     break BeforeRet;
     }
     }
     F.line = 52;
-    result_3120562555 = nimCopy(null, nsuFormatOpenArray([36,35,32,36,35,32,36,35], [nimCopy(null, subjectCode_p0, NTI33554449), nimCopy(null, taskExpanded_3120562684, NTI33554449), nimCopy(null, lesson_p1, NTI33554449)]), NTI33554449);
+    result_3137339771 = nimCopy(null, nsuFormatOpenArray([36,35,32,36,35,32,36,35], [nimCopy(null, subjectCode_p0, NTI33554449), nimCopy(null, taskExpanded_3137339900, NTI33554449), nimCopy(null, lesson_p1, NTI33554449)]), NTI33554449);
     break BeforeRet;
   };
   framePtr = F.prev;
 
-  return result_3120562555;
+  return result_3137339771;
 
 }
 
@@ -11626,7 +11639,7 @@ function initStrut__pkgZhpx7680Zlayout_u2605(uniqCompId_p0, height_p1, width_p2,
     var Temporary1;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2621(self_p0, ev_p1) {
-  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -11635,7 +11648,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2621(self_p0, ev_p1) {
     var Temporary2;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2624(self_p0, ev_p1) {
-  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -11644,7 +11657,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2624(self_p0, ev_p1) {
     var Temporary3;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2627(self_p0, ev_p1) {
-  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -11653,7 +11666,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2627(self_p0, ev_p1) {
     var Temporary4;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2630(self_p0, ev_p1) {
-  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -11662,7 +11675,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2630(self_p0, ev_p1) {
     var Temporary5;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2633(self_p0, ev_p1) {
-  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -11671,7 +11684,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2633(self_p0, ev_p1) {
     var Temporary6;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2636(self_p0, ev_p1) {
-  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -11680,7 +11693,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2636(self_p0, ev_p1) {
     var Temporary7;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2639(self_p0, ev_p1) {
-  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -11689,7 +11702,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2639(self_p0, ev_p1) {
     var Temporary8;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2642(self_p0, ev_p1) {
-  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -11761,7 +11774,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u3686(scopeSelf_p0, inComponent_p1, 
 
   var result_2936016493 = null;
 
-  var F = {procname: "renderTag.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "renderTag.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 90;
     F.filename = "layout.nim";
@@ -12314,7 +12327,7 @@ function script__pkgZhpx7680Zlayout_u16028(self_p0) {
 }
 
 function reset__pkgZhpx7680Znumbering_u29(c_p0) {
-  var F = {procname: "numbering.reset", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/numbering.nim", line: 0};
+  var F = {procname: "numbering.reset", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/numbering.nim", line: 0};
   framePtr = F;
     F.line = 21;
     F.filename = "numbering.nim";
@@ -12331,7 +12344,7 @@ function reset__pkgZhpx7680Znumbering_u29(c_p0) {
 }
 
 function resetCounts__pkgZhpx7680Znumbering_u99() {
-  var F = {procname: "numbering.resetCounts", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/numbering.nim", line: 0};
+  var F = {procname: "numbering.resetCounts", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/numbering.nim", line: 0};
   framePtr = F;
     F.line = 57;
     F.filename = "numbering.nim";
@@ -12348,7 +12361,7 @@ function resetCounts__pkgZhpx7680Znumbering_u99() {
 function printClass__pkgZhpx7680Zlayout_u3974(v_p0) {
   var result_2936016776 = [];
 
-  var F = {procname: "layout.printClass", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "layout.printClass", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 99;
@@ -12393,7 +12406,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u3817(scopeSelf_p0, inComponent_p1, 
 
   var result_2936016624 = null;
 
-  var F = {procname: "pageCut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "pageCut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 94;
     F.filename = "layout.nim";
@@ -12442,7 +12455,7 @@ function initCutRule__pkgZhpx7680Zlayout_u2191(uniqCompId_p0, css_p1) {
     var Temporary1;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2199(self_p0, ev_p1) {
-  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -12451,7 +12464,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2199(self_p0, ev_p1) {
     var Temporary2;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2202(self_p0, ev_p1) {
-  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -12460,7 +12473,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2202(self_p0, ev_p1) {
     var Temporary3;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2205(self_p0, ev_p1) {
-  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -12469,7 +12482,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2205(self_p0, ev_p1) {
     var Temporary4;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2208(self_p0, ev_p1) {
-  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -12478,7 +12491,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2208(self_p0, ev_p1) {
     var Temporary5;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2211(self_p0, ev_p1) {
-  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -12487,7 +12500,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2211(self_p0, ev_p1) {
     var Temporary6;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2214(self_p0, ev_p1) {
-  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -12496,7 +12509,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2214(self_p0, ev_p1) {
     var Temporary7;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2217(self_p0, ev_p1) {
-  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -12505,7 +12518,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2217(self_p0, ev_p1) {
     var Temporary8;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2220(self_p0, ev_p1) {
-  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -12567,7 +12580,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u3881(scopeSelf_p0, inComponent_p1, 
 
   var result_2936016688 = null;
 
-  var F = {procname: "pageCut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "pageCut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 95;
     F.filename = "layout.nim";
@@ -12603,7 +12616,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u3944(scopeSelf_p0, inComponent_p1, 
 
   var result_2936016751 = null;
 
-  var F = {procname: "pageCut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "pageCut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 96;
     F.filename = "layout.nim";
@@ -12647,7 +12660,7 @@ function pageCut__pkgZhpx7680Zlayout_u3770() {
 
   var result_2936016571 = null;
 
-  var F = {procname: "layout.pageCut", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "layout.pageCut", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 296;
     F.filename = "macro_utils.nim";
@@ -12982,7 +12995,7 @@ function initPages__pkgZhpx7680Zlayout_u145(uniqCompId_p0, n_p1, css_p2, class_p
     var Temporary1;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u165(self_p0, ev_p1) {
-  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -12991,7 +13004,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u165(self_p0, ev_p1) {
     var Temporary2;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u168(self_p0, ev_p1) {
-  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -13000,7 +13013,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u168(self_p0, ev_p1) {
     var Temporary3;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u171(self_p0, ev_p1) {
-  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -13009,7 +13022,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u171(self_p0, ev_p1) {
     var Temporary4;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u174(self_p0, ev_p1) {
-  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -13018,7 +13031,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u174(self_p0, ev_p1) {
     var Temporary5;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u177(self_p0, ev_p1) {
-  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -13027,7 +13040,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u177(self_p0, ev_p1) {
     var Temporary6;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u180(self_p0, ev_p1) {
-  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -13036,7 +13049,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u180(self_p0, ev_p1) {
     var Temporary7;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u183(self_p0, ev_p1) {
-  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -13045,7 +13058,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u183(self_p0, ev_p1) {
     var Temporary8;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u186(self_p0, ev_p1) {
-  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -13116,7 +13129,7 @@ function initProbRow__pkgZhpx7680Zlayout_u1760(uniqCompId_p0, stretch_p1, css_p2
     var Temporary1;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u1776(self_p0, ev_p1) {
-  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -13125,7 +13138,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u1776(self_p0, ev_p1) {
     var Temporary2;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u1779(self_p0, ev_p1) {
-  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -13134,7 +13147,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u1779(self_p0, ev_p1) {
     var Temporary3;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u1782(self_p0, ev_p1) {
-  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -13143,7 +13156,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u1782(self_p0, ev_p1) {
     var Temporary4;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u1785(self_p0, ev_p1) {
-  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -13152,7 +13165,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u1785(self_p0, ev_p1) {
     var Temporary5;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u1788(self_p0, ev_p1) {
-  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -13161,7 +13174,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u1788(self_p0, ev_p1) {
     var Temporary6;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u1791(self_p0, ev_p1) {
-  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -13170,7 +13183,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u1791(self_p0, ev_p1) {
     var Temporary7;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u1794(self_p0, ev_p1) {
-  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -13179,7 +13192,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u1794(self_p0, ev_p1) {
     var Temporary8;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u1797(self_p0, ev_p1) {
-  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -13251,7 +13264,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u4365(scopeSelf_p0, inComponent_p1, 
 
   var result_2936017172 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 113;
     F.filename = "layout.nim";
@@ -13287,7 +13300,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u4577(scopeSelf_p0, inComponent_p1, 
 
   var result_2936017384 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 116;
     F.filename = "layout.nim";
@@ -13323,7 +13336,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u4723(scopeSelf_p0, inComponent_p1, 
 
   var result_2936017530 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 113;
     F.filename = "layout.nim";
@@ -13359,7 +13372,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u4930(scopeSelf_p0, inComponent_p1, 
 
   var result_2936017737 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 116;
     F.filename = "layout.nim";
@@ -13395,7 +13408,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u5076(scopeSelf_p0, inComponent_p1, 
 
   var result_2936017883 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 113;
     F.filename = "layout.nim";
@@ -13431,7 +13444,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u5283(scopeSelf_p0, inComponent_p1, 
 
   var result_2936018090 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 116;
     F.filename = "layout.nim";
@@ -13467,7 +13480,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u5429(scopeSelf_p0, inComponent_p1, 
 
   var result_2936018236 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 113;
     F.filename = "layout.nim";
@@ -13503,7 +13516,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u5636(scopeSelf_p0, inComponent_p1, 
 
   var result_2936018443 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 116;
     F.filename = "layout.nim";
@@ -13563,7 +13576,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u4309(scopeSelf_p0, inComponent_p1, 
 
   var result_2936017116 = null;
 
-  var F = {procname: "renderTag.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "renderTag.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 296;
     F.filename = "macro_utils.nim";
@@ -14336,7 +14349,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u14692(scopeSelf_p0, inComponent_p1,
 
   var result_2936027499 = null;
 
-  var F = {procname: "renderTag.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "renderTag.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 146;
     F.filename = "layout.nim";
@@ -14718,7 +14731,7 @@ function render__pkgZhpx7680Zlayout_u15774(self_p0) {
 
 }
 
-function script__pkgZhpx7680Ze77athjax_u222(self_p0) {
+function script__pkgZhpx7680Ze77athjax_u275(self_p0) {
   var F = {procname: "eMathjax.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
@@ -14726,46 +14739,46 @@ function script__pkgZhpx7680Ze77athjax_u222(self_p0) {
   
 }
 
-function renderTag__pkgZhpx7680Ze77athjax_u227(self_p0) {
-  var result_3003121893 = null;
+function renderTag__pkgZhpx7680Ze77athjax_u280(self_p0) {
+  var result_3003121946 = null;
 
   var F = {procname: "eMathjax.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
   framePtr = F;
-    F.line = 59;
+    F.line = 105;
     F.filename = "eMathjax.nim";
-    result_3003121893 = tg2([100,105,118], [], false);
+    result_3003121946 = tg2([100,105,118], [], false);
   framePtr = F.prev;
 
-  return result_3003121893;
+  return result_3003121946;
 
 }
 
-function style__pkgZhpx7680Ze77athjax_u224(self_p0) {
-  var result_3003121890 = [];
+function style__pkgZhpx7680Ze77athjax_u277(self_p0) {
+  var result_3003121943 = [];
 
   var F = {procname: "eMathjax.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
   framePtr = F;
-    F.line = 59;
+    F.line = 105;
     F.filename = "eMathjax.nim";
-    result_3003121890 = nimCopy(null, [], NTI33554449);
+    result_3003121943 = nimCopy(null, [], NTI33554449);
   framePtr = F.prev;
 
-  return result_3003121890;
+  return result_3003121943;
 
 }
 
-function render__pkgZhpx7680Ze77athjax_u230(self_p0) {
-  var result_3003121896 = null;
+function render__pkgZhpx7680Ze77athjax_u283(self_p0) {
+  var result_3003121949 = null;
 
   var F = {procname: "eMathjax.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
   framePtr = F;
-    F.line = 59;
+    F.line = 105;
     F.filename = "eMathjax.nim";
     currentComponentsList_1728053539[0].push(self_p0);;
-    F.line = 59;
+    F.line = 105;
     currentComponent_1728053534[0] = nimCopy(null, self_p0.uniqCompId, NTI33554449);
-    F.line = 59;
-    script__pkgZhpx7680Ze77athjax_u222(self_p0);
+    F.line = 105;
+    script__pkgZhpx7680Ze77athjax_u275(self_p0);
     if ((self_p0.isCreated == false)) {
     F.line = 819;
     F.filename = "components.nim";
@@ -14774,20 +14787,20 @@ function render__pkgZhpx7680Ze77athjax_u230(self_p0) {
     
     F.line = 819;
     self_p0.beforeUpdated(self_p0, null);
-    F.line = 59;
+    F.line = 105;
     F.filename = "eMathjax.nim";
-    result_3003121896 = renderTag__pkgZhpx7680Ze77athjax_u227(self_p0);
-    F.line = 59;
-    tgadd(result_3003121896, [tg2([115,116,121,108,101], [textTag__pkgZhappyxZspaZtag_u439(style__pkgZhpx7680Ze77athjax_u224(self_p0))], false)]);
+    result_3003121949 = renderTag__pkgZhpx7680Ze77athjax_u280(self_p0);
+    F.line = 105;
+    tgadd(result_3003121949, [tg2([115,116,121,108,101], [textTag__pkgZhappyxZspaZtag_u439(style__pkgZhpx7680Ze77athjax_u277(self_p0))], false)]);
     F.line = 819;
     F.filename = "components.nim";
     self_p0.rendered(self_p0, null);
-    F.line = 59;
+    F.line = 105;
     F.filename = "eMathjax.nim";
     currentComponent_1728053534[0] = nimCopy(null, [], NTI33554449);
   framePtr = F.prev;
 
-  return result_3003121896;
+  return result_3003121949;
 
 }
 
@@ -14979,7 +14992,7 @@ function printUnit__pkgZhpx7680Zlayout_u133() {
 
   var result_2936012934 = [];
 
-  var F = {procname: "layout.printUnit", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-2da6789547a88815886d370ed859d91205ec1529/hpxLP/layout.nim", line: 0};
+  var F = {procname: "layout.printUnit", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 23;
     F.filename = "layout.nim";
@@ -15573,9 +15586,9 @@ function render__pkgZhappyxZspaZrenderer_u5915(self_p0) {
     break BeforeRet;
     }
     else {
-    if (isObj(self_p0.m_type, NTI3003121672)) {
+    if (isObj(self_p0.m_type, NTI3003121703)) {
     F.line = 405;
-    result_1728059164 = render__pkgZhpx7680Ze77athjax_u230(self_p0);
+    result_1728059164 = render__pkgZhpx7680Ze77athjax_u283(self_p0);
     break BeforeRet;
     }
     else {
@@ -17032,48 +17045,48 @@ function reRender__pkgZhpx7680Zlayout_u14497(self_p0) {
   
 }
 
-function reRender__pkgZhpx7680Ze77athjax_u81(self_p0) {
+function reRender__pkgZhpx7680Ze77athjax_u134(self_p0) {
   var F = {procname: "eMathjax.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 80;
     F.filename = "components.nim";
-    var activeElementHEX60gensym0_3003121761 = document.activeElement;
+    var activeElementHEX60gensym0_3003121814 = document.activeElement;
     F.line = 81;
-    var compTmpDataHEX60gensym0_3003121762 = render__pkgZhappyxZspaZrenderer_u5915(self_p0);
+    var compTmpDataHEX60gensym0_3003121815 = render__pkgZhappyxZspaZrenderer_u5915(self_p0);
     F.line = 82;
     del__pkgZhpx7680Znumbering_u1726(currentComponentsList_1728053539, 0, chckRange(find__pkgZhpx7680Znumbering_u1707(currentComponentsList_1728053539[0], self_p0), 0, 2147483647));
     F.line = 83;
-    addArgIter__pkgZhappyxZspaZtag_u569(compTmpDataHEX60gensym0_3003121762, ([100,97,116,97,45]).concat(self_p0.uniqCompId));
+    addArgIter__pkgZhappyxZspaZtag_u569(compTmpDataHEX60gensym0_3003121815, ([100,97,116,97,45]).concat(self_p0.uniqCompId));
     F.line = 87;
-    var currentHEX60gensym0_3003121772 = document.querySelector(toJSStr(([91,100,97,116,97,45]).concat(self_p0.uniqCompId,[93])));
+    var currentHEX60gensym0_3003121825 = document.querySelector(toJSStr(([91,100,97,116,97,45]).concat(self_p0.uniqCompId,[93])));
     F.line = 88;
-    var elementsHEX60gensym0_3003121805 = newSeq__pkgZhpx7680Znumbering_u1767(0);
+    var elementsHEX60gensym0_3003121858 = newSeq__pkgZhpx7680Znumbering_u1767(0);
     Label1: {
       F.line = 89;
-      var tagHEX60gensym0_3003121809 = null;
+      var tagHEX60gensym0_3003121862 = null;
       F.line = 249;
       F.filename = "iterators.nim";
       var i_838865228 = 0;
       F.line = 250;
-      var L_838865229 = (compTmpDataHEX60gensym0_3003121762.childNodes).length;
+      var L_838865229 = (compTmpDataHEX60gensym0_3003121815.childNodes).length;
       Label2: {
         F.line = 251;
           Label3: while (true) {
           if (!(i_838865228 < L_838865229)) break Label3;
             F.line = 89;
             F.filename = "components.nim";
-            tagHEX60gensym0_3003121809 = compTmpDataHEX60gensym0_3003121762.childNodes[chckIndx(i_838865228, 0, (compTmpDataHEX60gensym0_3003121762.childNodes).length - 1)];
-            if (!((currentHEX60gensym0_3003121772 == null))) {
+            tagHEX60gensym0_3003121862 = compTmpDataHEX60gensym0_3003121815.childNodes[chckIndx(i_838865228, 0, (compTmpDataHEX60gensym0_3003121815.childNodes).length - 1)];
+            if (!((currentHEX60gensym0_3003121825 == null))) {
             F.line = 91;
-            elementsHEX60gensym0_3003121805.push(currentHEX60gensym0_3003121772);;
+            elementsHEX60gensym0_3003121858.push(currentHEX60gensym0_3003121825);;
             F.line = 92;
-            currentHEX60gensym0_3003121772 = currentHEX60gensym0_3003121772.nextSibling;
+            currentHEX60gensym0_3003121825 = currentHEX60gensym0_3003121825.nextSibling;
             }
             
             F.line = 13;
             F.filename = "iterators.nim";
             i_838865228 += 1;
-            if (!(((compTmpDataHEX60gensym0_3003121762.childNodes).length == L_838865229))) {
+            if (!(((compTmpDataHEX60gensym0_3003121815.childNodes).length == L_838865229))) {
             F.line = 254;
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.2.10/lib/system/iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
@@ -17084,13 +17097,13 @@ function reRender__pkgZhpx7680Ze77athjax_u81(self_p0) {
     Label4: {
       F.line = 94;
       F.filename = "components.nim";
-      var iHEX60gensym0_3003121825 = 0;
+      var iHEX60gensym0_3003121878 = 0;
       F.line = 6;
       F.filename = "iterators_1.nim";
       var colontmp__838865232 = 0;
       F.line = 94;
       F.filename = "components.nim";
-      colontmp__838865232 = subInt((elementsHEX60gensym0_3003121805).length, 1);
+      colontmp__838865232 = subInt((elementsHEX60gensym0_3003121858).length, 1);
       F.line = 33;
       F.filename = "iterators_1.nim";
       var res_838865233 = colontmp__838865232;
@@ -17100,26 +17113,26 @@ function reRender__pkgZhpx7680Ze77athjax_u81(self_p0) {
           if (!(0 <= res_838865233)) break Label6;
             F.line = 94;
             F.filename = "components.nim";
-            iHEX60gensym0_3003121825 = res_838865233;
+            iHEX60gensym0_3003121878 = res_838865233;
             F.line = 96;
-            var elemHEX60gensym0_3003121826 = elementsHEX60gensym0_3003121805[chckIndx(iHEX60gensym0_3003121825, 0, (elementsHEX60gensym0_3003121805).length - 1)];
+            var elemHEX60gensym0_3003121879 = elementsHEX60gensym0_3003121858[chckIndx(iHEX60gensym0_3003121878, 0, (elementsHEX60gensym0_3003121858).length - 1)];
             F.line = 97;
-            var tagHEX60gensym0_3003121827 = compTmpDataHEX60gensym0_3003121762.childNodes[chckIndx(iHEX60gensym0_3003121825, 0, (compTmpDataHEX60gensym0_3003121762.childNodes).length - 1)];
+            var tagHEX60gensym0_3003121880 = compTmpDataHEX60gensym0_3003121815.childNodes[chckIndx(iHEX60gensym0_3003121878, 0, (compTmpDataHEX60gensym0_3003121815.childNodes).length - 1)];
             F.line = 98;
-            var parentHEX60gensym0_3003121828 = elemHEX60gensym0_3003121826.parentElement;
+            var parentHEX60gensym0_3003121881 = elemHEX60gensym0_3003121879.parentElement;
             F.line = 99;
-            var idxHEX60gensym0_3003121829 = index__pkgZhappyxZspaZcomponents_u74(elemHEX60gensym0_3003121826);
+            var idxHEX60gensym0_3003121882 = index__pkgZhappyxZspaZcomponents_u74(elemHEX60gensym0_3003121879);
             F.line = 100;
-            var lengthHEX60gensym0_3003121833 = (parentHEX60gensym0_3003121828.childNodes).length;
+            var lengthHEX60gensym0_3003121886 = (parentHEX60gensym0_3003121881.childNodes).length;
             F.line = 102;
-            elemHEX60gensym0_3003121826.remove();
-            if ((subInt(lengthHEX60gensym0_3003121833, 1) == idxHEX60gensym0_3003121829)) {
+            elemHEX60gensym0_3003121879.remove();
+            if ((subInt(lengthHEX60gensym0_3003121886, 1) == idxHEX60gensym0_3003121882)) {
             F.line = 104;
-            parentHEX60gensym0_3003121828.appendChild(tagHEX60gensym0_3003121827);
+            parentHEX60gensym0_3003121881.appendChild(tagHEX60gensym0_3003121880);
             }
             else {
               F.line = 106;
-            parentHEX60gensym0_3003121828.insertBefore(tagHEX60gensym0_3003121827, parentHEX60gensym0_3003121828.childNodes[chckIndx(idxHEX60gensym0_3003121829, 0, (parentHEX60gensym0_3003121828.childNodes).length - 1)]);
+            parentHEX60gensym0_3003121881.insertBefore(tagHEX60gensym0_3003121880, parentHEX60gensym0_3003121881.childNodes[chckIndx(idxHEX60gensym0_3003121882, 0, (parentHEX60gensym0_3003121881.childNodes).length - 1)]);
             }
             
             F.line = 39;
@@ -17128,20 +17141,20 @@ function reRender__pkgZhpx7680Ze77athjax_u81(self_p0) {
           }
       };
     };
-    if (activeElementHEX60gensym0_3003121761.hasAttribute("id")) {
+    if (activeElementHEX60gensym0_3003121814.hasAttribute("id")) {
     F.line = 109;
     F.filename = "components.nim";
-    var actElemHEX60gensym0_3003121834 = document.getElementById(activeElementHEX60gensym0_3003121761.id);
-    if (!((actElemHEX60gensym0_3003121834 == null))) {
+    var actElemHEX60gensym0_3003121887 = document.getElementById(activeElementHEX60gensym0_3003121814.id);
+    if (!((actElemHEX60gensym0_3003121887 == null))) {
     F.line = 111;
-    actElemHEX60gensym0_3003121834.focus();
-    if (contains__pkgZhappyxZspaZrenderer_u5754(["INPUT", "TEXTAREA"], actElemHEX60gensym0_3003121834.nodeName)) {
+    actElemHEX60gensym0_3003121887.focus();
+    if (contains__pkgZhappyxZspaZrenderer_u5754(["INPUT", "TEXTAREA"], actElemHEX60gensym0_3003121887.nodeName)) {
     F.line = 114;
-    var oldActiveElemHEX60gensym0_3003121880 = activeElementHEX60gensym0_3003121761;
+    var oldActiveElemHEX60gensym0_3003121933 = activeElementHEX60gensym0_3003121814;
     F.line = 115;
-    var currentActiveElemHEX60gensym0_3003121881 = actElemHEX60gensym0_3003121834;
+    var currentActiveElemHEX60gensym0_3003121934 = actElemHEX60gensym0_3003121887;
     F.line = 116;
-    currentActiveElemHEX60gensym0_3003121881.setSelectionRange(oldActiveElemHEX60gensym0_3003121880.selectionStart, oldActiveElemHEX60gensym0_3003121880.selectionEnd, oldActiveElemHEX60gensym0_3003121880.selectionDirection);
+    currentActiveElemHEX60gensym0_3003121934.setSelectionRange(oldActiveElemHEX60gensym0_3003121933.selectionStart, oldActiveElemHEX60gensym0_3003121933.selectionEnd, oldActiveElemHEX60gensym0_3003121933.selectionDirection);
     }
     
     }
@@ -17150,7 +17163,7 @@ function reRender__pkgZhpx7680Ze77athjax_u81(self_p0) {
     
     F.line = 125;
     self_p0.updated(self_p0, null);
-    F.line = 59;
+    F.line = 105;
     F.filename = "eMathjax.nim";
     self_p0.rendered(self_p0, null);
   framePtr = F.prev;
@@ -18231,9 +18244,9 @@ function reRender__pkgZhappyxZspaZrenderer_u5919(self_p0) {
     reRender__pkgZhpx7680Zlayout_u14497(self_p0);
     }
     else {
-    if (isObj(self_p0.m_type, NTI3003121672)) {
+    if (isObj(self_p0.m_type, NTI3003121703)) {
     F.line = 410;
-    reRender__pkgZhpx7680Ze77athjax_u81(self_p0);
+    reRender__pkgZhpx7680Ze77athjax_u134(self_p0);
     }
     else {
     if (isObj(self_p0.m_type, NTI2952791449)) {
