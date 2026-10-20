@@ -11,6 +11,7 @@
         --ts-color-background-alt: oklch(from var(--ts-color-background) l c calc(h + var(--ts-bg-shift))); /* Contextual alternate canvas */
         --ts-bg-midpoint: color-mix(in oklch, var(--ts-color-background) 50%, var(--ts-color-background-alt)); /* Mean canvas anchor */
         --ts-color-subtle: oklch(from var(--ts-bg-midpoint) 0.92 calc(c * 1.5) h); /* Low-contrast fill for code blocks and tables */
+        --ts-color-border: oklch(from var(--ts-bg-midpoint) 0.80 calc(c * 2) h);:
         --ts-color-muted: oklch(from var(--ts-bg-midpoint) 0.55 calc(c * 3.5) h); /* Secondary text and captions; darkened base hue on mean bg */
         --ts-color-link: oklch(from var(--ts-bg-midpoint) 0.53 0.15 calc(h + sign(var(--ts-bg-shift)) * 120deg)); /* Interactive links and buttons; triadic offset mirroring shift direction */
         --ts-color-standout: oklch(from var(--ts-bg-midpoint) 0.88 0.12 calc(h + 180deg)); /* Stand out from background and text; sharper opposite of mean-bg */

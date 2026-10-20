@@ -1725,8 +1725,8 @@ function addChar(x_p0, c_p1) {
 }
 var ConstSet7 = setConstr([48, 57], [65, 90], [97, 122]);
       var subjectMap_3137339741 = {data: [{Field0: 0, Field1: [], Field2: []}, {Field0: (-1887157039), Field1: [77,65,84,72,45,76,65,66], Field2: [77,97,116,104,32,76,97,98]}, {Field0: 1291329042, Field1: [65,76,71,45,50], Field2: [65,108,103,101,98,114,97,32,50]}, {Field0: (-1586830062), Field1: [65,76,71,45,49,72], Field2: [72,111,110,111,114,115,32,65,108,103,101,98,114,97,32,49]}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: (-927795218), Field1: [65,76,71,45,49], Field2: [65,108,103,101,98,114,97,32,49]}, {Field0: 0, Field1: [], Field2: []}], counter: 4};
-      var a1Lessons_838860941 = [[97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,119,95,50,47,97,49,95,108,101,115,115,111,110,95,49,95,119,95,50,47,97,49,95,108,101,115,115,111,110,95,49,95,119,95,50,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,119,95,50,47,97,49,95,115,108,105,100,101,115,95,49,95,119,95,50,47,97,49,95,115,108,105,100,101,115,95,49,95,119,95,50,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,113,117,105,122,49,95,49,47,81,49,95,49,95,49,95,116,119,111,95,115,116,101,112,95,81,85,73,90,47,81,49,95,49,95,49,95,116,119,111,95,115,116,101,112,95,81,85,73,90,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,113,117,105,122,49,95,49,47,81,49,95,49,95,49,95,116,119,111,95,115,116,101,112,95,83,76,73,47,81,49,95,49,95,49,95,116,119,111,95,115,116,101,112,95,83,76,73,46,104,116,109,108], makeNimstrLit("algebra1/quiz1_1/Q1_1_1_two_step_SLI/Q1_1_1_two_step_SLI_public.html"), makeNimstrLit("algebra1/lesson1_0_4/Q1_1_0_4_2_step_SLI/Q1_1_0_4_2_step_SLI_public.html"), makeNimstrLit("algebra1/lesson1_0_4/Q1_1_0_4_2_step_SLI/Q1_1_0_4_2_step_SLI.html"), makeNimstrLit("algebra1/lesson1_0_4/Q1_1_0_4_2_step_PRA/Q1_1_0_4_2_step_PRA.html"), makeNimstrLit("algebra1/lesson1_0_4/Q1_1_0_4_2_step_LES/Q1_1_0_4_2_step_LES.html"), [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,48,95,51,47,97,49,95,108,101,115,115,111,110,95,48,95,48,95,51,47,97,49,95,108,101,115,115,111,110,95,48,95,48,95,51,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,48,95,51,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,51,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,51,95,112,117,98,108,105,99,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,48,95,51,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,51,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,51,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,49,95,49,47,97,49,95,108,101,115,115,111,110,95,48,95,49,95,49,47,97,49,95,108,101,115,115,111,110,95,48,95,49,95,49,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,49,95,49,47,97,49,95,115,108,105,100,101,115,95,48,95,49,95,49,47,97,49,95,115,108,105,100,101,115,95,48,95,49,95,49,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,49,95,49,47,97,49,95,115,108,105,100,101,115,95,48,95,49,95,49,47,97,49,95,115,108,105,100,101,115,95,48,95,49,95,49,95,112,117,98,108,105,99,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,49,95,49,47,97,49,95,108,101,115,115,111,110,50,95,48,95,49,95,49,47,97,49,95,108,101,115,115,111,110,50,95,48,95,49,95,49,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,48,95,50,47,97,49,95,108,101,115,115,111,110,95,48,95,48,95,50,47,97,49,95,108,101,115,115,111,110,95,48,95,48,95,50,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,48,95,50,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,50,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,50,95,112,117,98,108,105,99,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,48,95,50,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,50,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,50,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,119,95,49,47,97,49,95,108,101,115,115,111,110,95,49,95,119,95,49,47,97,49,95,108,101,115,115,111,110,95,49,95,119,95,49,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,119,95,49,47,97,49,95,115,108,105,100,101,115,95,49,95,119,95,49,47,97,49,95,115,108,105,100,101,115,95,49,95,119,95,49,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,119,95,49,47,97,49,95,115,108,105,100,101,115,95,49,95,119,95,49,47,97,49,95,115,108,105,100,101,115,95,49,95,119,95,49,95,112,117,98,108,105,99,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,102,105,114,115,116,68,97,121,47,97,49,95,108,101,115,115,111,110,95,48,95,48,95,48,47,97,49,95,108,101,115,115,111,110,95,48,95,48,95,48,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,102,105,114,115,116,68,97,121,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,48,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,48,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,102,105,114,115,116,68,97,121,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,48,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,48,95,112,117,98,108,105,99,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,48,95,51,47,97,49,95,108,101,115,115,111,110,95,49,95,48,95,51,47,97,49,95,108,101,115,115,111,110,95,49,95,48,95,51,46,104,116,109,108], makeNimstrLit("algebra1/lesson1_0_3/a1_targets_Posting_1_0_3/a1_targets_Posting_1_0_3.html"), [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,48,95,51,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,51,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,51,95,112,117,98,108,105,99,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,48,95,51,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,51,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,51,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,48,95,49,47,97,49,95,108,101,115,115,111,110,95,49,95,48,95,49,47,97,49,95,108,101,115,115,111,110,95,49,95,48,95,49,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,48,95,49,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,49,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,49,95,112,117,98,108,105,99,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,48,95,49,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,49,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,49,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,115,101,99,111,110,100,68,97,121,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,49,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,49,95,112,117,98,108,105,99,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,115,101,99,111,110,100,68,97,121,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,49,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,49,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,115,101,99,111,110,100,68,97,121,47,97,49,95,108,101,115,115,111,110,95,48,95,48,95,49,47,97,49,95,108,101,115,115,111,110,95,48,95,48,95,49,46,104,116,109,108], makeNimstrLit("algebra1/lessonx_0_3/Q1_1_0_3_solve_linear_LES/Q1_1_0_3_solve_linear_LES.html"), makeNimstrLit("algebra1/lessonx_0_3/Q1_1_0_3_solve_linear_PRA/Q1_1_0_3_solve_linear_PRA.html"), [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,48,95,50,47,97,49,95,108,101,115,115,111,110,95,49,95,48,95,50,47,97,49,95,108,101,115,115,111,110,95,49,95,48,95,50,46,104,116,109,108], makeNimstrLit("algebra1/lesson1_0_2/a1_targets_Posting_1_0_2/a1_targets_Posting_1_0_2.html"), [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,48,95,50,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,50,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,50,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,48,95,50,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,50,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,50,95,112,117,98,108,105,99,46,104,116,109,108]];
-      var a1hLessons_838860942 = [makeNimstrLit("algebra1Honors/lesson1_0_4/Q1_1_0_4_3_step_PRA/Q1_1_0_4_3_step_PRA.html"), makeNimstrLit("algebra1Honors/lesson1_0_4/Q1_1_0_4_3_step_SLI/Q1_1_0_4_3_step_SLI.html"), makeNimstrLit("algebra1Honors/lesson1_0_4/Q1_1_0_4_3_step_SLI/Q1_1_0_4_3_step_SLI_public.html"), makeNimstrLit("algebra1Honors/lesson1_0_4/Q1_1_0_4_3_step_LES/Q1_1_0_4_3_step_LES.html")];
+      var a1Lessons_838860941 = [[97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,49,95,49,47,97,49,95,115,108,105,100,101,115,95,48,95,49,95,49,47,97,49,95,115,108,105,100,101,115,95,48,95,49,95,49,95,112,117,98,108,105,99,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,49,95,49,47,97,49,95,115,108,105,100,101,115,95,48,95,49,95,49,47,97,49,95,115,108,105,100,101,115,95,48,95,49,95,49,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,49,95,49,47,97,49,95,108,101,115,115,111,110,50,95,48,95,49,95,49,47,97,49,95,108,101,115,115,111,110,50,95,48,95,49,95,49,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,49,95,49,47,97,49,95,108,101,115,115,111,110,95,48,95,49,95,49,47,97,49,95,108,101,115,115,111,110,95,48,95,49,95,49,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,115,101,99,111,110,100,68,97,121,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,49,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,49,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,115,101,99,111,110,100,68,97,121,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,49,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,49,95,112,117,98,108,105,99,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,115,101,99,111,110,100,68,97,121,47,97,49,95,108,101,115,115,111,110,95,48,95,48,95,49,47,97,49,95,108,101,115,115,111,110,95,48,95,48,95,49,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,48,95,50,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,50,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,50,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,48,95,50,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,50,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,50,95,112,117,98,108,105,99,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,48,95,50,47,97,49,95,108,101,115,115,111,110,95,48,95,48,95,50,47,97,49,95,108,101,115,115,111,110,95,48,95,48,95,50,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,119,95,50,47,97,49,95,108,101,115,115,111,110,95,49,95,119,95,50,47,97,49,95,108,101,115,115,111,110,95,49,95,119,95,50,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,119,95,50,47,97,49,95,115,108,105,100,101,115,95,49,95,119,95,50,47,97,49,95,115,108,105,100,101,115,95,49,95,119,95,50,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,119,95,49,47,97,49,95,108,101,115,115,111,110,95,49,95,119,95,49,47,97,49,95,108,101,115,115,111,110,95,49,95,119,95,49,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,119,95,49,47,97,49,95,115,108,105,100,101,115,95,49,95,119,95,49,47,97,49,95,115,108,105,100,101,115,95,49,95,119,95,49,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,119,95,49,47,97,49,95,115,108,105,100,101,115,95,49,95,119,95,49,47,97,49,95,115,108,105,100,101,115,95,49,95,119,95,49,95,112,117,98,108,105,99,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,48,95,49,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,49,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,49,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,48,95,49,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,49,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,49,95,112,117,98,108,105,99,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,48,95,49,47,97,49,95,108,101,115,115,111,110,95,49,95,48,95,49,47,97,49,95,108,101,115,115,111,110,95,49,95,48,95,49,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,48,95,51,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,51,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,51,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,48,95,51,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,51,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,51,95,112,117,98,108,105,99,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,48,95,48,95,51,47,97,49,95,108,101,115,115,111,110,95,48,95,48,95,51,47,97,49,95,108,101,115,115,111,110,95,48,95,48,95,51,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,102,105,114,115,116,68,97,121,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,48,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,48,95,112,117,98,108,105,99,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,102,105,114,115,116,68,97,121,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,48,47,97,49,95,115,108,105,100,101,115,95,48,95,48,95,48,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,102,105,114,115,116,68,97,121,47,97,49,95,108,101,115,115,111,110,95,48,95,48,95,48,47,97,49,95,108,101,115,115,111,110,95,48,95,48,95,48,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,48,95,50,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,50,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,50,95,112,117,98,108,105,99,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,48,95,50,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,50,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,50,46,104,116,109,108], makeNimstrLit("algebra1/lesson1_0_2/a1_targets_Posting_1_0_2/a1_targets_Posting_1_0_2.html"), [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,48,95,50,47,97,49,95,108,101,115,115,111,110,95,49,95,48,95,50,47,97,49,95,108,101,115,115,111,110,95,49,95,48,95,50,46,104,116,109,108], makeNimstrLit("algebra1/lesson1_0_3/a1_targets_Posting_1_0_3/a1_targets_Posting_1_0_3.html"), [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,48,95,51,47,97,49,95,108,101,115,115,111,110,95,49,95,48,95,51,47,97,49,95,108,101,115,115,111,110,95,49,95,48,95,51,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,48,95,51,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,51,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,51,46,104,116,109,108], [97,108,103,101,98,114,97,49,47,108,101,115,115,111,110,49,95,48,95,51,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,51,47,97,49,95,115,108,105,100,101,115,95,49,95,48,95,51,95,112,117,98,108,105,99,46,104,116,109,108], makeNimstrLit("algebra1/lessonx_0_3/Q1_1_0_3_solve_linear_PRA/Q1_1_0_3_solve_linear_PRA.html"), makeNimstrLit("algebra1/lessonx_0_3/Q1_1_0_3_solve_linear_LES/Q1_1_0_3_solve_linear_LES.html"), [97,108,103,101,98,114,97,49,47,113,117,105,122,49,95,49,47,81,49,95,49,95,49,95,116,119,111,95,115,116,101,112,95,81,85,73,90,47,81,49,95,49,95,49,95,116,119,111,95,115,116,101,112,95,81,85,73,90,46,104,116,109,108], makeNimstrLit("algebra1/quiz1_1/Q1_1_1_two_step_SLI/Q1_1_1_two_step_SLI_public.html"), [97,108,103,101,98,114,97,49,47,113,117,105,122,49,95,49,47,81,49,95,49,95,49,95,116,119,111,95,115,116,101,112,95,83,76,73,47,81,49,95,49,95,49,95,116,119,111,95,115,116,101,112,95,83,76,73,46,104,116,109,108], makeNimstrLit("algebra1/lesson1_0_4/Q1_1_0_4_2_step_LES/Q1_1_0_4_2_step_LES.html"), makeNimstrLit("algebra1/lesson1_0_4/Q1_1_0_4_2_step_PRA/Q1_1_0_4_2_step_PRA.html"), makeNimstrLit("algebra1/lesson1_0_4/Q1_1_0_4_2_step_SLI/Q1_1_0_4_2_step_SLI.html"), makeNimstrLit("algebra1/lesson1_0_4/Q1_1_0_4_2_step_SLI/Q1_1_0_4_2_step_SLI_public.html"), makeNimstrLit("algebra1/lesson1_0_4/Q1_1_0_4_2_step_sc_NIL/Q1_1_0_4_2_step_sc_NIL.html"), makeNimstrLit("algebra1/lesson1_w_3/Q1_1_w_3_2_step_LES/Q1_1_w_3_2_step_LES.html"), makeNimstrLit("algebra1/lesson1_w_3/Q1_1_w_3_2_step_SLI/Q1_1_w_3_2_step_SLI.html"), makeNimstrLit("algebra1/lesson1_w_3/Q1_1_w_3_2_step_SLI/Q1_1_w_3_2_step_SLI_public.html"), makeNimstrLit("algebra1/lesson1_w_3/Q1_1_w_3_2_step_SUP/Q1_1_w_3_2_step_SUP.html"), makeNimstrLit("algebra1/lesson1_w_3/Q1_1_w_3_2_step_sc_NIL/Q1_1_w_3_2_step_sc_NIL.html"), makeNimstrLit("algebra1/lesson1_w_3/Q1_1_w_3_2_step_Homework_NIL/Q1_1_w_3_2_step_Homework_NIL.html"), makeNimstrLit("algebra1/lesson1_0_5/Q1_1_0_5_2_step_sc_NIL/Q1_1_0_5_2_step_sc_NIL.html"), makeNimstrLit("algebra1/lesson1_0_5/Q1_1_0_5_2_step_LES/Q1_1_0_5_2_step_LES.html"), makeNimstrLit("algebra1/lesson1_0_5/Q1_1_0_5_2_step_SLI/Q1_1_0_5_2_step_SLI.html"), makeNimstrLit("algebra1/lesson1_0_5/Q1_1_0_5_2_step_SLI/Q1_1_0_5_2_step_SLI_public.html"), makeNimstrLit("algebra1/lesson1_0_5/Q1_1_0_5_2_step_PRA/Q1_1_0_5_2_step_PRA.html"), makeNimstrLit("algebra1/lesson1_w_4/Q1_1_w_4_2_step_SLI/Q1_1_w_4_2_step_SLI_public.html"), makeNimstrLit("algebra1/lesson1_w_4/Q1_1_w_4_2_step_SLI/Q1_1_w_4_2_step_SLI.html"), makeNimstrLit("algebra1/lesson1_w_4/Q1_1_w_4_2_step_LES/Q1_1_w_4_2_step_LES.html"), makeNimstrLit("algebra1/lesson1_w_4/Q1_1_w_4_2_step_sc_NIL/Q1_1_w_4_2_step_sc_NIL.html"), makeNimstrLit("algebra1/lesson1_0_6/Q1_1_0_6_3_step_SLI/Q1_1_0_6_3_step_SLI_public.html"), makeNimstrLit("algebra1/lesson1_0_6/Q1_1_0_6_3_step_SLI/Q1_1_0_6_3_step_SLI.html"), makeNimstrLit("algebra1/lesson1_0_6/Q1_1_0_6_3_step_PRA/Q1_1_0_6_3_step_PRA.html"), makeNimstrLit("algebra1/lesson1_0_6/Q1_1_0_6_3_step_LES/Q1_1_0_6_3_step_LES.html"), makeNimstrLit("algebra1/lesson1_0_6/Q1_1_0_6_3_step_sc_NIL/Q1_1_0_6_3_step_sc_NIL.html"), makeNimstrLit("algebra1/lesson1_w_5/Q1_1_w_5_2_step_sc_NIL/Q1_1_w_5_2_step_sc_NIL.html"), makeNimstrLit("algebra1/lesson1_w_5/Q1_1_w_5_2_step_LES/Q1_1_w_5_2_step_LES.html"), makeNimstrLit("algebra1/lesson1_w_5/Q1_1_w_5_2_step_SLI/Q1_1_w_5_2_step_SLI_public.html"), makeNimstrLit("algebra1/lesson1_w_5/Q1_1_w_5_2_step_SLI/Q1_1_w_5_2_step_SLI.html"), makeNimstrLit("algebra1/lesson1_w_5/Q1_1_w_5_2_step_PRA/Q1_1_w_5_2_step_PRA.html"), makeNimstrLit("algebra1/lesson1_2_1/Q1_1_2_1_model_linear_LES/Q1_1_2_1_model_linear_LES.html"), makeNimstrLit("algebra1/lesson1_2_1/Q1_1_2_1_model_linear_PRA/Q1_1_2_1_model_linear_PRA.html"), makeNimstrLit("algebra1/lesson1_2_1/Q1_1_2_1_model_linear_SLI/Q1_1_2_1_model_linear_SLI.html"), makeNimstrLit("algebra1/lesson1_2_1/Q1_1_2_1_model_linear_SLI/Q1_1_2_1_model_linear_SLI_public.html"), makeNimstrLit("algebra1/lesson1_2_1/Q1_1_2_1_model_linear_sc_NIL/Q1_1_2_1_model_linear_sc_NIL.html"), makeNimstrLit("algebra1/quiz1_2/Q1_1_2_evaluate_linear_QUIZ/Q1_1_2_evaluate_linear_QUIZ.html"), makeNimstrLit("algebra1/lesson1_2_2/Q1_1_2_2_model_linear_LES/Q1_1_2_2_model_linear_LES.html"), makeNimstrLit("algebra1/lesson1_2_2/Q1_1_2_2_model_linear_PRA/Q1_1_2_2_model_linear_PRA.html"), makeNimstrLit("algebra1/lesson1_2_2/Q1_1_2_2_model_linear_SLI/Q1_1_2_2_model_linear_SLI.html"), makeNimstrLit("algebra1/lesson1_2_2/Q1_1_2_2_model_linear_SLI/Q1_1_2_2_model_linear_SLI_public.html")];
+      var a1hLessons_838860942 = [makeNimstrLit("algebra1Honors/lesson1_0_4/Q1_1_0_4_3_step_LES/Q1_1_0_4_3_step_LES.html"), makeNimstrLit("algebra1Honors/lesson1_0_4/Q1_1_0_4_3_step_SLI/Q1_1_0_4_3_step_SLI_public.html"), makeNimstrLit("algebra1Honors/lesson1_0_4/Q1_1_0_4_3_step_SLI/Q1_1_0_4_3_step_SLI.html"), makeNimstrLit("algebra1Honors/lesson1_0_4/Q1_1_0_4_3_step_PRA/Q1_1_0_4_3_step_PRA.html"), makeNimstrLit("algebra1Honors/lesson1_0_5/Q1_1_0_5_3_step_PRA/Q1_1_0_5_3_step_PRA.html"), makeNimstrLit("algebra1Honors/lesson1_0_5/Q1_1_0_5_3_step_LES/Q1_1_0_5_3_step_LES.html"), makeNimstrLit("algebra1Honors/lesson1_0_5/Q1_1_0_5_3_step_SLI/Q1_1_0_5_3_step_SLI_public.html"), makeNimstrLit("algebra1Honors/lesson1_0_5/Q1_1_0_5_3_step_SLI/Q1_1_0_5_3_step_SLI.html"), makeNimstrLit("algebra1Honors/lesson1_0_6/Q1_1_0_6_3_step_LES/Q1_1_0_6_3_step_LES.html"), makeNimstrLit("algebra1Honors/lesson1_0_6/Q1_1_0_6_3_step_SLI/Q1_1_0_6_3_step_SLI_public.html"), makeNimstrLit("algebra1Honors/lesson1_0_6/Q1_1_0_6_3_step_SLI/Q1_1_0_6_3_step_SLI.html"), makeNimstrLit("algebra1Honors/lesson1_0_6/Q1_1_0_6_3_step_PRA/Q1_1_0_6_3_step_PRA.html"), makeNimstrLit("algebra1Honors/quiz1_1/Q1_1_1_two_step_QUIZ/Q1_1_1_two_step_QUIZ.html"), makeNimstrLit("algebra1Honors/quiz1_3/Q1_1_3_evaluate_linear_QUIZ/Q1_1_3_evaluate_linear_QUIZ.html"), makeNimstrLit("algebra1Honors/quiz1_2/Q1_1_2_three_step_QUIZ/Q1_1_2_three_step_QUIZ.html")];
             var categories_838861511 = [[76,101,115,115,111,110,115], [80,114,97,99,116,105,99,101], [72,111,109,101,119,111,114,107], [81,117,105,122,122,101,115], [83,108,105,100,101,115], [83,117,112,112,111,114,116,115]];
 var ConstSet8 = setConstr([97, 122]);
 var ConstSet9 = setConstr(47, 47);
@@ -1836,34 +1836,34 @@ framePtr = F.prev;
 var F = {procname: "module strformat", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/pure/strformat.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module exceptions", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/core/exceptions.nim", line: 0};
+var F = {procname: "module exceptions", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/core/exceptions.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module exceptions", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/core/exceptions.nim", line: 0};
+var F = {procname: "module exceptions", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/core/exceptions.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module constants", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/core/constants.nim", line: 0};
+var F = {procname: "module constants", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/core/constants.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module constants", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/core/constants.nim", line: 0};
-framePtr = F;
-framePtr = F.prev;
-var F = {procname: "module macrocache", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/core/macrocache.nim", line: 0};
+var F = {procname: "module constants", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/core/constants.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 var F = {procname: "module macrocache", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/core/macrocache.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module macro_utils", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/private/macro_utils.nim", line: 0};
+var F = {procname: "module macrocache", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/core/macrocache.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module macro_utils", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/private/macro_utils.nim", line: 0};
+var F = {procname: "module macro_utils", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/private/macro_utils.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module use", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/sugar/use.nim", line: 0};
+var F = {procname: "module macro_utils", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/private/macro_utils.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module use", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/sugar/use.nim", line: 0};
+var F = {procname: "module use", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/sugar/use.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module use", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/sugar/use.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 var F = {procname: "module sequtils", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/pure/collections/sequtils.nim", line: 0};
@@ -1872,10 +1872,10 @@ framePtr = F.prev;
 var F = {procname: "module sequtils", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/pure/collections/sequtils.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module sgr", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/sugar/sgr.nim", line: 0};
+var F = {procname: "module sgr", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/sugar/sgr.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module sgr", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/sugar/sgr.nim", line: 0};
+var F = {procname: "module sgr", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/sugar/sgr.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 var F = {procname: "module hashes", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/pure/hashes.nim", line: 0};
@@ -1911,40 +1911,40 @@ framePtr = F.prev;
 var F = {procname: "module properties", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/unicodedb-0.13.2-739102d885d99bb4571b1955f5f12aee423c935b/unicodedb/properties.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module common", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-b59b4bc0f94365c9661a6aeb76356f84f4fa3bfc/regex/common.nim", line: 0};
+var F = {procname: "module common", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-920d1b61b3827717e2278922c665cd529e05c3cd/regex/common.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module common", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-b59b4bc0f94365c9661a6aeb76356f84f4fa3bfc/regex/common.nim", line: 0};
+var F = {procname: "module common", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-920d1b61b3827717e2278922c665cd529e05c3cd/regex/common.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module types", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-b59b4bc0f94365c9661a6aeb76356f84f4fa3bfc/regex/types.nim", line: 0};
+var F = {procname: "module types", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-920d1b61b3827717e2278922c665cd529e05c3cd/regex/types.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module types", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-b59b4bc0f94365c9661a6aeb76356f84f4fa3bfc/regex/types.nim", line: 0};
-framePtr = F;
-framePtr = F.prev;
-var F = {procname: "module sets", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/pure/collections/sets.nim", line: 0};
+var F = {procname: "module types", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-920d1b61b3827717e2278922c665cd529e05c3cd/regex/types.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 var F = {procname: "module sets", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/pure/collections/sets.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module exptype", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-b59b4bc0f94365c9661a6aeb76356f84f4fa3bfc/regex/exptype.nim", line: 0};
+var F = {procname: "module sets", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/pure/collections/sets.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module exptype", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-b59b4bc0f94365c9661a6aeb76356f84f4fa3bfc/regex/exptype.nim", line: 0};
+var F = {procname: "module exptype", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-920d1b61b3827717e2278922c665cd529e05c3cd/regex/exptype.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module scanner", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-b59b4bc0f94365c9661a6aeb76356f84f4fa3bfc/regex/scanner.nim", line: 0};
+var F = {procname: "module exptype", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-920d1b61b3827717e2278922c665cd529e05c3cd/regex/exptype.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module scanner", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-b59b4bc0f94365c9661a6aeb76356f84f4fa3bfc/regex/scanner.nim", line: 0};
+var F = {procname: "module scanner", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-920d1b61b3827717e2278922c665cd529e05c3cd/regex/scanner.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module parser", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-b59b4bc0f94365c9661a6aeb76356f84f4fa3bfc/regex/parser.nim", line: 0};
+var F = {procname: "module scanner", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-920d1b61b3827717e2278922c665cd529e05c3cd/regex/scanner.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module parser", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-b59b4bc0f94365c9661a6aeb76356f84f4fa3bfc/regex/parser.nim", line: 0};
+var F = {procname: "module parser", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-920d1b61b3827717e2278922c665cd529e05c3cd/regex/parser.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module parser", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-920d1b61b3827717e2278922c665cd529e05c3cd/regex/parser.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 var F = {procname: "module casing_data", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/unicodedb-0.13.2-739102d885d99bb4571b1955f5f12aee423c935b/unicodedb/casing_data.nim", line: 0};
@@ -1959,10 +1959,10 @@ framePtr = F.prev;
 var F = {procname: "module casing", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/unicodedb-0.13.2-739102d885d99bb4571b1955f5f12aee423c935b/unicodedb/casing.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module exptransformation", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-b59b4bc0f94365c9661a6aeb76356f84f4fa3bfc/regex/exptransformation.nim", line: 0};
+var F = {procname: "module exptransformation", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-920d1b61b3827717e2278922c665cd529e05c3cd/regex/exptransformation.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module exptransformation", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-b59b4bc0f94365c9661a6aeb76356f84f4fa3bfc/regex/exptransformation.nim", line: 0};
+var F = {procname: "module exptransformation", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-920d1b61b3827717e2278922c665cd529e05c3cd/regex/exptransformation.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 var F = {procname: "module types_data", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/unicodedb-0.13.2-739102d885d99bb4571b1955f5f12aee423c935b/unicodedb/types_data.nim", line: 0};
@@ -1977,94 +1977,94 @@ framePtr = F.prev;
 var F = {procname: "module types", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/unicodedb-0.13.2-739102d885d99bb4571b1955f5f12aee423c935b/unicodedb/types.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nodematch", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-b59b4bc0f94365c9661a6aeb76356f84f4fa3bfc/regex/nodematch.nim", line: 0};
+var F = {procname: "module nodematch", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-920d1b61b3827717e2278922c665cd529e05c3cd/regex/nodematch.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nodematch", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-b59b4bc0f94365c9661a6aeb76356f84f4fa3bfc/regex/nodematch.nim", line: 0};
-framePtr = F;
-framePtr = F.prev;
-var F = {procname: "module deques", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/pure/collections/deques.nim", line: 0};
+var F = {procname: "module nodematch", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-920d1b61b3827717e2278922c665cd529e05c3cd/regex/nodematch.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 var F = {procname: "module deques", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/pure/collections/deques.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nfa", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-b59b4bc0f94365c9661a6aeb76356f84f4fa3bfc/regex/nfa.nim", line: 0};
+var F = {procname: "module deques", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/pure/collections/deques.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nfa", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-b59b4bc0f94365c9661a6aeb76356f84f4fa3bfc/regex/nfa.nim", line: 0};
+var F = {procname: "module nfa", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-920d1b61b3827717e2278922c665cd529e05c3cd/regex/nfa.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module litopt", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-b59b4bc0f94365c9661a6aeb76356f84f4fa3bfc/regex/litopt.nim", line: 0};
+var F = {procname: "module nfa", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-920d1b61b3827717e2278922c665cd529e05c3cd/regex/nfa.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module litopt", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-b59b4bc0f94365c9661a6aeb76356f84f4fa3bfc/regex/litopt.nim", line: 0};
+var F = {procname: "module litopt", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-920d1b61b3827717e2278922c665cd529e05c3cd/regex/litopt.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nfatype", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-b59b4bc0f94365c9661a6aeb76356f84f4fa3bfc/regex/nfatype.nim", line: 0};
+var F = {procname: "module litopt", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-920d1b61b3827717e2278922c665cd529e05c3cd/regex/litopt.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nfatype", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-b59b4bc0f94365c9661a6aeb76356f84f4fa3bfc/regex/nfatype.nim", line: 0};
+var F = {procname: "module nfatype", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-920d1b61b3827717e2278922c665cd529e05c3cd/regex/nfatype.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module compiler", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-b59b4bc0f94365c9661a6aeb76356f84f4fa3bfc/regex/compiler.nim", line: 0};
+var F = {procname: "module nfatype", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-920d1b61b3827717e2278922c665cd529e05c3cd/regex/nfatype.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module compiler", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-b59b4bc0f94365c9661a6aeb76356f84f4fa3bfc/regex/compiler.nim", line: 0};
+var F = {procname: "module compiler", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-920d1b61b3827717e2278922c665cd529e05c3cd/regex/compiler.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nfamatch2", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-b59b4bc0f94365c9661a6aeb76356f84f4fa3bfc/regex/nfamatch2.nim", line: 0};
+var F = {procname: "module compiler", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-920d1b61b3827717e2278922c665cd529e05c3cd/regex/compiler.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nfamatch2", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-b59b4bc0f94365c9661a6aeb76356f84f4fa3bfc/regex/nfamatch2.nim", line: 0};
+var F = {procname: "module nfamatch2", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-920d1b61b3827717e2278922c665cd529e05c3cd/regex/nfamatch2.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nfafindall2", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-b59b4bc0f94365c9661a6aeb76356f84f4fa3bfc/regex/nfafindall2.nim", line: 0};
+var F = {procname: "module nfamatch2", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-920d1b61b3827717e2278922c665cd529e05c3cd/regex/nfamatch2.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nfafindall2", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-b59b4bc0f94365c9661a6aeb76356f84f4fa3bfc/regex/nfafindall2.nim", line: 0};
+var F = {procname: "module nfafindall2", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-920d1b61b3827717e2278922c665cd529e05c3cd/regex/nfafindall2.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nfamacro", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-b59b4bc0f94365c9661a6aeb76356f84f4fa3bfc/regex/nfamacro.nim", line: 0};
+var F = {procname: "module nfafindall2", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-920d1b61b3827717e2278922c665cd529e05c3cd/regex/nfafindall2.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nfamacro", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-b59b4bc0f94365c9661a6aeb76356f84f4fa3bfc/regex/nfamacro.nim", line: 0};
+var F = {procname: "module nfamacro", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-920d1b61b3827717e2278922c665cd529e05c3cd/regex/nfamacro.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nfamatch", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-b59b4bc0f94365c9661a6aeb76356f84f4fa3bfc/regex/nfamatch.nim", line: 0};
+var F = {procname: "module nfamacro", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-920d1b61b3827717e2278922c665cd529e05c3cd/regex/nfamacro.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nfamatch", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-b59b4bc0f94365c9661a6aeb76356f84f4fa3bfc/regex/nfamatch.nim", line: 0};
+var F = {procname: "module nfamatch", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-920d1b61b3827717e2278922c665cd529e05c3cd/regex/nfamatch.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nfafindall", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-b59b4bc0f94365c9661a6aeb76356f84f4fa3bfc/regex/nfafindall.nim", line: 0};
+var F = {procname: "module nfamatch", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-920d1b61b3827717e2278922c665cd529e05c3cd/regex/nfamatch.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nfafindall", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-b59b4bc0f94365c9661a6aeb76356f84f4fa3bfc/regex/nfafindall.nim", line: 0};
+var F = {procname: "module nfafindall", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-920d1b61b3827717e2278922c665cd529e05c3cd/regex/nfafindall.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module oldregex", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-b59b4bc0f94365c9661a6aeb76356f84f4fa3bfc/regex/oldregex.nim", line: 0};
+var F = {procname: "module nfafindall", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-920d1b61b3827717e2278922c665cd529e05c3cd/regex/nfafindall.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module oldregex", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-b59b4bc0f94365c9661a6aeb76356f84f4fa3bfc/regex/oldregex.nim", line: 0};
+var F = {procname: "module oldregex", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-920d1b61b3827717e2278922c665cd529e05c3cd/regex/oldregex.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module regex", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-b59b4bc0f94365c9661a6aeb76356f84f4fa3bfc/regex.nim", line: 0};
+var F = {procname: "module oldregex", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-920d1b61b3827717e2278922c665cd529e05c3cd/regex/oldregex.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module regex", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-b59b4bc0f94365c9661a6aeb76356f84f4fa3bfc/regex.nim", line: 0};
+var F = {procname: "module regex", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-920d1b61b3827717e2278922c665cd529e05c3cd/regex.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module js", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/sugar/js.nim", line: 0};
+var F = {procname: "module regex", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.26.3-920d1b61b3827717e2278922c665cd529e05c3cd/regex.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module js", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/sugar/js.nim", line: 0};
+var F = {procname: "module js", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/sugar/js.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/sugar/style.nim", line: 0};
+var F = {procname: "module js", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/sugar/js.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/sugar/style.nim", line: 0};
+var F = {procname: "module style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/sugar/style.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/sugar/style.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 var F = {procname: "module htmlgen", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/pure/htmlgen.nim", line: 0};
@@ -2427,7 +2427,7 @@ function failedAssertImpl__stdZassertions_u86(msg_p0) {
 }
 
 function tgadd(self_p0, tags_p1) {
-  var F = {procname: "tag.add", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/tag.nim", line: 0};
+  var F = {procname: "tag.add", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/tag.nim", line: 0};
   framePtr = F;
     Label1: {
       F.line = 192;
@@ -3824,7 +3824,7 @@ function nsuToLowerAsciiStr(s_p0) {
 function stattrs(name_p0, e_p1, attrs_p2) {
     var Temporary1;
 
-  var F = {procname: "tag.setAttributes", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/tag.nim", line: 0};
+  var F = {procname: "tag.setAttributes", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/tag.nim", line: 0};
   framePtr = F;
     if (contains__stdZenumutils_u50(SvgElements_1778384923, toLower__pureZunicode_u7364(name_p0))) {
     if (nsthasKey(attrs_p2, [99,108,97,115,115])) {
@@ -3965,7 +3965,7 @@ function stattrs(name_p0, e_p1, attrs_p2) {
 function nwelm(name_p0) {
   var result_1778385124 = null;
 
-  var F = {procname: "tag.newElement", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/tag.nim", line: 0};
+  var F = {procname: "tag.newElement", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/tag.nim", line: 0};
   framePtr = F;
     if (contains__stdZenumutils_u50(SvgElements_1778384923, toLower__pureZunicode_u7364(name_p0))) {
     F.line = 237;
@@ -3990,7 +3990,7 @@ function nwelm(name_p0) {
 function tg1(name_p0, attrs_p1, children_p2, onlyChildren_p3) {
   var result_1778385216 = null;
 
-  var F = {procname: "tag.initTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/tag.nim", line: 0};
+  var F = {procname: "tag.initTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/tag.nim", line: 0};
   framePtr = F;
     F.line = 257;
     F.filename = "tag.nim";
@@ -4043,7 +4043,7 @@ function tg1(name_p0, attrs_p1, children_p2, onlyChildren_p3) {
 function tg2(name_p0, children_p1, onlyChildren_p2) {
   var result_1778385267 = null;
 
-  var F = {procname: "tag.initTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/tag.nim", line: 0};
+  var F = {procname: "tag.initTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/tag.nim", line: 0};
   framePtr = F;
     F.line = 285;
     F.filename = "tag.nim";
@@ -4090,7 +4090,7 @@ function tg2(name_p0, children_p1, onlyChildren_p2) {
 function tg3(name_p0, isText_p1, attrs_p2, children_p3, onlyChildren_p4) {
   var result_1778385285 = null;
 
-  var F = {procname: "tag.initTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/tag.nim", line: 0};
+  var F = {procname: "tag.initTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/tag.nim", line: 0};
   framePtr = F;
     if (isText_p1) {
     F.line = 315;
@@ -4150,7 +4150,7 @@ function tg3(name_p0, isText_p1, attrs_p2, children_p3, onlyChildren_p4) {
 function tg4(name_p0, isText_p1, children_p2, onlyChildren_p3) {
   var result_1778385302 = null;
 
-  var F = {procname: "tag.initTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/tag.nim", line: 0};
+  var F = {procname: "tag.initTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/tag.nim", line: 0};
   framePtr = F;
     if (isText_p1) {
     F.line = 339;
@@ -4204,7 +4204,7 @@ function tg4(name_p0, isText_p1, children_p2, onlyChildren_p3) {
   return result_1778385302;
 
 }
-var F = {procname: "module tag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/tag.nim", line: 0};
+var F = {procname: "module tag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/tag.nim", line: 0};
 framePtr = F;
 F.line = 100;
 F.filename = "tag.nim";
@@ -4290,7 +4290,7 @@ F.filename = "tag.nim";
   };
   
 framePtr = F.prev;
-var F = {procname: "module tag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/tag.nim", line: 0};
+var F = {procname: "module tag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/tag.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 var F = {procname: "module base64", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/pure/base64.nim", line: 0};
@@ -4299,10 +4299,10 @@ framePtr = F.prev;
 var F = {procname: "module base64", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/pure/base64.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module scanutils", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/private/scanutils.nim", line: 0};
+var F = {procname: "module scanutils", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/private/scanutils.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module scanutils", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/private/scanutils.nim", line: 0};
+var F = {procname: "module scanutils", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/private/scanutils.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 var F = {procname: "module decode_helpers", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/std/private/decode_helpers.nim", line: 0};
@@ -4338,42 +4338,42 @@ framePtr = F.prev;
 var F = {procname: "module json", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/pure/json.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module types", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/routing/routing/types.nim", line: 0};
+var F = {procname: "module types", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/routing/routing/types.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module types", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/routing/routing/types.nim", line: 0};
+var F = {procname: "module types", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/routing/routing/types.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module scanfuncs", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/routing/routing/scanfuncs.nim", line: 0};
+var F = {procname: "module scanfuncs", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/routing/routing/scanfuncs.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module scanfuncs", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/routing/routing/scanfuncs.nim", line: 0};
+var F = {procname: "module scanfuncs", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/routing/routing/scanfuncs.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module base", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/routing/routing/base.nim", line: 0};
+var F = {procname: "module base", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/routing/routing/base.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module base", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/routing/routing/base.nim", line: 0};
+var F = {procname: "module base", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/routing/routing/base.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module routing", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/routing/routing.nim", line: 0};
+var F = {procname: "module routing", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/routing/routing.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module routing", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/routing/routing.nim", line: 0};
+var F = {procname: "module routing", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/routing/routing.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module base", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/routing/decorators/base.nim", line: 0};
+var F = {procname: "module base", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/routing/decorators/base.nim", line: 0};
 framePtr = F;
 F.line = 57;
 F.filename = "base.nim";
 framePtr = F.prev;
-var F = {procname: "module base", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/routing/decorators/base.nim", line: 0};
+var F = {procname: "module base", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/routing/decorators/base.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module auth", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/routing/decorators/builtin/auth.nim", line: 0};
+var F = {procname: "module auth", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/routing/decorators/builtin/auth.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module auth", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/routing/decorators/builtin/auth.nim", line: 0};
+var F = {procname: "module auth", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/routing/decorators/builtin/auth.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 var F = {procname: "module httpcore", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/pure/httpcore.nim", line: 0};
@@ -4431,7 +4431,7 @@ function initTable__pkgZhappyxZroutingZdecoratorsZbuiltinZcached_u48(initialSize
   return result_2147483700;
 
 }
-var F = {procname: "module cached", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/routing/decorators/builtin/cached.nim", line: 0};
+var F = {procname: "module cached", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/routing/decorators/builtin/cached.nim", line: 0};
 framePtr = F;
 F.line = 22;
 F.filename = "cached.nim";
@@ -4441,7 +4441,7 @@ if (globalThis.cachedRoutes_2147483671 === undefined) {
 F.line = 23;
 cachedRoutes_2147483671[0] = nimCopy(cachedRoutes_2147483671[0], initTable__pkgZhappyxZroutingZdecoratorsZbuiltinZcached_u48(32), NTI2147483660);
 framePtr = F.prev;
-var F = {procname: "module cached", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/routing/decorators/builtin/cached.nim", line: 0};
+var F = {procname: "module cached", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/routing/decorators/builtin/cached.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 
@@ -4464,7 +4464,7 @@ function initTable__pkgZhappyxZroutingZdecoratorsZbuiltinZrate95limit_u40(initia
   return result_2181038124;
 
 }
-var F = {procname: "module rate_limit", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/routing/decorators/builtin/rate_limit.nim", line: 0};
+var F = {procname: "module rate_limit", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/routing/decorators/builtin/rate_limit.nim", line: 0};
 framePtr = F;
 F.line = 14;
 F.filename = "rate_limit.nim";
@@ -4474,25 +4474,25 @@ if (globalThis.rateLimits_2181038095 === undefined) {
 F.line = 15;
 rateLimits_2181038095[0] = nimCopy(rateLimits_2181038095[0], initTable__pkgZhappyxZroutingZdecoratorsZbuiltinZrate95limit_u40(32), NTI2181038091);
 framePtr = F.prev;
-var F = {procname: "module rate_limit", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/routing/decorators/builtin/rate_limit.nim", line: 0};
+var F = {procname: "module rate_limit", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/routing/decorators/builtin/rate_limit.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module user_agent", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/routing/decorators/builtin/user_agent.nim", line: 0};
+var F = {procname: "module user_agent", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/routing/decorators/builtin/user_agent.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module user_agent", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/routing/decorators/builtin/user_agent.nim", line: 0};
+var F = {procname: "module user_agent", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/routing/decorators/builtin/user_agent.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module decorators", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/routing/decorators.nim", line: 0};
+var F = {procname: "module decorators", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/routing/decorators.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module decorators", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/routing/decorators.nim", line: 0};
+var F = {procname: "module decorators", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/routing/decorators.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module mounting", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/routing/mounting.nim", line: 0};
+var F = {procname: "module mounting", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/routing/mounting.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module mounting", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/routing/mounting.nim", line: 0};
+var F = {procname: "module mounting", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/routing/mounting.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 var F = {procname: "module jsconsole", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/js/jsconsole.nim", line: 0};
@@ -4588,7 +4588,7 @@ function newTable__pkgZhappyxZspaZrenderer_u330(initialSize_p0) {
 }
 
 function rt(path_p0) {
-  var F = {procname: "renderer.route", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/renderer.nim", line: 0};
+  var F = {procname: "renderer.route", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/renderer.nim", line: 0};
   framePtr = F;
     F.line = 200;
     F.filename = "renderer.nim";
@@ -4611,7 +4611,7 @@ function rt(path_p0) {
 }
 
 function bck() {
-  var F = {procname: "renderer.back", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/renderer.nim", line: 0};
+  var F = {procname: "renderer.back", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/renderer.nim", line: 0};
   framePtr = F;
     F.line = 211;
     F.filename = "renderer.nim";
@@ -4622,7 +4622,7 @@ function bck() {
 }
 
 function frwrd() {
-  var F = {procname: "renderer.forward", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/renderer.nim", line: 0};
+  var F = {procname: "renderer.forward", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/renderer.nim", line: 0};
   framePtr = F;
     F.line = 214;
     F.filename = "renderer.nim";
@@ -5003,7 +5003,7 @@ function rgcmp(name_p0, component_p1) {
 
   var result_1728053781 = null;
 
-  var F = {procname: "renderer.registerComponent", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/renderer.nim", line: 0};
+  var F = {procname: "renderer.registerComponent", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/renderer.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 255;
@@ -5027,7 +5027,7 @@ function rgcmp(name_p0, component_p1) {
 function ismtp(a_p0, b_p1) {
   var result_1728055482 = false;
 
-  var F = {procname: "renderer.isSameTypes", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/renderer.nim", line: 0};
+  var F = {procname: "renderer.isSameTypes", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/renderer.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     if (((a_p0.nodeType == b_p1.nodeType) && (a_p0.nodeType == 1))) {
@@ -5324,7 +5324,7 @@ function HEX5BHEX5DHEX3D__pkgZhappyxZspaZrenderer_u2440(t_p0, key_p1, val_p2) {
 function aidx(e_p0) {
   var result_1728055504 = null;
 
-  var F = {procname: "renderer.attrIndex", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/renderer.nim", line: 0};
+  var F = {procname: "renderer.attrIndex", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/renderer.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 286;
@@ -5602,7 +5602,7 @@ function HEX5BHEX5D__pkgZhappyxZspaZrenderer_u4772(t_p0, key_p1) {
 function patrs(dom_p0, vdom_p1) {
                 var Temporary5;
 
-  var F = {procname: "renderer.patchAttrs", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/renderer.nim", line: 0};
+  var F = {procname: "renderer.patchAttrs", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/renderer.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 295;
@@ -5762,7 +5762,7 @@ function dff(vdom_p0, dom_p1) {
       var Temporary1;
               var Temporary8;
 
-  var F = {procname: "renderer.diff", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/renderer.nim", line: 0};
+  var F = {procname: "renderer.diff", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/renderer.nim", line: 0};
   framePtr = F;
       if (!!(dom_p1.hasChildNodes())) Temporary1 = false; else {        Temporary1 = vdom_p0.hasChildNodes();      }    if (Temporary1) {
     Label2: {
@@ -5907,7 +5907,7 @@ function dff(vdom_p0, dom_p1) {
 }
 
 function prrndr(tag_p0) {
-  var F = {procname: "renderer.prerenderLazyProcs", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/renderer.nim", line: 0};
+  var F = {procname: "renderer.prerenderLazyProcs", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/renderer.nim", line: 0};
   framePtr = F;
     if (tag_p0.lazy) {
     F.line = 350;
@@ -6128,7 +6128,7 @@ function contains__pkgZhappyxZspaZrenderer_u5754(a_p0, item_p1) {
 }
 
 function rndrvd(app_p0, tag_p1, force_p2) {
-  var F = {procname: "renderer.renderVdom", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/renderer.nim", line: 0};
+  var F = {procname: "renderer.renderVdom", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/renderer.nim", line: 0};
   framePtr = F;
     F.line = 360;
     F.filename = "renderer.nim";
@@ -6343,7 +6343,7 @@ function rndrvd(app_p0, tag_p1, force_p2) {
 
   
 }
-var F = {procname: "module renderer", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/renderer.nim", line: 0};
+var F = {procname: "module renderer", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/renderer.nim", line: 0};
 framePtr = F;
 F.line = 129;
 F.filename = "renderer.nim";
@@ -6365,20 +6365,20 @@ var createdComponentsList_1728053544 = [[]];
 F.line = 151;
 var components_1728053701 = [newTable__pkgZhappyxZspaZrenderer_u330(32)];
 framePtr = F.prev;
-var F = {procname: "module renderer", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/renderer.nim", line: 0};
+var F = {procname: "module renderer", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/renderer.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module translatable", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/translatable.nim", line: 0};
+var F = {procname: "module translatable", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/translatable.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module translatable", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/translatable.nim", line: 0};
+var F = {procname: "module translatable", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/translatable.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 
 function remember__pkgZhappyxZspaZstate_u979(val_p0) {
   var result_2231370714 = null;
 
-  var F = {procname: "remember.remember", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/state.nim", line: 0};
+  var F = {procname: "remember.remember", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/state.nim", line: 0};
   framePtr = F;
     F.line = 48;
     F.filename = "state.nim";
@@ -6388,7 +6388,7 @@ function remember__pkgZhappyxZspaZstate_u979(val_p0) {
   return result_2231370714;
 
 }
-var F = {procname: "module state", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/state.nim", line: 0};
+var F = {procname: "module state", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/state.nim", line: 0};
 framePtr = F;
 F.line = 44;
 F.filename = "state.nim";
@@ -6396,13 +6396,13 @@ var enableRouting_2231369746 = [true];
 F.line = 585;
 var languageSettings_2231370748 = [remember__pkgZhappyxZspaZstate_u979({lang: [97,117,116,111]})];
 framePtr = F.prev;
-var F = {procname: "module state", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/state.nim", line: 0};
+var F = {procname: "module state", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/state.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module utils", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/ssr/utils.nim", line: 0};
+var F = {procname: "module utils", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/ssr/utils.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module utils", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/ssr/utils.nim", line: 0};
+var F = {procname: "module utils", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/ssr/utils.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 var F = {procname: "module osseps", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/std/private/osseps.nim", line: 0};
@@ -6489,19 +6489,19 @@ framePtr = F.prev;
 var F = {procname: "module enumerate", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/std/enumerate.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module lexer", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/nimja-0.8.7-a15b5860fb1926e682faf004ec1efc1d655d9b09/nimja/lexer.nim", line: 0};
+var F = {procname: "module lexer", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/nimja-0.10.3-b6f5b33f63a2d39f49349cf2fe6f8fb16f49deba/nimja/lexer.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module lexer", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/nimja-0.8.7-a15b5860fb1926e682faf004ec1efc1d655d9b09/nimja/lexer.nim", line: 0};
+var F = {procname: "module lexer", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/nimja-0.10.3-b6f5b33f63a2d39f49349cf2fe6f8fb16f49deba/nimja/lexer.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module sharedhelper", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/nimja-0.8.7-a15b5860fb1926e682faf004ec1efc1d655d9b09/nimja/sharedhelper.nim", line: 0};
+var F = {procname: "module sharedhelper", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/nimja-0.10.3-b6f5b33f63a2d39f49349cf2fe6f8fb16f49deba/nimja/sharedhelper.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module sharedhelper", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/nimja-0.8.7-a15b5860fb1926e682faf004ec1efc1d655d9b09/nimja/sharedhelper.nim", line: 0};
+var F = {procname: "module sharedhelper", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/nimja-0.10.3-b6f5b33f63a2d39f49349cf2fe6f8fb16f49deba/nimja/sharedhelper.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module parser", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/nimja-0.8.7-a15b5860fb1926e682faf004ec1efc1d655d9b09/nimja/parser.nim", line: 0};
+var F = {procname: "module parser", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/nimja-0.10.3-b6f5b33f63a2d39f49349cf2fe6f8fb16f49deba/nimja/parser.nim", line: 0};
 framePtr = F;
 F.line = 74;
 F.filename = "parser.nim";
@@ -6510,8 +6510,9 @@ F.line = 76;
 F.line = 77;
 F.line = 78;
 F.line = 79;
+F.line = 80;
 framePtr = F.prev;
-var F = {procname: "module parser", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/nimja-0.8.7-a15b5860fb1926e682faf004ec1efc1d655d9b09/nimja/parser.nim", line: 0};
+var F = {procname: "module parser", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/nimja-0.10.3-b6f5b33f63a2d39f49349cf2fe6f8fb16f49deba/nimja/parser.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 var F = {procname: "module unidecode", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/pure/unidecode/unidecode.nim", line: 0};
@@ -6532,52 +6533,52 @@ framePtr = F.prev;
 var F = {procname: "module uri", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/pure/uri.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nimjautils", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/nimja-0.8.7-a15b5860fb1926e682faf004ec1efc1d655d9b09/nimja/nimjautils.nim", line: 0};
+var F = {procname: "module nimjautils", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/nimja-0.10.3-b6f5b33f63a2d39f49349cf2fe6f8fb16f49deba/nimja/nimjautils.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nimjautils", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/nimja-0.8.7-a15b5860fb1926e682faf004ec1efc1d655d9b09/nimja/nimjautils.nim", line: 0};
+var F = {procname: "module nimjautils", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/nimja-0.10.3-b6f5b33f63a2d39f49349cf2fe6f8fb16f49deba/nimja/nimjautils.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nimja", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/nimja-0.8.7-a15b5860fb1926e682faf004ec1efc1d655d9b09/nimja.nim", line: 0};
+var F = {procname: "module nimja", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/nimja-0.10.3-b6f5b33f63a2d39f49349cf2fe6f8fb16f49deba/nimja.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nimja", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/nimja-0.8.7-a15b5860fb1926e682faf004ec1efc1d655d9b09/nimja.nim", line: 0};
+var F = {procname: "module nimja", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/nimja-0.10.3-b6f5b33f63a2d39f49349cf2fe6f8fb16f49deba/nimja.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module engine", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/tmpl_engine/engine.nim", line: 0};
+var F = {procname: "module engine", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/tmpl_engine/engine.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module engine", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/tmpl_engine/engine.nim", line: 0};
+var F = {procname: "module engine", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/tmpl_engine/engine.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module queries", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/core/queries.nim", line: 0};
+var F = {procname: "module queries", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/core/queries.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module queries", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/core/queries.nim", line: 0};
+var F = {procname: "module queries", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/core/queries.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module components", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+var F = {procname: "module components", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module components", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
-framePtr = F;
-framePtr = F.prev;
-var F = {procname: "module asyncjs", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/js/asyncjs.nim", line: 0};
+var F = {procname: "module components", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 var F = {procname: "module asyncjs", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/js/asyncjs.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module spa_utils", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/spa_utils.nim", line: 0};
+var F = {procname: "module asyncjs", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/js/asyncjs.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module spa_utils", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/spa_utils.nim", line: 0};
+var F = {procname: "module spa_utils", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/spa_utils.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module happyx", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx.nim", line: 0};
+var F = {procname: "module spa_utils", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/spa_utils.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module happyx", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx.nim", line: 0};
+var F = {procname: "module happyx", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module happyx", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 var F = {procname: "module jscore", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/js/jscore.nim", line: 0};
@@ -6666,7 +6667,7 @@ framePtr = F.prev;
 function newProbCounter__pkgZhpx7680Znumbering_u59() {
   var result_2952790076 = null;
 
-  var F = {procname: "numbering.newProbCounter", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/numbering.nim", line: 0};
+  var F = {procname: "numbering.newProbCounter", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/numbering.nim", line: 0};
   framePtr = F;
     F.line = 50;
     F.filename = "numbering.nim";
@@ -6676,7 +6677,7 @@ function newProbCounter__pkgZhpx7680Znumbering_u59() {
   return result_2952790076;
 
 }
-var F = {procname: "module numbering", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/numbering.nim", line: 0};
+var F = {procname: "module numbering", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/numbering.nim", line: 0};
 framePtr = F;
 F.line = 4;
 F.filename = "numbering.nim";
@@ -6734,36 +6735,36 @@ var eCount_2952790113 = [newProbCounter__pkgZhpx7680Znumbering_u59()];
 F.line = 54;
 var sCount_2952790114 = [newProbCounter__pkgZhpx7680Znumbering_u59()];
 framePtr = F.prev;
-var F = {procname: "module numbering", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/numbering.nim", line: 0};
+var F = {procname: "module numbering", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/numbering.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module thunks", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/algExt-0.1.0-a4d950278e71e3b8383789552a2bc8bd79b37d58/algExt/thunks.nim", line: 0};
+var F = {procname: "module thunks", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/algExt-0.1.0-b32d01d87502be813b90a3f1f0f628ccd68c6bcc/algExt/thunks.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module thunks", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/algExt-0.1.0-a4d950278e71e3b8383789552a2bc8bd79b37d58/algExt/thunks.nim", line: 0};
+var F = {procname: "module thunks", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/algExt-0.1.0-b32d01d87502be813b90a3f1f0f628ccd68c6bcc/algExt/thunks.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module tagRefable", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/tagRefable.nim", line: 0};
+var F = {procname: "module tagRefable", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/tagRefable.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module tagRefable", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/tagRefable.nim", line: 0};
-framePtr = F;
-framePtr = F.prev;
-var F = {procname: "module latex", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/algebraic-0.1.0-f2ffe6c3461741233dc0021804b9aee25c184be7/algebraic/latex.nim", line: 0};
+var F = {procname: "module tagRefable", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/tagRefable.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 var F = {procname: "module latex", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/algebraic-0.1.0-f2ffe6c3461741233dc0021804b9aee25c184be7/algebraic/latex.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module htmlFile", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/htmlFile.nim", line: 0};
+var F = {procname: "module latex", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/algebraic-0.1.0-f2ffe6c3461741233dc0021804b9aee25c184be7/algebraic/latex.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module htmlFile", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/htmlFile.nim", line: 0};
 framePtr = F;
 F.line = 1;
 F.filename = "htmlFile.nim";
 framePtr = F.prev;
-var F = {procname: "module htmlFile", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/htmlFile.nim", line: 0};
+var F = {procname: "module htmlFile", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/htmlFile.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module eMathjax", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/eMathjax.nim", line: 0};
+var F = {procname: "module eMathjax", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/eMathjax.nim", line: 0};
 framePtr = F;
 F.line = 78;
 F.filename = "eMathjax.nim";
@@ -6807,26 +6808,26 @@ F.filename = "eMathjax.nim";
   }
 ;
 framePtr = F.prev;
-var F = {procname: "module eMathjax", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/eMathjax.nim", line: 0};
+var F = {procname: "module eMathjax", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/eMathjax.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module sampling", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/algExt-0.1.0-a4d950278e71e3b8383789552a2bc8bd79b37d58/algExt/sampling.nim", line: 0};
+var F = {procname: "module sampling", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/algExt-0.1.0-b32d01d87502be813b90a3f1f0f628ccd68c6bcc/algExt/sampling.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module sampling", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/algExt-0.1.0-a4d950278e71e3b8383789552a2bc8bd79b37d58/algExt/sampling.nim", line: 0};
+var F = {procname: "module sampling", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/algExt-0.1.0-b32d01d87502be813b90a3f1f0f628ccd68c6bcc/algExt/sampling.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module grouping", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/algExt-0.1.0-a4d950278e71e3b8383789552a2bc8bd79b37d58/algExt/grouping.nim", line: 0};
+var F = {procname: "module grouping", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/algExt-0.1.0-b32d01d87502be813b90a3f1f0f628ccd68c6bcc/algExt/grouping.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module grouping", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/algExt-0.1.0-a4d950278e71e3b8383789552a2bc8bd79b37d58/algExt/grouping.nim", line: 0};
+var F = {procname: "module grouping", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/algExt-0.1.0-b32d01d87502be813b90a3f1f0f628ccd68c6bcc/algExt/grouping.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 
 function remember__pkgZhpx7680Zlayout_u16(val_p0) {
   var result_2936012819 = null;
 
-  var F = {procname: "remember.remember", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/state.nim", line: 0};
+  var F = {procname: "remember.remember", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/state.nim", line: 0};
   framePtr = F;
     F.line = 48;
     F.filename = "state.nim";
@@ -6838,7 +6839,7 @@ function remember__pkgZhpx7680Zlayout_u16(val_p0) {
 }
 
 function watchImpl__pkgZhpx7680Zlayout_u56(state_p0, o_p1, n_p2) {
-  var F = {procname: "watchImpl.watchImpl", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/state.nim", line: 0};
+  var F = {procname: "watchImpl.watchImpl", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/state.nim", line: 0};
   framePtr = F;
     Label1: {
       F.line = 53;
@@ -6875,7 +6876,7 @@ function watchImpl__pkgZhpx7680Zlayout_u56(state_p0, o_p1, n_p2) {
 }
 
 function set__pkgZhpx7680Zlayout_u44(self_p0, value_p1) {
-  var F = {procname: "set.set", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/state.nim", line: 0};
+  var F = {procname: "set.set", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/state.nim", line: 0};
   framePtr = F;
     if ((0 < (self_p0.watchers).length)) {
     F.line = 377;
@@ -6897,7 +6898,7 @@ function set__pkgZhpx7680Zlayout_u44(self_p0, value_p1) {
 var Temporary6;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u38(ev_p0) {
-  var F = {procname: "layout.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "layout.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 19;
     F.filename = "layout.nim";
@@ -6909,7 +6910,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u38(ev_p0) {
 var Temporary7;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u123(ev_p0) {
-  var F = {procname: "layout.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "layout.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 20;
     F.filename = "layout.nim";
@@ -6918,7 +6919,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u123(ev_p0) {
 
   
 }
-var F = {procname: "module layout", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+var F = {procname: "module layout", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
 framePtr = F;
 F.line = 15;
 F.filename = "layout.nim";
@@ -6932,7 +6933,7 @@ F.line = 20;
 Temporary7 = HEX3Aanonymous__pkgZhpx7680Zlayout_u123.bind(null); Temporary7.ClP_0 = HEX3Aanonymous__pkgZhpx7680Zlayout_u123; Temporary7.ClE_0 = null;
 window.addEventListener("afterprint", Temporary7, false);
 framePtr = F.prev;
-var F = {procname: "module layout", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+var F = {procname: "module layout", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 var F = {procname: "module underscored_calls", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/std/private/underscored_calls.nim", line: 0};
@@ -6953,17 +6954,17 @@ framePtr = F.prev;
 var F = {procname: "module codeCase", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/rosetta-0.1.0-4d77dcee55ea03d4cc3ea1cad8d5e68d821e2d5b/rosetta/codeCase.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module curriculumCodes", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/LP-0.1.0-6196e85fadf02dba4d240ad3e4c563f0f3f5666e/LP/curriculumCodes.nim", line: 0};
+var F = {procname: "module curriculumCodes", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/LP-0.1.0-22b68c692a9f92fd7e6e9f79101e8af15a6146a7/LP/curriculumCodes.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module curriculumCodes", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/LP-0.1.0-6196e85fadf02dba4d240ad3e4c563f0f3f5666e/LP/curriculumCodes.nim", line: 0};
+var F = {procname: "module curriculumCodes", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/LP-0.1.0-22b68c692a9f92fd7e6e9f79101e8af15a6146a7/LP/curriculumCodes.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 
 function registerApp__pkgZhappyxZspaZrenderer_u495(appId_p0) {
   var result_1728053745 = null;
 
-  var F = {procname: "renderer.registerApp", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/renderer.nim", line: 0};
+  var F = {procname: "renderer.registerApp", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/renderer.nim", line: 0};
   framePtr = F;
     F.line = 241;
     F.filename = "renderer.nim";
@@ -7416,7 +7417,7 @@ function parseQuery__pkgZhappyxZcoreZqueries_u5(q_p0) {
 
   var result_2684354567 = null;
 
-  var F = {procname: "queries.parseQuery", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/core/queries.nim", line: 0};
+  var F = {procname: "queries.parseQuery", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/core/queries.nim", line: 0};
   framePtr = F;
     F.line = 19;
     F.filename = "queries.nim";
@@ -7850,7 +7851,7 @@ function parseQueryArrays__pkgZhappyxZcoreZqueries_u32(query_p0) {
 
   var result_2684354596 = null;
 
-  var F = {procname: "queries.parseQueryArrays", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/core/queries.nim", line: 0};
+  var F = {procname: "queries.parseQueryArrays", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/core/queries.nim", line: 0};
   framePtr = F;
     F.line = 39;
     F.filename = "queries.nim";
@@ -7973,7 +7974,7 @@ function nsuStrip(s_p0, leading_p1, trailing_p2, chars_p3) {
 function remember__pkgZhpx7680Znumbering_u1529(val_p0) {
   var result_2952791548 = null;
 
-  var F = {procname: "remember.remember", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/state.nim", line: 0};
+  var F = {procname: "remember.remember", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/state.nim", line: 0};
   framePtr = F;
     F.line = 48;
     F.filename = "state.nim";
@@ -7987,7 +7988,7 @@ function remember__pkgZhpx7680Znumbering_u1529(val_p0) {
 function remember__pkgZhpx7680Zlayout_u731(val_p0) {
   var result_2936013534 = null;
 
-  var F = {procname: "remember.remember", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/state.nim", line: 0};
+  var F = {procname: "remember.remember", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/state.nim", line: 0};
   framePtr = F;
     F.line = 48;
     F.filename = "state.nim";
@@ -8001,7 +8002,7 @@ function remember__pkgZhpx7680Zlayout_u731(val_p0) {
 function remember__pkgZhpx7680Znumbering_u2538(val_p0) {
   var result_2952792557 = null;
 
-  var F = {procname: "remember.remember", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/state.nim", line: 0};
+  var F = {procname: "remember.remember", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/state.nim", line: 0};
   framePtr = F;
     F.line = 48;
     F.filename = "state.nim";
@@ -8016,7 +8017,7 @@ function initGrid__pkgZhpx7680Zlayout_u722(uniqCompId_p0, n_p1, stretch_p2, css_
     var Temporary1;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u756(self_p0, ev_p1) {
-  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -8025,7 +8026,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u756(self_p0, ev_p1) {
     var Temporary2;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u759(self_p0, ev_p1) {
-  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -8034,7 +8035,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u759(self_p0, ev_p1) {
     var Temporary3;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u762(self_p0, ev_p1) {
-  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -8043,7 +8044,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u762(self_p0, ev_p1) {
     var Temporary4;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u765(self_p0, ev_p1) {
-  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -8052,7 +8053,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u765(self_p0, ev_p1) {
     var Temporary5;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u768(self_p0, ev_p1) {
-  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -8061,7 +8062,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u768(self_p0, ev_p1) {
     var Temporary6;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u771(self_p0, ev_p1) {
-  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -8070,7 +8071,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u771(self_p0, ev_p1) {
     var Temporary7;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u774(self_p0, ev_p1) {
-  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -8079,7 +8080,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u774(self_p0, ev_p1) {
     var Temporary8;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u777(self_p0, ev_p1) {
-  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -8088,7 +8089,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u777(self_p0, ev_p1) {
 
   var result_2936013527 = null;
 
-  var F = {procname: "layout.initGrid", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.initGrid", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 41;
@@ -8208,13 +8209,13 @@ function HEX3Aanonymous__index_u975(scopeSelf_p0, inComponent_p1, compName_p2, i
 }
 
 function addArgIter__pkgZhappyxZspaZtag_u569(self_p0, arg_p1) {
-  var F = {procname: "tag.addArgIter", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/tag.nim", line: 0};
+  var F = {procname: "tag.addArgIter", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/tag.nim", line: 0};
   framePtr = F;
-    F.line = 509;
+    F.line = 507;
     F.filename = "tag.nim";
     self_p0.setAttribute(toJSStr(arg_p1), "");
     Label1: {
-      F.line = 510;
+      F.line = 508;
       var i_1778385471 = null;
       F.line = 249;
       F.filename = "iterators.nim";
@@ -8225,10 +8226,10 @@ function addArgIter__pkgZhappyxZspaZtag_u569(self_p0, arg_p1) {
         F.line = 251;
           Label3: while (true) {
           if (!(i_838864815 < L_838864816)) break Label3;
-            F.line = 510;
+            F.line = 508;
             F.filename = "tag.nim";
             i_1778385471 = self_p0.children[chckIndx(i_838864815, 0, (self_p0.children).length - 1)];
-            F.line = 511;
+            F.line = 509;
             addArgIter__pkgZhappyxZspaZtag_u569(i_1778385471, arg_p1);
             F.line = 13;
             F.filename = "iterators.nim";
@@ -8249,7 +8250,7 @@ function addArgIter__pkgZhappyxZspaZtag_u569(self_p0, arg_p1) {
 function str__pkgZhappyxZroutingZroutingZscanfuncs_u61(input_p0, strVal_p1, strVal_p1_Idx, start_p2, opt_p3) {
   var result_2113929282 = 0;
 
-  var F = {procname: "scanfuncs.str", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/routing/routing/scanfuncs.nim", line: 0};
+  var F = {procname: "scanfuncs.str", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/routing/routing/scanfuncs.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 50;
@@ -8429,30 +8430,30 @@ function rawGet__jsZjsffi_u387(t_p0, key_p1, hc_p2, hc_p2_Idx) {
 
 }
 
-function getOrDefault__pkgZ7680Zcurriculum67odes_u442(t_p0, key_p1, def_p2) {
+function getOrDefault__pkgZ7680Zcurriculum67odes_u422(t_p0, key_p1, def_p2) {
     var Temporary1;
 
-  var result_3137339840 = [];
+  var result_3137339820 = [];
 
   var F = {procname: "getOrDefault.getOrDefault", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.2.10/lib/pure/collections/tables.nim", line: 0};
   framePtr = F;
     F.line = 206;
     F.filename = "tableimpl.nim";
-    var hcHEX60gensym3_3137339843 = [0];
+    var hcHEX60gensym2_3137339823 = [0];
     F.line = 207;
-    var indexHEX60gensym3_3137339850 = rawGet__jsZjsffi_u387(t_p0, key_p1, hcHEX60gensym3_3137339843, 0);
+    var indexHEX60gensym2_3137339830 = rawGet__jsZjsffi_u387(t_p0, key_p1, hcHEX60gensym2_3137339823, 0);
     F.line = 208;
-    if ((0 <= indexHEX60gensym3_3137339850)) {
-    Temporary1 = t_p0.data[chckIndx(indexHEX60gensym3_3137339850, 0, (t_p0.data).length - 1)].Field2;
+    if ((0 <= indexHEX60gensym2_3137339830)) {
+    Temporary1 = t_p0.data[chckIndx(indexHEX60gensym2_3137339830, 0, (t_p0.data).length - 1)].Field2;
     }
     else {
     Temporary1 = def_p2;
     }
     
-    result_3137339840 = nimCopy(null, Temporary1, NTI33554449);
+    result_3137339820 = nimCopy(null, Temporary1, NTI33554449);
   framePtr = F.prev;
 
-  return result_3137339840;
+  return result_3137339820;
 
 }
 
@@ -8468,10 +8469,10 @@ function getSubjectInfo__index_u143(subj_p0) {
     F.line = 40;
     switch (toJSStr(compactCode__pkgZrosettaZcode67ase_u19(subj_p0))) {
     case "alg1":
-      Temporary1 = {code: [65,76,71,45,49], title: getOrDefault__pkgZ7680Zcurriculum67odes_u442(subjectMap_3137339741, [65,76,71,45,49], [65,108,103,101,98,114,97,32,49]), css: makeNimstrLit("@media screen{\x0A    * {\x0A        --ts-color-heading: #333333;\x0A        --ts-color-body: #83827a;\x0A        --ts-color-background: #fbf8e7;\x0A        --ts-color-background-alt: #E7FBEE;\x0A        --ts-bg-midpoint: color-mix(in oklch, var(--ts-color-background) 50%, var(--ts-color-background-alt));\x0A        --ts-color-muted: oklch(from var(--ts-bg-midpoint) 0.55 calc(c * 3.5) h);\x0A        --ts-color-subtle: oklch(from var(--ts-bg-midpoint) 0.92 calc(c * 1.5) h);\x0A        --ts-color-link: oklch(from var(--ts-bg-midpoint) 0.53 0.15 calc(h + 120));\x0A        --ts-color-standout: oklch(from var(--ts-bg-midpoint) 0.88 0.12 calc(h + 180));\x0A        --ts-font-weight-regular: 500;\x0A        --ts-font-weight-bold: 900;\x0A        data-typesettings: \"golden sans-serif\";\x0A    }\x0A}\x0A\x0A@media print {\x0A    * {\x0A        --ts-color-heading: black;\x0A        --ts-color-body: black;\x0A        --ts-color-background: white;\x0A        --ts-color-background-alt: white;\x0A        --ts-color-link: #333333;\x0A        --ts-color-subtle #eeeeee;\x0A        --ts-color-border: #cdcdcd;\x0A        --ts-color-muted: #717171;\x0A        --ts-color-standout: #d9d9d9;\x0A        --ts-font-weight-regular: 300;\x0A        --ts-font-weight-bold: 600;\x0A        data-typesttings: \"sans-serif\";\x0A    }\x0A}\x0A\x0A"), lessons: nimCopy(null, a1Lessons_838860941, NTI838860808), prefix: [97,49,95]};
+      Temporary1 = {code: [65,76,71,45,49], title: getOrDefault__pkgZ7680Zcurriculum67odes_u422(subjectMap_3137339741, [65,76,71,45,49], [65,108,103,101,98,114,97,32,49]), css: makeNimstrLit("@media screen{\x0A    * {\x0A        --ts-color-heading: #333333;\x0A        --ts-color-body: #83827a;\x0A        --ts-color-background: #fbf8e7;\x0A        --ts-color-background-alt: #E7FBEE;\x0A        --ts-bg-midpoint: color-mix(in oklch, var(--ts-color-background) 50%, var(--ts-color-background-alt));\x0A        --ts-color-muted: oklch(from var(--ts-bg-midpoint) 0.55 calc(c * 3.5) h);\x0A        --ts-color-subtle: oklch(from var(--ts-bg-midpoint) 0.92 calc(c * 1.5) h);\x0A        --ts-color-border: oklch(from var(--ts-bg-midpoint) 0.80 calc(c * 2) h);\x0A        --ts-color-link: oklch(from var(--ts-bg-midpoint) 0.53 0.15 calc(h + 120));\x0A        --ts-color-standout: oklch(from var(--ts-bg-midpoint) 0.88 0.12 calc(h + 180));\x0A        --ts-font-weight-regular: 500;\x0A        --ts-font-weight-bold: 900;\x0A        data-typesettings: \"golden sans-serif\";\x0A    }\x0A}\x0A\x0A@media print {\x0A    * {\x0A        --ts-color-heading: black;\x0A        --ts-color-body: black;\x0A        --ts-color-background: white;\x0A        --ts-color-background-alt: white;\x0A        --ts-color-link: #333333;\x0A        --ts-color-subtle #eeeeee;\x0A        --ts-color-border: #cdcdcd;\x0A        --ts-color-muted: #717171;\x0A        --ts-color-standout: #d9d9d9;\x0A        --ts-font-weight-regular: 300;\x0A        --ts-font-weight-bold: 600;\x0A        data-typesttings: \"sans-serif\";\x0A    }\x0A}\x0A\x0A"), lessons: nimCopy(null, a1Lessons_838860941, NTI838860808), prefix: [97,49,95]};
       break;
     case "alg1h":
-      Temporary1 = {code: [65,76,71,45,49,72], title: getOrDefault__pkgZ7680Zcurriculum67odes_u442(subjectMap_3137339741, [65,76,71,45,49,72], [72,111,110,111,114,115,32,65,108,103,101,98,114,97,32,49]), css: makeNimstrLit("@media screen {\x0A    * {\x0A        /* Theme Inputs */\x0A        --ts-color-background: #f3ebd7;     /* Primary canvas surface color */\x0A        --ts-bg-shift: -187deg;             /* OKLCH hue rotation to generate alt background */\x0A        --ts-color-heading: #073642;        /* Highest emphasis typographic text */\x0A        --ts-color-body: #586e75;           /* Main reading text balancing readability against canvas */\x0A        --ts-color-border: #93a1a1;         /* Structural division lines and container boundaries */\x0A\x0A        /* Derived Palette */\x0A        --ts-color-background-alt: oklch(from var(--ts-color-background) l c calc(h + var(--ts-bg-shift))); /* Contextual alternate canvas */\x0A        --ts-bg-midpoint: color-mix(in oklch, var(--ts-color-background) 50%, var(--ts-color-background-alt)); /* Mean canvas anchor */\x0A        --ts-color-subtle: oklch(from var(--ts-bg-midpoint) 0.92 calc(c * 1.5) h); /* Low-contrast fill for code blocks and tables */\x0A        --ts-color-muted: oklch(from var(--ts-bg-midpoint) 0.55 calc(c * 3.5) h); /* Secondary text and captions; darkened base hue on mean bg */\x0A        --ts-color-link: oklch(from var(--ts-bg-midpoint) 0.53 0.15 calc(h + sign(var(--ts-bg-shift)) * 120deg)); /* Interactive links and buttons; triadic offset mirroring shift direction */\x0A        --ts-color-standout: oklch(from var(--ts-bg-midpoint) 0.88 0.12 calc(h + 180deg)); /* Stand out from background and text; sharper opposite of mean-bg */\x0A\x0A        /* Typography & Engine Settings */\x0A        --ts-font-weight-regular: 500;\x0A        --ts-font-weight-bold: 900;\x0A        data-typesettings: \"golden sans-serif\";\x0A    }\x0A}\x0A\x0A\x0A@media print {\x0A    * {\x0A        --ts-color-heading: black;\x0A        --ts-color-body: black;\x0A        --ts-color-background: white;\x0A        --ts-color-background-alt: white;\x0A        --ts-color-link: #333333;\x0A        --ts-color-subtle #eeeeee;\x0A        --ts-color-border: #cdcdcd;\x0A        --ts-color-muted: #717171;\x0A        --ts-color-standout: #d9d9d9;\x0A        --ts-font-weight-regular: 300;\x0A        --ts-font-weight-bold: 600;\x0A        data-typesttings: \"sans-serif\";\x0A    }\x0A}\x0A\x0A"), lessons: nimCopy(null, a1hLessons_838860942, NTI838860808), prefix: [97,49,104,95]};
+      Temporary1 = {code: [65,76,71,45,49,72], title: getOrDefault__pkgZ7680Zcurriculum67odes_u422(subjectMap_3137339741, [65,76,71,45,49,72], [72,111,110,111,114,115,32,65,108,103,101,98,114,97,32,49]), css: makeNimstrLit("@media screen {\x0A    * {\x0A        /* Theme Inputs */\x0A        --ts-color-background: #f3ebd7;     /* Primary canvas surface color */\x0A        --ts-bg-shift: -187deg;             /* OKLCH hue rotation to generate alt background */\x0A        --ts-color-heading: #073642;        /* Highest emphasis typographic text */\x0A        --ts-color-body: #586e75;           /* Main reading text balancing readability against canvas */\x0A        --ts-color-border: #93a1a1;         /* Structural division lines and container boundaries */\x0A\x0A        /* Derived Palette */\x0A        --ts-color-background-alt: oklch(from var(--ts-color-background) l c calc(h + var(--ts-bg-shift))); /* Contextual alternate canvas */\x0A        --ts-bg-midpoint: color-mix(in oklch, var(--ts-color-background) 50%, var(--ts-color-background-alt)); /* Mean canvas anchor */\x0A        --ts-color-subtle: oklch(from var(--ts-bg-midpoint) 0.92 calc(c * 1.5) h); /* Low-contrast fill for code blocks and tables */\x0A        --ts-color-muted: oklch(from var(--ts-bg-midpoint) 0.55 calc(c * 3.5) h); /* Secondary text and captions; darkened base hue on mean bg */\x0A        --ts-color-link: oklch(from var(--ts-bg-midpoint) 0.53 0.15 calc(h + sign(var(--ts-bg-shift)) * 120deg)); /* Interactive links and buttons; triadic offset mirroring shift direction */\x0A        --ts-color-standout: oklch(from var(--ts-bg-midpoint) 0.88 0.12 calc(h + 180deg)); /* Stand out from background and text; sharper opposite of mean-bg */\x0A\x0A        /* Typography & Engine Settings */\x0A        --ts-font-weight-regular: 500;\x0A        --ts-font-weight-bold: 900;\x0A        data-typesettings: \"golden sans-serif\";\x0A    }\x0A}\x0A\x0A\x0A@media print {\x0A    * {\x0A        --ts-color-heading: black;\x0A        --ts-color-body: black;\x0A        --ts-color-background: white;\x0A        --ts-color-background-alt: white;\x0A        --ts-color-link: #333333;\x0A        --ts-color-subtle #eeeeee;\x0A        --ts-color-border: #cdcdcd;\x0A        --ts-color-muted: #717171;\x0A        --ts-color-standout: #d9d9d9;\x0A        --ts-font-weight-regular: 300;\x0A        --ts-font-weight-bold: 600;\x0A        data-typesttings: \"sans-serif\";\x0A    }\x0A}\x0A\x0A"), lessons: nimCopy(null, a1hLessons_838860942, NTI838860808), prefix: [97,49,104,95]};
       break;
     default: 
       Temporary1 = {code: [], title: [], css: [], lessons: [], prefix: []};
@@ -10773,34 +10774,34 @@ function nsuFormatOpenArray(formatstr_p0, a_p1) {
 
 }
 
-function generateDocumentTitle__pkgZ7680Zcurriculum67odes_u374(subjectCode_p0, lesson_p1, taskCode_p2, disambiguator_p3) {
-  var result_3137339771 = [];
+function generateDocumentTitle__pkgZ7680Zcurriculum67odes_u512(subjectCode_p0, lesson_p1, taskCode_p2, disambiguator_p3) {
+  var result_3137339909 = [];
 
-  var F = {procname: "curriculumCodes.generateDocumentTitle", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/LP-0.1.0-6196e85fadf02dba4d240ad3e4c563f0f3f5666e/LP/curriculumCodes.nim", line: 0};
+  var F = {procname: "curriculumCodes.generateDocumentTitle", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/LP-0.1.0-22b68c692a9f92fd7e6e9f79101e8af15a6146a7/LP/curriculumCodes.nim", line: 0};
   framePtr = F;
   BeforeRet: {
-    F.line = 47;
+    F.line = 58;
     F.filename = "curriculumCodes.nim";
-    var taskExpanded_3137339900 = getOrDefault__pkgZ7680Zcurriculum67odes_u442(TaskCodeMap_3137339474, taskCode_p2, taskCode_p2);
+    var taskExpanded_3137339978 = getOrDefault__pkgZ7680Zcurriculum67odes_u422(TaskCodeMap_3137339474, taskCode_p2, taskCode_p2);
     if ((eqStrings(taskCode_p2, [78,73,76]) && (0 < (disambiguator_p3).length))) {
-    F.line = 49;
-    result_3137339771 = nimCopy(null, nsuFormatOpenArray([36,35,32,36,35,32,36,35], [nimCopy(null, subjectCode_p0, NTI33554449), nimCopy(null, disambiguator_p3, NTI33554449), nimCopy(null, lesson_p1, NTI33554449)]), NTI33554449);
+    F.line = 60;
+    result_3137339909 = nimCopy(null, nsuFormatOpenArray([36,35,32,36,35,32,36,35], [nimCopy(null, subjectCode_p0, NTI33554449), nimCopy(null, disambiguator_p3, NTI33554449), nimCopy(null, lesson_p1, NTI33554449)]), NTI33554449);
     break BeforeRet;
     }
     else {
     if ((0 < (disambiguator_p3).length)) {
-    F.line = 51;
-    result_3137339771 = nimCopy(null, nsuFormatOpenArray([36,35,32,36,35,32,36,35,32,40,36,35,41], [nimCopy(null, subjectCode_p0, NTI33554449), nimCopy(null, taskExpanded_3137339900, NTI33554449), nimCopy(null, lesson_p1, NTI33554449), nimCopy(null, disambiguator_p3, NTI33554449)]), NTI33554449);
+    F.line = 62;
+    result_3137339909 = nimCopy(null, nsuFormatOpenArray([36,35,32,36,35,32,36,35,32,40,36,35,41], [nimCopy(null, subjectCode_p0, NTI33554449), nimCopy(null, taskExpanded_3137339978, NTI33554449), nimCopy(null, lesson_p1, NTI33554449), nimCopy(null, disambiguator_p3, NTI33554449)]), NTI33554449);
     break BeforeRet;
     }
     }
-    F.line = 52;
-    result_3137339771 = nimCopy(null, nsuFormatOpenArray([36,35,32,36,35,32,36,35], [nimCopy(null, subjectCode_p0, NTI33554449), nimCopy(null, taskExpanded_3137339900, NTI33554449), nimCopy(null, lesson_p1, NTI33554449)]), NTI33554449);
+    F.line = 63;
+    result_3137339909 = nimCopy(null, nsuFormatOpenArray([36,35,32,36,35,32,36,35], [nimCopy(null, subjectCode_p0, NTI33554449), nimCopy(null, taskExpanded_3137339978, NTI33554449), nimCopy(null, lesson_p1, NTI33554449)]), NTI33554449);
     break BeforeRet;
   };
   framePtr = F.prev;
 
-  return result_3137339771;
+  return result_3137339909;
 
 }
 
@@ -10829,7 +10830,7 @@ function formatLinkTitle__index_u338(pathTail_p0, subjectCode_p1, prefix_p2) {
     F.line = 63;
     var taskCode_838861175 = nsuToUpperAsciiStr(HEX5BHEX5D__pkgZhpx7680Zlayout_u7362(parts_838861146, 1));
     F.line = 64;
-    var docTitle_838861176 = generateDocumentTitle__pkgZ7680Zcurriculum67odes_u374(subjectCode_p1, lesson_838861154, taskCode_838861175, []);
+    var docTitle_838861176 = generateDocumentTitle__pkgZ7680Zcurriculum67odes_u512(subjectCode_p1, lesson_838861154, taskCode_838861175, []);
     F.line = 65;
     Label1: {
       F.line = 65;
@@ -11300,7 +11301,7 @@ function callRouter__index_u799(force_p0) {
     var Temporary9;
     var Temporary10;
 
-  var F = {procname: "index.callRouter", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/renderer.nim", line: 0};
+  var F = {procname: "index.callRouter", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/renderer.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 296;
@@ -11533,7 +11534,7 @@ function callRouter__index_u799(force_p0) {
 }
 
 function onDOMContentLoaded__index_u3675(ev_p0) {
-  var F = {procname: "index.onDOMContentLoaded", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/renderer.nim", line: 0};
+  var F = {procname: "index.onDOMContentLoaded", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/renderer.nim", line: 0};
   framePtr = F;
     F.line = 908;
     F.filename = "renderer.nim";
@@ -11628,7 +11629,7 @@ function chckNilDisp(p_p0) {
 }
 
 function script__pkgZhpx7680Zlayout_u3577(self_p0) {
-  var F = {procname: "layout.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -11639,7 +11640,7 @@ function initStrut__pkgZhpx7680Zlayout_u2605(uniqCompId_p0, height_p1, width_p2,
     var Temporary1;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2621(self_p0, ev_p1) {
-  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -11648,7 +11649,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2621(self_p0, ev_p1) {
     var Temporary2;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2624(self_p0, ev_p1) {
-  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -11657,7 +11658,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2624(self_p0, ev_p1) {
     var Temporary3;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2627(self_p0, ev_p1) {
-  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -11666,7 +11667,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2627(self_p0, ev_p1) {
     var Temporary4;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2630(self_p0, ev_p1) {
-  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -11675,7 +11676,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2630(self_p0, ev_p1) {
     var Temporary5;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2633(self_p0, ev_p1) {
-  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -11684,7 +11685,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2633(self_p0, ev_p1) {
     var Temporary6;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2636(self_p0, ev_p1) {
-  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -11693,7 +11694,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2636(self_p0, ev_p1) {
     var Temporary7;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2639(self_p0, ev_p1) {
-  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -11702,7 +11703,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2639(self_p0, ev_p1) {
     var Temporary8;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2642(self_p0, ev_p1) {
-  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -11711,7 +11712,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2642(self_p0, ev_p1) {
 
   var result_2936015410 = null;
 
-  var F = {procname: "layout.initStrut", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.initStrut", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 73;
@@ -11774,7 +11775,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u3686(scopeSelf_p0, inComponent_p1, 
 
   var result_2936016493 = null;
 
-  var F = {procname: "renderTag.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "renderTag.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 90;
     F.filename = "layout.nim";
@@ -11813,7 +11814,7 @@ function renderTag__pkgZhpx7680Zlayout_u3582(self_p0) {
 
   var result_2936016384 = null;
 
-  var F = {procname: "layout.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 296;
     F.filename = "macro_utils.nim";
@@ -11874,7 +11875,7 @@ function renderTag__pkgZhpx7680Zlayout_u3582(self_p0) {
 function textTag__pkgZhappyxZspaZtag_u439(text_p0) {
   var result_1778385337 = null;
 
-  var F = {procname: "tag.textTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/tag.nim", line: 0};
+  var F = {procname: "tag.textTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/tag.nim", line: 0};
   framePtr = F;
     F.line = 408;
     F.filename = "tag.nim";
@@ -11890,7 +11891,7 @@ function textTag__pkgZhappyxZspaZtag_u439(text_p0) {
 function style__pkgZhpx7680Zlayout_u3579(self_p0) {
   var result_2936016381 = [];
 
-  var F = {procname: "layout.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 84;
     F.filename = "layout.nim";
@@ -11904,7 +11905,7 @@ function style__pkgZhpx7680Zlayout_u3579(self_p0) {
 function render__pkgZhpx7680Zlayout_u3745(self_p0) {
   var result_2936016547 = null;
 
-  var F = {procname: "layout.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 84;
     F.filename = "layout.nim";
@@ -11939,7 +11940,7 @@ function render__pkgZhpx7680Zlayout_u3745(self_p0) {
 }
 
 function script__pkgZhpx7680Zlayout_u3222(self_p0) {
-  var F = {procname: "layout.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -12005,7 +12006,7 @@ function HEX24__system_u3223(x_p0) {
 function HEX24__pkgZhpx7680Zlayout_u1074(self_p0) {
   var result_2936013877 = [];
 
-  var F = {procname: "$.$", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/state.nim", line: 0};
+  var F = {procname: "$.$", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/state.nim", line: 0};
   framePtr = F;
     F.line = 79;
     F.filename = "state.nim";
@@ -12030,7 +12031,7 @@ function formatValue__pkgZhpx7680Zlayout_u1023(result_p0, result_p0_Idx, value_p
 function HEX24__pkgZhpx7680Znumbering_u2894(self_p0) {
   var result_2952792913 = [];
 
-  var F = {procname: "$.$", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/state.nim", line: 0};
+  var F = {procname: "$.$", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/state.nim", line: 0};
   framePtr = F;
     F.line = 79;
     F.filename = "state.nim";
@@ -12055,7 +12056,7 @@ function formatValue__pkgZhpx7680Znumbering_u2843(result_p0, result_p0_Idx, valu
 function renderTag__pkgZhpx7680Zlayout_u3227(self_p0) {
   var result_2936016029 = null;
 
-  var F = {procname: "layout.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 82;
     F.filename = "layout.nim";
@@ -12081,7 +12082,7 @@ function renderTag__pkgZhpx7680Zlayout_u3227(self_p0) {
 function style__pkgZhpx7680Zlayout_u3224(self_p0) {
   var result_2936016026 = [];
 
-  var F = {procname: "layout.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 78;
     F.filename = "layout.nim";
@@ -12095,7 +12096,7 @@ function style__pkgZhpx7680Zlayout_u3224(self_p0) {
 function render__pkgZhpx7680Zlayout_u3336(self_p0) {
   var result_2936016138 = null;
 
-  var F = {procname: "layout.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 78;
     F.filename = "layout.nim";
@@ -12130,7 +12131,7 @@ function render__pkgZhpx7680Zlayout_u3336(self_p0) {
 }
 
 function script__pkgZhpx7680Zlayout_u2406(self_p0) {
-  var F = {procname: "layout.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -12140,7 +12141,7 @@ function script__pkgZhpx7680Zlayout_u2406(self_p0) {
 function HEX24__pkgZhpx7680Znumbering_u2064(self_p0) {
   var result_2952792083 = [];
 
-  var F = {procname: "$.$", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/state.nim", line: 0};
+  var F = {procname: "$.$", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/state.nim", line: 0};
   framePtr = F;
     F.line = 79;
     F.filename = "state.nim";
@@ -12165,7 +12166,7 @@ function formatValue__pkgZhpx7680Znumbering_u2013(result_p0, result_p0_Idx, valu
 function renderTag__pkgZhpx7680Zlayout_u2411(self_p0) {
   var result_2936015213 = null;
 
-  var F = {procname: "layout.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 68;
     F.filename = "layout.nim";
@@ -12189,7 +12190,7 @@ function renderTag__pkgZhpx7680Zlayout_u2411(self_p0) {
 function style__pkgZhpx7680Zlayout_u2408(self_p0) {
   var result_2936015210 = [];
 
-  var F = {procname: "layout.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 64;
     F.filename = "layout.nim";
@@ -12203,7 +12204,7 @@ function style__pkgZhpx7680Zlayout_u2408(self_p0) {
 function render__pkgZhpx7680Zlayout_u2572(self_p0) {
   var result_2936015374 = null;
 
-  var F = {procname: "layout.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 64;
     F.filename = "layout.nim";
@@ -12238,7 +12239,7 @@ function render__pkgZhpx7680Zlayout_u2572(self_p0) {
 }
 
 function script__pkgZhpx7680Znumbering_u4873(self_p0) {
-  var F = {procname: "numbering.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -12248,7 +12249,7 @@ function script__pkgZhpx7680Znumbering_u4873(self_p0) {
 function renderTag__pkgZhpx7680Znumbering_u4878(self_p0) {
   var result_2952794896 = null;
 
-  var F = {procname: "numbering.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 175;
     F.filename = "numbering.nim";
@@ -12270,7 +12271,7 @@ function renderTag__pkgZhpx7680Znumbering_u4878(self_p0) {
 function style__pkgZhpx7680Znumbering_u4875(self_p0) {
   var result_2952794893 = [];
 
-  var F = {procname: "numbering.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 169;
     F.filename = "numbering.nim";
@@ -12284,7 +12285,7 @@ function style__pkgZhpx7680Znumbering_u4875(self_p0) {
 function render__pkgZhpx7680Znumbering_u4959(self_p0) {
   var result_2952794977 = null;
 
-  var F = {procname: "numbering.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 169;
     F.filename = "numbering.nim";
@@ -12319,7 +12320,7 @@ function render__pkgZhpx7680Znumbering_u4959(self_p0) {
 }
 
 function script__pkgZhpx7680Zlayout_u16028(self_p0) {
-  var F = {procname: "layout.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -12327,7 +12328,7 @@ function script__pkgZhpx7680Zlayout_u16028(self_p0) {
 }
 
 function reset__pkgZhpx7680Znumbering_u29(c_p0) {
-  var F = {procname: "numbering.reset", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/numbering.nim", line: 0};
+  var F = {procname: "numbering.reset", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/numbering.nim", line: 0};
   framePtr = F;
     F.line = 21;
     F.filename = "numbering.nim";
@@ -12344,7 +12345,7 @@ function reset__pkgZhpx7680Znumbering_u29(c_p0) {
 }
 
 function resetCounts__pkgZhpx7680Znumbering_u99() {
-  var F = {procname: "numbering.resetCounts", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/numbering.nim", line: 0};
+  var F = {procname: "numbering.resetCounts", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/numbering.nim", line: 0};
   framePtr = F;
     F.line = 57;
     F.filename = "numbering.nim";
@@ -12361,7 +12362,7 @@ function resetCounts__pkgZhpx7680Znumbering_u99() {
 function printClass__pkgZhpx7680Zlayout_u3974(v_p0) {
   var result_2936016776 = [];
 
-  var F = {procname: "layout.printClass", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "layout.printClass", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 99;
@@ -12406,7 +12407,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u3817(scopeSelf_p0, inComponent_p1, 
 
   var result_2936016624 = null;
 
-  var F = {procname: "pageCut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "pageCut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 94;
     F.filename = "layout.nim";
@@ -12440,7 +12441,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u3817(scopeSelf_p0, inComponent_p1, 
 function remember__pkgZhpx7680Znumbering_u1550(val_p0) {
   var result_2952791569 = null;
 
-  var F = {procname: "remember.remember", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/state.nim", line: 0};
+  var F = {procname: "remember.remember", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/state.nim", line: 0};
   framePtr = F;
     F.line = 48;
     F.filename = "state.nim";
@@ -12455,7 +12456,7 @@ function initCutRule__pkgZhpx7680Zlayout_u2191(uniqCompId_p0, css_p1) {
     var Temporary1;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2199(self_p0, ev_p1) {
-  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -12464,7 +12465,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2199(self_p0, ev_p1) {
     var Temporary2;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2202(self_p0, ev_p1) {
-  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -12473,7 +12474,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2202(self_p0, ev_p1) {
     var Temporary3;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2205(self_p0, ev_p1) {
-  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -12482,7 +12483,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2205(self_p0, ev_p1) {
     var Temporary4;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2208(self_p0, ev_p1) {
-  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -12491,7 +12492,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2208(self_p0, ev_p1) {
     var Temporary5;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2211(self_p0, ev_p1) {
-  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -12500,7 +12501,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2211(self_p0, ev_p1) {
     var Temporary6;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2214(self_p0, ev_p1) {
-  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -12509,7 +12510,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2214(self_p0, ev_p1) {
     var Temporary7;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2217(self_p0, ev_p1) {
-  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -12518,7 +12519,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2217(self_p0, ev_p1) {
     var Temporary8;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u2220(self_p0, ev_p1) {
-  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initCutRule.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -12527,7 +12528,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u2220(self_p0, ev_p1) {
 
   var result_2936014994 = null;
 
-  var F = {procname: "layout.initCutRule", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.initCutRule", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 65;
@@ -12580,7 +12581,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u3881(scopeSelf_p0, inComponent_p1, 
 
   var result_2936016688 = null;
 
-  var F = {procname: "pageCut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "pageCut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 95;
     F.filename = "layout.nim";
@@ -12616,7 +12617,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u3944(scopeSelf_p0, inComponent_p1, 
 
   var result_2936016751 = null;
 
-  var F = {procname: "pageCut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "pageCut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 96;
     F.filename = "layout.nim";
@@ -12660,7 +12661,7 @@ function pageCut__pkgZhpx7680Zlayout_u3770() {
 
   var result_2936016571 = null;
 
-  var F = {procname: "layout.pageCut", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "layout.pageCut", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 296;
     F.filename = "macro_utils.nim";
@@ -12774,7 +12775,7 @@ function renderTag__pkgZhpx7680Zlayout_u16033(self_p0) {
 
   var result_2936028835 = null;
 
-  var F = {procname: "layout.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 162;
     F.filename = "layout.nim";
@@ -12846,7 +12847,7 @@ function renderTag__pkgZhpx7680Zlayout_u16033(self_p0) {
 function style__pkgZhpx7680Zlayout_u16030(self_p0) {
   var result_2936028832 = [];
 
-  var F = {procname: "layout.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 153;
     F.filename = "layout.nim";
@@ -12860,7 +12861,7 @@ function style__pkgZhpx7680Zlayout_u16030(self_p0) {
 function render__pkgZhpx7680Zlayout_u16349(self_p0) {
   var result_2936029151 = null;
 
-  var F = {procname: "layout.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 153;
     F.filename = "layout.nim";
@@ -12895,7 +12896,7 @@ function render__pkgZhpx7680Zlayout_u16349(self_p0) {
 }
 
 function script__pkgZhpx7680Zlayout_u2836(self_p0) {
-  var F = {procname: "layout.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -12905,7 +12906,7 @@ function script__pkgZhpx7680Zlayout_u2836(self_p0) {
 function renderTag__pkgZhpx7680Zlayout_u2841(self_p0) {
   var result_2936015643 = null;
 
-  var F = {procname: "layout.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 75;
     F.filename = "layout.nim";
@@ -12935,7 +12936,7 @@ function renderTag__pkgZhpx7680Zlayout_u2841(self_p0) {
 function style__pkgZhpx7680Zlayout_u2838(self_p0) {
   var result_2936015640 = [];
 
-  var F = {procname: "layout.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 70;
     F.filename = "layout.nim";
@@ -12949,7 +12950,7 @@ function style__pkgZhpx7680Zlayout_u2838(self_p0) {
 function render__pkgZhpx7680Zlayout_u2968(self_p0) {
   var result_2936015770 = null;
 
-  var F = {procname: "layout.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 70;
     F.filename = "layout.nim";
@@ -12984,7 +12985,7 @@ function render__pkgZhpx7680Zlayout_u2968(self_p0) {
 }
 
 function script__pkgZhpx7680Zlayout_u4239(self_p0) {
-  var F = {procname: "layout.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -12995,7 +12996,7 @@ function initPages__pkgZhpx7680Zlayout_u145(uniqCompId_p0, n_p1, css_p2, class_p
     var Temporary1;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u165(self_p0, ev_p1) {
-  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -13004,7 +13005,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u165(self_p0, ev_p1) {
     var Temporary2;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u168(self_p0, ev_p1) {
-  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -13013,7 +13014,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u168(self_p0, ev_p1) {
     var Temporary3;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u171(self_p0, ev_p1) {
-  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -13022,7 +13023,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u171(self_p0, ev_p1) {
     var Temporary4;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u174(self_p0, ev_p1) {
-  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -13031,7 +13032,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u174(self_p0, ev_p1) {
     var Temporary5;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u177(self_p0, ev_p1) {
-  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -13040,7 +13041,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u177(self_p0, ev_p1) {
     var Temporary6;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u180(self_p0, ev_p1) {
-  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -13049,7 +13050,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u180(self_p0, ev_p1) {
     var Temporary7;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u183(self_p0, ev_p1) {
-  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -13058,7 +13059,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u183(self_p0, ev_p1) {
     var Temporary8;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u186(self_p0, ev_p1) {
-  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -13067,7 +13068,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u186(self_p0, ev_p1) {
 
   var result_2936012951 = null;
 
-  var F = {procname: "layout.initPages", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.initPages", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 33;
@@ -13129,7 +13130,7 @@ function initProbRow__pkgZhpx7680Zlayout_u1760(uniqCompId_p0, stretch_p1, css_p2
     var Temporary1;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u1776(self_p0, ev_p1) {
-  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -13138,7 +13139,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u1776(self_p0, ev_p1) {
     var Temporary2;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u1779(self_p0, ev_p1) {
-  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -13147,7 +13148,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u1779(self_p0, ev_p1) {
     var Temporary3;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u1782(self_p0, ev_p1) {
-  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -13156,7 +13157,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u1782(self_p0, ev_p1) {
     var Temporary4;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u1785(self_p0, ev_p1) {
-  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -13165,7 +13166,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u1785(self_p0, ev_p1) {
     var Temporary5;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u1788(self_p0, ev_p1) {
-  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -13174,7 +13175,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u1788(self_p0, ev_p1) {
     var Temporary6;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u1791(self_p0, ev_p1) {
-  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -13183,7 +13184,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u1791(self_p0, ev_p1) {
     var Temporary7;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u1794(self_p0, ev_p1) {
-  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -13192,7 +13193,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u1794(self_p0, ev_p1) {
     var Temporary8;
 
 function HEX3Aanonymous__pkgZhpx7680Zlayout_u1797(self_p0, ev_p1) {
-  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "initProbRow.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -13201,7 +13202,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u1797(self_p0, ev_p1) {
 
   var result_2936014565 = null;
 
-  var F = {procname: "layout.initProbRow", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.initProbRow", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 58;
@@ -13264,7 +13265,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u4365(scopeSelf_p0, inComponent_p1, 
 
   var result_2936017172 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 113;
     F.filename = "layout.nim";
@@ -13300,7 +13301,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u4577(scopeSelf_p0, inComponent_p1, 
 
   var result_2936017384 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 116;
     F.filename = "layout.nim";
@@ -13336,7 +13337,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u4723(scopeSelf_p0, inComponent_p1, 
 
   var result_2936017530 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 113;
     F.filename = "layout.nim";
@@ -13372,7 +13373,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u4930(scopeSelf_p0, inComponent_p1, 
 
   var result_2936017737 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 116;
     F.filename = "layout.nim";
@@ -13408,7 +13409,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u5076(scopeSelf_p0, inComponent_p1, 
 
   var result_2936017883 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 113;
     F.filename = "layout.nim";
@@ -13444,7 +13445,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u5283(scopeSelf_p0, inComponent_p1, 
 
   var result_2936018090 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 116;
     F.filename = "layout.nim";
@@ -13480,7 +13481,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u5429(scopeSelf_p0, inComponent_p1, 
 
   var result_2936018236 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 113;
     F.filename = "layout.nim";
@@ -13516,7 +13517,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u5636(scopeSelf_p0, inComponent_p1, 
 
   var result_2936018443 = null;
 
-  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 116;
     F.filename = "layout.nim";
@@ -13576,7 +13577,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u4309(scopeSelf_p0, inComponent_p1, 
 
   var result_2936017116 = null;
 
-  var F = {procname: "renderTag.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "renderTag.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 296;
     F.filename = "macro_utils.nim";
@@ -14024,7 +14025,7 @@ function renderTag__pkgZhpx7680Zlayout_u4244(self_p0) {
 
   var result_2936017046 = null;
 
-  var F = {procname: "layout.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 111;
     F.filename = "layout.nim";
@@ -14079,7 +14080,7 @@ function renderTag__pkgZhpx7680Zlayout_u4244(self_p0) {
 function style__pkgZhpx7680Zlayout_u4241(self_p0) {
   var result_2936017043 = [];
 
-  var F = {procname: "layout.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 106;
     F.filename = "layout.nim";
@@ -14093,7 +14094,7 @@ function style__pkgZhpx7680Zlayout_u4241(self_p0) {
 function render__pkgZhpx7680Zlayout_u5748(self_p0) {
   var result_2936018550 = null;
 
-  var F = {procname: "layout.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 106;
     F.filename = "layout.nim";
@@ -14128,7 +14129,7 @@ function render__pkgZhpx7680Zlayout_u5748(self_p0) {
 }
 
 function script__pkgZhpx7680Zlayout_u1538(self_p0) {
-  var F = {procname: "layout.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -14138,7 +14139,7 @@ function script__pkgZhpx7680Zlayout_u1538(self_p0) {
 function HEX24__pkgZhpx7680Znumbering_u4109(self_p0) {
   var result_2952794128 = [];
 
-  var F = {procname: "$.$", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/state.nim", line: 0};
+  var F = {procname: "$.$", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/state.nim", line: 0};
   framePtr = F;
     F.line = 79;
     F.filename = "state.nim";
@@ -14163,7 +14164,7 @@ function formatValue__pkgZhpx7680Zlayout_u1086(result_p0, result_p0_Idx, value_p
 function renderTag__pkgZhpx7680Zlayout_u1543(self_p0) {
   var result_2936014345 = null;
 
-  var F = {procname: "layout.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 53;
     F.filename = "layout.nim";
@@ -14196,7 +14197,7 @@ function renderTag__pkgZhpx7680Zlayout_u1543(self_p0) {
 function style__pkgZhpx7680Zlayout_u1540(self_p0) {
   var result_2936014342 = [];
 
-  var F = {procname: "layout.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 46;
     F.filename = "layout.nim";
@@ -14210,7 +14211,7 @@ function style__pkgZhpx7680Zlayout_u1540(self_p0) {
 function render__pkgZhpx7680Zlayout_u1727(self_p0) {
   var result_2936014529 = null;
 
-  var F = {procname: "layout.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 46;
     F.filename = "layout.nim";
@@ -14245,7 +14246,7 @@ function render__pkgZhpx7680Zlayout_u1727(self_p0) {
 }
 
 function script__pkgZhpx7680Zlayout_u968(self_p0) {
-  var F = {procname: "layout.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -14255,7 +14256,7 @@ function script__pkgZhpx7680Zlayout_u968(self_p0) {
 function renderTag__pkgZhpx7680Zlayout_u973(self_p0) {
   var result_2936013775 = null;
 
-  var F = {procname: "layout.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 44;
     F.filename = "layout.nim";
@@ -14288,7 +14289,7 @@ function renderTag__pkgZhpx7680Zlayout_u973(self_p0) {
 function style__pkgZhpx7680Zlayout_u970(self_p0) {
   var result_2936013772 = [];
 
-  var F = {procname: "layout.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 38;
     F.filename = "layout.nim";
@@ -14302,7 +14303,7 @@ function style__pkgZhpx7680Zlayout_u970(self_p0) {
 function render__pkgZhpx7680Zlayout_u1267(self_p0) {
   var result_2936014069 = null;
 
-  var F = {procname: "layout.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 38;
     F.filename = "layout.nim";
@@ -14337,7 +14338,7 @@ function render__pkgZhpx7680Zlayout_u1267(self_p0) {
 }
 
 function script__pkgZhpx7680Zlayout_u14638(self_p0) {
-  var F = {procname: "layout.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -14349,7 +14350,7 @@ function HEX3Aanonymous__pkgZhpx7680Zlayout_u14692(scopeSelf_p0, inComponent_p1,
 
   var result_2936027499 = null;
 
-  var F = {procname: "renderTag.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "renderTag.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 146;
     F.filename = "layout.nim";
@@ -14630,7 +14631,7 @@ function renderTag__pkgZhpx7680Zlayout_u14643(self_p0) {
 
   var result_2936027445 = null;
 
-  var F = {procname: "layout.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 639;
     F.filename = "renderer.nim";
@@ -14683,7 +14684,7 @@ function renderTag__pkgZhpx7680Zlayout_u14643(self_p0) {
 function style__pkgZhpx7680Zlayout_u14640(self_p0) {
   var result_2936027442 = [];
 
-  var F = {procname: "layout.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 139;
     F.filename = "layout.nim";
@@ -14697,7 +14698,7 @@ function style__pkgZhpx7680Zlayout_u14640(self_p0) {
 function render__pkgZhpx7680Zlayout_u15774(self_p0) {
   var result_2936028576 = null;
 
-  var F = {procname: "layout.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 139;
     F.filename = "layout.nim";
@@ -14732,7 +14733,7 @@ function render__pkgZhpx7680Zlayout_u15774(self_p0) {
 }
 
 function script__pkgZhpx7680Ze77athjax_u275(self_p0) {
-  var F = {procname: "eMathjax.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "eMathjax.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -14742,7 +14743,7 @@ function script__pkgZhpx7680Ze77athjax_u275(self_p0) {
 function renderTag__pkgZhpx7680Ze77athjax_u280(self_p0) {
   var result_3003121946 = null;
 
-  var F = {procname: "eMathjax.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "eMathjax.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 105;
     F.filename = "eMathjax.nim";
@@ -14756,7 +14757,7 @@ function renderTag__pkgZhpx7680Ze77athjax_u280(self_p0) {
 function style__pkgZhpx7680Ze77athjax_u277(self_p0) {
   var result_3003121943 = [];
 
-  var F = {procname: "eMathjax.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "eMathjax.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 105;
     F.filename = "eMathjax.nim";
@@ -14770,7 +14771,7 @@ function style__pkgZhpx7680Ze77athjax_u277(self_p0) {
 function render__pkgZhpx7680Ze77athjax_u283(self_p0) {
   var result_3003121949 = null;
 
-  var F = {procname: "eMathjax.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "eMathjax.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 105;
     F.filename = "eMathjax.nim";
@@ -14805,7 +14806,7 @@ function render__pkgZhpx7680Ze77athjax_u283(self_p0) {
 }
 
 function script__pkgZhpx7680Znumbering_u2393(self_p0) {
-  var F = {procname: "numbering.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -14815,7 +14816,7 @@ function script__pkgZhpx7680Znumbering_u2393(self_p0) {
 function renderTag__pkgZhpx7680Znumbering_u2398(self_p0) {
   var result_2952792416 = null;
 
-  var F = {procname: "numbering.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 123;
     F.filename = "numbering.nim";
@@ -14837,7 +14838,7 @@ function renderTag__pkgZhpx7680Znumbering_u2398(self_p0) {
 function style__pkgZhpx7680Znumbering_u2395(self_p0) {
   var result_2952792413 = [];
 
-  var F = {procname: "numbering.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 117;
     F.filename = "numbering.nim";
@@ -14851,7 +14852,7 @@ function style__pkgZhpx7680Znumbering_u2395(self_p0) {
 function render__pkgZhpx7680Znumbering_u2479(self_p0) {
   var result_2952792497 = null;
 
-  var F = {procname: "numbering.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 117;
     F.filename = "numbering.nim";
@@ -14886,7 +14887,7 @@ function render__pkgZhpx7680Znumbering_u2479(self_p0) {
 }
 
 function script__pkgZhpx7680Znumbering_u1874(self_p0) {
-  var F = {procname: "numbering.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -14896,7 +14897,7 @@ function script__pkgZhpx7680Znumbering_u1874(self_p0) {
 function renderTag__pkgZhpx7680Znumbering_u1879(self_p0) {
   var result_2952791897 = null;
 
-  var F = {procname: "numbering.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 115;
     F.filename = "numbering.nim";
@@ -14920,7 +14921,7 @@ function renderTag__pkgZhpx7680Znumbering_u1879(self_p0) {
 function style__pkgZhpx7680Znumbering_u1876(self_p0) {
   var result_2952791894 = [];
 
-  var F = {procname: "numbering.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 108;
     F.filename = "numbering.nim";
@@ -14934,7 +14935,7 @@ function style__pkgZhpx7680Znumbering_u1876(self_p0) {
 function render__pkgZhpx7680Znumbering_u2109(self_p0) {
   var result_2952792127 = null;
 
-  var F = {procname: "numbering.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 108;
     F.filename = "numbering.nim";
@@ -14969,7 +14970,7 @@ function render__pkgZhpx7680Znumbering_u2109(self_p0) {
 }
 
 function script__pkgZhpx7680Zlayout_u381(self_p0) {
-  var F = {procname: "layout.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -14992,7 +14993,7 @@ function printUnit__pkgZhpx7680Zlayout_u133() {
 
   var result_2936012934 = [];
 
-  var F = {procname: "layout.printUnit", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-8b2a45220ceafcc55447e69baa271a7f5a60e6b6/hpxLP/layout.nim", line: 0};
+  var F = {procname: "layout.printUnit", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-c5798a58962060b7a15e442f5b7e8e25db7554ca/hpxLP/layout.nim", line: 0};
   framePtr = F;
     F.line = 23;
     F.filename = "layout.nim";
@@ -15013,7 +15014,7 @@ function printUnit__pkgZhpx7680Zlayout_u133() {
 function renderTag__pkgZhpx7680Zlayout_u386(self_p0) {
   var result_2936013188 = null;
 
-  var F = {procname: "layout.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 36;
     F.filename = "layout.nim";
@@ -15066,7 +15067,7 @@ function renderTag__pkgZhpx7680Zlayout_u386(self_p0) {
 function style__pkgZhpx7680Zlayout_u383(self_p0) {
   var result_2936013185 = [];
 
-  var F = {procname: "layout.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 29;
     F.filename = "layout.nim";
@@ -15080,7 +15081,7 @@ function style__pkgZhpx7680Zlayout_u383(self_p0) {
 function render__pkgZhpx7680Zlayout_u689(self_p0) {
   var result_2936013491 = null;
 
-  var F = {procname: "layout.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 29;
     F.filename = "layout.nim";
@@ -15115,7 +15116,7 @@ function render__pkgZhpx7680Zlayout_u689(self_p0) {
 }
 
 function script__pkgZhpx7680Zlayout_u1991(self_p0) {
-  var F = {procname: "layout.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -15125,7 +15126,7 @@ function script__pkgZhpx7680Zlayout_u1991(self_p0) {
 function renderTag__pkgZhpx7680Zlayout_u1996(self_p0) {
   var result_2936014798 = null;
 
-  var F = {procname: "layout.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 61;
     F.filename = "layout.nim";
@@ -15154,7 +15155,7 @@ function renderTag__pkgZhpx7680Zlayout_u1996(self_p0) {
 function style__pkgZhpx7680Zlayout_u1993(self_p0) {
   var result_2936014795 = [];
 
-  var F = {procname: "layout.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 55;
     F.filename = "layout.nim";
@@ -15168,7 +15169,7 @@ function style__pkgZhpx7680Zlayout_u1993(self_p0) {
 function render__pkgZhpx7680Zlayout_u2162(self_p0) {
   var result_2936014964 = null;
 
-  var F = {procname: "layout.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 55;
     F.filename = "layout.nim";
@@ -15203,7 +15204,7 @@ function render__pkgZhpx7680Zlayout_u2162(self_p0) {
 }
 
 function script__pkgZhpx7680Znumbering_u4298(self_p0) {
-  var F = {procname: "numbering.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -15213,7 +15214,7 @@ function script__pkgZhpx7680Znumbering_u4298(self_p0) {
 function renderTag__pkgZhpx7680Znumbering_u4303(self_p0) {
   var result_2952794321 = null;
 
-  var F = {procname: "numbering.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 167;
     F.filename = "numbering.nim";
@@ -15227,7 +15228,7 @@ function renderTag__pkgZhpx7680Znumbering_u4303(self_p0) {
 function style__pkgZhpx7680Znumbering_u4300(self_p0) {
   var result_2952794318 = [];
 
-  var F = {procname: "numbering.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 156;
     F.filename = "numbering.nim";
@@ -15241,7 +15242,7 @@ function style__pkgZhpx7680Znumbering_u4300(self_p0) {
 function render__pkgZhpx7680Znumbering_u4589(self_p0) {
   var result_2952794607 = null;
 
-  var F = {procname: "numbering.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 156;
     F.filename = "numbering.nim";
@@ -15276,7 +15277,7 @@ function render__pkgZhpx7680Znumbering_u4589(self_p0) {
 }
 
 function script__pkgZhpx7680Znumbering_u3730(self_p0) {
-  var F = {procname: "numbering.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -15286,7 +15287,7 @@ function script__pkgZhpx7680Znumbering_u3730(self_p0) {
 function renderTag__pkgZhpx7680Znumbering_u3735(self_p0) {
   var result_2952793753 = null;
 
-  var F = {procname: "numbering.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 154;
     F.filename = "numbering.nim";
@@ -15300,7 +15301,7 @@ function renderTag__pkgZhpx7680Znumbering_u3735(self_p0) {
 function style__pkgZhpx7680Znumbering_u3732(self_p0) {
   var result_2952793750 = [];
 
-  var F = {procname: "numbering.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 145;
     F.filename = "numbering.nim";
@@ -15314,7 +15315,7 @@ function style__pkgZhpx7680Znumbering_u3732(self_p0) {
 function render__pkgZhpx7680Znumbering_u3965(self_p0) {
   var result_2952793983 = null;
 
-  var F = {procname: "numbering.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 145;
     F.filename = "numbering.nim";
@@ -15349,7 +15350,7 @@ function render__pkgZhpx7680Znumbering_u3965(self_p0) {
 }
 
 function script__pkgZhpx7680Znumbering_u3211(self_p0) {
-  var F = {procname: "numbering.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -15359,7 +15360,7 @@ function script__pkgZhpx7680Znumbering_u3211(self_p0) {
 function renderTag__pkgZhpx7680Znumbering_u3216(self_p0) {
   var result_2952793234 = null;
 
-  var F = {procname: "numbering.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 143;
     F.filename = "numbering.nim";
@@ -15373,7 +15374,7 @@ function renderTag__pkgZhpx7680Znumbering_u3216(self_p0) {
 function style__pkgZhpx7680Znumbering_u3213(self_p0) {
   var result_2952793231 = [];
 
-  var F = {procname: "numbering.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 134;
     F.filename = "numbering.nim";
@@ -15387,7 +15388,7 @@ function style__pkgZhpx7680Znumbering_u3213(self_p0) {
 function render__pkgZhpx7680Znumbering_u3446(self_p0) {
   var result_2952793464 = null;
 
-  var F = {procname: "numbering.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 134;
     F.filename = "numbering.nim";
@@ -15422,7 +15423,7 @@ function render__pkgZhpx7680Znumbering_u3446(self_p0) {
 }
 
 function script__pkgZhpx7680Znumbering_u2787(self_p0) {
-  var F = {procname: "numbering.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -15432,7 +15433,7 @@ function script__pkgZhpx7680Znumbering_u2787(self_p0) {
 function renderTag__pkgZhpx7680Znumbering_u2792(self_p0) {
   var result_2952792810 = null;
 
-  var F = {procname: "numbering.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 131;
     F.filename = "numbering.nim";
@@ -15454,7 +15455,7 @@ function renderTag__pkgZhpx7680Znumbering_u2792(self_p0) {
 function style__pkgZhpx7680Znumbering_u2789(self_p0) {
   var result_2952792807 = [];
 
-  var F = {procname: "numbering.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 125;
     F.filename = "numbering.nim";
@@ -15468,7 +15469,7 @@ function style__pkgZhpx7680Znumbering_u2789(self_p0) {
 function render__pkgZhpx7680Znumbering_u2927(self_p0) {
   var result_2952792945 = null;
 
-  var F = {procname: "numbering.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 125;
     F.filename = "numbering.nim";
@@ -15505,7 +15506,7 @@ function render__pkgZhpx7680Znumbering_u2927(self_p0) {
 function render__pkgZhappyxZspaZrenderer_u5912(self_p0) {
   var result_1728059162 = null;
 
-  var F = {procname: "renderer.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/renderer.nim", line: 0};
+  var F = {procname: "renderer.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/renderer.nim", line: 0};
   framePtr = F;
     F.line = 407;
     F.filename = "renderer.nim";
@@ -15519,7 +15520,7 @@ function render__pkgZhappyxZspaZrenderer_u5912(self_p0) {
 function render__pkgZhappyxZspaZrenderer_u5915(self_p0) {
   var result_1728059164 = null;
 
-  var F = {procname: "renderer.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/renderer.nim", line: 0};
+  var F = {procname: "renderer.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/renderer.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 542;
@@ -15737,7 +15738,7 @@ function newSeq__pkgZhpx7680Znumbering_u1767(len_p0) {
 function index__pkgZhappyxZspaZcomponents_u74(el_p0) {
   var result_2701131852 = 0;
 
-  var F = {procname: "components.index", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "components.index", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 71;
@@ -15786,7 +15787,7 @@ function index__pkgZhappyxZspaZcomponents_u74(el_p0) {
 }
 
 function reRender__pkgZhpx7680Zlayout_u3436(self_p0) {
-  var F = {procname: "layout.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 80;
     F.filename = "components.nim";
@@ -15912,7 +15913,7 @@ function reRender__pkgZhpx7680Zlayout_u3436(self_p0) {
 }
 
 function reRender__pkgZhpx7680Zlayout_u3081(self_p0) {
-  var F = {procname: "layout.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 80;
     F.filename = "components.nim";
@@ -16038,7 +16039,7 @@ function reRender__pkgZhpx7680Zlayout_u3081(self_p0) {
 }
 
 function reRender__pkgZhpx7680Zlayout_u2265(self_p0) {
-  var F = {procname: "layout.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 80;
     F.filename = "components.nim";
@@ -16164,7 +16165,7 @@ function reRender__pkgZhpx7680Zlayout_u2265(self_p0) {
 }
 
 function reRender__pkgZhpx7680Znumbering_u4732(self_p0) {
-  var F = {procname: "numbering.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 80;
     F.filename = "components.nim";
@@ -16290,7 +16291,7 @@ function reRender__pkgZhpx7680Znumbering_u4732(self_p0) {
 }
 
 function reRender__pkgZhpx7680Zlayout_u15887(self_p0) {
-  var F = {procname: "layout.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 80;
     F.filename = "components.nim";
@@ -16416,7 +16417,7 @@ function reRender__pkgZhpx7680Zlayout_u15887(self_p0) {
 }
 
 function reRender__pkgZhpx7680Zlayout_u2695(self_p0) {
-  var F = {procname: "layout.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 80;
     F.filename = "components.nim";
@@ -16542,7 +16543,7 @@ function reRender__pkgZhpx7680Zlayout_u2695(self_p0) {
 }
 
 function reRender__pkgZhpx7680Zlayout_u4098(self_p0) {
-  var F = {procname: "layout.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 80;
     F.filename = "components.nim";
@@ -16668,7 +16669,7 @@ function reRender__pkgZhpx7680Zlayout_u4098(self_p0) {
 }
 
 function reRender__pkgZhpx7680Zlayout_u1397(self_p0) {
-  var F = {procname: "layout.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 80;
     F.filename = "components.nim";
@@ -16794,7 +16795,7 @@ function reRender__pkgZhpx7680Zlayout_u1397(self_p0) {
 }
 
 function reRender__pkgZhpx7680Zlayout_u827(self_p0) {
-  var F = {procname: "layout.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 80;
     F.filename = "components.nim";
@@ -16920,7 +16921,7 @@ function reRender__pkgZhpx7680Zlayout_u827(self_p0) {
 }
 
 function reRender__pkgZhpx7680Zlayout_u14497(self_p0) {
-  var F = {procname: "layout.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 80;
     F.filename = "components.nim";
@@ -17046,7 +17047,7 @@ function reRender__pkgZhpx7680Zlayout_u14497(self_p0) {
 }
 
 function reRender__pkgZhpx7680Ze77athjax_u134(self_p0) {
-  var F = {procname: "eMathjax.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "eMathjax.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 80;
     F.filename = "components.nim";
@@ -17172,7 +17173,7 @@ function reRender__pkgZhpx7680Ze77athjax_u134(self_p0) {
 }
 
 function reRender__pkgZhpx7680Znumbering_u2252(self_p0) {
-  var F = {procname: "numbering.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 80;
     F.filename = "components.nim";
@@ -17298,7 +17299,7 @@ function reRender__pkgZhpx7680Znumbering_u2252(self_p0) {
 }
 
 function reRender__pkgZhpx7680Znumbering_u1689(self_p0) {
-  var F = {procname: "numbering.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 80;
     F.filename = "components.nim";
@@ -17424,7 +17425,7 @@ function reRender__pkgZhpx7680Znumbering_u1689(self_p0) {
 }
 
 function reRender__pkgZhpx7680Zlayout_u240(self_p0) {
-  var F = {procname: "layout.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 80;
     F.filename = "components.nim";
@@ -17550,7 +17551,7 @@ function reRender__pkgZhpx7680Zlayout_u240(self_p0) {
 }
 
 function reRender__pkgZhpx7680Zlayout_u1850(self_p0) {
-  var F = {procname: "layout.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 80;
     F.filename = "components.nim";
@@ -17676,7 +17677,7 @@ function reRender__pkgZhpx7680Zlayout_u1850(self_p0) {
 }
 
 function reRender__pkgZhpx7680Znumbering_u4157(self_p0) {
-  var F = {procname: "numbering.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 80;
     F.filename = "components.nim";
@@ -17802,7 +17803,7 @@ function reRender__pkgZhpx7680Znumbering_u4157(self_p0) {
 }
 
 function reRender__pkgZhpx7680Znumbering_u3589(self_p0) {
-  var F = {procname: "numbering.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 80;
     F.filename = "components.nim";
@@ -17928,7 +17929,7 @@ function reRender__pkgZhpx7680Znumbering_u3589(self_p0) {
 }
 
 function reRender__pkgZhpx7680Znumbering_u3070(self_p0) {
-  var F = {procname: "numbering.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 80;
     F.filename = "components.nim";
@@ -18054,7 +18055,7 @@ function reRender__pkgZhpx7680Znumbering_u3070(self_p0) {
 }
 
 function reRender__pkgZhpx7680Znumbering_u2646(self_p0) {
-  var F = {procname: "numbering.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 80;
     F.filename = "components.nim";
@@ -18180,7 +18181,7 @@ function reRender__pkgZhpx7680Znumbering_u2646(self_p0) {
 }
 
 function reRender__pkgZhappyxZspaZrenderer_u5917(self_p0) {
-  var F = {procname: "renderer.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/renderer.nim", line: 0};
+  var F = {procname: "renderer.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/renderer.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -18188,7 +18189,7 @@ function reRender__pkgZhappyxZspaZrenderer_u5917(self_p0) {
 }
 
 function reRender__pkgZhappyxZspaZrenderer_u5919(self_p0) {
-  var F = {procname: "renderer.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-7c19cfd82f9e32526a4429f95c2c1acca2eb972d/happyx/spa/renderer.nim", line: 0};
+  var F = {procname: "renderer.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-4.7.4-841bb6b88b3f35b558b92cae8e954b52dcecbb8f/happyx/spa/renderer.nim", line: 0};
   framePtr = F;
     F.line = 542;
     F.filename = "jssys.nim";

@@ -7,6 +7,7 @@
         --ts-bg-midpoint: color-mix(in oklch, var(--ts-color-background) 50%, var(--ts-color-background-alt));
         --ts-color-muted: oklch(from var(--ts-bg-midpoint) 0.55 calc(c * 3.5) h);
         --ts-color-subtle: oklch(from var(--ts-bg-midpoint) 0.92 calc(c * 1.5) h);
+        --ts-color-border: oklch(from var(--ts-bg-midpoint) 0.80 calc(c * 2) h);
         --ts-color-link: oklch(from var(--ts-bg-midpoint) 0.53 0.15 calc(h + 120));
         --ts-color-standout: oklch(from var(--ts-bg-midpoint) 0.88 0.12 calc(h + 180));
         --ts-font-weight-regular: 500;
