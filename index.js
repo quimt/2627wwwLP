@@ -9511,7 +9511,7 @@ function isSlides__index_u556(path_p0) {
     F.line = 110;
     var fn_838861402 = nsuToLowerAsciiStr(getFilename__index_u274(path_p0));
     F.line = 111;
-    result_838861358 = (contains__pureZstrutils_u1879(fn_838861402, [115,108,105,100,101]) || contains__pureZstrutils_u1879(fn_838861402, [112,117,98,108,105,99]));
+    result_838861358 = (contains__pureZstrutils_u1879(fn_838861402, [115,108,105,100,101]) && contains__pureZstrutils_u1879(fn_838861402, [112,117,98,108,105,99]));
     break BeforeRet;
   };
   framePtr = F.prev;
